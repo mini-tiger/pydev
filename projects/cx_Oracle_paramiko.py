@@ -1,3 +1,39 @@
+# coding:utf-8
+
+import cx_Oracle
+from cx_Oracle import DatabaseError
+import paramiko, re
+from time import sleep
+
+
+class util_sql(object):
+	def __init__(self, ip, port, SID):
+		dsn = cx_Oracle.makedsn(ip, port, SID)
+
+		self.conn = cx_Oracle.connect('sys', 'oracle', dsn, mode=cx_Oracle.SYSDBA)
+
+		self.cursor = self.conn.cursor()
+
+	def close_session(self):
+		self.conn.close()
+
+	def exec_sql(self, sql):
+		try:
+			self.cursor.parse(sql)  # 验证sql
+		except DatabaseError as e:
+			return "sql : " + sql + "\n" + "verify error: " + str(e)
+
+		try:
+			result = self.cursor.execute(sql)
+
+			if result != None:
+				return result.fetchall()[0][0]
+			else:
+				return None
+		except  Exception as e:
+			return "sql : " + sql + "\n" + "exec error: " + str(e)
+
+
 class util_ssh(object):
 	# 通过IP, 用户名，密码，超时时间初始化一个远程Linux主机
 	def __init__(self, ip, username, password, timeout=30):
@@ -68,14 +104,14 @@ class util_ssh(object):
 
 
 if __name__ == "__main__":
-	# s=util_sql("10.70.61.97","1521","XE")
-	# print s.exec_sql("select database_role,open_mode,switchover_status,flashback_on from v$database")
+	s=util_sql("10.70.61.97","1521","XE")
+	print s.exec_sql("select database_role from v$database")
 
-	# print s.exec_sql("alter system switch logfile")
-	# s.close_session()
+	print s.exec_sql("alter system switch logfile")
+	s.close_session()
 
-	host = util_ssh('10.70.61.97', 'taojun', 'ws00310976')
-	connection=host.connect()
-	if connection:
-		host.send('ps aux|grep -v grep |grep sshd ','\[taojun@') #匹配 命令行
-		host.close()
+	# host = util_ssh('10.70.61.97', 'taojun', 'ws00310976')
+	# connection=host.connect()
+	# if connection:
+	# 	host.send('ps aux|grep -v grep |grep sshd ','\[taojun@')
+	# 	host.close()
