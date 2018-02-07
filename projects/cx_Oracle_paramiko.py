@@ -8,31 +8,47 @@ from time import sleep
 
 class util_sql(object):
 	def __init__(self, ip, port, SID):
-		dsn = cx_Oracle.makedsn(ip, port, SID)
+		# self.ip=ip
+		# self.port=port
+		# self.sid=SID
+		self.dsn = cx_Oracle.makedsn(ip, port, SID)
 
-		self.conn = cx_Oracle.connect('sys', 'oracle', dsn, mode=cx_Oracle.SYSDBA)
+	def main(self):
+		try:
+			self.conn = cx_Oracle.connect('sys', 'oracle', self.dsn, mode=cx_Oracle.SYSDBA)
 
-		self.cursor = self.conn.cursor()
+			self.cursor = self.conn.cursor()
+			return self._retrun_dict(code=1)
+		except DatabaseError as e:
+			return self._retrun_dict(code=0,message=str(e))
+
+	@staticmethod
+	def _retrun_dict(code,message='',results=''):
+		return {'code':code,'errmsg':message,'result':results}
+
 
 	def close_session(self):
 		self.conn.close()
 
+
 	def exec_sql(self, sql):
 		try:
 			self.cursor.parse(sql)  # 验证sql
+
 		except DatabaseError as e:
-			return "sql : " + sql + "\n" + "verify error: " + str(e)
+			return self._retrun_dict(code=0,message=str(e))
 
 		try:
 			result = self.cursor.execute(sql)
 
 			if result != None:
-				return result.fetchall()[0][0]
+				return self._retrun_dict(code=1,results=result.fetchall())
 			else:
-				return None
-		except  Exception as e:
-			return "sql : " + sql + "\n" + "exec error: " + str(e)
+				return self._retrun_dict(code=1,results=result.fetchall())##DDL
 
+		except  Exception as e:
+			# print "sql : " + sql + "\n" + "exec error: " + str(e)
+			return self._retrun_dict(code=0,message=str(e))
 
 class util_ssh(object):
 	# 通过IP, 用户名，密码，超时时间初始化一个远程Linux主机
@@ -105,9 +121,22 @@ class util_ssh(object):
 
 if __name__ == "__main__":
 	s=util_sql("10.70.61.97","1521","XE")
-	print s.exec_sql("select database_role from v$database")
+	r=s.main()
+	if r.get('code') == 0:
+		print r.get('errmsg')
+		exit(0)
+	else:
+		print r.get('result')
 
-	print s.exec_sql("alter system switch logfile")
+
+	r=s.exec_sql("select database_role from v$database")
+
+	if r.get('code') == 0:
+
+		print r.get('errmsg')
+	else:
+		print r.get('result')
+	# print s.exec_sql("select process, pid, status, client_process, client_pid from v$managed_standby")
 	s.close_session()
 
 	# host = util_ssh('10.70.61.97', 'taojun', 'ws00310976')
