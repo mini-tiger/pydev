@@ -125,8 +125,8 @@ if __name__ == "__main__":
 	if r.get('code') == 0:
 		print r.get('errmsg')
 		exit(0)
-	else:
-		print r.get('result')
+	# else:
+	# 	print r.get('result')
 
 
 	r=s.exec_sql("select database_role from v$database")

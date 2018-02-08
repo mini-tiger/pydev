@@ -1,6 +1,14 @@
-from gevent import monkey; monkey.patch_all()
+# coding:utf-8
+import sys
+
+sys.path=sorted(sys.path,reverse=False)  #把当前文件夹路径，放到最后
+print sys.path
+
+from gevent import monkey
+monkey.patch_all()
 import gevent
 import urllib2
+
 
 def f(url):
     print('GET: %s' % url)
