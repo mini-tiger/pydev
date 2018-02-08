@@ -120,7 +120,7 @@ class util_ssh(object):
 
 
 if __name__ == "__main__":
-	s=util_sql("10.70.61.97","1521","XE")
+	s=util_sql("10.70.61.97","1521","X")
 	r=s.main()
 	if r.get('code') == 0:
 		print r.get('errmsg')
