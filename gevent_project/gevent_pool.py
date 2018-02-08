@@ -1,9 +1,9 @@
-# -*- coding: utf-8 -*-
-'''
-Created on 2016/6/30
+# coding:utf-8
+import sys
 
-@author: wwhhff11
-'''
+sys.path=sorted(sys.path,reverse=False)  #把当前文件夹路径，放到最后
+# print sys.path
+
 
 from gevent import monkey
 import gevent
@@ -18,23 +18,33 @@ STOP="stop"
 
 monkey.patch_all()
 
-def html_reader():
+def html_reader(url):
+
+    print 'GET: %s' % url
+    respone = urllib2.urlopen(url)
+    data = respone.read()
+    print '%d bytes received from %s.' % (len(data), url)
+
+
+def wheel():
     while True:
         try:
+            print gevent.getcurrent()
             url=queue.get(0)
-            print 'GET: %s' % url
-            respone = urllib2.urlopen(url)
-            data = respone.read()
-            print '%d bytes received from %s.' % (len(data), url)
-        except Empty:
+            html_reader(url)
+        except Empty :    
+        # except Exception as e:
             break
 
+
+
 start=time()
-pool=ThreadPool(10)
-for i in range(100):
+pool=ThreadPool(5)
+for i in range(10):
     queue.put("http://www.qq.com")
-for i in xrange(10):
-    pool.spawn(html_reader)
+for i in xrange(5):
+    pool.spawn(wheel)
 pool.join()
 end=time()
+
 print end-start
