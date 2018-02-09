@@ -1,7 +1,20 @@
 # coding:utf-8
-
+from __future__ import print_function
 import cx_Oracle
 from cx_Oracle import DatabaseError
+
+
+from time import time
+from gevent import monkey
+import gevent
+from gevent.pool import Pool
+from gevent.threadpool import ThreadPool
+from gevent.queue import JoinableQueue, Empty
+
+queue = JoinableQueue()
+# STOP="stop"
+
+monkey.patch_all()
 
 class util_sql(object):
 	def __init__(self, ip, port, SID):
@@ -12,7 +25,7 @@ class util_sql(object):
 
 			self.cursor = self.conn.cursor()
 		except Exception as e:
-			print e
+			print (e)
 
 	def close_session(self):
 		self.conn.close()
@@ -22,9 +35,7 @@ class util_sql(object):
 			self.cursor.parse(sql)  # 验证sql
 
 		except DatabaseError as e:
-			# error, = e.args
-			# print("Oracle-Error-Code:", error.code)
-			# print("Oracle-Error-Message:", error.message)
+
 			return {'error':True,'detail':str(e)}
 
 		try:
@@ -39,18 +50,52 @@ class util_sql(object):
 			# print "sql : " + sql + "\n" + "exec error: " + str(e)
 			return {'error':True,'detail':str(e)}
 
-if __name__ == "__main__":
-	s=util_sql("10.70.61.97","1521","XE")
-	r=s.exec_sql("select database_role from v$database")
-	if not r.get('error',True):
-		print r
-	else:
-		print 'error: '+r['detail']
 
-	r=s.exec_sql("alter system switch logfile")
+
+def util(n):
+	s=util_sql("10.70.61.97","1521","XE")
+	r=s.exec_sql(n)
 	if not r.get('error',True):
-		print r
+		print (r,)
 	else:
-		print 'error: '+r['detail']
+		print ('error: '+r['detail'])
 
 	s.close_session()
+
+
+def wheel():
+    while True:
+        try:
+            print (gevent.getcurrent(),)
+            n=queue.get(0)
+            util(n)
+        except Empty :    
+        # except Exception as e:
+            break
+
+
+
+if __name__ == "__main__":
+
+
+	start=time()
+	pool=ThreadPool(5)
+	print (pool.pid)
+	sqls=["select database_role from v$database" for x in xrange(10)]
+
+	for i in sqls:
+	    queue.put(i)
+
+
+	for i in xrange(10):
+	    pool.spawn(wheel)
+
+
+	pool.join()
+	end=time()
+
+	print (end-start)
+
+
+
+
