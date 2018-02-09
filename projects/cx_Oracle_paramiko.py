@@ -8,9 +8,7 @@ from time import sleep
 
 class util_sql(object):
 	def __init__(self, ip, port, SID):
-		# self.ip=ip
-		# self.port=port
-		# self.sid=SID
+
 		self.dsn = cx_Oracle.makedsn(ip, port, SID)
 
 	def main(self):
