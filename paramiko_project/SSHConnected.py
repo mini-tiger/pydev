@@ -4,7 +4,14 @@ import copy, re, socket
 import paramiko
 from paramiko import SSHException, AuthenticationException, BadHostKeyException
 
-from resp_template import RUNCOMMAND_RESULT_TEMPLATE
+RUNCOMMAND_RESULT_TEMPLATE = {
+    "ret": 0,
+    "info": 'Default info',
+    "error": None,
+    "data": {
+        "cmd_return": None,
+    },
+}
 
 class SSHConnected(object):
     def __init__(self, host, port=22):
@@ -91,5 +98,5 @@ class SSHConnected(object):
 
 if __name__ == '__main__':
     s=SSHConnected('10.70.61.97')
-    print s.login_with_rsa('taojun', 'ws00310976')
+    s.login_with_rsa('taojun', 'ws00310976')
     print s.run_in_shell('ls')
