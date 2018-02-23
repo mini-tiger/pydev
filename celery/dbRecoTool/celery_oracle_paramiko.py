@@ -46,18 +46,6 @@ app.config_from_object(c)
 
 
 
-#app.conf.task_queues = (
-#    Queue('default', routing_key='default'),
-#    Queue("run_sql",  Exchange('run_sql', type='direct'),routing_key='queue_sql'), ## 模糊匹配 routing_key
-#    Queue('run_ssh', routing_key='queue_ssh'),
-#)
-
-
-#app.conf.task_routes = {
-#    'add':{'queue':'default', 'routing_key':'default'},
-#    'r_sql':{'queue':'run_sql','routing_key':'queue_sql'},
-#    'run_ssh':{'queue':'run_ssh', 'routing_key':'queue_ssh'},
-#}
 
 @app.task ##test
 def add(x,y):
