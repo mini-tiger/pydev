@@ -26,11 +26,13 @@ class util_sql(object):
 
 
 	def close_session(self):
+		self.cursor.close()
 		self.conn.close()
 
 
 	def exec_sql(self, sql):
 		try:
+			sql=str(sql)   #liunx  unicode下问题 
 			self.cursor.parse(sql)  # 验证sql
 
 		except DatabaseError as e:
@@ -118,7 +120,7 @@ class util_ssh(object):
 
 
 if __name__ == "__main__":
-	s=util_sql("10.70.61.97","1521","X")
+	s=util_sql("10.70.61.97","1521","XE")
 	r=s.main()
 	if r.get('code') == 0:
 		print r.get('errmsg')
