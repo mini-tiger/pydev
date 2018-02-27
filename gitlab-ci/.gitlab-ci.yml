@@ -1,0 +1,159 @@
+variables:
+  tmp_dir: /tmp
+
+  pip_jinja2: pip.conf.jinja2
+  pip_url: https://pypi.tuna.tsinghua.edu.cn/simple
+  reqfilename: $CI_PROJECT_DIR/requirements.txt
+
+  nginx_jinja2: nginx.conf.jinja2
+  nginx_conf: /etc/nginx/nginx.conf
+  nginx_http: nginx.http
+  nginx_global: nginx.global
+  nginx_server: nginx.server
+
+  config_ini_jinja2: config.ini.jinja2
+  config_ini: config.ini   
+
+  gunicorn_jinja2: gunicorn.py.jinja2
+  gunicorn_py: gunicorn.py
+  gunicorn_ext: gunicorn.ext
+  
+before_script:
+   - PATH=/usr/local/bin:$PATH && echo $PATH
+   - ip a|grep inet|grep -v inet6|awk '{print $2}'
+   - echo "project dir:" $CI_PROJECT_DIR
+   - if [ -w $CI_PROJECT_DIR/ops ];then pushd $CI_PROJECT_DIR/ops;else pushd $tmp_dir; fi
+   - if [ -s $CI_PROJECT_DIR/ops/conf.py ];then chmod 777 conf.py; fi
+
+stages:
+  - master
+  - online1
+  - online2
+
+#cache:
+#  key: ${CI_BUILD_REF_NAME}
+#  untracked: true
+  #paths:
+  #  - work_system/
+  #  - work_system/config.ini
+
+testing_clean:
+  stage: master
+  script:
+   - if [ `ps aux|grep -v grep |grep -c gun` -gt 0 ]; then `pkill -9 gunicorn`; fi
+   - if [ `ps aux|grep -v grep |grep -c nginx` -gt 0 ]; then `pkill -9 nginx`; fi
+  tags:
+   - testing
+  only:
+   - testing
+  when: always
+
+testing_pip_build:
+  stage: master
+  variables:
+    pipfile: /root/.pip/pip.conf
+  script:
+    - echo $pipfile
+    - echo $pip_url
+    - echo $reqfilename
+    - /bin/bash -c "sed -i 's#^index.*#index-url = '"$pip_url"'#g' $pipfile"
+    - if [ -s $reqfilename ]; then pip install -r $reqfilename;else exit 0; fi
+  tags:
+    - testing
+  only:
+    - testing
+  when: always
+
+testing_nginx_conf:
+  stage: master
+  script:
+    - for i in $nginx_http $nginx_server $nginx_global ;do if [ ! -e $i ];then echo $i "not exist";fi;done
+    - if [ -s $CI_PROJECT_DIR/ops/$nginx_jinja2 ]; then python conf.py nginx $nginx_jinja2 $nginx_conf $CI_PROJECT_DIR/static ;else echo -e "\e[1;33m use default nginx configfile \e[0m"; fi
+  tags:
+    - testing
+  only:
+    - testing
+  when: always
+
+testing_config_ini_conf:
+#  artifacts:
+#    untracked: true
+#    paths:
+    #  - binaries/
+#       - work_system/config.ini
+  stage: master
+
+  cache:
+    key: ${CI_BUILD_REF_NAME}
+    untracked: true
+
+  script:
+    - conf_ini_dir=`find $CI_PROJECT_DIR -maxdepth 2 -name "settings.py"|awk -F "settings.py" '{print $1}'`
+    - echo $conf_ini_dir
+    - echo $db_dev_name $db_dev_host $db_dev_port $db_dev_user $db_dev_passwd
+    - if [ -s $CI_PROJECT_DIR/ops/$config_ini_jinja2 ]; then pushd $CI_PROJECT_DIR/ops && python conf.py config.ini $config_ini_jinja2 $conf_ini_dir$config_ini $db_dev_name $db_dev_host $db_dev_port $db_dev_user $db_dev_passwd ;else echo -e "\e[1;33m  Not config.ini configfile \e[0m"; fi
+  tags:
+    - testing
+  only:
+    - testing
+  when: always
+
+
+
+testing_gunicorn_conf:
+  artifacts:
+    paths:
+    #  - binaries/
+      - work_system/config.ini
+  stage: master
+
+  cache:
+    key: ${CI_BUILD_REF_NAME}
+    untracked: true
+
+  script:
+    - default=0
+    - echo $gunicorn_jinja2 $gunicorn_py $CI_PROJECT_DIR
+    - if [ -s $CI_PROJECT_DIR/ops/$gunicorn_jinja2 ]; then python conf.py gunicorn $gunicorn_jinja2 $tmp_dir/$gunicorn_py $CI_PROJECT_DIR ;else default=1; fi
+
+    - if [ $default -eq 1 ]; then echo -e "\e[1;33m use default gunicorn configfile \e[0m"; fi
+    - if [ ! -s $tmp_dir/$gunicorn_py ];then echo -e "\e[1;33m can't build gunicorn.py,CI fail \e[0m" && exit 1;fi
+    - if [ $default -eq 1 ]; then /bin/bash -c "sed -i 's#^chdir.*#chdir=\"'"$CI_PROJECT_DIR"'\"#g' $tmp_dir/$gunicorn_py"; fi
+    - if [ $default -eq 1 ]; then /bin/bash -c "sed -i 's@^workers.*@workers='"`grep -c ph /proc/cpuinfo`"'@g' $tmp_dir/$gunicorn_py"; fi
+    - cat $tmp_dir/$gunicorn_py
+
+  tags:
+    - testing
+  only:
+    - testing
+  when: always
+
+
+testing_publish:
+  stage: master
+  script:
+    - /etc/init.d/nginx start
+    - p=`find $CI_PROJECT_DIR -name "wsgi.py"|awk -F "/" '{print $(NF -1)}'`
+    - echo $p
+    - gunicorn -c $tmp_dir/$gunicorn_py ${p}.wsgi:application
+    - pushd $CI_PROJECT_DIR
+#    - python manage.py makemigrations app01
+#    - python manage.py migrate
+    - echo -e "\e[1;33m http://10.70.61.97:32781/ \e[0m"
+  tags:
+    - testing
+  only:
+    - testing
+  when: always
+
+testing_url_test:
+  stage: master
+  script:
+    - if [ `ps aux|grep -v grep |grep -c gun` -eq 0 ]; then echo -e "\e[1;33m gunicorn fail \e[0m"; fi
+    - if [ `ps aux|grep -v grep |grep -c nginx` -eq 0 ]; then echo -e "\e[1;33m nginx fail \e[0m"; fi
+    - if [ `curl -I -m 10 -o /testing/null -s -w %{http_code} http://127.0.0.1/` == 000 ]; then echo -e "\e[1;33m http request fail \e[0m"; fi
+  tags:
+    - testing
+  only:
+    - testing
+  when: always
