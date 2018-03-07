@@ -5,7 +5,7 @@ import socket
 import paramiko
 class util_ssh(object):
 	# 通过IP, 用户名，密码，超时时间初始化一个远程Linux主机
-	def __init__(self, ip, username, password, timeout=15):
+	def __init__(self, ip, username, password, timeout=5):
 		self.ip = ip
 		self.username = username
 		self.password = password
@@ -74,9 +74,11 @@ class util_ssh(object):
 			# 	if re.search(re_str,self.chan.recv(65535)):  #第一次  命令提示符发送命令,# 通过recv函数获取回显, 清空上一次的回显
 			# 		self.chan.send(cmd + '\n')
 			# 		break
-			self.chan.recv(65535) ##清除之前的回显
-			self.chan.send('ss -ntlp && sleep 2 &&exit\n') ##exit 让recv_exit_status 抓到退出shell
-			
+			self.chan.recv(65535) ##清除之前的回显, 命令提示符
+			self.chan.send('ss -ntlp && sleep 2 &&exit') ##exit 让recv_exit_status 抓到退出shell
+			sleep(0.2)
+			self.chan.recv(65535)#清空  上面命令的 显示
+			self.chan.send('\n')
 			# print self.chan.recv(65536)
 			if self.chan.recv_exit_status() == 0:
 				print self.chan.recv(65536)
