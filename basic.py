@@ -259,30 +259,56 @@ for x, y in itertools.groupby(enumerate([1, 2]), key=lambda x: x > 1):
 
 class bbb(object):
 
-	def __init__(self, func):
-		self.a = func
+    def __init__(self, func):
+        self.a = func
 
-	def delay(self, *a, **k):
-		print self.a(*a, **k)
+    def delay(self, *a, **k):
+        print self.a(*a, **k)
 
-	# def __call__(self):
-	# 	print self.a
+    # def __call__(self):
+    # 	print self.a
 
 
 class aaa1(object):
 
-	def abc(self, m, n):
-		return m / n
+    def abc(self, m, n):
+        return m / n
 
 
 @bbb
 def aaa(m, n):
-	a = aaa1()
-	return a.abc(m, n)
-  
+    a = aaa1()
+    return a.abc(m, n)
+
 
 # print dir(aaa)
 # print aaa.__dict__
 
 
-aaa.delay(m=15,n=3)
+aaa.delay(m=15, n=3)
+
+
+config_dict = {
+    'dbip_master': '10.70.33.107',
+    'dbip_slave': '10.70.33.108',
+    'db_sid': 'cms1'
+}
+print config_dict
+
+class baseconfig(object):
+    CSRF_ENABLED = True
+    SECRET_KEY = '123456'
+    # mail
+    MAIL_SERVER = 'smtp.sina.com'
+    MAIL_PROT = 25
+    MAIL_USE_TLS = True
+    MAIL_USE_SSL = False
+    MAIL_USERNAME = "taojun319@sina.com"
+    MAIL_PASSWORD = "123.com"
+    # MAIL_DEBUG = True
+    MAIL_DEFAULT_SENDER = 'taojun319@sina.com'
+    #
+    # @staticmethod
+    # def init_app(app):
+    #   pass
+
