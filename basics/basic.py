@@ -259,31 +259,30 @@ for x, y in itertools.groupby(enumerate([1, 2]), key=lambda x: x > 1):
 
 class bbb(object):
 
-	def __init__(self, func):
-		self.a = func
+    def __init__(self, func):
+        self.a = func
 
-	def delay(self, *a, **k):
-		print self.a(*a, **k)
+    def delay(self, *a, **k):
+        print self.a(*a, **k)
 
-	# def __call__(self):
-	# 	print self.a
+    # def __call__(self):
+    # 	print self.a
 
 
 class aaa1(object):
 
-	def abc(self, m, n):
-		return m / n
+    def abc(self, m, n):
+        return m / n
 
 
 @bbb
 def aaa(m, n):
-	a = aaa1()
-	return a.abc(m, n)
-  
+    a = aaa1()
+    return a.abc(m, n)
+
 
 # print dir(aaa)
 # print aaa.__dict__
 
 
-aaa.delay(m=15,n=3)
-meta
+aaa.delay(m=15, n=3)

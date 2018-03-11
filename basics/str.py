@@ -17,6 +17,8 @@ print_ex('切片 :', (str1+str2)[-1:0:-1])
 print_ex('切片，reverse :', (str1+str2)[::-1])
 print_ex('切片,步长 :', (str1+str2)[2:-1:2])
 print ('str2[0] 获取索引位置的值，不可变类型 :',str2[0])
+print ('sqlit 以 str 为分隔符,第二个参数分隔次数','1112223333'.split('2',1))
+print ('sqlitlilnes 按照行\\r, \\r\\n, \\n分隔','111 \n 222 \r 3333'.splitlines())
 
 print ("{:#^58}".format('''格式化'''))
 print ('good,bye , capitalize()'.capitalize())
