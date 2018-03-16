@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 
-import urllib2,urllib
-import re,os
-from gevent import monkey; monkey.patch_all()
+import urllib2
+import urllib
+import re
+import os
+from gevent import monkey
+monkey.patch_all()
 import gevent
 
 
@@ -28,30 +31,25 @@ finally:
     print '请求页面数据完毕'
 
 
-
-
 # with open('1.html','w') as f:
 # 	f.write(data)
 urls = re.findall(r'data-imgurl="(.*?)"', data)  # python 3  data.decode()
 print urls
-index=0
+index = 0
 
 
-url_list=[]
+url_list = []
 for url in urls:
-	index+=1
-	if re.search('.jpg$', url):
-		picname=os.path.join(os.getcwd(),'pic'+str(index)+'.jpg')
-		
-        url_list.append((url,picname))
+    index += 1
+    if re.search('.jpg$', url):
+        picname = os.path.join(os.getcwd(), 'pic' + str(index) + '.jpg')
+
+    url_list.append((url, picname))
 
 
-	
-
-
-def func(url,picname):
-    try:        
-        urllib.urlretrieve(url,picname)
+def func(url, picname):
+    try:
+        urllib.urlretrieve(url, picname)
         print '正在下载 {}'.format(picname)
     except Exception as e:
         print '错误下载 {}'.format(picname)
@@ -59,7 +57,6 @@ def func(url,picname):
         print '完成下载 {}'.format(picname)
 
 
+gevent.joinall(map(lambda x: gevent.spawn(func(x[0], x[1])), url_list))
 
 
-
-gevent.joinall(map(lambda x:gevent.spawn(func(x[0],x[1])),url_list))

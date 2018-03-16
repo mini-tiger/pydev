@@ -180,10 +180,10 @@ class cls2(object):
         return k
 
     def __setattr__(self, k, v):
-        self.__dict__[k] = v
+        self.__dict__[k] = v  ##这里不能返回，否则无限调用 
 
     def __call__(self, k):
-        return self.k
+        return self.k   ##
 
     @property
     def c1(self):
