@@ -18,15 +18,15 @@ print l1    ##u7LF6VdT
 l1=''.join(sorted(l1))
 print l1    ##67FLTVdu
 
-l3=zip(l1, l2) 
+l3=zip(l1, l2)
 print l3   #[('D', 'w'), ('P', 'n'), ('T', 'P'), ('Z', 'V'), ('a', 'A'), ('b', 'l'), ('q', 'S'), ('t', 'F')]
 d1=dict(l3)
 print d1   #{'Q': 'P', 'E': 'U', 'I': 'v', '1': '2', '5': 'n', 'w': 'S', 'v': 'm', 'Z': 'H'}
 
   #排序
-d2=sorted(d1.iteritems(),key=lambda x:x[1]) 
+d2=sorted(d1.iteritems(),key=lambda x:x[1])
 print d2 ##[('P', '1'), ('A', 'B'), ('0', 'H'), ('C', 'O'), ('j', 'Q'), ('b', 'R'), ('i', 'i'), ('H', 'm')]
-d3=dict(d2) 
+d3=dict(d2)
 print d3 #{'E': 'q', 'j': 'K', 'p': '3', 'r': '8', 'T': 'a', 'W': 'n', '8': 'U', '2': '0'}
 
 #追加
@@ -193,7 +193,7 @@ s1=s1+'a'+'b'
 print s1 #Ei0BWUGfab
 #s1.replace(old, new, count)
 print s1.split('a') #['Ei0BWUGf', 'b']
-print s1.strip('abcdefg') 
+print s1.strip('abcdefg')
 str=s1 #zJeU3xEm
 
 #全部大写：str.upper()

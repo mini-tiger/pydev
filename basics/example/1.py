@@ -106,3 +106,65 @@ for i in range(100, 999):
     g = str(i)[2]
     if int(b)**3 + int(s)**3 + int(g)**3 == i:
         print i
+
+print
+print
+ti = '输入一行字符，分别统计出其中英文字母、空格、数字和其它字符的个数'
+print("{:<106}".format(ti))
+#方法一
+s = '111111112dsfxfdhndfxfdftt33123  d e13'
+
+import re
+r = re.compile('[0-9]')
+print 'digits {} '.format(str(len(re.findall(r, s))))
+
+
+r = re.compile('[a-zA-Z]')
+print 'ascii_letters {} '.format(str(len(re.findall(r, s))))
+
+
+r = re.compile('\s')
+print '空格 {} '.format(str(len(re.findall(r, s))))
+#方法二
+letters = 0
+space = 0
+others = 0
+digit = 0
+
+for c in s:
+    if c.isalpha():
+        letters += 1
+    elif c.isspace():
+        space += 1
+    elif c.isdigit():
+        digit += 1
+    else:
+        others += 1
+
+print 'digit {} ,letters {},space {}'.format(digit, letters, space)
+
+ti = '求s=a+aa+aaa+aaaa+aa...a的值，其中a是一个数字。例如2+22+222+2222+22222(此时共有5个数相加)，几个数相加由键盘控制'
+
+print
+print
+print("{:<106}".format(ti))
+
+s = '2'
+n = 5 #('几位叠加:')
+#方法一
+ss=0
+for i in xrange(1,n+1):
+    _s = s * int(i)
+    print '数字: {}'.format(_s)
+    ss+=int(_s)
+
+print 'result : {}'.format(ss)
+
+#方法二
+_l=[]
+for i in xrange(1,n+1):
+    _s = s * int(i)
+    print '数字: {}'.format(_s)
+    _l.append(int(_s))
+
+print 'result : {}'.format(sum(_l))
