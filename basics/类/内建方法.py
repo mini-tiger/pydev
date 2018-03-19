@@ -202,7 +202,8 @@ class cc4(object):
         self.n = 1
 
     def __getattribute__(self, *args, **kwargs):
-        print "this is getattribute"
+        print "this is getattribute,call function name :{} , var :{} ".format(args[0],kwargs)
+
         return object.__getattribute__(self, *args, **kwargs)
 
     @classmethod
