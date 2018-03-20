@@ -27,7 +27,7 @@ def util(n):
 def wheel():
     while True:
         try:
-            print gevent.getcurrent()
+            print (gevent.getcurrent())
             n=queue.get(0)
             util(n)
         except Empty :    
@@ -50,4 +50,4 @@ for i in xrange(10):
 pool.join()
 end=time()
 
-print end-start
+print (end-start)

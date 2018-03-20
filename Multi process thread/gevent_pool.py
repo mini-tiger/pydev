@@ -16,7 +16,7 @@ from gevent.queue import JoinableQueue, Empty
 queue = JoinableQueue()
 STOP="stop"
 
-monkey.patch_all()
+monkey.patch_all() ## 把当前程序中的所有io操作都做上标记
 
 def html_reader(url):
 

@@ -1,11 +1,8 @@
 # coding:utf-8
-import sys
 
-sys.path=sorted(sys.path,reverse=False)  #把当前文件夹路径，放到最后
-print sys.path
 
 from gevent import monkey
-monkey.patch_all()
+monkey.patch_all() ## 把当前程序中的所有io操作都做上标记
 import gevent
 import urllib2
 
