@@ -10,7 +10,7 @@ import gevent
 import urllib2
 from time import time
 from gevent.pool import Pool
-from gevent.threadpool import ThreadPool
+from gevent.threadpool import ThreadPool  #同时并发
 from gevent.queue import JoinableQueue, Empty, Queue, Full
 
 monkey.patch_all()  # 把当前程序中的所有io操作都做上标记
@@ -55,7 +55,7 @@ while True:
 
 
 
-pool = ThreadPool(10)   #pool是可以指定池子里面最多可以拥有多少greenlet在跑
+pool = ThreadPool(10)   ##同时并发 pool是可以指定池子里面最多可以拥有多少greenlet在跑
 for i in xrange(10):
     pool.spawn(wheel)
 
