@@ -111,7 +111,7 @@ print
 print
 ti = '输入一行字符，分别统计出其中英文字母、空格、数字和其它字符的个数'
 print("{:<106}".format(ti))
-#方法一
+# 方法一
 s = '111111112dsfxfdhndfxfdftt33123  d e13'
 
 import re
@@ -125,7 +125,7 @@ print 'ascii_letters {} '.format(str(len(re.findall(r, s))))
 
 r = re.compile('\s')
 print '空格 {} '.format(str(len(re.findall(r, s))))
-#方法二
+# 方法二
 letters = 0
 space = 0
 others = 0
@@ -150,21 +150,148 @@ print
 print("{:<106}".format(ti))
 
 s = '2'
-n = 5 #('几位叠加:')
-#方法一
-ss=0
-for i in xrange(1,n+1):
+n = 5  # ('几位叠加:')
+# 方法一
+ss = 0
+for i in xrange(1, n + 1):
     _s = s * int(i)
     print '数字: {}'.format(_s)
-    ss+=int(_s)
+    ss += int(_s)
 
 print 'result : {}'.format(ss)
 
-#方法二
-_l=[]
-for i in xrange(1,n+1):
+# 方法二
+_l = []
+for i in xrange(1, n + 1):
     _s = s * int(i)
     print '数字: {}'.format(_s)
     _l.append(int(_s))
 
 print 'result : {}'.format(sum(_l))
+
+
+ti = '20, 一球从100米高度自由落下，每次落地后反跳回原高度的一半；再落下，求它在第10次落地时，共经过多少米？第10次反弹多高？'
+
+print
+print
+print("{:<106}".format(ti))
+
+
+global hight, n, totle
+
+
+def luo(hight, n, totle):
+    print hight, n, totle
+    if hight <= 0 or n == 10:
+        return hight, n
+    else:
+
+        n += 1
+        totle += hight
+        hight = luo(hight / 2, n, totle)
+
+luo(100.0, 0, totle=100)  # 总高度 100 起始
+
+
+ti = '21, 猴子吃桃问题：猴子第一天摘下若干个桃子，当即吃了一半，还不瘾，又多吃了一个第二天早上又将剩下的桃子吃掉一半，又多吃了一个。以后每天早上都吃了前一天剩下的一半零一个。到第10天早上想再吃时，见只剩下一个桃子了。求第一天共摘了多少'
+
+print
+print
+print("{:<106}".format(ti))
+
+global geshu, cishu, totle
+
+
+def luo(geshu, cishu):
+    print geshu, cishu
+    if cishu == 1:
+        return
+    else:
+        cishu -= 1
+        geshu = luo((geshu + 1) * 2, cishu)
+
+luo(*(1, 10))
+
+ti = '22, 两个乒乓球队进行比赛，各出三人。甲队为a,b,c三人，乙队为x,y,z三人。已抽签决定比赛名单。有人向队员打听比赛的名单。a说他不和x比，c说他不和x,z比，请编程序找出三队赛手的名单'
+
+print
+print
+print("{:<106}".format(ti))
+
+_l = []
+for i in ('a', 'b', 'c'):
+    for l in ('x', 'y', 'z'):
+        if (i == 'a' and l == 'x') or (i == 'c' and l in ('x', 'z')):
+            continue
+        else:
+            _l.append((i, l))
+print _l
+
+ti = '打印出如下图案（菱形）:'
+'''
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+'''
+print
+print
+print("{:<106}".format(ti))
+
+
+_list = range(1, 8, 2)
+
+for i in _list:
+    s = '*' * i
+    print("{:^10}".format(s))
+
+_list.pop(-1)
+
+for i in sorted(_list, reverse=True):
+    s = '*' * i
+    print("{:^10}".format(s))
+
+
+ti = 'NO.24 有一分数序列：2/1，3/2，5/3，8/5，13/8，21/13...求出这个数列的前20项之和'
+
+print
+print
+print("{:<106}".format(ti))
+
+_l=[]
+global _l
+def fe(s1, s2, n,_l):
+    # print s1, s2
+    if n == 20:
+        return
+    n += 1
+
+    _s = s2  # 暂存一下 s2 后面那个数的值
+    s2 = s1 + s2  # 后面的数  等于前面数相加
+    s1 = _s  # 前面数 等于  没加之前的，后面那个数
+    _l.append(s1)
+    s2 = fe(s1, s2, n,_l)
+
+_l.append(1)  
+
+fe(1, 2, 1,_l)  #分母
+from copy import deepcopy
+
+fenmu=deepcopy(_l)
+
+_l=[]
+_l.append(2)
+fe(2, 3, 1,_l)  #分子
+
+fenzi=deepcopy(_l)
+
+sum=0
+for m,n in  zip(fenzi, fenmu):
+    sum+= ( float(m) /n)
+
+print fenzi
+print fenmu
+print sum
