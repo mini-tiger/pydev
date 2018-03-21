@@ -1,7 +1,7 @@
 # coding:utf-8
 import sys
 
-sys.path=sorted(sys.path,reverse=False)  #把当前文件夹路径，放到最后
+sys.path = sorted(sys.path, reverse=False)  # 把当前文件夹路径，放到最后
 # print sys.path
 
 
@@ -11,12 +11,10 @@ import urllib2
 from time import time
 from gevent.pool import Pool
 from gevent.threadpool import ThreadPool
-from gevent.queue import JoinableQueue, Empty
+from gevent.queue import JoinableQueue, Empty, Queue, Full
 
-queue = JoinableQueue()
-STOP="stop"
+monkey.patch_all()  # 把当前程序中的所有io操作都做上标记
 
-monkey.patch_all() ## 把当前程序中的所有io操作都做上标记
 
 def html_reader(url):
 
@@ -29,22 +27,40 @@ def html_reader(url):
 def wheel():
     while True:
         try:
-            print gevent.getcurrent()
-            url=queue.get(0)
+            print 'current gevent: {}'.format(gevent.getcurrent())
+            # url=queue.get(0)
+            url = queue.get_nowait()
             html_reader(url)
-        except Empty :    
-        # except Exception as e:
+            print 'current queue size: {}'.format(queue.qsize())
+        except Empty:
+            # except Exception as e:
+
             break
+        except Exception as e:
+            print e
+
+
+start = time()
+queue = JoinableQueue(10) 
+# queue = Queue(10) ##最大 size 10
+
+while True:
+    try:
+        queue.put_nowait("http://www.qq.com")  # put_nowait() 相当于 put() 的无阻塞模式
+        print 'current queue size: {}'.format(queue.qsize())
+        # queue.put("http://www.qq.com")
+    except Full:
+        print 'queue full'
+        break
 
 
 
-start=time()
-pool=ThreadPool(5)
-for i in range(10):
-    queue.put("http://www.qq.com")
-for i in xrange(5):
+pool = ThreadPool(10)   #pool是可以指定池子里面最多可以拥有多少greenlet在跑
+for i in xrange(10):
     pool.spawn(wheel)
-pool.join()
-end=time()
 
-print end-start
+
+pool.join()
+end = time()
+
+print end - start

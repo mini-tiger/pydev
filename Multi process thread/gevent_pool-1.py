@@ -1,53 +1,41 @@
 # coding:utf-8
-import sys
-
-sys.path=sorted(sys.path,reverse=False)  #把当前文件夹路径，放到最后
-# print sys.path
-
-
-from gevent import monkey
 import gevent
-import urllib2
-from time import time
-from gevent.pool import Pool
+from gevent.queue import Queue
 from gevent.threadpool import ThreadPool
-from gevent.queue import JoinableQueue, Empty
+import os
 
-queue = JoinableQueue()
-# STOP="stop"
-
-monkey.patch_all()
-
-def util(n):
-    l=[x for x in range(n) if x % 2==0 and x %3 == 0]
-    print (sum(l),)
+print '当前PID {}'.format(os.getpid())
 
 
 
-def wheel():
-    while True:
-        try:
-            print (gevent.getcurrent())
-            n=queue.get(0)
-            util(n)
-        except Empty :    
-        # except Exception as e:
-            break
+def worker(n):
+    while not tasks.empty():
+        task = tasks.get_nowait()
+        print('Worker %s got task %s' % (n, task))
+        gevent.sleep(2)
+
+    print('Quitting time!')
 
 
+def boss():
+    for i in xrange(1, 25):
+        tasks.put_nowait(i)
 
-start=time()
-pool=ThreadPool(10)
+tasks = Queue()
 
-for i in range(10):
-    queue.put(7777777)
+boss()
 
-
-for i in xrange(10):
-    pool.spawn(wheel)
-
+pool = ThreadPool(10)  # pool是可以指定池子里面最多可以拥有多少greenlet在跑
+for i in xrange(25):
+    # pool.spawn(wheel)
+    pool.spawn(worker, str(i))
 
 pool.join()
-end=time()
 
-print (end-start)
+
+
+# gevent.joinall([
+#     gevent.spawn(worker, 'steve'),
+#     gevent.spawn(worker, 'john'),
+#     gevent.spawn(worker, 'nancy'),
+# ])
