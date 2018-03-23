@@ -3,6 +3,10 @@ from __future__ import print_function
 import env
 from set_list_dict_tuple import print_ex
 
+print (dir(__builtins__))  ##内置函数，变量
+
+__builtins__.print() ##调用内置函数
+
 # import sys
 # print(dir(sys.modules['__builtin__']))
 l1=env.list_ex(4)
