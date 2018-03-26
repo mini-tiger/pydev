@@ -13,6 +13,7 @@ def f(url):
     data = resp.read()
     print('%d bytes received from %s.' % (len(data), url))
 
+
 gevent.joinall([
 	    gevent.spawn(f, 'https://www.yahoo.com/'),
         gevent.spawn(f, 'https://www.python.org/'),

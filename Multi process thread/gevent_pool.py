@@ -56,6 +56,8 @@ while True:
 
 
 pool = ThreadPool(10)   ##同时并发 pool是可以指定池子里面最多可以拥有多少greenlet在跑
+
+print dir(pool)
 for i in xrange(10):
     pool.spawn(wheel)
 

@@ -8,6 +8,10 @@ def print_ex(_s, _ss):
 
 
 if __name__ == '__main__':
+    print ("{:#^100}".format('''all,any'''))
+    l1 = [1,2,3,4,0]
+    print (all(l1))   ## True  ##有一个不为0或False 则为True
+    print (any(l1))  ##False #有一个为0或False，那么结果为False，如果所有元素中有一个值非0、''或False，那么结果就为True
 
     print ("{:#^100}".format('''List'''))
 
@@ -57,6 +61,15 @@ if __name__ == '__main__':
 
     l1.sort()
     print_ex('reverse,反向 :', l1)
+
+    print ("{:#^100}".format('''frozenSet'''))
+
+    s1 = env.set_ex(4)
+    s2 = s1.union({5})
+
+    print (s2.isdisjoint(s1)) #判断两个集合是否不相交
+    print (s2.issuperset(s1)) #判断集合是否包含其他集合，等同于a>=b
+    print (s2.issubset(s1)) #判断集合是否被其他集合包含，等同于a<=b
 
     print ("{:#^100}".format('''Set'''))
 
