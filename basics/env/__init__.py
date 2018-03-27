@@ -4,10 +4,13 @@ import random
 import string
 
 
-list_ex = lambda x: random.sample(string.digits + string.letters, x)
+list_ex = lambda x: random.sample(string.digits + string.letters + string.punctuation, x)
 
 str_ex = lambda x:''.join(list_ex(x))
 
 dict_ex= lambda x:dict(zip(list_ex(x), list_ex(x)))
 
 set_ex= lambda x:set(list_ex(x))
+
+print string.punctuation
+# print string.printable
