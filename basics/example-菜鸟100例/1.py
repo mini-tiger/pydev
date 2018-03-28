@@ -261,9 +261,11 @@ print
 print
 print("{:<106}".format(ti))
 
-_l=[]
+_l = []
 global _l
-def fe(s1, s2, n,_l):
+
+
+def fe(s1, s2, n, _l):
     # print s1, s2
     if n == 20:
         return
@@ -273,25 +275,110 @@ def fe(s1, s2, n,_l):
     s2 = s1 + s2  # 后面的数  等于前面数相加
     s1 = _s  # 前面数 等于  没加之前的，后面那个数
     _l.append(s1)
-    s2 = fe(s1, s2, n,_l)
+    s2 = fe(s1, s2, n, _l)
 
-_l.append(1)  
+_l.append(1)
 
-fe(1, 2, 1,_l)  #分母
+fe(1, 2, 1, _l)  # 分母
 from copy import deepcopy
 
-fenmu=deepcopy(_l)
+fenmu = deepcopy(_l)
 
-_l=[]
+_l = []
 _l.append(2)
-fe(2, 3, 1,_l)  #分子
+fe(2, 3, 1, _l)  # 分子
 
-fenzi=deepcopy(_l)
+fenzi = deepcopy(_l)
 
-sum=0
-for m,n in  zip(fenzi, fenmu):
-    sum+= ( float(m) /n)
+sum = 0
+for m, n in zip(fenzi, fenmu):
+    sum += (float(m) / n)
 
 print fenzi
 print fenmu
 print sum
+
+ti = 'NO.27 利用递归函数调用方式，将所输入的5个字符，以相反顺序打印出来。'
+
+print
+print
+print("{:<106}".format(ti))
+# 方法一
+a = [2, 5, 8, 4, 5]
+print a[::-1]
+# 方法二
+
+
+def reverse1(l):
+    if not l:
+        return
+    print l.pop(-1)
+    reverse1(l)
+
+reverse1(a)
+
+ti = '''
+NO.28 有5个人坐在一起，问第五个人多少岁？他说比第4个人大2岁。问第4个人岁数，他说比第3个人大2岁。问第三个人，又说比第2人大两岁。问第2个人，说比第一个人大两岁。最后问第一个人，他说是10岁。请问第五个人多大？
+程序分析：利用递归的方法，递归分为回推和递推两个阶段。要想知道第五个人岁数，需知道第四人的岁数，依次类推，推到第一人（10岁），再往回推'''
+
+print
+print
+print("{:<106}".format(ti))
+
+# 方法一
+n = lambda x, y, z: x + y * z  # x起始10岁，还有4个人，每个人差2岁
+
+print n(10, 4, 2)
+
+
+# 方法二
+
+def nnn(x, n):
+    n += 1
+    if n == 5:
+        return x
+
+    x = n * 2 + 10
+    return nnn(x, n)
+
+print nnn(0, 1)
+
+
+ti = '''
+NO.29 给一个不多于5位的正整数，要求：一、求它是几位数，二、逆序打印出各位数字
+'''
+
+print
+print
+print("{:<106}".format(ti))
+
+n = 12345
+sn = str(n)
+print '{} 位数'.format(len(sn))
+
+r = range(len(sn))
+r.sort(reverse=True)
+
+for i in r:
+    print str(n)[i]
+
+
+ti = '''
+NO.30 一个5位数，判断它是不是回文数。即12321是回文数，个位与万位相同，十位与千位相同。
+'''
+
+print
+print
+print("{:<106}".format(ti))
+
+import random
+import string
+n = lambda x: random.sample(string.digits, x)
+
+l=[ str(''.join(n(5))) for x in range(10)]
+
+print l  ##生成 若干个五位数 字符串
+l.append('12321')  #添加一个 回文数，防止没有随机生成
+
+ll=filter(lambda x: int(x[-1]) == int(x[0]) and int(x[-2]) == int(x[1]) ,l)
+print ll
