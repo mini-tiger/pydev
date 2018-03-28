@@ -149,7 +149,7 @@ master_publish:
   tags:
     - master
 
-    only:
+  only:
     - master
   when: always
 

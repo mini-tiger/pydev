@@ -383,7 +383,3 @@ l.append('12321')  #添加一个 回文数，防止没有随机生成
 ll=filter(lambda x: int(x[-1]) == int(x[0]) and int(x[-2]) == int(x[1]) ,l)
 print ll
 
-
-s=range(3)
-print s
-print ''.join([str(x) for x in s])
