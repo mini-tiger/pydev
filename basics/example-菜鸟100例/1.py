@@ -177,7 +177,7 @@ print
 print("{:<106}".format(ti))
 
 
-global hight, n, totle
+global hight, totle
 
 
 def luo(hight, n, totle):
@@ -262,7 +262,6 @@ print
 print("{:<106}".format(ti))
 
 _l = []
-global _l
 
 
 def fe(s1, s2, n, _l):
