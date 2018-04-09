@@ -190,6 +190,7 @@ def luo(hight, n, totle):
         totle += hight
         hight = luo(hight / 2, n, totle)
 
+
 luo(100.0, 0, totle=100)  # 总高度 100 起始
 
 
@@ -209,6 +210,7 @@ def luo(geshu, cishu):
     else:
         cishu -= 1
         geshu = luo((geshu + 1) * 2, cishu)
+
 
 luo(*(1, 10))
 
@@ -263,7 +265,7 @@ print("{:<106}".format(ti))
 
 _l = []
 
-
+a=1
 def fe(s1, s2, n, _l):
     # print s1, s2
     if n == 20:
@@ -275,6 +277,7 @@ def fe(s1, s2, n, _l):
     s1 = _s  # 前面数 等于  没加之前的，后面那个数
     _l.append(s1)
     s2 = fe(s1, s2, n, _l)
+
 
 _l.append(1)
 
@@ -314,6 +317,7 @@ def reverse1(l):
     print l.pop(-1)
     reverse1(l)
 
+
 reverse1(a)
 
 ti = '''
@@ -325,7 +329,10 @@ print
 print("{:<106}".format(ti))
 
 # 方法一
-n = lambda x, y, z: x + y * z  # x起始10岁，还有4个人，每个人差2岁
+
+
+def n(x, y, z): return x + y * z  # x起始10岁，还有4个人，每个人差2岁
+
 
 print n(10, 4, 2)
 
@@ -339,6 +346,7 @@ def nnn(x, n):
 
     x = n * 2 + 10
     return nnn(x, n)
+
 
 print nnn(0, 1)
 
@@ -372,13 +380,15 @@ print("{:<106}".format(ti))
 
 import random
 import string
-n = lambda x: random.sample(string.digits, x)
 
-l=[ str(''.join(n(5))) for x in range(10)]
 
-print l  ##生成 若干个五位数 字符串
-l.append('12321')  #添加一个 回文数，防止没有随机生成
+def n(x): return random.sample(string.digits, x)
 
-ll=filter(lambda x: int(x[-1]) == int(x[0]) and int(x[-2]) == int(x[1]) ,l)
+
+l = [str(''.join(n(5))) for x in range(10)]
+
+print l  # 生成 若干个五位数 字符串
+l.append('12321')  # 添加一个 回文数，防止没有随机生成
+
+ll = filter(lambda x: int(x[-1]) == int(x[0]) and int(x[-2]) == int(x[1]), l)
 print ll
-
