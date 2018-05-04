@@ -220,8 +220,8 @@ print l2
 import itertools
 a=[1,2]
 b={'a':1}
-# print enumerate(a).next()
-# print enumerate(b).next()
+print enumerate(a).next()
+print enumerate(b).next()
 for x,y in  itertools.groupby(enumerate([1,2]),key=lambda x:x>1):
 	print x
 	print list(y)

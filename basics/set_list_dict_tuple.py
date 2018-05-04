@@ -130,7 +130,7 @@ if __name__ == '__main__':
     print ("{:#^58}".format('''方法'''))
 
     print_ex('d1.items(),打印k,v :', d1.items())
-    print_ex('d1.iteritems(),迭代器对象', d1.iteritems())
+    print('d1.iteritems(),迭代器对象',[x for x,y in d1.iteritems()])
 
     print_ex('d1.keys(),打印所有key :', d1.keys())
 
