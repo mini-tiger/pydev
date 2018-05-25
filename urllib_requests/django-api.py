@@ -1,16 +1,21 @@
 # -*- coding: utf-8 -*-
-import requests,json
+try:
+	import requests
+except ImportError :
+	print "请pip requests"
+	exit(1)
+import json
 class util(object):
 	def util_myapi(self,url,method='get',json=None,data=None):
-	    headers = {'Accept': "application/json"}##定义header头，用dict方式定义，即3
-	    url= url if url.rfind('/',-2) > 0 else url+'/'  #如果结尾 不是/
-	    res = requests.request(method,url,headers=headers,json=json,data=data)
-	    if res.status_code == 500:
-	    	print res
-	    	print dir(res)
-	    else:
-	    # res = requests.get(url,headers=headers, auth=('admin','admin' ))
-	    	return res.text
+		headers = {'Accept': "application/json"}##定义header头，用dict方式定义，即3
+		url= url if url.rfind('/',-2) > 0 else url+'/'  #如果结尾 不是/
+		res = requests.request(method,url,headers=headers,json=json,data=data)
+		if res.status_code == 500:
+			print res
+			print dir(res)
+		else:
+			# res = requests.get(url,headers=headers, auth=('admin','admin' ))
+			return res.text
 
 
 
