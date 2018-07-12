@@ -1,0 +1,189 @@
+<!-- myfirstvis/templates/pyecharts.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>my lin3d</title>
+    
+        <script src="https://pyecharts.github.io/assets/js/echarts.min.js"></script>
+    
+        <script src="https://pyecharts.github.io/assets/js/china.js"></script>
+    
+</head>
+
+<body>
+  
+        <div id="ce68b654b4994829a0981115d5e54310" style="width:1200px;height:800px;"></div>
+        <script type="text/javascript">
+
+var myChart_ce68b654b4994829a0981115d5e54310 = echarts.init(document.getElementById('ce68b654b4994829a0981115d5e54310'), 'light', {renderer: 'canvas'});
+function on_click(params) {
+    alert(params.name);
+}
+
+var option_ce68b654b4994829a0981115d5e54310 = {
+    "title": [
+        {
+            "textStyle": {
+                "fontSize": 18
+            }, 
+            "top": "auto", 
+            "left": "auto", 
+            "subtextStyle": {
+                "fontSize": 12
+            }, 
+            "text": "\u5168\u56fd\u5730\u56fe\u793a\u4f8b"
+        }
+    ], 
+    "color": [
+        "#c23531", 
+        "#2f4554", 
+        "#61a0a8", 
+        "#d48265", 
+        "#749f83", 
+        "#ca8622", 
+        "#bda29a", 
+        "#6e7074", 
+        "#546570", 
+        "#c4ccd3", 
+        "#f05b72", 
+        "#ef5b9c", 
+        "#f47920", 
+        "#905a3d", 
+        "#fab27b", 
+        "#2a5caa", 
+        "#444693", 
+        "#726930", 
+        "#b2d235", 
+        "#6d8346", 
+        "#ac6767", 
+        "#1d953f", 
+        "#6950a1", 
+        "#918597", 
+        "#f6f5ec"
+    ], 
+    "series": [
+        {
+            "showLegendSymbol": true, 
+            "type": "map", 
+            "symbol": "circle", 
+            "label": {
+                "emphasis": {
+                    "textStyle": {
+                        "fontSize": 12
+                    }, 
+                    "show": true
+                }, 
+                "normal": {
+                    "position": "top", 
+                    "show": true, 
+                    "textStyle": {
+                        "fontSize": 12
+                    }
+                }
+            }, 
+            "mapType": "china", 
+            "roam": true, 
+            "data": [
+                {
+                    "name": "\u798f\u5efa", 
+                    "value": 155
+                }, 
+                {
+                    "name": "\u5c71\u4e1c", 
+                    "value": 10
+                }, 
+                {
+                    "name": "\u5317\u4eac", 
+                    "value": 66
+                }, 
+                {
+                    "name": "\u4e0a\u6d77", 
+                    "value": 78
+                }
+            ]
+        }
+    ], 
+    "tooltip": {
+        "borderColor": "#333", 
+        "axisPointer": {
+            "type": "line"
+        }, 
+        "textStyle": {
+            "fontSize": 14
+        }, 
+        "trigger": "item", 
+        "borderWidth": 0, 
+        "backgroundColor": "rgba(50,50,50,0.7)", 
+        "triggerOn": "mousemove|click"
+    }, 
+    "visualMap": {
+        "textStyle": {
+            "color": "#000"
+        }, 
+        "min": 0, 
+        "text": [
+            "high", 
+            "low"
+        ], 
+        "top": "bottom", 
+        "splitNumber": 5, 
+        "showLabel": true, 
+        "calculable": true, 
+        "max": 100, 
+        "inRange": {
+            "color": [
+                "#50a3ba", 
+                "#eac763", 
+                "#d94e5d"
+            ]
+        }, 
+        "type": "continuous", 
+        "orient": "vertical", 
+        "left": "left"
+    }, 
+    "series_id": 2293925, 
+    "toolbox": {
+        "orient": "vertical", 
+        "top": "center", 
+        "show": true, 
+        "feature": {
+            "restore": {
+                "show": true
+            }, 
+            "dataView": {
+                "show": true
+            }, 
+            "saveAsImage": {
+                "show": true, 
+                "title": "\u4e0b\u8f7d\u56fe\u7247"
+            }
+        }, 
+        "left": "95%"
+    }, 
+    "legend": [
+        {
+            "textStyle": {
+                "fontSize": 12
+            }, 
+            "show": true, 
+            "top": "top", 
+            "selectedMode": "multiple", 
+            "data": [
+                ""
+            ], 
+            "orient": "horizontal", 
+            "left": "center"
+        }
+    ]
+};
+myChart_ce68b654b4994829a0981115d5e54310.setOption(option_ce68b654b4994829a0981115d5e54310);
+
+myChart_ce68b654b4994829a0981115d5e54310.on("click", on_click);
+
+</script>
+        
+</body>
+
+</html>
