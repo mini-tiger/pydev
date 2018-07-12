@@ -4,7 +4,7 @@ import os,sys
 # sys.setdefaultencoding('gbk')
 import smtplib,datetime,os
 from email.mime.text import MIMEText
-from email.Header import Header
+# from email.Header import Header
 
 def mail_send(data):
     
@@ -39,7 +39,8 @@ def mail_send(data):
     # smtp.connect('smtp.ym.163.com')
     smtp.login(username, password)
     ##SMTP.sendmail(·¢¼þÈË£¬ÊÕÐÅÈË£¬ÄÚÈÝ) 
-    smtp.sendmail(sender, tolist, msg.as_string())
+    for to in tolist:
+        smtp.sendmail(sender, [to], msg.as_string())
     smtp.quit()
     
 
