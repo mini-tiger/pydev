@@ -2,6 +2,28 @@
 
 # 装饰器
 
+from functools import wraps
+
+def w(func):
+    @wraps(func)
+    def bibao(*args,**kw):
+        if kw:
+            ret = func(*args,**kw)
+            return ret
+        else:
+            return func(a=2)
+    return bibao
+
+@w
+def aaa(a):
+    return a
+
+print aaa(a=1)
+print aaa()
+# 不加上面的 @wraps(func),会打印bibao
+print aaa.__name__
+
+
 
 def wrapp(a):
     def bibao1(func):
