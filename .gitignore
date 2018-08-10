@@ -1,5 +1,9 @@
 /.idea
+venv/
 *.pyc
+
 *.jpg
+
 *.xml
+
 *.iml

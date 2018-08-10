@@ -44,3 +44,33 @@ def gen(n):
 
 for i in gen(10):
     print i
+
+
+l = [1,2,3,4]
+l[1:1] = [10,100]
+print l
+
+class Sss(object):
+    pass
+
+
+s=Sss()
+print s.__dict__
+s.a=1
+s.b=2
+print s.__dict__
+def ss1():
+    return 123
+
+s.func=ss1
+
+print s.func()
+del s.a
+print s.__dict__
+
+import os
+print os.path.dirname(os.path.abspath(__file__))
+print os.path.abspath(os.path.join(os.path.dirname(__file__),".."))
+
+import platform
+print platform.system()
