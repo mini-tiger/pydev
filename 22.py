@@ -1,4 +1,4 @@
-
+import pathlib
 
 def wrapp(*args):
     def bibao1(func):
@@ -74,3 +74,18 @@ print os.path.abspath(os.path.join(os.path.dirname(__file__),".."))
 
 import platform
 print platform.system()
+
+from pathlib import Path
+p=Path(".")
+print [x for x in p.iterdir() if x.is_dir()]
+
+sd= os.path.join("d:\\","work","project-dev")
+print sd
+print (os.path.isdir(sd))
+
+pd=pathlib.PurePath("d:\\","work","project-dev")
+print sd
+print pd.is_absolute()
+print pd.is_reserved()
+pd1= pathlib.Path(pd)
+print pd1.is_dir()
