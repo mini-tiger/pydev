@@ -10,3 +10,5 @@ print list(itertools.combinations("abc",2)) # [('a', 'b'), ('a', 'c'), ('b', 'c'
 print list(itertools.permutations("abc",2)) # [('a', 'b'), ('a', 'c'), ('b', 'a'), ('b', 'c'), ('c', 'a'), ('c', 'b')] 每个元素和另外两个，两两组合 （元素一样，顺序不一样，不算重复）
 
 print list(itertools.product("abc","123")) # 类似excel表里 列的定义 [('a', '1'), ('a', '2'), ('a', '3'), ('b', '1'), ('b', '2'), ('b', '3'), ('c', '1'), ('c', '2'), ('c', '3')]
+
+

@@ -5,5 +5,11 @@ s=('content', u'PROBLEM\r\nP0\r\nEndpoint:falcon-linux\r\nMetric:net.port.listen
 ss = dict(s)
 print ss
 # r = requests.post('http://127.0.0.1:8000/ext/mail', data = ss)
-r = requests.post('http://192.168.43.11:8081/ext/mail', data = ss)
+r = requests.get('http://127.0.0.1:8080/api/v1/graph/endpoint?q=.&limit=50&page=1&tags=')
 print r.url
+print dir(r)
+
+if r.status_code == 200:
+	print r.json
+
+print r.text
