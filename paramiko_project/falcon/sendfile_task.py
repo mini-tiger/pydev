@@ -57,7 +57,7 @@ class util_ssh(object):
         return
 
     # 发送要执行的命令
-    def send(self, cmd, re_str, code_type, timeout=0.5):
+    def send(self, cmd, re_str, code_type, timeout=0.1):
 
         # cmd += '\r'
         # 通过命令执行提示符来判断命令是否执行完成
@@ -93,11 +93,23 @@ class util_ssh(object):
     # 	self.close()
 
 
+def run_cmd(cmd):
+    host = util_ssh('192.168.43.14', dict_use["login_user"], dict_use["login_passwd"])
+    connection = host.connect()
+
+    if connection:
+        # host.send('ps aux|grep -v grep ',"\[.*@.*\](\$|\#)") #匹配 命令行
+        host.send(cmd, "\[.*@.*\](\$|\#)", dict_use["code_type"])
+        # rm old dir
+        host.send(cmd, "\[.*@.*\](\$|\#)", dict_use["code_type"])
+        host.close()
+
+
 if __name__ == "__main__":
     os_type = "Win"  # 目标机器系统类型
 
     dict_win = {"code_type": "gbk", "login_user": "Administrator", "login_passwd": "123.com",
-                "dest_dir": "/cygdrive/c/"}
+                "dest_dir": "/cygdrive/c/", "dest_file": "falcon-agent_win.tar.gz"}
 
     dict_linux = {"code_type": "utf-8", "login_user": "root", "login_pass": "123.com",
                   "dest_dir": "/home/falcon"}
@@ -105,26 +117,39 @@ if __name__ == "__main__":
     if os_type.find("Win") != -1:
         dict_use = deepcopy(dict_win)
 
-        cmd_kill = "taskkill / F / pid `netstat - ano | grep 7777 | awk.exe '{print $5}'` "
-        cmd_line_addtasks = "schtasks /create /tn 'My App' /tr c:\\falcon-agent\\start.bat /sc onstart /ru %s /rp %s /F" % (
-            dict_use["login_user"], dict_use["dest_dir"])
+        cmd_kill = "taskkill /F /pid `netstat -ano | grep 7777 | awk.exe '{print $5}'` "
 
+        cmd_rmolddir = "rm -rf %s" % (dict_use["dest_dir"] + "falcon-agent_win")
 
-        cmd_line_sendfile = "scp -r /root/falcon-agent_win/ %s@192.168.43.14:%s" % (
-            dict_use["login_user"], dict_use["dest_dir"])
+        cmd_line_addtasks = "schtasks /create /tn 'My App' /tr c:\\falcon-agent_win\\start.bat /sc onstart /ru %s /rp %s /F" % (
+            dict_use["login_user"], dict_use["login_passwd"])
+
+        # cmd_line_sendfile = "scp -r /root/falcon-agent_win/ %s@192.168.43.14:%s" % (
+        #     dict_use["login_user"], dict_use["dest_dir"])
+        cmd_start_falcon = "cmd.exe /c 'C:\\falcon-agent_win\\start.bat'"
+        cmd_mk = "mkdir -p %s" % (dict_use["dest_dir"] + "alcon-agent_win/cfg")
+        cmd_tar = "tar xf /tmp/%s -C %s" % (dict_use["dest_file"], dict_use["dest_dir"])
 
     else:
         dict_use = deepcopy(dict_linux)
 
-
     # 关闭旧程序
+    run_cmd(cmd_kill)
 
+    # rm old dir
+    run_cmd(cmd_rmolddir)
 
-    host = util_ssh('192.168.43.14', dict_use["login_user"], dict_use["login_passwd"])
-    connection = host.connect()
+    # mkdir
+    # run_cmd(cmd_mk)
 
+    # sendfile
+    # run_cmd(cmd_line_sendfile)
+    s = Upload_file('192.168.43.14', 22, dict_use["login_user"], dict_use["login_passwd"], os_type="linux")
 
-    if connection:
-        # host.send('ps aux|grep -v grep ',"\[.*@.*\](\$|\#)") #匹配 命令行
-        host.send(cmd_kill, "\[.*@.*\](\$|\#)", dict_use["code_type"])
-        host.close()
+    s.main(srcfile='/root/%s' % (dict_use["dest_file"]), destdir="/tmp/", destfile=dict_use["dest_file"], run=False)
+
+    run_cmd(cmd_tar)
+    # add tasks
+    run_cmd(cmd_line_addtasks)
+    # start falcon
+    run_cmd(cmd_start_falcon)
