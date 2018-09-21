@@ -4,7 +4,7 @@ from time import sleep
 import socket
 import paramiko
 import platform
-
+from uploadfile import Upload_file
 
 class util_ssh(object):
 	# 通过IP, 用户名，密码，超时时间初始化一个远程Linux主机
@@ -93,11 +93,7 @@ class util_ssh(object):
 
 
 if __name__ == "__main__":
-	# s=util_sql("10.70.61.97","1521","XE")
-	# print s.exec_sql("select database_role,open_mode,switchover_status,flashback_on from v$database")
-
-	# print s.exec_sql("alter system switch logfile")
-	# s.close_session()
+	send_file()
 	cmd_line = "schtasks /create /tn 'My App' /tr c:\\falcon-agent\\start.bat /sc onstart /ru administrator /rp 123.com /F"
 	host = util_ssh('192.168.43.14', 'Administrator', '123.com')
 	connection = host.connect()
