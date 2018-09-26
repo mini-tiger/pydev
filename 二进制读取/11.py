@@ -1,7 +1,12 @@
 # coding=utf-8
-import struct
+import struct,os
 
-with open("bin_python_slice_file.txt", "rb") as f:
-	data = f.read(6)  # 这样data是一个b开头的ASCII数字。
-	a = struct.unpack('<2s2s2s', data)
+d = r"C:\work\go-dev\src\godev\basic"
+
+with open(os.path.join(d,"bin_python_slice_file.txt"), "rb") as f:
+	data = f.read(22)
+	a = struct.unpack('<2s2s2s2i', data)
 	print(a)  # 将二进制数据转化为10进制数据。
+	# data = f.read(16)
+	# a = struct.unpack('<i', data)
+	# print(a)  # 将二进制数据转化为10进制数据。
