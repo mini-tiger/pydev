@@ -14,8 +14,8 @@ print cnt1.viewitems()  # dict_items([('a', 5), ('c', 7), ('b', 4), ('e', 2), ('
 print cnt1.viewkeys()  # dict_keys(['a', 'c', 'b', 'e', 'd'])
 
 print "==" * 20
-c = Counter(a=4, b=1, c=0, d=-1)
+c = Counter(a=4, b=1, c=0, d = -1) # -1 小于0 相当于0
 print list(c.elements())  # ['a', 'a', 'a', 'a', 'b'] #按照定义的数量生成 指定个字符串
 
-c.subtract(a=1,b=1)# 减去指定个字符串
-print list(c.elements()) # ['a', 'a', 'a']
+c.subtract(a=1, b=1)  # 减去指定个字符串
+print list(c.elements())  # ['a', 'a', 'a']
