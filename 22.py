@@ -1,91 +1,87 @@
-import pathlib
-
-def wrapp(*args):
-    def bibao1(func):
-        def bibao(a):
-            print args
-            print func(a)
-        return bibao
-    return bibao1
-
-@wrapp(11)
-def abc(*a):
-    return a
+# -*- coding: utf-8 -*-
+import requests, json
 
 
-abc(1)
-
-l = list(xrange(10))
-print l
-print map(lambda x: x+1,l)
-
-print filter(lambda x: x>4, l)
-
-class abcd(object):
-    def __init__(self):
-        pass
-    def __call__(self,*args):
-        return args
-
-    def __setattr__(self,k,v):
-        self.__dict__[k]=v
-
-a = abcd()
-print a(11)
-a.b=1
-a.c=2
-print a.c
-
-def gen(n):
-    while n>0:
-        yield n
-        n = n -1
-    return
-
-for i in gen(10):
-    print i
+class util(object):
+	def util_myapi(self, url, method='post', json=None, data=None):
+		headers = {'Accept': "application/json"}  ##定义header头，用dict方式定义，即3
+		url = url if url.rfind('/', -2) > 0 else url + '/'  # 如果结尾 不是/
+		res = requests.request(method, url, headers=headers, json=json, data=data)
+		if res.status_code == 500:
+			print res
+			print dir(res)
+		else:
+			# res = requests.get(url,headers=headers, auth=('admin','admin' ))
+			return res.text
 
 
-l = [1,2,3,4]
-l[1:1] = [10,100]
-print l
+# instance
+uu = util()
 
-class Sss(object):
-    pass
+url = 'http://paas.gcl-ops.com/api/c/compapi/v2/cc/search_host/'
+
+# views ex_tasks   get
+
+# s=uu.util_myapi(url)
+# print s
 
 
-s=Sss()
-print s.__dict__
-s.a=1
-s.b=2
-print s.__dict__
-def ss1():
-    return 123
 
-s.func=ss1
 
-print s.func()
-del s.a
-print s.__dict__
+# ## views  ex_tasks  put
+j={
+    "bk_app_code": "bk1",
+    "bk_app_secret": "c50f40fe-c35b-4a23-89cd-5591b4d55bf0",
+    "bk_username": "admin",
+}
 
-import os
-print os.path.dirname(os.path.abspath(__file__))
-print os.path.abspath(os.path.join(os.path.dirname(__file__),".."))
 
-import platform
-print platform.system()
 
-from pathlib import Path
-p=Path(".")
-print [x for x in p.iterdir() if x.is_dir()]
+j={
+    "bk_app_code": "bk1",
+    "bk_app_secret": "c50f40fe-c35b-4a23-89cd-5591b4d55bf0",
+    "bk_username": "admin",
+    "ip": {
+        "data": [],
+        "exact": 1,
+        "flag": "bk_host_innerip"
+    },
+    "condition": [
+        {
+            "bk_obj_id": "host",
+            "fields": [],
+            "condition": []
+        },
+        {
+            "bk_obj_id": "object",
+            "fields": [],
+            "condition": [
+                {
+                    "field": "bk_host_id",
+                    "operator": "$neq",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "page": {
+        "start": 0,
+        "limit": 100,
+        "sort": "bk_host_name"
+    },
+    "pattern": ""
+}
+r=uu.util_myapi(url=url, method='post', json=j)  # json=j or data=j
 
-sd= os.path.join("d:\\","work","project-dev")
-print sd
-print (os.path.isdir(sd))
+result = r.encode('utf-8')  #将unicode转换成string
 
-pd=pathlib.PurePath("d:\\","work","project-dev")
-print sd
-print pd.is_absolute()
-print pd.is_reserved()
-pd1= pathlib.Path(pd)
-print pd1.is_dir()
+jd = json.loads(result)
+print jd
+_d= jd['data']['info']
+print type(_d)
+print len(_d)
+
+
+# views get_tasks_urlpath
+# s = uu.util_myapi(url + 'get_tasks_urlpath/')
+# print s
