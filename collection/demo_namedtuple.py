@@ -1,9 +1,10 @@
 # coding:utf-8
 from collections import namedtuple
 
-city = namedtuple('city', 'name country population')
+city = namedtuple('city1', 'name country population')
 beijing = city('bj', 'china', 36)
-
+beijing1 = city('bj', 'china', 36)
+print beijing == beijing1 #同样为 true
 # b=('bj','china',36)
 # beijing1=city._make(b) ##与上面 city('bj','china',36) 作用一样
 
