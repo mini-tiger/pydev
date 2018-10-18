@@ -133,7 +133,7 @@ def addDstbiz(diff):
 	for d in diff:
 		addbiz(d)
 
-# bk_cloud_id 没有
+# bk_cloud_id 没有  bk_host_id 更新主机用
 hostNT = namedtuple('host','bk_cpu bk_isp_name bk_os_name bk_province_name import_from bk_os_version bk_disk operator \
 bk_mem bk_host_name bk_host_innerip bk_comment bk_os_bit bk_outer_mac bk_asset_id bk_service_term bk_sla \
 bk_cpu_mhz bk_host_outerip bk_sn bk_os_type bk_mac bk_bak_operator bk_state_name bk_cpu_module')
@@ -151,6 +151,9 @@ def diffhost(src,dst):
 
 	tmpSrcDict={}
 	tmpDstDict={}
+
+	dstHostIP_ID={}
+
 	for h in src:
 		h=h['host']
 		tmpSrcDict.setdefault(h['bk_host_innerip'], returnHostNT(h))
@@ -158,12 +161,18 @@ def diffhost(src,dst):
 	for h in dst:
 		h=h['host']
 		tmpDstDict.setdefault(h['bk_host_innerip'], returnHostNT(h))
+		dstHostIP_ID[h['bk_host_innerip']]=h['bk_host_id']
 
 	for ip in tmpSrcDict:
 		if ip in tmpDstDict.keys(): # 如果 目标存在 源数据库中的主机IP 比较内容是否相等, 命名元组可以比较
 			if tmpDstDict[ip] == tmpSrcDict[ip]:
+
 				continue
 			else:
+				# print tmpDstDict[ip]
+				# print tmpSrcDict[ip]
+				# import time
+				# time.sleep(10)
 				updatelist.append(tmpSrcDict[ip])
 		else:
 			addlist.append(tmpSrcDict[ip])
@@ -172,18 +181,86 @@ def diffhost(src,dst):
 		if ip not in tmpSrcDict.keys():
 			dellist.append(tmpDstDict[ip])
 
-	return addlist, updatelist, dellist
+	return addlist, updatelist, dellist, dstHostIP_ID
 
-def addhost():
+
+def updatehost(host, host_id):
+	uu = util()
+	url1 = "http://1.119.132.130:8083/api/v3/hosts/batch"
+
+	# tmp = copy.deepcopy(models.tmpAddHost)
+	print host_id,host
+	tmphost={"bk_host_id":"%s".format(host_id),
+		# "bk_host_innerip": host.bk_host_innerip,  # 更新字段不能包括 IP
+					   "import_from": host.import_from,
+						"bk_cpu": host.bk_cpu,
+					   'bk_isp_name': host.bk_isp_name,
+					   'bk_province_name': host.bk_province_name,
+					   	'bk_os_name': host.bk_os_name,
+					   'bk_os_version': host.bk_os_version,
+					   'bk_disk': host.bk_disk,
+					   'operator': host.operator,
+					    'bk_mem': host.bk_mem,
+					   'bk_host_name': host.bk_host_name,
+					   'bk_comment': host.bk_comment,
+					   'bk_os_bit': host.bk_os_bit,
+					   'bk_outer_mac': host.bk_outer_mac,
+					   'bk_asset_id': host.bk_asset_id,
+					   'bk_service_term': host.bk_service_term,
+					   'bk_os_type': host.bk_os_type,
+					   'bk_mac': host.bk_mac,
+					   'bk_bak_operator': host.bk_bak_operator,
+					   'bk_state_name': host.bk_state_name,
+					   'bk_cpu_module': host.bk_cpu_module,
+					    'bk_sla': host.bk_sla,
+					   'bk_cpu_mhz': host.bk_cpu_mhz,
+					   'bk_host_outerip': host.bk_host_outerip,
+					   'bk_sn': host.bk_sn,
+					   }
+	# print tmphost
+	r = uu.util_myapi(url=url1, method='put', json=tmphost)  # json=j or data=j
+	if r.get("ret") == 0:
+		return [], r.get("err")
+	print r['data']
+
+def addhost(host,biz_id):
 	uu = util()
 	url1 = "http://1.119.132.130:8083/api/v3/hosts/add"
 
 	tmp = copy.deepcopy(models.tmpAddHost)
+	tmphost={"bk_host_innerip": host.bk_host_innerip,
+					   "import_from": host.import_from,
+						"bk_cpu": host.bk_cpu,
+					   'bk_isp_name': host.bk_isp_name,
+					   'bk_province_name': host.bk_province_name,
+					   	'bk_os_name': host.bk_os_name,
+					   'bk_os_version': host.bk_os_version,
+					   'bk_disk': host.bk_disk,
+					   'operator': host.operator,
+					    'bk_mem': host.bk_mem,
+					   'bk_host_name': host.bk_host_name,
+					   'bk_comment': host.bk_comment,
+					   'bk_os_bit': host.bk_os_bit,
+					   'bk_outer_mac': host.bk_outer_mac,
+					   'bk_asset_id': host.bk_asset_id,
+					   'bk_service_term': host.bk_service_term,
+					   'bk_os_type': host.bk_os_type,
+					   'bk_mac': host.bk_mac,
+					   'bk_bak_operator': host.bk_bak_operator,
+					   'bk_state_name': host.bk_state_name,
+					   'bk_cpu_module': host.bk_cpu_module,
+					    'bk_sla': host.bk_sla,
+					   'bk_cpu_mhz': host.bk_cpu_mhz,
+					   'bk_host_outerip': host.bk_host_outerip,
+					   'bk_sn': host.bk_sn,
+					   }
 
+	tmp["host_info"]["0"].update(tmphost)
+	tmp["bk_biz_id"]=biz_id
 	r = uu.util_myapi(url=url1, method='post', json=tmp)  # json=j or data=j
 	if r.get("ret") == 0:
 		return [], r.get("err")
-	print r['data']
+	# print r['data']
 
 
 def returnBizDict(**kwargs):
@@ -242,12 +319,12 @@ def wheel():
 	# 目标业务比源业务少的差异
 	diff = diffBiz(srcBizList, dstBizList)
 	if diff:  # 业务是否有差别，判断名字
-		addDstbiz(diff)
+		addDstbiz(diff) # 先保证业务一样
 
 	# 提取每个业务下的主机，比较
 	for srcbiz in srcBizList[0:1]:
 		# 获取目标库中业务名称与ID 的关系
-		dstBizDict=returnBizDict(biz = srcbiz["bk_biz_name"])
+		dstBizDict=returnBizDict(biz = srcbiz["bk_biz_name"]) # 提取目标业务 的ID与名字的关系 ，添加目标库中的主机要用
 
 		srcHostList, ok = returnHostList(url='http://paas.gcl-ops.com/api/c/compapi/v2/cc/search_host/', biz = srcbiz["bk_biz_name"])
 		if ok != "sucess":
@@ -264,7 +341,14 @@ def wheel():
 		# for i in srcHostList:
 		# 	print i['host']
 		# 	print i['host'].keys()
-		addlist,updatelist,dellist=diffhost(srcHostList, dstHostList)
-	addhost()
+		addlist,updatelist,dellist, dsthostipid =diffhost(srcHostList, dstHostList)
+		for host in addlist:
+			addhost(host,dstBizDict['bk_biz_id'])
+
+		for host in updatelist:
+			updatehost(host,dsthostipid[host.bk_host_innerip]) # 更新需要知道  主机ID
+		print addlist
+		print len(updatelist),updatelist
+		print dellist
 if __name__ == "__main__":
 	wheel()
