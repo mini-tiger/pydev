@@ -16,11 +16,13 @@ class log_class(object):
         self.log.addHandler(fileTimeHandler)
 
     def info(self, message):
-        # print (message,type(message))
+        print (message)
         self.log.info(message)
 
     def error(self,message):
+        print (message)
         self.log.error(message)
 
     def debug(self, message):
+        print (message)
         self.log.debug(message)

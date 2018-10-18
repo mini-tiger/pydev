@@ -189,8 +189,8 @@ def updatehost(host, host_id):
 	url1 = "http://1.119.132.130:8083/api/v3/hosts/batch"
 
 	# tmp = copy.deepcopy(models.tmpAddHost)
-	print host_id,host
-	tmphost={"bk_host_id":"%s".format(host_id),
+	# print host_id,host
+	tmphost={"bk_host_id": "%s" %(host_id),
 		# "bk_host_innerip": host.bk_host_innerip,  # 更新字段不能包括 IP
 					   "import_from": host.import_from,
 						"bk_cpu": host.bk_cpu,
@@ -230,7 +230,7 @@ def addhost(host,biz_id):
 	tmp = copy.deepcopy(models.tmpAddHost)
 	tmphost={"bk_host_innerip": host.bk_host_innerip,
 					   "import_from": host.import_from,
-						"bk_cpu": host.bk_cpu,
+						"bk_cpu": host.bk_cpu, # 防止CPU为0
 					   'bk_isp_name': host.bk_isp_name,
 					   'bk_province_name': host.bk_province_name,
 					   	'bk_os_name': host.bk_os_name,
@@ -260,7 +260,7 @@ def addhost(host,biz_id):
 	r = uu.util_myapi(url=url1, method='post', json=tmp)  # json=j or data=j
 	if r.get("ret") == 0:
 		return [], r.get("err")
-	# print r['data']
+	print r['data']
 
 
 def returnBizDict(**kwargs):
@@ -321,8 +321,8 @@ def wheel():
 	if diff:  # 业务是否有差别，判断名字
 		addDstbiz(diff) # 先保证业务一样
 
-	# 提取每个业务下的主机，比较
-	for srcbiz in srcBizList[0:1]:
+	# 提取每个业务下的主机，比较源库与目标库中 每个业务中的主机
+	for srcbiz in srcBizList:
 		# 获取目标库中业务名称与ID 的关系
 		dstBizDict=returnBizDict(biz = srcbiz["bk_biz_name"]) # 提取目标业务 的ID与名字的关系 ，添加目标库中的主机要用
 
@@ -338,17 +338,28 @@ def wheel():
 			logw.error(ok)
 			os._exit(1)
 
+
 		# for i in srcHostList:
 		# 	print i['host']
 		# 	print i['host'].keys()
 		addlist,updatelist,dellist, dsthostipid =diffhost(srcHostList, dstHostList)
+
+
+		print srcbiz["bk_biz_name"]
+		# print len(addlist),addlist
+		print len(updatelist)
+		for i in updatelist:
+			print i.bk_cpu,i.bk_host_innerip
+		# print len(dellist),dellist
+
+
 		for host in addlist:
 			addhost(host,dstBizDict['bk_biz_id'])
 
 		for host in updatelist:
 			updatehost(host,dsthostipid[host.bk_host_innerip]) # 更新需要知道  主机ID
-		print addlist
-		print len(updatelist),updatelist
-		print dellist
+
+		import time
+		time.sleep(5)
 if __name__ == "__main__":
 	wheel()
