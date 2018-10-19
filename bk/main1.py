@@ -188,8 +188,11 @@ def updatehost(host, host_id):
 	uu = util()
 	url1 = "http://1.119.132.130:8083/api/v3/hosts/batch"
 
-	# tmp = copy.deepcopy(models.tmpAddHost)
-	# print host_id,host
+	if host.bk_cpu == 0 or host.bk_cpu_mhz ==0:
+		logw.error(u"ip:%s,id:%d,bk_cpu or bk_cpu_mh 是0" % (
+			host.bk_host_innerip,
+			host_id))
+
 	tmphost={"bk_host_id": "%s" %(host_id),
 		# "bk_host_innerip": host.bk_host_innerip,  # 更新字段不能包括 IP
 					   "import_from": host.import_from,
@@ -220,8 +223,15 @@ def updatehost(host, host_id):
 	# print tmphost
 	r = uu.util_myapi(url=url1, method='put', json=tmphost)  # json=j or data=j
 	if r.get("ret") == 0:
+		logw.error("updatehost ip:%s error:%s" % (host.bk_host_innerip,r.get("err")))
 		return [], r.get("err")
-	print r['data']
+	# print r['data']
+	u = r['data'].encode("utf-8")
+	rr = json.loads(u)
+	# print rr['result']
+	if rr['result'] == False:
+		logw.error(u"updatehost ip:%s error:%s" % (host.bk_host_innerip, r['data']))
+
 
 def addhost(host,biz_id):
 	uu = util()
@@ -259,8 +269,14 @@ def addhost(host,biz_id):
 	tmp["bk_biz_id"]=biz_id
 	r = uu.util_myapi(url=url1, method='post', json=tmp)  # json=j or data=j
 	if r.get("ret") == 0:
+		logw.error("addhost ip:%s error:%s" % (host.bk_host_innerip,r.get("err")))
 		return [], r.get("err")
-	print r['data']
+	# print r['data']
+	u = r['data'].encode("utf-8")
+	rr = json.loads(u)
+	# print rr['result']
+	if rr['result'] == False:
+		logw.error(u"addhost ip:%s error:%s" % (host.bk_host_innerip, r['data']))
 
 
 def returnBizDict(**kwargs):
@@ -345,21 +361,21 @@ def wheel():
 		addlist,updatelist,dellist, dsthostipid =diffhost(srcHostList, dstHostList)
 
 
-		print srcbiz["bk_biz_name"]
-		# print len(addlist),addlist
-		print len(updatelist)
-		for i in updatelist:
-			print i.bk_cpu,i.bk_host_innerip
+		# print srcbiz["bk_biz_name"]
+		# # print len(addlist),addlist
+		# print len(updatelist)
+		# for i in updatelist:
+		# 	print i.bk_cpu,i.bk_host_innerip
 		# print len(dellist),dellist
 
 
 		for host in addlist:
-			addhost(host,dstBizDict['bk_biz_id'])
+			logw.debug(u"biz:%s,[addhost] ip:%s" % (srcbiz["bk_biz_name"], host.bk_host_innerip))
+			addhost(host, dstBizDict['bk_biz_id'])
 
 		for host in updatelist:
+			logw.debug(u"biz:%s,[updatehost] ip:%s" % (srcbiz["bk_biz_name"], host.bk_host_innerip))
 			updatehost(host,dsthostipid[host.bk_host_innerip]) # 更新需要知道  主机ID
 
-		import time
-		time.sleep(5)
 if __name__ == "__main__":
 	wheel()
