@@ -1,29 +1,22 @@
 import asyncio
-import sqlalchemy as sa
+import aiohttp
 
-from aiomysql.sa import create_engine
+async def fetch(url):
+    async with aiohttp.ClientSession() as session:
+        async with session.get(url) as response:
+            return await response.text()
 
+async def run():
 
-metadata = sa.MetaData()
-
-tbl = sa.Table('tbl', metadata,
-               sa.Column('id', sa.Integer, primary_key=True),
-               sa.Column('val', sa.String(255)))
-
-
-async def go(loop):
-    engine = await create_engine(user='falcon', db='test',
-                                 host='192.168.43.11', password='123456', loop=loop)
-    async with engine.acquire() as conn:
-        await conn.execute(tbl.insert().values(val='abc'))
-        await conn.execute(tbl.insert().values(val='xyz'))
-
-        async for row in conn.execute(tbl.select()):
-            print(row.id, row.val)
-
-    engine.close()
-    await engine.wait_closed()
+    tasks = []
+    for url in ["http://www.baidu.com","http://www.baidu.com"]:
+        task = fetch(url)
+        tasks.append(task)
+        responses = await asyncio.gather(*tasks)
+        # you now have all response bodies in this variable
+        print(responses)
 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(go(loop))
+loop.run_until_complete(run())
+loop.close()
