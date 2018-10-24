@@ -12,28 +12,31 @@ async def do_some_work(x):
 
 start = now()
 
-coroutine1 = do_some_work(1)
-coroutine2 = do_some_work(2)
-coroutine3 = do_some_work(4)
+# coroutine1 = do_some_work(1)
+# coroutine2 = do_some_work(2)
+# coroutine3 = do_some_work(4)
 
-tasks = [
-    asyncio.ensure_future(coroutine1),
-    asyncio.ensure_future(coroutine2),
-    asyncio.ensure_future(coroutine3)
-]
+
+a=asyncio.ensure_future(do_some_work(1))
+b=asyncio.ensure_future(do_some_work(2))
+    # coroutine3
+
 
 loop = asyncio.get_event_loop() #　创建LOOP主线程，所有协程都在这个线程中
 # loop.run_until_complete(asyncio.wait(tasks)) #  开始运行 run_until_complete直到都运行完,asyncio.wait 接受列表，
 
-loop.run_until_complete(asyncio.gather(*tasks)) # asyncio.wait 接受很多task
+loop.run_until_complete(asyncio.gather(*[a,b])) # asyncio.wait 接受很多task
+print(a,a.result())
+print(b,b.result())
+# result = (asyncio.gather(*tasks) 返回列表，result每项是 协程对象return回来的结果，推荐
 
-# while True:
-# 	for task in asyncio.Task.all_tasks():
-# 		if task._state == "FINISHED":
-# 			break
-# 	break
 
-for task in tasks:
-    print('Task ret: ', task.result())
+
+print("=="*50)
+# asyncio.wait() 返回set(), 通过a=create_task() 获取结果 frist.py
+result,ok =loop.run_until_complete(asyncio.wait([a,b]))
+print(result)
+print(ok)
+
 
 print('TIME: ', now() - start)

@@ -51,7 +51,7 @@ def returnHostList(url, **kwargs):
 				}
 			]
 		}
-	tmp["condition"].append(bizfilter)
+		tmp["condition"].append(bizfilter)
 	r = uu.util_myapi(url=url1, method='post', json=tmp)  # json=j or data=j
 
 	if r.get("ret") == 0:
@@ -296,7 +296,7 @@ def returnBizDict(**kwargs):
 		bizfilter = {
 			"bk_biz_name": bizname,
 		}
-	tmp["condition"].update(bizfilter)
+		tmp["condition"].update(bizfilter)
 
 	r = uu.util_myapi(url=url1, method='post', json=tmp)  # json=j or data=j
 

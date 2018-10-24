@@ -22,7 +22,8 @@ loop=asyncio.get_event_loop()
 tasks=[]
 for u in range(3):
 	tasks.append(asyncio.ensure_future(run("get")))
-aa=loop.run_until_complete(asyncio.wait(tasks))
+aa=loop.run_until_complete(asyncio.wait(tasks)) # asyncio.wait() 返回set()
+												# result = (asyncio.gather(*tasks) 返回列表，result每项是 协程对象return回来的结果，推荐
 print(aa[0])
 print(len(aa))
 loop.close()
