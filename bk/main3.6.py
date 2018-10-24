@@ -1,8 +1,8 @@
 import aiohttp
 import asyncio
 import time, copy, json, os
-from bk.models import models
-from bk import logg
+from models import models # 相对路径导入，提示报错正常
+import logg
 from concurrent.futures._base import TimeoutError
 from collections import *
 log = logg.Logger()
@@ -220,7 +220,6 @@ def diffhost(src, dst):
 	dellist = []
 
 	tmpSrcDict = {}
-	tmpSrcDict = {}
 	tmpDstDict = {}
 
 	dstHostIP_ID = {}
@@ -237,7 +236,6 @@ def diffhost(src, dst):
 	for ip in tmpSrcDict:
 		if ip in tmpDstDict.keys():  # 如果 目标存在 源数据库中的主机IP 比较内容是否相等, 命名元组可以比较
 			if tmpDstDict[ip] == tmpSrcDict[ip]:
-
 				continue
 			else:
 				# print tmpDstDict[ip]
@@ -298,7 +296,7 @@ async def addhost(host, biz_id):
 		# os._exit(1)
 
 	_d = json.loads(t.get("data"))
-	print(_d)
+	# print(_d)
 	if _d["result"] != True:
 		# logw.error(_d.get("bk_error_msg"))
 		logw.error(u"addhost ip:%s error:%s" % (host.bk_host_innerip, _d['bk_error_msg']))
@@ -339,11 +337,12 @@ async def updatehost(host, host_id):
 			   'bk_host_outerip': host.bk_host_outerip,
 			   'bk_sn': host.bk_sn,
 			   }
-	# print tmphost
-	task = asyncio.ensure_future(run("post", url=url1, json=json.dumps(tmphost)))
+	# print(tmphost)
+	task = asyncio.ensure_future(run("put", url=url1, json=json.dumps(tmphost)))
 	taskResult = await asyncio.gather(task)  # 协程嵌套，这里是 await
 
 	t = taskResult[0]
+	# print(taskResult)
 	if t.get("ret") == 0:
 		logw.error("updatehost ip:%s error:%s" % (host.bk_host_innerip, t.get("err")))
 		return []
@@ -407,7 +406,7 @@ def wheel():
 					logw.warn(u"跳过 ip:%s, biz: %s, host_id:%d,bk_cpu or bk_cpu_mh 是0" % (host.bk_host_innerip,srcbiz["bk_biz_name"], dsthostipid[host.bk_host_innerip]))
 					continue
 			logw.info(u"biz:%s,[updatehost] ip:%s" % (srcbiz["bk_biz_name"], host.bk_host_innerip))
-			tasks.append(addhost(host, dstBizDict['bk_biz_id']))
+			tasks.append(updatehost(host, dsthostipid[host.bk_host_innerip]))
 
 		loop.run_until_complete(asyncio.gather(*tasks))  # 阻塞主进程
 
