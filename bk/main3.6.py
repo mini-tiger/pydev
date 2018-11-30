@@ -391,6 +391,8 @@ def wheel():
 		srcHostList = srcHostListT.result()
 		dstHostList = dstHostListT.result()
 		# print(dstBizDict)
+		for i in srcHostList:
+			print(i)
 
 
 		addlist, updatelist, dellist, dsthostipid = diffhost(srcHostList, dstHostList)
