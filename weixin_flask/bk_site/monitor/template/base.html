@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    {% block meta %}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% endblock %}
+
+    <title>
+        {%block title%}Falcon+{%endblock%}
+    </title>
+
+    {% block css %}
+        <link href="/static/bootstrap3/css/bootstrap.min.css" rel="stylesheet">
+
+{#        add mynavbar css#}
+        <link href="bk_css/mynavbar.css" rel="stylesheet">
+        <link href="bk_css/mycss.css" rel="stylesheet">
+        <style>
+            body {
+                font-size:12px;
+                font-family: 'verdana', 'Microsoft YaHei', 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono';
+            }
+            select {font-size:12px;}
+            input {font-size:12px;}
+
+
+        </style>
+    {% endblock %}
+
+    {% block head_js %}
+        <script src="/static/js/jquery.min.js"></script>
+        <script src="https://cdn.bootcss.com/vue/2.2.2/vue.min.js"></script>
+{#        <script src="{{url_for('static', filename='layer/layer.min.js')}}"></script>#}
+{#        <script src="{{url_for('static', filename='js/g.js')}}"></script>#}
+{#        <script type="text/javascript" src="{{ url_for('static', filename='layer/extend/layer.ext.js') }}"></script>#}
+{#        <script src="{{url_for('static', filename='js/jquery.query.js')}}"></script>#}
+        <script src="/static/bootstrap3/js/bootstrap.min.js"></script>
+
+        <script>
+
+
+            function readablizeBytes(size) {
+                if (size <= 100000){
+                    return '' + size;
+                }
+
+                var SizePrefixes = ' KMGTPEZYXWVU';
+                if(size <= 0) return '0';
+                var t2 = Math.min(Math.round(Math.log(size)/Math.log(1000)), 12);
+                return (Math.round(size * 100 / Math.pow(1000, t2)) / 100) +
+                      SizePrefixes.charAt(t2).replace(' ', '') + '';
+            }
+
+            function formatSize(size1, standard) {
+                var size = parseFloat(size1);
+                if (standard) {
+                    standard = standard.toLowerCase();
+                }
+                if(size<=1){
+                    return size.toFixed(3);
+                }
+
+                var n = 0,
+                    base = standard == 'si' ? 1000 : 1024,
+                    prefixes = ' KMGTPEZY';
+
+                if (size >= base) {
+                    n = Math.floor( Math.log(size) / Math.log(base) );
+
+                    if (n >= prefixes.length) {
+                        return 'N/A';
+                    }
+
+                    size = ( size / Math.pow(base, n) ).toFixed(3) * 1 + '';
+                }else{
+                    size = size.toFixed(3)
+                }
+
+                return size + prefixes[n] + ( n && standard == 'iec' ? 'i' : '' ) + '';
+            }
+            function loadiframe() {
+                var heiF=$(window).height()-0-72-60;
+             　var frame_content = $("#iframe1");
+             //$(this).show();
+             frame_content.height(Math.max(heiF,350));
+
+            }
+        </script>
+    <script>
+        $(function () {
+         loadiframe();
+        });
+    </script>
+    {% endblock %}
+
+    {% block more_head %}
+    {% endblock %}
+</head>
+
+{%block body_head%}
+<body style="height:100%; padding-top: 0px; padding-bottom: 40px; font-size:12px;">
+{%endblock%}
+
+    {%block navbar%} {%endblock%}
+    {% block more_css%} {% endblock %}
+    {% block more_js%} {% endblock %}
+    {% block nav%} {% endblock %}
+
+
+    {% block container_outer %}
+    <div id="container" class="container-fluid" style="min-height:350px; width=100%">
+        {% block container %} {% endblock %}
+    </div>
+    {% endblock %}
+
+</body>
+
+</html>
