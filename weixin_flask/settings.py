@@ -91,7 +91,7 @@ config = {'default': developconfig, 'portal': portal, 'develop': developconfig}
 
 # 定义三种日志输出格式 开始
 
-standard_format = '[%(asctime) -s][%(threadName)s:%(thread)d][task_id:%(name)s][%(filename)s:%(lineno)d]' \
+standard_format = '[%(asctime) -s][%(threadName)s:%(thread)d][%(name)s][%(filename)s:%(lineno)d]' \
 				  '[%(levelname)s][%(message)s]'
 
 simple_format = '[%(levelname)s][%(asctime)s][%(filename)s:%(lineno)d]%(message)s'

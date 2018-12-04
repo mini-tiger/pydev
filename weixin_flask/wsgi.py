@@ -39,5 +39,5 @@ logger = logging.getLogger(__name__)  # 生成一个log实例
 logger.info('This is wsgi.py success start =========  open-falcon-dashboard')  # 记录该文件的运行状态
 
 if __name__ == "__main__":
-    app.run('0.0.0.0', 8000, debug=True)
+    app.run('0.0.0.0', 8008, debug=True)
     # app.run(host="0.0.0.0", port=8081, debug=True)
