@@ -40,4 +40,9 @@ logger.info('This is wsgi.py success start =========  open-falcon-dashboard')  #
 
 if __name__ == "__main__":
     app.run('0.0.0.0', 8008, debug=True)
+
+    # todo 先建立虚拟环境，PIP，gunicorn
+    # todo /usr/local/wx/venv
+    # todo /usr/local/wx/weixin_flask
+    # todo /usr/local/wx/weixin_flask/start.sh
     # app.run(host="0.0.0.0", port=8081, debug=True)
