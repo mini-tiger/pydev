@@ -42,6 +42,7 @@ if __name__ == "__main__":
     app.run('0.0.0.0', 8008, debug=True)
 
     # todo 先建立虚拟环境，PIP，gunicorn
+    # source venv/bin/active
     # todo /usr/local/wx/venv
     # todo /usr/local/wx/weixin_flask
     # todo /usr/local/wx/weixin_flask/start.sh
