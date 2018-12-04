@@ -96,7 +96,10 @@ class WeixinInterface:
         # fromuser=self.xml_tree.find("FromUserName").text
         # msgtype=xml_tree.find("MsgType").text
         # AgentID=self.xml_tree.find("AgentID").text
-        eventkey = self.xml_tree.find("EventKey").text
+        # eventkey = self.xml_tree.find("EventKey").text
+        #
+        self.event_key = self.xml_tree.find("EventKey").text
+        LOG.debug("recv data XML eventKEY: %s" % self.event_key)
         createtime = str(int(time.time()))
         msg = "别瞎点：感谢陶钧对此次项目的极大支持"
         ##以下 为回复消息时的 ，加密过程
@@ -133,8 +136,8 @@ class WeixinInterface:
         self.touser = self.xml_tree.find("ToUserName").text
         self.fromuser = self.xml_tree.find("FromUserName").text
         self.AgentID = self.xml_tree.find("AgentID").text
-        self.event_key = self.xml_tree.find("EventKey").text
-        LOG.debug("recv data XML eventKEY: %s" % self.event_key)
+        # self.event_key = self.xml_tree.find("EventKey").text
+        # LOG.debug("recv data XML eventKEY: %s" % self.event_key)
 
 
         if self.msgtype == 'text':  ##通过类型判断 进入哪个函数
