@@ -1,39 +1,47 @@
-from __future__ import print_function
-import random
+# coding:utf-8
+import json
+import socket
+import itertools
 import time
 
-# with open("c:\\test.log", "r") as f:
-# 	print(f.readlines())
-#
-x = lambda: time.time()
-# s = "abc"
+
+class RPCClient(object):
+	def __init__(self, addr, codec=json):
+		self._socket = socket.create_connection(addr)
+		self._id_iter = itertools.count()
+		self._codec = codec
+
+	def _message(self, name, *params):
+		return dict(id=self._id_iter.next(),
+		            params=list(params),
+		            method=name)
+
+	def call(self, name, *params):
+		req = self._message(name, *params)
+		id = req.get('id')
 
 
-def dd():
-	for i in range(1, 10):
-		for j in range(1, i + 1):
-			print("%d * %d = %d \t" % (j, i, i * j), end="")
-		print()
+		mesg = self._codec.dumps(req)
+		self._socket.sendall(mesg)
 
-def wrapp(a):
-	def bibao1(aa):
-		def bibao(b):
-			print(aa(b))
-			print(1)
-			print(b)
-		return bibao
-	return bibao1
+		# This will actually have to loop if resp is bigger
+		resp = self._socket.recv(4096)
+		resp = self._codec.loads(resp)
 
-@wrapp(1)
-def abc(b):
-	return 123
+		if resp.get('id') != id: # todo 请求发送的ID,与 返回的ID一样，代表是同一个rpc连接
+			raise Exception("expected id=%s, received id=%s: %s"
+			                % (id, resp.get('id'), resp.get('error')))
+
+		if resp.get('error') is not None:
+			raise Exception(resp.get('error'))
+
+		return resp.get('result')
+
+	def close(self):
+		self._socket.close()
 
 
-abc(3)
-
-if __name__ == "__main__":
-	# print(x())
-	# dd()
-	if 1==1:
-		print(1)
-
+if __name__ == '__main__':
+	rpc = RPCClient(("192.168.43.26", 6038))
+	mv = dict(hostname="di", version="v1", extinfo={"uuid":"abc-efg-hij"})
+	print(rpc.call("Itma.UploadEnvironmentGrid", mv))
