@@ -21,9 +21,17 @@ except Exception as e:
 class B(A):
 	pass
 
+class C(A):
+	__slots__ = []
 
 b1 = B()
 b1.c = 2  # todo 子类不受影响
+
+c1 = C()
+try:
+	c1.c = 2  # todo 子类也有__slots__, 父类加子类的 __slots__
+except Exception as e:
+		print "This is c1.c Err: %s" % str(e)
 
 print "*" * 20 + "del" + "*" * 20
 
