@@ -1,6 +1,9 @@
 # coding:utf-8
 
 import env
+from env import func
+print(func.Func1())
+print(func.Obj1().c())
 
 s=env.str_ex(8)
 l=env.list_ex(8)

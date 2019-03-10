@@ -1,6 +1,8 @@
 # coding:utf-8
 import string, random
 
+def print_func(str):
+	print("=" * 20 + str + "="*20)
 
 # 列表字典
 def create_str(n):
@@ -10,7 +12,7 @@ def create_str(n):
 
 # 建立
 print [x for x in range(10) if x % 2 != 1]
-print {x: y for x in range(10) for y in range(10)}
+print {x: y for x in range(10) for y in range(10)} # 字典推导
 print dict([(x, x + 1) for x in range(10)])
 d1 = {}
 d1 = d1.fromkeys([1, 2], "a")
@@ -84,6 +86,14 @@ def func1(*a, **k):
 
 f1 = func1(1, 2, [1, 2], a=1)
 
+
+
+# 迭代器
+print_func("迭代器与生成器")
+a =[x for x in range(10) if x%2>0]
+print(a)
+a=(x for x in range(10) if x%2>0)
+print(a)
 
 # iter gen
 
