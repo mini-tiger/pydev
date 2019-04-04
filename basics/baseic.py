@@ -171,10 +171,10 @@ print cc1.c()
 
 
 class cls2(object):
-	def __news__(cls, *a, **w):
-		if not hasattr(cls2, 'i'):
-			cls2.i = super(cls2, cls).__news__(cls, *a, **w)
-
+	def __new__(cls, *a, **w):
+		if not hasattr(cls2, '_i'):  # 单实例方式
+			cls2._i = super(cls2, cls).__new__(cls, *a, **w)
+		return cls2._i
 	def __init__(self, *a, **w):
 		pass
 
