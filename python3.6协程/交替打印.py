@@ -14,7 +14,7 @@ async def do_some_work(x):
 
 async def do_some_work1(x):
     # await asyncio.sleep(0)
-    await asyncio.sleep(1) # 异步
+    await asyncio.sleep(0)  # 异步
     # a.append(x)
     print('Waiting: ', x)
 
@@ -38,7 +38,7 @@ for i in range(0, 10):
         taskList.append(asyncio.ensure_future(do_some_work(i)))
         # loop.run_until_complete(task)
     else:
-        taskList.append(asyncio.ensure_future(do_some_work1(i)))
+        taskList.append(asyncio.ensure_future(do_some_work(i)))
 
 loop.run_until_complete(asyncio.gather(*taskList))
 
