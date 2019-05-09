@@ -1,20 +1,13 @@
-class ListNew(list):
-    def __init__(self):
-        super(ListNew, self).__init__()  # 执行父类中的代码，并将父类产生的属性 继承
+from copy import deepcopy
+import itertools
+l1=range(0,2)
+l2=range(0,3)
+l3=list(l1)+list(l2)
+l3.sort()
+print(l3)
+for key, group in itertools.groupby(l3):  ## 返回分组, 连续相同的 元素，以及元素出现的生成器
+	print (key, list(group))
 
-    def diy(self, v):
-        return self.count(v)
-
-    def count(self, v):
-        print("重写继承count方法")
-        return super(ListNew, self).count(v)  # 执行父类中的代码，并将父类产生的属性 继承
 
 
-if __name__ == "__main__":
-    l1 = ListNew()
 
-    print(l1.__dir__())
-    l1.append(1)
-    print(l1)
-    print("count func:", l1.count(1))
-    print("diy func:", l1.diy(1))
