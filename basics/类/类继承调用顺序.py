@@ -1,4 +1,16 @@
 # -*- coding: utf-8 -*-
+# Python 2.x中默认都是经典类，只有显式继承了object才是新式类
+# Python 3.x中默认都是新式类，不必显式的继承object
+# 其次：
+# ------新式类对象可以直接通过__class__属性获取自身类型:type
+# ------继承搜索的顺序发生了改变,
+# 经典类多继承属性搜索顺序: 先深入继承树左侧，再返回，开始找右侧;
+# 新式类多继承属性搜索顺序: 先水平搜索，然后再向上移动
+#
+# ------新式类增加了__slots__内置属性, 可以把实例属性的种类锁定到__slots__规定的范围之中\
+# ------新式类增加了__getattribute__方法
+
+
 
 def print_func(str):
     print("=" * 20 + str + "="*20)
@@ -40,7 +52,7 @@ class AA(object):
 aa=AA()
 aa.fn1(2)
 
-print_func("super方法类继承顺序")
+print_func("super 新式方法类继承顺序")
 class A(object):
     def go(self):
         print("go A go!")
