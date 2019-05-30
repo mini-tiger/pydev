@@ -5,7 +5,7 @@ import string
 
 
 list_ex = lambda x: random.sample(
-    string.digits + string.letters + string.punctuation, x)
+    string.digits + string.ascii_letters + string.punctuation, x)
 
 str_ex = lambda x: ''.join(list_ex(x))
 

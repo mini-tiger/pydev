@@ -20,7 +20,7 @@ s = 'ab0s'
 l = [1, 2, 0, 3]
 print(s.split('a'), all(s.split('a')))
 print(l, all(l))
-print(xrange(1, 3), all(xrange(1, 3)))
+print(range(1, 3), all(range(1, 3)))
 print(l)
 print_ex('all() 可迭代对象,只要有一个0或false， 返回False :', 'all(l)')
 print(all(l))
@@ -30,7 +30,7 @@ print(any(l))
 
 print_ex('enumerate() 返回可迭代对象的 下标和值，第二参数为 从哪个下标开始 :',
          'enumerate(xrange(10, 2))')
-for i, v in enumerate(xrange(10), 2):
+for i, v in enumerate(range(10), 2):
     print(i, v)
 
 print ("{:#^100}".format('''转换 码'''))
@@ -41,7 +41,7 @@ print('返回数对应的 ASCII 数值 :', 'chr(97)')
 print(chr(97))
 
 print('返回数对应的 unicode 的字符 :', 'unichr(7)')
-print(unichr(97))
+# print(unichr(97))
 
 print('返回对象的字符串格式 :', 'str(env.dict_ex(3))')
 print(str(env.dict_ex(3)))
