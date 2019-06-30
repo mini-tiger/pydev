@@ -23,8 +23,10 @@ print(a)
 #  [8 4 3]
 #  [2 4 9]]
 print('调用 amin() 函数：')
+# 每行最小值
 print(np.amin(a, axis=1))  # 按照X轴最小值  [3 3 2]
 
+# 第列最小值
 print('再次调用 amin() 函数：')
 print(np.amin(a, axis=0))  # 按照Y轴最小值 [2 4 3]
 

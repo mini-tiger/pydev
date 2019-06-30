@@ -1,5 +1,7 @@
 import numpy as np
 
+# https://www.runoob.com/numpy/numpy-sort-search.html
+
 data = np.sin(np.arange(20)).reshape(5, 4)
 print(data)  # 生成 5行4列
 ind = data.argmax(axis=0)  # 按照列 生成 最大值的索引
