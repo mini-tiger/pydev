@@ -10,6 +10,9 @@ print(twoRows[food_info.columns[0]])  # 查看某列，
 # 1    1002
 # Name: NDB_No, dtype: int64
 
+print(food_info.loc[2,"Water_(g)"]) # 索引为2 是 第三行，Water_(g) 列的数据
+
+
 cols = ["NDB_No", "Water_(g)"]
 print(twoRows[cols]) # 指定列名，[["col1","col2"]]
 #    NDB_No  Water_(g)

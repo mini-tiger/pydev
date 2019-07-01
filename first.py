@@ -1,7 +1,17 @@
-import itertools
+# coding:utf-8
+import random
+import string
+import base64
+import time
 
-s1 = 'AAABBBCCAAA'  # todo groupby 之前要排序 相同元素在一起
-for key, group in itertools.groupby(sorted(s1)):  ## 返回分组, 连续相同的 元素，以及元素出现的生成器
-    print(key, list(group))
-    # if 1==1:
-    break
+list_ex = lambda x: random.sample(
+    string.digits + string.ascii_letters + string.punctuation, x)
+
+str_ex = lambda x: ''.join(list_ex(x))
+
+
+def genstr(l):
+    return base64.b32encode(str_ex(l) + str(time.time()))
+
+
+print genstr(10)

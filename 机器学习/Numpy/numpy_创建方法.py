@@ -1,7 +1,8 @@
 import numpy
 
 import numpy as np
-
+# todo http://www.voidcn.com/article/p-nrrdwtmy-cm.html
+# todo https://blog.csdn.net/u010199356/article/details/85697860
 # #int8，int16，int32，int64 可替换为等价的字符串 'i1'，'i2'，'i4'，以及其他。
 
 # 数据类型https://wizardforcel.gitbooks.io/ts-numpy-tut/content/3.html
@@ -83,3 +84,11 @@ b = np.tile(a, (2, 2))
 print(b)
 # [[ 0 10 20 30  0 10 20 30]
 #  [ 0 10 20 30  0 10 20 30]]
+
+#todo 对角矩阵
+print(numpy.eye(5,5))
+# [[1. 0. 0. 0. 0.]
+#  [0. 1. 0. 0. 0.]
+#  [0. 0. 1. 0. 0.]
+#  [0. 0. 0. 1. 0.]
+#  [0. 0. 0. 0. 1.]]
