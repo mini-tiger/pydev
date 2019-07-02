@@ -30,7 +30,7 @@ def on_click(params):
 REMOTE_HOST = "https://pyecharts.github.io/assets/js"
 
 import os
-print os.getcwd()
+# print os.getcwd()
 def index():
     env = Environment(loader=PackageLoader(package_name='template', package_path='.'))
     template = env.get_template('pyecharts.html')
