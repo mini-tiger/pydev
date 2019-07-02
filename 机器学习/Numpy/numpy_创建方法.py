@@ -68,7 +68,7 @@ print(a)  # (array([10, 12, 14, 16, 18]), 2.0)
 # 生成两行3列 矩阵
 print(np.random.random((2, 3)))
 
-
+# np.linspace( 0, 2, 9 ) # 返回从 0 to 2的9 个数。
 data = np.sin(np.arange(20)).reshape(5,4)
 print(data) # 生成 5行4列
 ind = data.argmax(axis=0) # 按照列 生成 最大值的索引
