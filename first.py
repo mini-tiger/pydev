@@ -18,31 +18,26 @@ concurrency = 10
 import socket
 
 now = lambda: time.time()
+sem = asyncio.Semaphore(1000)
 
 
 async def ping(port, ip="127.0.0.1", timeout=1):
-    try:
-        # await asyncio.sleep(0)
-        cs = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        address = (str(ip), int(port))
-        status = cs.connect_ex((address))
-        cs.settimeout(timeout)
+    async with sem:
+        try:
+            # await asyncio.sleep(0
+            fut = asyncio.open_connection(ip, port)
+            await asyncio.wait_for(fut, timeout=1)
+            print("success")
 
-        # this status is returnback from tcpserver
-        if status != NORMAL:
-            print("error:,port:%d" % port)
-        else:
-            print("success:,port:%d" % port)
-    except Exception as e:
-        print("error:%s,port:%d" % e, port)
+        except Exception as e:
+            print("port:%d,error:%s" % (port, e))
 
 
 start = now()
-tasklist = []
-for i in range(10):
-    tasklist.append(asyncio.ensure_future(ping(i)))
+# tasklist = []
+# for i in range(10):
+tasklist = [ping(port) for port in range(1, 10)]
 
-loop = asyncio.get_event_loop()
-# task = asyncio.ensure_future(coroutine)
-loop.run_until_complete(asyncio.gather(*tasklist))
-print(now()-start)
+loop = asyncio.get_event_loop()  # 创建LOOP主线程，所有协程都在这个线程中
+loop.run_until_complete(asyncio.wait(tasklist))
+print("time:", now() - start)
