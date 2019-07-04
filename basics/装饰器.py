@@ -111,25 +111,60 @@ class cls(object):
 
 c = cls(1)
 
-print("==="*50)
+print("===" * 50)
+
+
 def output(name):
     print("name:%s" % name)
+
     def out(fun):
         def inner(*args, **kwargs):
             start = time.time()
-            a = fun(*args, **kwargs) ## 这里已经执行了 time.sleep(2)
+            a = fun(*args, **kwargs)  ## 这里已经执行了 time.sleep(2)
             end = time.time()
-            print(end - start) # 由于上面执行了，所以这里是2秒
-            return a # 这里需要上面都执行完才会返回，this is f args:1 在最后
+            print(end - start)  # 由于上面执行了，所以这里是2秒
+            return a  # 这里需要上面都执行完才会返回，this is f args:1 在最后
+
         return inner
+
     return out
 
 
 @output(name="abc")
 def f(aa):
     time.sleep(2)
-    return "this is f args:%s" %aa
+    return "this is f args:%s" % aa
 
 
 a = f(1)
+print(a)
+print("===" * 50)
+
+
+class C(object):
+    fns = []
+
+    @staticmethod
+    def commons(arg):
+        def abc(fn):
+            C.fns.append((fn(arg), fn.__name__))
+
+        return abc
+
+    @staticmethod
+    def commons1(fun):
+        C.fns.append((fun, fun.__name__))
+
+
+@C.commons("1")  # 这里会直接调用 ，不需要额外调用
+def func(s):
+    return s
+
+
+@C.commons1
+def func1(s):
+    return s
+
+from inspect import isfunction
+a = [ x(1) for x, _ in C.fns if isfunction(x)]
 print(a)

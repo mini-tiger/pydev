@@ -79,5 +79,4 @@ def map_guangdong() -> Map:
     )
     return c
 
-
 Page().add(*[fn() for fn, _ in C.charts]).render()
