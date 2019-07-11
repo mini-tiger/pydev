@@ -1,6 +1,6 @@
 from gevent import monkey, pool
 import time
-monkey.patch_all()
+monkey.patch_all()  #将程序中所有IO操作做上标记使程序非阻塞状态
 import gevent
 import urllib.request
 
