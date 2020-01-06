@@ -1,18 +1,20 @@
 # coding:utf-8
 import string, random
 
+
 def print_func(str):
-	print("=" * 20 + str + "="*20)
+    print("=" * 20 + str + "=" * 20)
+
 
 # 列表字典
 def create_str(n):
-	_l = random.sample(string.letters + string.digits, n)
-	return ''.join(_l)
+    _l = random.sample(string.letters + string.digits, n)
+    return ''.join(_l)
 
 
 # 建立
 print [x for x in range(10) if x % 2 != 1]
-print {x: y for x in range(10) for y in range(10)} # 字典推导
+print {x: y for x in range(10) for y in range(10)}  # 字典推导
 print dict([(x, x + 1) for x in range(10)])
 d1 = {}
 d1 = d1.fromkeys([1, 2], "a")
@@ -37,6 +39,11 @@ print d3  # {'E': 'q', 'j': 'K', 'p': '3', 'r': '8', 'T': 'a', 'W': 'n', '8': 'U
 # 追加
 d3.update({'a': 3})  # {'a': 3, 'E': '9', 'f': '7', 'm': 'v', '1': 'z', '3': 'F', '5': 'U', 'w': 'J', 'v': 'E'}
 print d3
+# 合并
+dd1 = {"a": 1, "b": 2}
+dd2 = {"c": 3}
+print dict(dd1, **dd2)
+print dict(dd1.items() + dd2.items())
 
 print [1] + [2]  # [1, 2]
 l = [1]
@@ -75,59 +82,72 @@ print l
 l.append(4)  # 追加
 print l
 
+# 追加
+ll1 = [1, 2]
+ll2 = [3]
+ll1 += ll2
+print ll1
+ll1 = [1, 2]
+ll2 = [3]
+ll1.append(*ll2)
+print ll1
+ll1 = [1, 2]
+ll2 = [3]
+ll1[2:2] = ll2
+print ll1
+
 print l.count(1)  ##统计有多少是1 的项
 
 
 ##function
 def func1(*a, **k):
-	print a
-	print k
+    print a
+    print k
 
 
 f1 = func1(1, 2, [1, 2], a=1)
 
-
-
 # 迭代器
 print_func("迭代器与生成器")
-a =[x for x in range(10) if x%2>0]
+a = [x for x in range(10) if x % 2 > 0]
 print(a)
-a=(x for x in range(10) if x%2>0)
+a = (x for x in range(10) if x % 2 > 0)
 print(a)
+
 
 # iter gen
 
 def gen(n):
-	while True:
-		if n > 0:
-			yield n
-			n = n - 1
-		else:
-			raise StopIteration
+    while True:
+        if n > 0:
+            yield n
+            n = n - 1
+        else:
+            raise StopIteration
 
 
 g = gen(2)
 print g.next()
 print g.next()
 try:
-	g.next()
+    g.next()
 except StopIteration as e:
-	pass
+    pass
 
 
 class iter_tools(object):
-	def __init__(self):
-		self.n = 3
+    def __init__(self):
+        self.n = 3
 
-	def __iter__(self):
-		return
+    def __iter__(self):
+        return
 
-	def next(self):
-		if self.n > 0:
-			self.n = self.n - 1
-			return self.n
-		else:
-			return StopIteration
+    def next(self):
+        if self.n > 0:
+            self.n = self.n - 1
+            return self.n
+        else:
+            return StopIteration
 
 
 i = iter_tools()
@@ -140,18 +160,18 @@ print i.next()
 # 装饰器
 
 def wrapp(a):
-	def bibao1(func):
-		def bibao(n):
-			print '%d %5d %s' % (a, func(n), 3)
+    def bibao1(func):
+        def bibao(n):
+            print '%d %5d %s' % (a, func(n), 3)
 
-		return bibao
+        return bibao
 
-	return bibao1
+    return bibao1
 
 
 @wrapp(a=1)
 def func1(n):
-	return n
+    return n
 
 
 f1 = func1(2)  # 1 2 3
@@ -159,11 +179,11 @@ f1 = func1(2)  # 1 2 3
 
 # 类
 class cls1(object):
-	def __init__(self, *a, **w):
-		super(cls1, self).__init__()
+    def __init__(self, *a, **w):
+        super(cls1, self).__init__()
 
-	def c(self):
-		return 1
+    def c(self):
+        return 1
 
 
 cc1 = cls1(1, [1, 2], a=1)
@@ -171,28 +191,29 @@ print cc1.c()
 
 
 class cls2(object):
-	def __new__(cls, *a, **w):
-		if not hasattr(cls2, '_i'):  # 单实例方式
-			cls2._i = super(cls2, cls).__new__(cls, *a, **w)
-		return cls2._i
-	def __init__(self, *a, **w):
-		pass
+    def __new__(cls, *a, **w):
+        if not hasattr(cls2, '_i'):  # 单实例方式
+            cls2._i = super(cls2, cls).__new__(cls, *a, **w)
+        return cls2._i
 
-	def c(self):
-		return 1
+    def __init__(self, *a, **w):
+        pass
 
-	def __getattr__(self, k):
-		return k
+    def c(self):
+        return 1
 
-	def __setattr__(self, k, v):
-		self.__dict__[k] = v
+    def __getattr__(self, k):
+        return k
 
-	def __call__(self, k):
-		return self.k
+    def __setattr__(self, k, v):
+        self.__dict__[k] = v
 
-	@property
-	def c1(self):
-		return 11
+    def __call__(self, k):
+        return self.k
+
+    @property
+    def c1(self):
+        return 11
 
 
 cc2 = cls2(1, a=1)
@@ -249,5 +270,5 @@ b = {'a': 1}
 print enumerate(a).next()
 print enumerate(b).next()
 for x, y in itertools.groupby(enumerate([1, 2]), key=lambda x: x > 1):
-	print x
-	print list(y)
+    print x
+    print list(y)

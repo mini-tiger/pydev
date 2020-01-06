@@ -41,6 +41,13 @@ print d3
 d3.update({'a': 3})
 print d3
 
+
+# 合并
+dd1 = {"a": 1, "b": 2}
+dd2 = {"c": 3}
+print dict(dd1, **dd2)
+print dict(dd1.items() + dd2.items())
+
 print[1] + [2]  # [1, 2]
 l = [1]
 l.extend([2])
@@ -79,6 +86,20 @@ l.insert(0, 7)  # 索引位置插入
 print l
 l.append(4)  # 追加
 print l
+
+# 追加
+ll1 = [1, 2]
+ll2 = [3]
+ll1 += ll2
+print ll1
+ll1 = [1, 2]
+ll2 = [3]
+ll1.append(*ll2)
+print ll1
+ll1 = [1, 2]
+ll2 = [3]
+ll1[2:2] = ll2
+print ll1
 
 print l.count(1)  # 统计有多少是1 的项
 
