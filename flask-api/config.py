@@ -16,7 +16,7 @@ class ProductionConfig(Config):
 
 class DevelopmentConfig(Config):
     DB_SERVER = 'localhost'
-    SERVER_NAME = '192.168.43.26:5555'
+    # SERVER_NAME = '192.168.43.26:5555'
     DEBUG = True
 
 
@@ -24,3 +24,19 @@ class TestingConfig(Config):
     DB_SERVER = 'localhost'
     DEBUG = True
     DATABASE_URI = 'sqlite:///:memory:'
+
+
+class GeneralCfg(object):
+    success = 200
+    fail = 400
+
+    def __init__(self):
+        pass
+    #
+    # @property
+    # def success(self):
+    #     return 200
+    #
+    # @property
+    # def fail(self):
+    #     return 400

@@ -22,14 +22,15 @@ def index():
 @app.route('/about', methods=["GET", "POST"])  # 参数获取
 def about():
     print("get args:", request.args)
-    print("json args:", request.get_json())
-    print("post form args:", request.form)
-    return 'About Page'
+    print("json args:", request.get_json())  # application/json
+    print("post form args:", request.form)  # application/x-www-form-urlencoded
+    print("post data args:", request.get_data())
+    return jsonify({"status": config.GeneralCfg.success})
 
 
 if __name__ == '__main__':
     print("url 地图:\n", app.url_map)  # 打印URL 配置
-    # app.run(host="0.0.0.0")
+
     app.config.from_object(config.DevelopmentConfig)  # 加载配置文件
     # print(app.config.items())
-    app.run()
+    app.run(host="0.0.0.0", port=5555)
