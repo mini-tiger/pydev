@@ -1,8 +1,9 @@
-from flask import Flask, url_for, jsonify, request
-from user import userbp
-from admin import adminbp
+from flask import Flask, jsonify, request
+from Pages.user import userbp
+from Pages.admin import adminbp
 import config
 import errhandle
+import logconfig
 
 app = Flask(__name__)
 # 异常自定义
@@ -13,6 +14,24 @@ app.register_error_handler(500, errhandle.page500)
 app.register_blueprint(userbp)
 app.register_blueprint(adminbp)
 
+
+@app.before_request  # 在请求收到之前绑定一个函数做一些事情。
+def before_request():
+    print('before_request 本次请求路径', request.path)
+
+
+@app.after_request  # 每一个请求之后绑定一个函数，如果请求没有异常。
+def after_request(response):
+    print('after request 返回状态', response.status)
+    return response
+
+
+@app.teardown_request  # 每一个请求之后绑定一个函数，即使遇到了异常。
+def teardown_request(exception):
+    print('teardown request path:%s,err:%s' % (request.path, exception))
+
+
+# ------------------------------------------------------------------------------------
 
 @app.route('/', endpoint='index')
 def index():
@@ -33,4 +52,7 @@ if __name__ == '__main__':
 
     app.config.from_object(config.DevelopmentConfig)  # 加载配置文件
     # print(app.config.items())
+
+    app.logger.addHandler(logconfig.info_handler)
+
     app.run(host="0.0.0.0", port=5555)
