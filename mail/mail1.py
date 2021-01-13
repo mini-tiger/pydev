@@ -1,20 +1,19 @@
 # -*- coding: UTF-8 -*-
-import os,sys
+import os, sys
 # reload(sys)
 # sys.setdefaultencoding('gbk')
-import smtplib,datetime,os
+import smtplib, datetime, os
 from email.mime.text import MIMEText
 # from email.Header import Header
 
+
 def mail_send(data):
-    
-    dt=datetime.datetime.now()
+    dt = datetime.datetime.now()
     zuo = dt - datetime.timedelta(days=1)
     zuotian = zuo.strftime('%Y%m%d')
 
-
-    txt="<html><body></body></html><font size='6' color='red'>"+data.get('data')+"</font>"
-    msg=MIMEText(txt,_subtype='html',_charset='GBK')
+    txt = "<html><body></body></html><font size='6' color='red'>" + data.get('data') + "</font>"
+    msg = MIMEText(txt, _subtype='html', _charset='GBK')
 
     # sender = 'monitor@palmcity.cn'
     # tolist = ['monitor@palmcity.cn']   ##·¢ËÍ¶àÈË
@@ -23,15 +22,14 @@ def mail_send(data):
     # password = 'palmc2013#$%'
 
     sender = '61566027@163.com'
-    tolist = ['61566027@163.com']   ##·¢ËÍ¶àÈË
+    tolist = ['61566027@163.com']  ##·¢ËÍ¶àÈË
     # smtpserver = 'smtp.163.com'
     username = '61566027@163.com'
     # password = '123.com'
-    password = "Taojun319" # 授权码
-
+    password = "Taojun319"  # 授权码
 
     ##¶¨ÒåÓÊ¼þ±êÌâ
-    msg['Subject'] = Header("报警 "+' '+str(datetime.date.today()),'UTF-8')
+    msg['Subject'] = Header("报警 " + ' ' + str(datetime.date.today()), 'UTF-8')
 
     ##ÓÊ¼þ·¢ËÍÉèÖÃ
     smtp = smtplib.SMTP()
@@ -42,7 +40,7 @@ def mail_send(data):
     for to in tolist:
         smtp.sendmail(sender, [to], msg.as_string())
     smtp.quit()
-    
+
 
 if __name__ == "__main__":
-    mail_send({"data":"111111111"})
+    mail_send({"data": "111111111"})
