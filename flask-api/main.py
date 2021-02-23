@@ -61,9 +61,16 @@ def cached(timeout=5 * 60, key='view/%s'):
     return decorator
 
 
+import os
+
+
 @app.route('/', endpoint='index')
 def index():
-    return 'Index Page'
+    a = dict()
+    val_a = os.system('df')
+
+    a["df"] = val_a
+    return a
 
 
 @app.route('/about', methods=["GET", "POST"])  # 参数获取

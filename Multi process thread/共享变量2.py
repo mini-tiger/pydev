@@ -26,7 +26,6 @@ if __name__ == "__main__":
     p.join()
 
     print(num.value)
-
     print("-"*50)
     num = multiprocessing.Array("i", [1, 2, 3, 4, 5])  # 主进程与子进程共享这个数组
     print(num[:])
