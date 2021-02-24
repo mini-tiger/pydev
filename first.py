@@ -1,13 +1,14 @@
-d = dict()
+
+import os
 
 
-class A():
-    def __init__(self):
-        pass
+def r():
+    a=dict()
+    val_a = os.system('df')
 
+    a["df"]=val_a
+    return a
 
-a = A()
-print(d.update({1: a}))
-
-for k, v in d.items():
-    print(k,type(v) )
+if __name__ == "__main__":
+    a=r()
+    print(a)
