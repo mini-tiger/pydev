@@ -10,5 +10,6 @@ def r():
     return a
 
 if __name__ == "__main__":
+
     a=r()
     print(a)
