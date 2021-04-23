@@ -1,15 +1,14 @@
-
 import os
 
 
 def r():
-    a=dict()
+    a = dict()
     val_a = os.system('df')
 
-    a["df"]=val_a
+    a["df"] = val_a
     return a
 
-if __name__ == "__main__":
 
-    a=r()
+if __name__ == "__main__":
+    a = r()
     print(a)
