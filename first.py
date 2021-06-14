@@ -3,7 +3,7 @@ import os
 
 def r():
     a = dict()
-    val_a = os.system('df')
+    val_a = os.system('ipconfig')
 
     a["df"] = val_a
     return a
