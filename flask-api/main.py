@@ -4,10 +4,12 @@ from Pages.admin import adminbp
 import config
 import errhandle
 import logconfig
-
+from flask_cors import CORS
 from functools import wraps
 
 app = Flask(__name__)
+CORS(app, supports_credentials=True)  # xxx 跨域
+
 # 异常自定义
 app.register_error_handler(404, errhandle.page404)
 app.register_error_handler(400, errhandle.page400)
@@ -71,6 +73,18 @@ def index():
 
     a["df"] = val_a
     return a
+
+
+@app.route('/uploadFile', methods=["POST"])  # 上传文件 以及参数   postman  form-data 方式  file:文件  , 其他参数
+def uploadFile():
+    f_obj = request.files['file']
+    print("上传文件名:", f_obj.filename)
+    if f_obj is None:
+        return jsonify({"status": config.GeneralCfg.fail})
+    f_obj.save(os.path.join("./", f_obj.filename))
+
+    print("上传参数:", request.form.to_dict())
+    return jsonify({"status": config.GeneralCfg.success})
 
 
 @app.route('/about', methods=["GET", "POST"])  # 参数获取
