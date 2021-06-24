@@ -6,6 +6,7 @@ import errhandle
 import logconfig
 from flask_cors import CORS
 from functools import wraps
+import os
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True)  # xxx 跨域
@@ -61,9 +62,6 @@ def cached(timeout=5 * 60, key='view/%s'):
         return decorated_function
 
     return decorator
-
-
-import os
 
 
 @app.route('/', endpoint='index')
