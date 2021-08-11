@@ -1,12 +1,13 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, make_response
 from Pages.user import userbp
 from Pages.admin import adminbp
 import config
 import errhandle
 import logconfig
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 from functools import wraps
 import os
+import time
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True)  # xxx 跨域
@@ -23,12 +24,14 @@ app.register_blueprint(adminbp)
 # ---------------------xxx 上下文拦截器--------------------------------------------------
 @app.before_request  # 在请求收到之前绑定一个函数做一些事情。
 def before_request():
+    request.__setattr__("reqTime", time.time())
     app.logger.info('before_request 本次请求路径 %s' % request.path)
 
 
 @app.after_request  # 每一个请求之后绑定一个函数，如果请求没有异常。
 def after_request(response):
     print('after request 返回状态', response.status)
+    print("url:%s 用时:%.3f" % (request.path, time.time() - getattr(request, "reqTime")))
 
     return response
 
@@ -73,6 +76,25 @@ def index():
     return a
 
 
+@cross_origin()
+@app.route("/uploadModel", methods=["POST"])
+def uploadModel():
+    file = request.files["file"]
+    data = request.form.to_dict()
+    name = data["Name"]
+    print(name)
+    print(request.headers.__str__())
+
+    response = make_response(jsonify({"info": "模型上传成功", "status": "1"}))
+    response.headers['Access-Control-Allow-Origin'] = request.headers.get("Origin")
+    response.headers['Access-Control-Allow-Methods'] = 'OPTIONS,HEAD,DELETE,PUT,POST,PATCH,GET,TRACE,*'
+    response.headers['Access-Control-Allow-Headers'] = 'content-type,*'
+    response.headers['Access-Control-Max-Age'] = '3600'
+    response.headers['Access-Control-Expose-Headers'] = 'Content-Disposition'
+    response.headers['Access-Control-Allow-Credentials'] = 'true'
+    return response
+
+
 @app.route('/uploadFile', methods=["POST"])  # 上传文件 以及参数   postman  form-data 方式  file:文件  , 其他参数
 def uploadFile():
     f_obj = request.files['file']
@@ -103,7 +125,7 @@ if __name__ == '__main__':
 
     app.logger.addHandler(logconfig.info_handler)
 
-    app.run(host="0.0.0.0", port=5555)
+    app.run(host="0.0.0.0", port=25000)
 
     # 工作模式
     # gunicorn -D -w 3 main:app -b 0.0.0.0:5555
