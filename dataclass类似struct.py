@@ -8,6 +8,8 @@ class Sheep:
     type: int = 0
     weight: int = 100
 
+    def total_cost(self) -> float:
+        return self.type + self.weight
 
 @dataclass
 class Tiger:
@@ -29,11 +31,13 @@ class Game:
 
         randomlist = [random.randint(0, 1) for i in range(10)]
 
-        print(randomlist)
+        # print(randomlist)
 
         res = map(mapGenAnimal, randomlist)
 
         self.cages = list(res)
+        print(self.cages[0].total_cost())
+
 
     def pickone(self):
         while True:
