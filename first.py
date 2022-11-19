@@ -6,7 +6,6 @@ foodDict = {"tiger": "meat", "sheep": "grass"}
 
 typeList = ["tiger", "meat"]
 
-
 class Room(object):
     def __init__(self, *args, **kwargs):
         self.type = args[0]
