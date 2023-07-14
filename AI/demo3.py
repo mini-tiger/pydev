@@ -6,8 +6,6 @@ from text2vec import SentenceModel, cos_sim, Similarity, SimilarityType, Embeddi
 # sim_model = Similarity("shibing624/text2vec-base-chinese")
 sim_model = Similarity("shibing624/text2vec-base-chinese-paraphrase")
 
-target = "http://172.22.240.90:8000"
-
 
 def tokenize(text):
     tokens = jieba.lcut(text)
