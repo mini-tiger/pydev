@@ -1,23 +1,22 @@
 import logging
 import time
-
+from jinja2 import Environment, FileSystemLoader
 from exchangelib import DELEGATE, Account, Credentials, Configuration, NTLM, Message, Mailbox, HTMLBody
 from exchangelib.protocol import BaseProtocol, NoVerifyHTTPAdapter
 import requests, os
-import docx2txt
-from difflibparser.difflibparser import *
 from unstructured.partition.docx import partition_docx
 from service.文本匹配段落 import WordDocumentParser
-from service.utils import replace_str, str_valid,find_context
-
+from service.utils import replace_str, str_valid, find_context
+from exchangelib.protocol import close_connections
 requests.packages.urllib3.disable_warnings()
 from pytz import timezone
 import sys
 from word_对比转换.run_init_db import word_2_record
-from service.确定版本 import *
-from service.file_struct_define import *
+from pydiff_gui.difflibparser.difflibparser import DiffCode,DifflibParser
+from service.确定版本 import base_valid,sjhl_valid,preset_valid,find_src_version_filename,dyx_valid,ele2lines,convert_docx_to_txt
+from service.file_struct_define import dyx_unstd_reserved,undyx_unstd_reserved,dyx_unstd_unreserved,undyx_unstd_unreserved
 from sqlalchemy import create_engine
-
+from service.llm import baichuan_llm
 engine = create_engine("postgresql+psycopg2://test:test123@172.22.50.25:31867/postgres")
 from sqlalchemy.orm import sessionmaker
 
@@ -68,12 +67,18 @@ class single_mail_data:
     # dest_docparse = WordDocumentParser()
 
 
+
+
 class Docx_Process():
-    def __init__(self, downlaod_path, convert_path, source_txt_path):
+    def __init__(self, downlaod_path, convert_path, source_txt_path,baichuan_llm):
         self.download_path = downlaod_path
         self.source_txt_path = source_txt_path
+        self.baichuan_llm = baichuan_llm
         self.convert_path = convert_path
         # 输入你的域账号如example\leo
+        # Create a custom session with a timeout
+
+
         self.cred = Credentials(r'21VIANET\tao.jun', 'Taojun!@#')
         self.config = Configuration(server='mail.21vianet.com', credentials=self.cred, auth_type=NTLM)
 
@@ -84,7 +89,11 @@ class Docx_Process():
     def process(self):
         while 1 == 1:
             time.sleep(10)
-            mail_result = self.mail_listen()
+            try:
+                mail_result = self.mail_listen()
+            except Exception as e:
+                logger.error(f"!!!!!!1 mail_listen Fail,check Cred,account")
+                continue
             logger.info(f"接收到{len(mail_result)}封邮件")
             for index, mail in enumerate(mail_result):
                 email = mail["mail"]
@@ -96,63 +105,84 @@ class Docx_Process():
                 else:
                     logger.info(
                         f"第{index + 1} 封邮件,邮件内包含附件,邮件标题:[{email.subject}],Sender:[{email.sender.email_address}],文件个数:[{len(filenames)}]")
-                    self.single_email_process(mail)
+
+                self.single_email_process(mail)
+
                 logger.info("===" * 40)
 
     def single_email_process(self, mail):
         email = mail["mail"]
         filenames = mail["filenames"]
         for index, single_mail_data in enumerate(filenames):
-            logger.info("%s %s %s" % ("==" * 15, "第%s个附件" % (index + 1), "==" * 15))
-            # email附件 转换 dict  elements
-            self.unstruct_process(single_mail_data=single_mail_data)
 
-            # email附件 转换 txt
-            txt = self.Docx2txt(single_mail_data.email_doc_file,mail_ele=single_mail_data.dest_src_elm)
-            single_mail_data.email_txt_file = txt
+            logger.info("%s %s %s" % ("==" * 15, "第%s个附件开始处理" % (index + 1), "==" * 15))
+            try:
+                # email附件 转换 dict  elements
+                self.unstruct_process(single_mail_data=single_mail_data)
 
-            # 确认版本
-            record_cls = self.version_valid(single_mail_data.dest_src_elm)
+                # email附件 转换 txt
+                txt = self.Docx2txt(single_mail_data.email_doc_file, mail_ele=single_mail_data.dest_src_elm)
+                single_mail_data.email_txt_file = txt
 
-            single_mail_data.dyx = record_cls.dyx
-            single_mail_data.reserved = record_cls.reserved
+                # 确认版本
+                record_cls, valid = self.version_valid(single_mail_data.dest_src_elm)
+                if valid == False:
+                    logger.error("%s %s %s" % (single_mail_data.email_doc_file, "没有匹配到模板", "==" * 15))
+                    html = self.gerenate_html_fail(single_mail_data, warnings="附件文件没有匹配到模板文件,请自行审核!")
+                    self.mail_send(html=html, to_recipient=[email.sender], cc_recipients=email.cc_recipients)
+                else:
+                    single_mail_data.dyx = record_cls.dyx
+                    single_mail_data.reserved = record_cls.reserved
+                    # find txt file path
+                    src_txt_file_list = find_src_version_filename(source_txt_path=self.source_txt_path,
+                                                                  dyx=record_cls.dyx,
+                                                                  reserved=record_cls.reserved)
+                    if len(src_txt_file_list) != 1:
+                        logger.error(f"!!!!! src_txt_file_list: {src_txt_file_list} ,len neq 1")
+                        continue
+                    single_mail_data.src_txt_file = os.path.join(self.source_txt_path, src_txt_file_list[0])
+                    logger.info(f"匹配到的 src_txt_file: {single_mail_data.src_txt_file} ")
+                    html = self.gerenate_html_txt_diff(single_mail_data=single_mail_data)
 
-            src_txt_file_list= find_src_version_filename(source_txt_path=self.source_txt_path,dyx=record_cls.dyx,reserved=record_cls.reserved)
-            if len(src_txt_file_list) != 1:
-                logger.error(f"!!!!! src_txt_file_list: {src_txt_file_list} ,len neq 1")
-                continue
-            single_mail_data.src_txt_file = os.path.join(self.source_txt_path,src_txt_file_list[0])
-            logger.info(f"匹配到的 src_txt_file: {single_mail_data.src_txt_file} ")
-            html = self.txt_diff(single_mail_data=single_mail_data)
+                    self.mail_send(html=html, to_recipient=[email.sender], cc_recipients=email.cc_recipients)
 
-            self.mail_send(html=html, to_recipient=email.sender)
-            logger.info("%s %s %s" % ("==" * 15, "第%s个附件end" % (index + 1), "==" * 15))
+            except Exception as e:
+                html = self.gerenate_html_fail(single_mail_data, warnings="附件文件没有匹配到模板文件,请自行审核!")
+                self.mail_send(html=html, to_recipient=[email.sender], cc_recipients=email.cc_recipients)
+                logger.error("!!! Fail: %s " % (e.__str__()))
+
+            logger.info("%s %s %s" % ("==" * 15, "第%s个附件处理结束" % (index + 1), "==" * 15))
 
     def version_valid(self, ele):
         file_content = ele2lines(elements=ele)
+        valid = False
+        record_cls = object
         if dyx_valid(file_content=file_content):
+            valid = True
             if preset_valid(file_content=file_content):
                 record_cls = dyx_unstd_reserved()
             else:
                 record_cls = dyx_unstd_unreserved()
-        else:
+        # 必须满足
+        if sjhl_valid(file_content) and base_valid(file_content, str="互联网信息安全责任书"):
+            valid = True
             if preset_valid(file_content=file_content):
                 record_cls = undyx_unstd_reserved()
             else:
                 record_cls = undyx_unstd_unreserved()
-        return record_cls
+
+        return record_cls, valid
 
     def unstruct_process(self, single_mail_data):
         # elements = partition_docx(filename=single_mail_data.src_doc_file)
         elements1 = partition_docx(filename=single_mail_data.email_doc_file)
-        single_mail_data.dest_src_elm=elements1
+        single_mail_data.dest_src_elm = elements1
         for i in elements1:
             single_mail_data.dest_unstruct_dict[replace_str(i.text)] = {"id": i.id, "parent_id": i.metadata.parent_id,
                                                                         "page_number": i.metadata.page_number}
             single_mail_data.dest_unstruct_elm[i.id] = i.text
 
-
-    def Docx2txt(self, file_path,mail_ele):
+    def Docx2txt(self, file_path, mail_ele):
         file_name = os.path.basename(file_path)  # Gets the file name with extension
         file_name_list = os.path.splitext(file_name)  # Gets the file extension
         file_ext = file_name_list[1]
@@ -168,7 +198,7 @@ class Docx_Process():
                 f.write("\n")
         return out_file
 
-    def mail_send(self, html, to_recipient):
+    def mail_send(self, html, to_recipient=[], cc_recipients=[]):
         # Create a message object
         m = Message(account=self.account, subject='HTML Email Test', body='This is the body of the email in plain text')
 
@@ -177,8 +207,8 @@ class Docx_Process():
         # m.is_html = True  # Specify that the body content is HTML
 
         # Set the recipient's email address
-        m.to_recipients = [to_recipient]
-
+        m.to_recipients = to_recipient
+        m.cc_recipients = cc_recipients
         # Send the email
         m.send_and_save()
 
@@ -191,9 +221,6 @@ class Docx_Process():
         for email in unread_emails:
             # 获取邮件标题和正文内容
             # 获取发件人和发件时间
-            # 标记邮件为已读
-            email.is_read = True
-            email.save()
 
             filenames = []
             # 检查邮件是否含有附件
@@ -213,11 +240,29 @@ class Docx_Process():
                         filenames.append(single_data)
                         with open(filename, 'wb') as f:
                             f.write(attachment.content)
-
+            # xxx 标记邮件为已读
+            email.is_read = True
+            email.save()
             mail_result.append({"mail": email, "filenames": filenames})
+        close_connections()
         return mail_result
 
-    def txt_diff(self, single_mail_data):
+    def gerenate_html_fail(self, single_mail_data, **kwargs):
+        txt_file_email = single_mail_data.email_txt_file
+
+        # Load the Jinja2 template
+        env = Environment(loader=FileSystemLoader('.'))
+        template = env.get_template('template.html')
+
+        # Render the template with the dynamic content
+        html_output = template.render(lines=[], src_docx_file="",
+                                      email_file=os.path.basename(single_mail_data.email_doc_file), **kwargs)
+        #
+        # with open('diff_output_custom_parser.html', 'w', encoding='utf-8') as file:
+        #     file.write(html_output)
+        return html_output
+
+    def gerenate_html_txt_diff(self, single_mail_data):
 
         txt_file_std = single_mail_data.src_txt_file
         txt_file_email = single_mail_data.email_txt_file
@@ -226,60 +271,56 @@ class Docx_Process():
             src_content = file1.readlines()
             mail_content = file2.readlines()
 
-        html_output = '''
-        <html>
-        <head>
-            <meta charset="UTF-8">
-        </head>
-        <body>
-            <h2>Custom Diff Parser</h2>
-            <table border="1">
-                <tr>
-                    <th>Number</th>
-                    <th>Type</th>
-                    <th>Page</th>
-                    <th>Part</th>
-                    <th>Comparison Result</th>
-                </tr>
-        '''
-
         differ = DifflibParser(src_content, mail_content)
         line_number = 0
+        lines = []
 
         for line in differ:
             if line['code'] > 0:
                 part = ""
                 page = ""
 
-                context = ""
+                effect = ""
+                risk= ""
                 row = line["line"]
                 if str_valid(row):
                     continue
                 line_number += 1
-                html_output += f'<tr><td>{line_number}</td>'
 
                 if line['code'] == DiffCode.LEFTONLY:
 
-                    type = "内容只包含在模板文件"
+                    type = "附件比模板减少的内容"
 
-                    lca = session.query(word_2_record).filter(word_2_record.dyx==single_mail_data.dyx,
-                                                              word_2_record.reserved==single_mail_data.reserved,
+                    lca = session.query(word_2_record).filter(word_2_record.dyx == single_mail_data.dyx,
+                                                              word_2_record.reserved == single_mail_data.reserved,
                                                               word_2_record.content.like(f'%{replace_str(row)}%')).all()
                     if len(lca) > 0:
-                        page = lca[0].page_number
-                        part = lca[0].part
-                        context = lca[0].content
+                        page = "\nor\n".join([i.page_number for i in lca])
+                        part = "\nor\n".join([i.part for i in lca])
+                        risks_list = lca[0].risk_impact
+                        risk="\n".join([v.risk_warning for v in risks_list if v.focus.find("left") != -1])
+                        # context = lca[0].content
                     # result = single_mail_data.src_docparse.find_paragraph_by_text(target_text=replace_str(line["line"]))
                     # context=result['section_info']
 
-                    html_output += f'<td>{type}</span></td>'
-                    html_output += f'<td>{page}</span></td>'
-                    html_output += f'<td>{part}</span></td>'
-
-                    html_output += f'<td><span style="background-color: #ff9999;">{row}</span></td></tr>'
+                    if part != "":
+                        human_input = f"""
+                        减少内容文本:	{replace_str(row)} 
+                        """
+                        logger.info("大模型QA: %s"%replace_str(human_input))
+                        effect=self.baichuan_llm.get_resp(DiffCode.LEFTONLY,human_input)
+                    line_info = {
+                        'number': line_number,
+                        'type': type,
+                        'page': page,
+                        'part': part,
+                        'result': f'<span style="background-color: #ff9999;">{row}</span>',
+                        'effect':effect,
+                        'risk':risk
+                    }
 
                 elif line['code'] == DiffCode.RIGHTONLY:
-                    type = "内容只包含在附件文件"
+                    type = "模板中不存在的内容"
                     Sentence = ""
 
                     # xxx 找到目标行的 parentid
@@ -291,9 +332,10 @@ class Docx_Process():
                             Sentence = single_mail_data.dest_unstruct_elm[rc["parent_id"]]
                             # if len(Sentence) > 2:
 
-                    # xxx  没有parentid
+                        # xxx  没有parentid
                         else:
-                            Sentence=find_context(elem=single_mail_data.dest_src_elm,target_str=replace_str(row),up=1)
+                            Sentence = find_context(elem=single_mail_data.dest_src_elm, target_str=replace_str(row),
+                                                    up=1)
 
                     lca = session.query(word_2_record).filter(word_2_record.dyx == single_mail_data.dyx,
                                                               word_2_record.reserved == single_mail_data.reserved,
@@ -304,14 +346,23 @@ class Docx_Process():
                         part = lca[0].part
                     # result = single_mail_data.dest_docparse.find_paragraph_by_text(target_text=replace_str(row))
                     # context = result['section_info']
-
-                    html_output += f'<td>{type}</span></td>'
-                    html_output += f'<td>{page}</span></td>'
-                    html_output += f'<td>{part}</span></td>'
-
-                    html_output += f'<td><span style="background-color: #99ff99;">{replace_str(row)}</span></td></tr>'
+                    if part != "":
+                        human_input = f"""
+                        增加内容文本:	{replace_str(line["line"])} 
+                        """
+                        logger.info("大模型QA: %s"%replace_str(human_input))
+                        effect=self.baichuan_llm.get_resp(DiffCode.RIGHTONLY,human_input)
+                    line_info = {
+                        'number': line_number,
+                        'type': type,
+                        'page': page,
+                        'part': part,
+                        'result': f'<span style="background-color: #99ff99;">{replace_str(row)}</span>',
+                        'effect': effect
+                    }
 
                 elif line['code'] == DiffCode.CHANGED:
+                    type = "模板与附件内容不同"
                     leftchanges = line.get('leftchanges', [])
                     rightchanges = line.get('rightchanges', [])
                     new_line = list(line['newline'])
@@ -322,43 +373,66 @@ class Docx_Process():
                             new_line[i] = f'<span style="background-color: #ff9999;">{new_line[i]}</span>'
                         if i in rightchanges:
                             new_line[i] = f'<span style="background-color: #99ff99;">{new_line[i]}</span>'
-                    type = "文本内容改变"
 
-                    lca = session.query(word_2_record).filter(word_2_record.dyx==single_mail_data.dyx,
-                                                              word_2_record.reserved==single_mail_data.reserved,word_2_record.content.like(f'%{replace_str(row)}%')).all()
+                    lca = session.query(word_2_record).filter(word_2_record.dyx == single_mail_data.dyx,
+                                                              word_2_record.reserved == single_mail_data.reserved,
+                                                              word_2_record.content.like(f'%{replace_str(row)}%')).all()
                     if len(lca) > 0:
-                        page = lca[0].page_number
-                        part = lca[0].part
-                        context = lca[0].content
+                        page = "\nor\n".join([i.page_number for i in lca])
+                        part = "\nor\n".join([i.part for i in lca])
+                        risks_list = lca[0].risk_impact
+                        risk="\n".join([v.risk_warning for v in risks_list if v.focus.find("left") != -1])
+                        # context = lca[0].content
                     # result = single_mail_data.dest_docparse.find_paragraph_by_text(target_text=replace_str(line["newline"]))
                     # context=result['section_info']
+                    if part != "":
+                        human_input = f"""
+                        模板文本:	{replace_str(line["line"])} \n
+                        修改后文本: {replace_str(line["newline"])}
+                        """
+                        logger.info("大模型QA: %s"%replace_str(human_input))
+                        effect=self.baichuan_llm.get_resp(DiffCode.CHANGED,human_input)
+                    line_info = {
+                        'number': line_number,
+                        'type': type,
+                        'page': page,
+                        'part': part,
+                        'result': f'<span style="background-color: #99ff99;">{"".join(new_line)}</span>',
+                        'effect': effect,
+                        'risk':risk
+                    }
 
-                    html_output += f'<td>{type}</span></td>'
-                    html_output += f'<td>{page}</span></td>'
-                    html_output += f'<td>{part}</span></td>'
 
-                    html_output += f'<td>{"".join(new_line)}</td></tr>'
+                else:
+                    # html_output += f'<td>{line["line"]}</td></tr>'
+                    continue
 
-            # else:
-            #     html_output += f'<td>{line["line"]}</td></tr>'
+                lines.append(line_info)
+        src_docx_file = (os.path.basename(txt_file_std).split("_", 3))[3].replace(".txt", ".docx")
+        # Load the Jinja2 template
+        env = Environment(loader=FileSystemLoader('.'))
+        template = env.get_template('template.html')
 
-        html_output += '''
-            </table>
-        </body>
-        </html>
-        '''
-
-        with open('diff_output_custom_parser.html', 'w', encoding='utf-8') as file:
-            file.write(html_output)
+        # Render the template with the dynamic content
+        html_output = template.render(lines=lines, src_docx_file=src_docx_file,
+                                      email_file=os.path.basename(single_mail_data.email_doc_file))
+        logger.info(f"total risk line info:{len(lines)}")
+        #
+        # with open('diff_output_custom_parser.html', 'w', encoding='utf-8') as file:
+        #     file.write(html_output)
         return html_output
 
 
+# 1. 加上抄送人
+# 2. 匹配 不到的模板 要提示
+# 3。 显示模板文件名称
 if __name__ == "__main__":
+    os.environ.get()
     source_docs_path = "/data/work/pydev/word_对比转换/source_docx"
     source_txt_path = "/data/work/pydev/word_对比转换/source_txt"
     # 所有 docx 转换txt
     txt_dict, txt_list = convert_docx_to_txt(src_doc_dir=source_docs_path, txt_dir=source_txt_path)
-
+    baichuan_url="http://120.133.83.145:8000/v1"
     Docx_Process(downlaod_path=os.path.join(base_dir, "download_test"),
                  convert_path="/data/work/pydev/word_对比转换/convert_test",
-                 source_txt_path=source_txt_path).process()
+                 source_txt_path=source_txt_path,baichuan_llm=baichuan_llm(url=baichuan_url)).process()

@@ -1,4 +1,4 @@
-from difflibparser.difflibparser import *
+
 import os
 from unstructured.partition.docx import partition_docx
 
@@ -67,6 +67,19 @@ def dyx_valid(file_content):
     return False
 
 
+def sjhl_valid(file_content):
+    for line in file_content[0:10]:
+        if "北京世纪互联宽带数据中心" in line:
+            return True
+    return False
+
+def base_valid(file_content,str):
+    for line in file_content[0:100]:
+        if str in line:
+            return True
+    return False
+
+
 def preset_valid(file_content):
     for line in file_content[50:100]:
         if "预留机柜启用通知函" in line:
@@ -74,37 +87,37 @@ def preset_valid(file_content):
     return False
 
 
-if __name__ == "__main__":
-    txt_dict, txt_list = convert_docx_to_txt(directory="/data/work/pydev/word_对比转换/source_docx")
-
-    print(txt_dict.keys())
-
-    file1_content = txt_list[0]
-    file2_content = txt_list[1]
-
-    differ = DifflibParser(file1_content, file2_content)
-
-    if dyx_valid(file_content=file1_content):
-        print("1111")
-
-    if preset_valid(file_content=file2_content):
-        print("2222")
-
-    if preset_valid(file_content=file1_content):
-        print("3333")
-
-    if dyx_valid(file_content=file2_content):
-        if preset_valid(file_content=file2_content):
-            source_txt = "unlock_dyx_static"
-        else:
-            source_txt = "unlock_dyx_nostatic"
-
-    else:
-        if preset_valid(file_content=file1_content):
-            source_txt = "lock_std_static"
-        else:
-            source_txt = "unlock_unstd_unstatic"
-
-    for line in differ:
-        if line['code'] > 0:
-            print(line)
+# if __name__ == "__main__":
+#     txt_dict, txt_list = convert_docx_to_txt(directory="/data/work/pydev/word_对比转换/source_docx")
+#
+#     print(txt_dict.keys())
+#
+#     file1_content = txt_list[0]
+#     file2_content = txt_list[1]
+#
+#     differ = DifflibParser(file1_content, file2_content)
+#
+#     if dyx_valid(file_content=file1_content):
+#         print("1111")
+#
+#     if preset_valid(file_content=file2_content):
+#         print("2222")
+#
+#     if preset_valid(file_content=file1_content):
+#         print("3333")
+#
+#     if dyx_valid(file_content=file2_content):
+#         if preset_valid(file_content=file2_content):
+#             source_txt = "unlock_dyx_static"
+#         else:
+#             source_txt = "unlock_dyx_nostatic"
+#
+#     else:
+#         if preset_valid(file_content=file1_content):
+#             source_txt = "lock_std_static"
+#         else:
+#             source_txt = "unlock_unstd_unstatic"
+#
+#     for line in differ:
+#         if line['code'] > 0:
+#             print(line)
