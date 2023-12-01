@@ -330,102 +330,102 @@ class undyx_unstd_unreserved(Base_Cls):
     def part_define(self, index=None, value=None) -> str:
         part = ""
 
-        if index > 15 and index < 56:
+        if index > 15 and index < 55:
             part = "互联网信息安全责任书"
 
-        if index >= 56 and index < 71:
+        if index >= 55 and index < 70:
             part = "网站备案义务告知书"
 
-        if index >= 71 and index <= 87:
+        if index >= 70 and index <= 85:
             part = "1 概述"
 
-        if index >= 88 and index < 102:
+        if index >= 86 and index < 100:
             part = "2.1	服务定义"
 
-        if index >= 102 and index < 134:
+        if index >= 100 and index < 134:
             part = "2.2	服务产品类型"
 
-        if index >= 134 and index < 147:
+        if index >= 134 and index < 145:
             part = "2.3	服务标准"
-        if index >= 147 and index < 164:
+        if index >= 145 and index < 162:
             part = "2.3.2.	带宽连通性/DCSS/MPLS VPN/SD-WAN可用性及中断"
-        if index >= 164 and index < 166:
+        if index >= 162 and index < 164:
             part = "2.4. 服务中断罚则"
-        if index == 166:
+        if index == 164:
             part = "2.4节中的表格"
-        if index >= 167 and index < 168:
+        if index >= 165 and index < 166:
             part = "3. 设备的交接、合理使用及保管"
-        if index >= 168 and index < 169:
+        if index >= 166 and index < 167:
             part = "3.1."
-        if index >= 169 and index < 170:
+        if index >= 167 and index < 168:
             part = "3.2."
-        if index >= 170 and index < 171:
+        if index >= 168 and index < 169:
             part = "3.3."
-        if index >= 171 and index < 172:
+        if index >= 169 and index < 170:
             part = "3.4."
-        if index >= 172 and index < 173:
+        if index >= 170 and index < 171:
             part = "3.5."
-        if index >= 173 and index < 179:
+        if index >= 171 and index < 177:
             part = "4. 技术服务与支持"
-        if index >= 179 and index < 212:
+        if index >= 177 and index < 211:
             part = "5. 用户方权利与义务"
-        if index >= 212 and index < 217:
+        if index >= 211 and index < 216:
             part = "5.9.1.	用户方的按期付款"
-        if index >=217 and index < 221:
+        if index >=216 and index < 220:
             part = "5.9.2.	用户方的设备迁出"
-        if index >=221 and index < 223:
+        if index >=220 and index < 222:
             part = "5.9.3.	服务方权利的行使"
-        if index >=223 and index < 224:
+        if index >=222 and index < 223:
             part = "5.10."
-        if index >=224 and index < 225:
+        if index >=223 and index < 224:
             part = "5.11."
-        if index >=225 and index < 226:
+        if index >=224 and index < 225:
             part = "5.12."
-        if index >= 226 and index < 227:
+        if index >= 225 and index < 226:
             part = "6. 服务方权利和义务"
-        if index >= 227 and index < 228:
+        if index >= 226 and index < 227:
             part = "6.1."
-        if index >= 228 and index < 229:
+        if index >= 227 and index < 228:
             part = "6.2."
-        if index >= 229 and index < 231:
+        if index >= 228 and index < 230:
             part = "6.3."
-        if index >= 231 and index < 232:
+        if index >= 230 and index < 231:
             part = "6.4."
-        if index >= 232 and index < 233:
+        if index >= 231 and index < 232:
             part = "6.5."
-        if index >= 233 and index < 234:
+        if index >= 232 and index < 233:
             part = "6.6."
-        if index >= 234 and index < 235:
+        if index >= 233 and index < 234:
             part = "6.7."
-        if index >= 235 and index < 236:
+        if index >= 234 and index < 235:
             part = "6.8."
-        if index >= 236 and index < 243:
+        if index >= 235 and index < 242:
             part = "7. 服务安全与紧急避险"
-        if index >= 243 and index < 248:
+        if index >= 242 and index < 248:
             part = "8. 赔偿及提前解约违约金"
-        if index >= 248 and index < 251:
+        if index >= 248 and index < 250:
             part = "9. 除外责任"
-        if index >= 251 and index < 252:
+        if index >= 250 and index < 251:
             part = "9.1."
-        if index >= 252 and index < 253:
+        if index >= 251 and index < 252:
             part = "9.2."
-        if index >= 253 and index < 254:
+        if index >= 252 and index < 253:
             part = "9.3."
-        if index >= 254 and index < 255:
+        if index >= 253 and index < 254:
             part = "9.4."
-        if index >= 255 and index < 256:
+        if index >= 254 and index < 255:
             part = "9.5."
-        if index >= 256 and index < 257:
+        if index >= 255 and index < 256:
             part = "9.6."
-        if index >= 257 and index < 258:
+        if index >= 256 and index < 257:
             part = "9.7."
-        if index >= 258 and index < 260:
+        if index >= 257 and index < 259:
             part = "10. 保密和知识产权"
-        if index >= 260 and index < 262:
+        if index >= 259 and index < 261:
             part = "11. 不可抗力及免责"
-        if index >= 262 and index < 264:
+        if index >= 261 and index < 263:
             part = "12. 法律适用和争议解决"
-        if index >= 264 and index < 274:
+        if index >= 263 and index < 272:
             part = "13. 协议生效及其他"
         return part
 
