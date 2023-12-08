@@ -71,5 +71,5 @@ html_output += '''
 </html>
 '''
 
-with open('diff_output_custom_parser.html', 'w', encoding='utf-8') as file:
+with open('pydiff_demo3.py.html', 'w', encoding='utf-8') as file:
     file.write(html_output)

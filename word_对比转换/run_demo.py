@@ -61,7 +61,7 @@ class single_mail_data:
     dest_unstruct_dict = {}
 
     dest_unstruct_elm = {}
-    dest_src_elm = object
+    dest_elm = object
 
     # src_docparse = WordDocumentParser()
     # dest_docparse = WordDocumentParser()

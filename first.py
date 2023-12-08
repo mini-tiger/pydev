@@ -1,55 +1,25 @@
-import random
+import logging
+import sys
+# 设定 AI 的角色和目标
+role_template_change = "你是一名律师，根据你的专业知识，概括的分析条款对服务方或乙方有哪些影响，100字内"
 
-jiaoshengDict = {"tiger": "Wow..", "sheep": "mie.."}
-tizhongDict = {"tiger": 200, "sheep": 100}
-foodDict = {"tiger": "meat", "sheep": "grass"}
+# CoT 的关键部分，AI 解释推理过程，并加入一些先前的对话示例（Few-Shot Learning）
+cot_template_change = """
+{{ hint | default('你%s') }}
+示例1:
+  条款: {{ example_terms | default('未经用户方书面同意，服务方不得将本协议项下部分或全部内容转包或者分包给第三方。') }}
+  AI：对服务方的影响主要包括：
+  {{ risk_warning | default('有些业务我司存在全部或部分转包分包，除非取得用户方书面同意，否则我司存在违约风险，通常很难取得用户方书面同意;缩小我司承接业务的模式。')}}
+""" %(role_template_change)
 
-typeList = ["tiger", "meat"]
-
-class Room(object):
-    def __init__(self, *args, **kwargs):
-        self.type = args[0]
-        self.roomnum = args[1]
-        print(args)
-        self.tizhong = tizhongDict[self.type]
-        self.food = foodDict[self.type]
-        self.jiaosheng = jiaoshengDict[self.type]
-
-    def weishi(self, food):
-        if self.food == food:
-            self.tizhong = self.tizhong + 10
-        else:
-            print("喂错了", self.type)
-            self.tizhong = self.tizhong - 10
-
-    def qiaomen(self):
-        print(self.jiaosheng)
+from jinja2 import Template
 
 
-if __name__ == "__main__":
-    roomlist = []
-    for i in range(1, 11):
-        suiji_num = random.randint(0, 10)
-        if suiji_num > 5:
-            r = Room("tiger", i)
-        else:
-            r = Room("sheep", i)
-        roomlist.append(r)
+# 创建 Jinja2 模板对象
+template = Template(cot_template_change)
 
-    # print(r.__dict__)
+# 渲染模板，传递变量
+rendered_output = template.render()
 
-    for i in range(0, 3):  # 不用3分钟  执行3次
-        suiji_room = roomlist[random.randint(0, len(roomlist) - 1)]
-        val = input("please qiaomen or weishi:")
-        print("choose:", val)
-
-        if val == "qiaomen":
-            print(suiji_room.jiaosheng)
-        elif val == "weishi":
-            food = input("please meat or grass:")
-            suiji_room.weishi(food)
-        else:
-            print("input 错了")
-
-    for i in roomlist:
-        print("roomNum:%d,Name:%s,tizhong:%d" % (i.roomnum, i.type, i.tizhong))
+# 打印渲染后的结果
+print(rendered_output)

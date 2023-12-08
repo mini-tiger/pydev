@@ -1,10 +1,10 @@
-import jieba, distance
+import jieba
 import math, json, requests
 from collections import Counter
 from text2vec import SentenceModel, cos_sim, Similarity, SimilarityType, EmbeddingType
 
 # sim_model = Similarity("shibing624/text2vec-base-chinese")
-sim_model = Similarity("shibing624/text2vec-base-chinese-paraphrase")
+sim_model = Similarity("shibing624/text2vec-base-chinese")
 
 
 def tokenize(text):
@@ -52,8 +52,8 @@ def overlay_similarity(tokens1, tokens2):
 
 
 # 两个要比较的中文句子
-sentence1 = "我喜欢吃水果"
-sentence2 = "水果是我喜欢吃的"
+sentence1 = "上海静安数据中心建筑结构是什么样的？"
+sentence2 = "上海静安数据中心楼层是怎么设置的？"
 
 # 分词
 tokens1 = tokenize(sentence1)
@@ -70,3 +70,11 @@ print(f"余弦相似度：{cosine_similarity}")
 print(f"Jaccard 相似度：{jaccard_similarity}")
 print(f"重叠系数:", overlap_coefficient)
 print(sim_model.get_score(sentence1, sentence2))
+
+
+
+qas=[]
+qas.append(sentence1)
+qas.append(sentence2)
+qas.append("上海静安数据中心楼层是怎么设置的？")
+print(sim_model.get_scores(qas, qas))

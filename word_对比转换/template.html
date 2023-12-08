@@ -12,6 +12,13 @@
 
 {% endif %}
 
+
+
+{% if (value1 - value2) > 0 %}
+    <p><span style="font-size: 25px;color: #ff7744;"> {{ value1 }} </span></p>
+{% else %}
+    <p><span style="font-size: 25px;color: #ff7744;"> {{ value2 }} </span></p>
+{% endif %}
 <p><span id="myid" style="font-size: 25px;color: #ff7744;display: none;abc: #fff">This is hidden text.</span></p>
 
 <p><span style="font-size: 20px;">模板文件名: </span> {{ src_docx_file }}</p>

@@ -44,10 +44,10 @@ def txt_diff(**kwargs):
     # Render the template with the dynamic content
     html_output = template.render(lines=lines,src_docx_file="abc",**kwargs)
 
-    with open('diff_output_custom_parser.html', 'w', encoding='utf-8') as file:
+    with open('/data/work/pydev/word_对比转换/diff_output_custom_parser.html', 'w', encoding='utf-8') as file:
         file.write(html_output)
 
     return html_output
 
 
-txt_diff(warnings="abc")
+txt_diff(warnings="abc",value1=1,value2=2)

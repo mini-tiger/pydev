@@ -55,5 +55,5 @@ for line in differ:
 
 html_output += '</pre></body></html>'
 
-with open('diff_output_custom_parser.html', 'w',encoding='utf-8') as file:
+with open('pydiff_demo1.html', 'w',encoding='utf-8') as file:
     file.write(html_output)
