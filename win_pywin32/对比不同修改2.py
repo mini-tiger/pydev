@@ -97,8 +97,8 @@ class WordParse():
 if __name__ == "__main__":
     close_word_window()
 
-    document1_path = "e:\\source_docx\\unlock_undyx_unstatic_带宽罚则 非锁定版(非标准合同)_IDC主协议_北京世纪互联宽带数据中心托管服务协议(2023年版)-（非预留机柜）.docx"
-    document2_path = "e:\\source_docx_modify\\a.docx"
+    document1_path = r"G:\codes\python\pydev\win_pywin32\unlock_unstd_unstatic_带宽罚则 非锁定版(非标准合同)_IDC主协议_北京世纪互联宽带数据中心托管服务协议(2023年版)-（非预留机柜）.docx"
+    document2_path = r"G:\codes\python\pydev\win_pywin32\a.docx"
 
     word_parse=WordParse()
     word_parse.word_app_dispatch()
@@ -106,7 +106,7 @@ if __name__ == "__main__":
     time.sleep(1)
     word_parse.track_doc(document2_path)
     time.sleep(1)
-    output_document_path = "e:\\source_docx_modify\\output_document.docx"
+    output_document_path = r"G:\codes\python\pydev\win_pywin32\output_document.docx"
 
     word_parse.word_app_dispatch()
     word_parse.create_revisions_docx(document1_path, document2_path, output_document_path)
