@@ -16,7 +16,7 @@ def check_revisions_in_document(doc):
 
 def main():
     # 替换为你的Word文档路径
-    doc_path = r'G:\codes\python\pydev\win_pywin32\a.docx'
+    doc_path = r'G:\codes\python\pydev\win_pywin32\output_document.docx'
 
     # 创建Word应用程序对象
     word_app = win32com.client.Dispatch('Word.Application')

@@ -33,7 +33,7 @@ def read_word_document(file_path):
     return content_lines
 
 # 使用示例
-file_path = "Z:\\AI_Json\\source_docx_modify\\a.docx"
+file_path = r"G:\codes\python\pydev\win_pywin32\output_document.docx"
 content_lines = read_word_document(file_path)
 
 # 输出每一行的内容

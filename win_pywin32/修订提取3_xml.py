@@ -43,11 +43,11 @@ for index,p in enumerate(doc.paragraphs):
     print(f"line:{index}")
 
     # print("---")
-    print(p)
-    print(p.comments[0].text)
+    # print(p)
+    # print(p.comments[0].text)
 
     # print("---")
-    # print(accept_all(p))
+    print(accept_all(p))
     # print("=========")
-    # print(reject_all(p))
+    print(reject_all(p))
     # print("=========")
