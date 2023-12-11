@@ -55,7 +55,7 @@ for paragraph in paragraphs:
 
 
 
-original_string1 = ""
+source_dict={}
 # 遍历每个段落并提取修订内容
 for paragraph in paragraphs:
     # 获取章节序号
@@ -67,11 +67,12 @@ for paragraph in paragraphs:
     print(f"当前文本:{replace_str(text)}")
     print(f"当前段落序号:{section_number}")
     print(f"当前页码:{start_page_number}")
-    print(f"段落样式:{paragraph_style}")
-    print(paragraph.Range.Tables.Count)
-    if start_page_number == 8:
-        print(f"88888 {paragraph.Range.Tables.Count}")
-        print(paragraph)
+    source_dict[replace_str(text)]={"page":replace_str(f"{start_page_number}"),"part":replace_str(section_number)}
+    # print(f"段落样式:{paragraph_style}")
+    # print(paragraph.Range.Tables.Count)
+    # if start_page_number == 8:
+    #     print(f"88888 {paragraph.Range.Tables.Count}")
+    #     print(paragraph)
     # 获取段落的修订信息
     revisions = paragraph.Range.Revisions
 
@@ -114,3 +115,5 @@ for paragraph in paragraphs:
 # 关闭Word文档和应用程序对象
 doc.Close()
 word_app.Quit()
+for key,value in source_dict.items():
+    print(key,value)
