@@ -1,6 +1,14 @@
 import win32com.client
-import copy,os
+import copy,os,re
+def replace_str(original_string):
+    tstr= original_string.replace(' ', '').replace('\t', '').\
+        replace('【', '[').replace('】', ']').replace('\n','').replace('\r','').\
+        replace('：', ':').replace("（", "(").replace("）", ")").replace('\r\n','')
 
+
+    new_str1=re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\xff]',"", tstr)
+    new_str = re.sub(r'[\n\r]', ' ',new_str1 )
+    return new_str
 # 创建Word应用程序对象
 word_app = win32com.client.Dispatch("Word.Application")
 
@@ -11,6 +19,41 @@ doc = word_app.Documents.Open(doc_path)
 
 # 获取文档的所有段落
 paragraphs = doc.Paragraphs
+# 遍历每个段落并显示内容，包括表格
+# 遍历每个段落并显示内容，包括表格
+run_table=True
+for paragraph in paragraphs:
+    # 判断段落是否为表格
+    if paragraph.Range.Tables.Count > 0 and run_table:
+        run_table=False
+        # 如果是表格，遍历表格并显示内容
+        for table in paragraph.Range.Tables:
+            for row_index in range(1, table.Rows.Count+1 ):
+                row = table.Rows(row_index)
+                row_content = []
+                if row_index < 5:
+                    for col_index in range(1, table.Columns.Count + 1):
+                        cell = row.Cells(col_index)
+
+                        # 获取单元格文本内容
+                        cell_text = cell.Range.Text.strip()
+
+                        row_content.append(replace_str(cell_text))
+                        # print(row_index,col_index,cell.Range.Cells.Count)
+                else:
+                    # 获取合并单元格的信息
+                    # 检查单元格是否为合并单元格
+                    cell = row.Cells(1)
+                    merged_cell_text = cell.Range.Text.strip()
+                    row_content.append(replace_str(merged_cell_text))
+                    cell = row.Cells(2)
+                    merged_cell_text = cell.Range.Text.strip()
+                    row_content.append(replace_str(merged_cell_text))
+
+                # 将单元格内容用 "|" 分割显示
+                row_str = " | ".join(row_content)
+
+
 
 original_string1 = ""
 # 遍历每个段落并提取修订内容
@@ -18,9 +61,17 @@ for paragraph in paragraphs:
     # 获取章节序号
     section_number = paragraph.Range.ListFormat.ListString
     start_page_number =  paragraph.Range.Information(win32com.client.constants.wdActiveEndPageNumber)
-    print(f"当前文本:{paragraph.Range.Text}")
+    # 获取段落的样式
+    paragraph_style = paragraph.Range.ParagraphFormat.Style.NameLocal
+    text=copy.deepcopy(paragraph.Range.Text)
+    print(f"当前文本:{replace_str(text)}")
     print(f"当前段落序号:{section_number}")
     print(f"当前页码:{start_page_number}")
+    print(f"段落样式:{paragraph_style}")
+    print(paragraph.Range.Tables.Count)
+    if start_page_number == 8:
+        print(f"88888 {paragraph.Range.Tables.Count}")
+        print(paragraph)
     # 获取段落的修订信息
     revisions = paragraph.Range.Revisions
 

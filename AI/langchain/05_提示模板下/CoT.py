@@ -1,3 +1,8 @@
+
+# -*- coding: utf-8 -*-
+import sys
+
+sys.stdout.reconfigure(encoding='utf-8')
 '''欢迎来到LangChain实战课
 https://time.geekbang.org/column/intro/100617601
 作者 黄佳'''
