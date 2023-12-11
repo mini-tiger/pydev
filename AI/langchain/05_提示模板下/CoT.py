@@ -3,14 +3,14 @@ https://time.geekbang.org/column/intro/100617601
 作者 黄佳'''
 # 设置环境变量和API密钥
 import os
-os.environ["OPENAI_API_KEY"] = '你的OpenAI API Key'
+os.environ["OPENAI_API_KEY"] = 'EMPTY'
 
 # 创建聊天模型
 from langchain.chat_models import ChatOpenAI
-llm = ChatOpenAI(temperature=0)
+llm = ChatOpenAI(temperature=0,openai_api_base="http://120.133.83.145:8000/v1")
 
 # 设定 AI 的角色和目标
-role_template = "你是一个为花店电商公司工作的AI助手, 你的目标是帮助客户根据他们的喜好做出明智的决定"
+# role_template = "你是一个为花店电商公司工作的AI助手, 你的目标是帮助客户根据他们的喜好做出明智的决定"
 
 # CoT 的关键部分，AI 解释推理过程，并加入一些先前的对话示例（Few-Shot Learning）
 cot_template = """
@@ -28,7 +28,7 @@ cot_template = """
   AI：从你的需求中，我理解你想要的是独一无二和引人注目的花朵。兰花是一种非常独特并且颜色鲜艳的花，它们在世界上的许多地方都被视为奢侈品和美的象征。因此，我建议你考虑兰花。选择兰花可以满足你对独特和奇特的要求，而且，兰花的美丽和它们所代表的力量和奢侈也可能会吸引你。
 """
 from langchain.prompts import ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
-system_prompt_role = SystemMessagePromptTemplate.from_template(role_template)
+# system_prompt_role = SystemMessagePromptTemplate.from_template(role_template)
 system_prompt_cot = SystemMessagePromptTemplate.from_template(cot_template)
 
 # 用户的询问
@@ -36,10 +36,10 @@ human_template = "{human_input}"
 human_prompt = HumanMessagePromptTemplate.from_template(human_template)
 
 # 将以上所有信息结合为一个聊天提示
-chat_prompt = ChatPromptTemplate.from_messages([system_prompt_role, system_prompt_cot, human_prompt])
+chat_prompt = ChatPromptTemplate.from_messages([ system_prompt_cot, human_prompt])
 
 prompt = chat_prompt.format_prompt(human_input="我想为我的女朋友购买一些花。她喜欢粉色和紫色。你有什么建议吗?").to_messages()
 
 # 接收用户的询问，返回回答结果
-response = llm(prompt)
+response = llm(prompt,stream=True)
 print(response)

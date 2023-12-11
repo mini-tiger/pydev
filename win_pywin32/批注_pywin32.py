@@ -7,21 +7,21 @@ doc = word.Documents.Open(FileName=path, Encoding='gbk')
 
 # first_paragraph = doc.Paragraphs.Item(1)
 # doc.Comments.Add(Range=first_paragraph.Range, Text='测试')
-
+# insert
 for index,paragraph in enumerate(doc.Paragraphs):
     # 获取段落文本
     paragraph_text = paragraph.Range.Text.strip()
     print(paragraph_text)
     if "煽动颠覆国家政权" in paragraph_text:
-        first_paragraph = doc.Paragraphs.Item(index+1)
-        doc.Comments.Add(Range=first_paragraph.Range, Text='测试')
+        current_paragraph = doc.Paragraphs.Item(index+1)
+        doc.Comments.Add(Range=current_paragraph.Range, Text='测试')
 # 关闭Word文档
 doc.Save()
 
 # 关闭Word应用程序
 word.Quit()
-
-# for paragraph in doc.Paragraphs:
-#     comments= paragraph.Range.Comments
-#     for c in comments:
-#         print(c.Range.Text)
+# read
+for paragraph in doc.Paragraphs:
+    comments= paragraph.Range.Comments
+    for c in comments:
+        print(c.Range.Text)

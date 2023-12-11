@@ -18,6 +18,7 @@ def insert_revision_at_text(doc_path, target_text, new_text):
     word.Visible = False  # 如果你想可见Word应用程序，请设置为True
 
     doc = word.Documents.Open(doc_path)
+    doc.TrackRevisions = True
 
     for paragraph in doc.Paragraphs:
         # 获取段落文本
@@ -26,9 +27,9 @@ def insert_revision_at_text(doc_path, target_text, new_text):
         paragraph_text1 =replace_str(paragraph_text)
         if target_text in paragraph_text1:
             # 在目标文本前插入新文本
-            # story_range.InsertBefore(new_text)
+            doc.InsertBefore(new_text)
             # 开启修订
-            doc.TrackRevisions = True
+
 
     # 关闭Word文档
     doc.Close(SaveChanges=True)
@@ -37,4 +38,4 @@ def insert_revision_at_text(doc_path, target_text, new_text):
     word.Quit()
 
 # 使用示例
-insert_revision_at_text("Z:\\AI_Json\\source_docx_modify\\a.docx","'协议编号：\x1f【                      】'", "NewText")
+insert_revision_at_text("Z:\\AI_Json\\source_docx_modify\\a.docx","我司对于所申请的北京世纪互联宽带数据中心有限公司", "NewText")
