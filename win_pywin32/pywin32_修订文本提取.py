@@ -21,6 +21,8 @@ def func2():
     doc_path = os.path.join(current_directory, "diff.docx")
     doc_path = r"G:\codes\python\neolink-dataset\contract-sentinel\diff_docx\diff.docx"
     doc = word_app.Documents.Open(doc_path)
+    doc.Activate()
+    word_app.ActiveDocument.TrackRevisions = True
     # 打开文档
     # 获取文档的所有段落
     paragraphs = doc.Paragraphs
@@ -33,7 +35,6 @@ def func2():
             for revision in revisions:
                 if revision.Type == 1:
                     text = revision.Range.Text
-                    print(text)
                     original_string = original_string.replace(text, "")
             revisions.AcceptAll()
             print(f"修订前:{original_string}")
@@ -99,6 +100,6 @@ def func1():
     word_app.Quit()
 if __name__ == "__main__":
     #方法1  有bug
-    func1()
+    # func1()
 
-    # func2() #修订后 准
+    func2() #修订后 准
