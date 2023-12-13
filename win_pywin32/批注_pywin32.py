@@ -1,7 +1,7 @@
 from win32com.client import Dispatch
 word = Dispatch('Word.Application')
 word.Visible = 0
-path = r'G:\codes\python\pydev\win_pywin32\output_document.docx'
+path = r'E:\codes\pydev\win_pywin32\diff.docx'
 doc = word.Documents.Open(FileName=path, Encoding='gbk')
 # 主要关键的是这一句
 

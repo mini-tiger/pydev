@@ -14,7 +14,8 @@ word_app = win32com.client.Dispatch("Word.Application")
 
 # 打开Word文档
 current_directory = os.path.dirname(__file__)
-doc_path = os.path.join(current_directory,  "output_document.docx")
+doc_path = os.path.join(current_directory,  "diff.docx")
+doc_path = r"E:\codes\pydev\neolink-dataset\contract-sentinel\diff_docx\diff.docx"
 doc = word_app.Documents.Open(doc_path)
 
 # 获取文档的所有段落
@@ -58,16 +59,16 @@ for paragraph in paragraphs:
 source_dict={}
 # 遍历每个段落并提取修订内容
 for paragraph in paragraphs:
-    # 获取章节序号
-    section_number = paragraph.Range.ListFormat.ListString
-    start_page_number =  paragraph.Range.Information(win32com.client.constants.wdActiveEndPageNumber)
-    # 获取段落的样式
-    paragraph_style = paragraph.Range.ParagraphFormat.Style.NameLocal
-    text=copy.deepcopy(paragraph.Range.Text)
-    print(f"当前文本:{replace_str(text)}")
-    print(f"当前段落序号:{section_number}")
-    print(f"当前页码:{start_page_number}")
-    source_dict[replace_str(text)]={"page":replace_str(f"{start_page_number}"),"part":replace_str(section_number)}
+    # # 获取章节序号
+    # section_number = paragraph.Range.ListFormat.ListString
+    # start_page_number =  paragraph.Range.Information(win32com.client.constants.wdActiveEndPageNumber)
+    # # 获取段落的样式
+    # paragraph_style = paragraph.Range.ParagraphFormat.Style.NameLocal
+    # text=copy.deepcopy(paragraph.Range.Text)
+    # print(f"当前文本:{replace_str(text)}")
+    # print(f"当前段落序号:{section_number}")
+    # print(f"当前页码:{start_page_number}")
+    # source_dict[replace_str(text)]={"page":replace_str(f"{start_page_number}"),"part":replace_str(section_number)}
     # print(f"段落样式:{paragraph_style}")
     # print(paragraph.Range.Tables.Count)
     # if start_page_number == 8:
@@ -75,19 +76,29 @@ for paragraph in paragraphs:
     #     print(paragraph)
     # 获取段落的修订信息
     revisions = paragraph.Range.Revisions
+    original_string = paragraph.Range.Text
 
+    source_line = copy.deepcopy(original_string)
     # 如果段落有修订，打印修订前后的信息
     if revisions.Count > 0:
-        original_string = paragraph.Range.Text
-        source_line = copy.deepcopy(original_string)
+        # print(dir(revisions))
+        print("bcd",original_string)
+        revisions.AcceptAll()
+        print("abc",paragraph.Range.Text)
+        revisions.RejectAll()
+        print("ccc",paragraph.Range.Text)
         for revision in revisions:
+            # print(dir(revision))
             text = revision.Range.Text
             # print(paragraph.Range.Start,paragraph.Range.End)
             # print(revision.Range.Start,revision.Range.End)
             start = revision.Range.Start-paragraph.Range.Start
             end =  start+(revision.Range.End-revision.Range.Start)
-            # print(start, end, revision.Type)
-
+            print(start, end, revision.Type)
+            print(source_line)
+            abc=copy.deepcopy(source_line)
+            print(text)
+            print(abc[start:end])
             if revision.Type == 2:  # Check if the revision is rejected (Type 2 represents a deleted revision)
                 # Extract and print the text of the rejected revision
                 # print(text)
@@ -97,6 +108,7 @@ for paragraph in paragraphs:
                 # print("修订前1: %s" % source_line)
                 # print(f'修订后1: {new_line}')
                 # 在指定位置插入字符串
+                # original_str[:index] + insert_str + original_str[index:]
 
             if revision.Type == 1:
                 # source_line = copy.deepcopy(original_string).replace(text, "")
@@ -115,5 +127,5 @@ for paragraph in paragraphs:
 # 关闭Word文档和应用程序对象
 doc.Close()
 word_app.Quit()
-for key,value in source_dict.items():
-    print(key,value)
+# for key,value in source_dict.items():
+#     print(key,value)
