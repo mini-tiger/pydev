@@ -57,6 +57,7 @@ class WordParse():
                                      self.word.Documents.Open(doc_path2), CompareWhitespace=False, IgnoreAllComparisonWarnings=True)
 
         self.word.ActiveDocument.ActiveWindow.View.Type = 3
+
         #
         self.word.ActiveDocument.SaveAs(FileName=output_path)
 
