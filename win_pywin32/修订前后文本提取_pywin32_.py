@@ -1,6 +1,7 @@
 import sys
 
 import win32com.client
+import win32com.client as win32
 import copy,os,re
 def replace_str(original_string):
     tstr= original_string.replace(' ', '').replace('\t', '').\
@@ -12,6 +13,31 @@ def replace_str(original_string):
     new_str = re.sub(r'[\n\r]', ' ',new_str1 )
     return new_str
 
+
+def func4():
+    doc_path,diff_index=func2()
+    return func3(doc_path,diff_index)
+def func3(doc_path,diff_index):
+    # 创建Word应用程序对象
+    word_app = win32com.client.Dispatch("Word.Application")
+    # doc_path = os.path.join(current_directory, "output_document.docx")
+    doc = word_app.Documents.Open(doc_path)
+    paragraphs = doc.Paragraphs
+    for index,paragraph in enumerate(paragraphs):
+        revisions = paragraph.Range.Revisions
+
+        # 如果段落有修订，打印修订前后的信息
+        if revisions.Count > 0:
+            revisions.RejectAll()
+            print(f"修订前:{paragraph.Range.Text}")
+            # print(f"修订后:{paragraph.Range.Text}")
+            if index in diff_index.keys():
+                diff_index[index].update({"line":paragraph.Range.Text})
+
+    doc.Close(False)  # xxx 不保存
+    word_app.Quit()
+    return diff_index
+
 def func2():
     # 创建Word应用程序对象
     word_app = win32com.client.Dispatch("Word.Application")
@@ -19,29 +45,30 @@ def func2():
     # 打开Word文档
     current_directory = os.path.dirname(__file__)
     doc_path = os.path.join(current_directory, "diff.docx")
-    doc_path = r"G:\codes\python\neolink-dataset\contract-sentinel\diff_docx\diff.docx"
+    # doc_path = os.path.join(current_directory, "output_document.docx")
     doc = word_app.Documents.Open(doc_path)
-    doc.Activate()
-    word_app.ActiveDocument.TrackRevisions = True
+    # doc.Activate()
+    # word_app.ActiveDocument.TrackRevisions = True
     # 打开文档
-    # 获取文档的所有段落
     paragraphs = doc.Paragraphs
-    for paragraph in paragraphs:
+    diff_index={}
+    for index,paragraph in enumerate(paragraphs):
         revisions = paragraph.Range.Revisions
 
         # 如果段落有修订，打印修订前后的信息
         if revisions.Count > 0:
             original_string = copy.deepcopy(paragraph.Range.Text)
-            for revision in revisions:
-                if revision.Type == 1:
-                    text = revision.Range.Text
-                    original_string = original_string.replace(text, "")
+            # for revision in revisions:
+            #     if revision.Type == 1:
+            #         text = revision.Range.Text
+            #         original_string = original_string.replace(text, "")
             revisions.AcceptAll()
-            print(f"修订前:{original_string}")
+            # print(f"修订前:{original_string}")
             print(f"修订后:{paragraph.Range.Text}")
+            diff_index.setdefault(index,{"newline":paragraph.Range.Text})
     doc.Close(False)  # xxx 不保存
     word_app.Quit()
-
+    return doc_path,diff_index
 def func1():
     # 创建Word应用程序对象
     word_app = win32com.client.Dispatch("Word.Application")
@@ -102,4 +129,4 @@ if __name__ == "__main__":
     #方法1  有bug
     # func1()
 
-    func2() #修订后 准
+    print(func4()) #修订后 准

@@ -3,7 +3,7 @@ import time
 
 import win32com.client
 import win32com.client as win32
-
+import os
 
 
 def track_doc(path_file_name,stat=False):
@@ -72,15 +72,17 @@ def compare_and_track_changes(doc_path1, doc_path2, output_path):
 #
 
 if __name__ == "__main__":
-
+    current_directory = os.path.dirname(__file__)
     # 示例用法
-    document1_path = "e:\\source_docx\\unlock_undyx_unstatic_带宽罚则 非锁定版(非标准合同)_IDC主协议_北京世纪互联宽带数据中心托管服务协议(2023年版)-（非预留机柜）.docx"
-    document2_path = "e:\\source_docx_modify\\蓝芯算力&世纪互联主合同-JH cmts-Vlegal1109_modify.docx"
+    document1_path = os.path.join(current_directory,"unlock_unstd_unstatic_带宽罚则 非锁定版(非标准合同)_IDC主协议_北京世纪互联宽带数据中心托管服务协议(2023年版)-（非预留机柜）.docx")
+    document2_path = os.path.join(current_directory, "北京世纪互联宽带数据中心托管服务协议-商予科技2023.11.8-Vlegal1109.docx")
+    # document2_path = os.path.join(current_directory,"蓝芯算力&世纪互联主合同-JH cmts-Vlegal1109_modify.docx")
 
     # track_doc(document1_path)
     # time.sleep(1)
     # track_doc(document2_path)
-    output_document_path = "e:\\source_docx_modify\\output_document.docx"
+
+    output_document_path = os.path.join(current_directory,"output_document.docx")
     time.sleep(1)
 
     compare_and_track_changes(document1_path, document2_path, output_document_path)
