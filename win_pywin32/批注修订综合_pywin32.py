@@ -56,8 +56,20 @@ class WordParse():
         self.word.CompareDocuments(self.word.Documents.Open(doc_path1),
                                      self.word.Documents.Open(doc_path2), CompareWhitespace=False, IgnoreAllComparisonWarnings=True)
 
-        self.word.ActiveDocument.ActiveWindow.View.Type = 3
+        # self.word.ActiveDocument.ActiveWindow.View.Type = 3
 
+        # 引用常量模块
+        word_constants = win32.constants
+        # word.ActiveDocument.ActiveWindow.View.Type = 3
+        # 设置文档为显示修订模式
+        self.word.ActiveDocument.TrackRevisions = True
+        # print(word_constants.__dicts__)
+
+        # 显示所有修订标记
+        self.word.ActiveWindow.View.RevisionsFilter.Markup = word_constants.wdRevisionsMarkupAll  # 1 表示显示所有标记
+
+        # 显示所有标记，包括格式更改
+        self.word.ActiveWindow.View.RevisionsFilter.View = word_constants.wdRevisionsViewFinal  #  表示显示所有标记，包括格式更改
         #
         self.word.ActiveDocument.SaveAs(FileName=output_path)
 
@@ -97,17 +109,18 @@ class WordParse():
 
 if __name__ == "__main__":
     close_word_window()
-
-    document1_path = r"G:\codes\python\pydev\win_pywin32\unlock_unstd_unstatic_带宽罚则 非锁定版(非标准合同)_IDC主协议_北京世纪互联宽带数据中心托管服务协议(2023年版)-（非预留机柜）.docx"
-    document2_path = r"G:\codes\python\pydev\win_pywin32\a.docx"
+    current_directory = os.path.dirname(__file__)
+    document1_path = os.path.join(current_directory,"unlock_unstd_unstatic_带宽罚则 非锁定版(非标准合同)_IDC主协议_北京世纪互联宽带数据中心托管服务协议(2023年版)-（非预留机柜）.docx")
+    document2_path = os.path.join(current_directory,"a.docx")
 
     word_parse=WordParse()
     word_parse.word_app_dispatch()
     word_parse.track_doc(document1_path)
-    time.sleep(1)
+
     word_parse.track_doc(document2_path)
     time.sleep(1)
-    output_document_path = r"G:\codes\python\pydev\win_pywin32\output_document.docx"
+
+    output_document_path =os.path.join(current_directory,"output_document.docx")
 
     word_parse.word_app_dispatch()
     word_parse.create_revisions_docx(document1_path, document2_path, output_document_path)
