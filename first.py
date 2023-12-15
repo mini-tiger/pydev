@@ -1,5 +1,2 @@
-a={}
-
-a.setdefault("a",1)
-for key,value in a.items():
-    print(f"key:{key},value:{value}")
+comment_text = '测12345678试'
+print(comment_text.find('1'))

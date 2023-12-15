@@ -17,7 +17,7 @@ word_app = win32com.client.Dispatch("Word.Application")
 # 打开Word文档
 current_directory = os.path.dirname(__file__)
 doc_path = os.path.join(current_directory,  "diff.docx")
-doc_path = r"G:\codes\python\neolink-dataset\contract-sentinel\diff_docx\diff1.docx"
+# doc_path = r"G:\codes\python\neolink-dataset\contract-sentinel\diff_docx\diff1.docx"
 doc = word_app.Documents.Open(doc_path)
 # 打开文档
 # 获取文档的所有段落
@@ -28,23 +28,27 @@ paragraphs = doc.Paragraphs
 source_dict={}
 # 遍历每个段落并提取修订内容
 for paragraph in paragraphs:
+    listformat=paragraph.Range.ListFormat
     # # 获取章节序号
     section_number = paragraph.Range.ListFormat.ListString
     start_page_number =  paragraph.Range.Information(win32com.client.constants.wdActiveEndPageNumber)
     # # 获取段落的样式
     paragraph_style = paragraph.Range.ParagraphFormat.Style.NameLocal
     text=copy.deepcopy(paragraph.Range.Text)
+    print(f"===========================================")
+    print(f"当前段落级别:{listformat.ListLevelNumber}")
+    print(listformat.ListValue,listformat.ListString,listformat.ListType,listformat.SingleList,listformat.SingleListTemplate)
     print(f"当前文本:{replace_str(text)}")
     print(f"当前段落序号:{section_number}")
     print(f"当前页码:{start_page_number}")
     source_dict[replace_str(text)]={"page":replace_str(f"{start_page_number}"),"part":replace_str(section_number)}
     print(f"段落样式:{paragraph_style}")
-    print(paragraph.Range.Tables.Count)
+    # print(paragraph.Range.Tables.Count)
     # if start_page_number == 8:
     #     print(f"88888 {paragraph.Range.Tables.Count}")
     #     print(paragraph)
     # 获取段落的修订信息
-    revisions = paragraph.Range.Revisions
+    # revisions = paragraph.Range.Revisions
 
     # else:
     #     print(f"Paragraph without revisions:\n{xml}")
