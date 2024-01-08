@@ -13,7 +13,6 @@ from langchain.embeddings import OpenAIEmbeddings, CacheBackedEmbeddings
 
 # 创建一个OpenAIEmbeddings的实例，这将用于实际计算文档的嵌入
 underlying_embeddings = OpenAIEmbeddings()
-
 # 创建一个CacheBackedEmbeddings的实例。
 # 这将为underlying_embeddings提供缓存功能，嵌入会被存储在上面创建的InMemoryStore中。
 # 我们还为缓存指定了一个命名空间，以确保不同的嵌入模型之间不会出现冲突。

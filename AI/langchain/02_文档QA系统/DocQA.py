@@ -10,6 +10,8 @@ from langchain.document_loaders import Docx2txtLoader
 from langchain.document_loaders import TextLoader
 
 # 加载Documents
+from langchain_core.prompts import PromptTemplate
+
 base_dir = './OneFlower'  # 文档的存放目录
 documents = []
 for file in os.listdir(base_dir):
@@ -72,6 +74,10 @@ llm = ChatOpenAI(
 # 实例化一个MultiQueryRetriever
 retriever_from_llm = MultiQueryRetriever.from_llm(retriever=vectorstore.as_retriever(), llm=llm)
 
+
+
+
+
 # 实例化一个RetrievalQA链
 qa_chain = RetrievalQA.from_chain_type(llm, retriever=retriever_from_llm)
 
@@ -99,6 +105,22 @@ qa_chain = RetrievalQA.from_chain_type(llm, retriever=retriever_from_llm)
 if __name__ == "__main__":
     query="易速鲜花网站是什么"
     docs = retriever_from_llm.get_relevant_documents(query)
+
+    prompt_template = """请基于```内的内容回答问题。"
+
+        ```
+
+        {context}
+
+        ```
+
+        我的问题是：{question}。
+
+    """
+
+    prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
+    kc = RetrievalQA.from_llm(llm=llm, retriever=vectorstore.as_retriever(), prompt=prompt)
+    print(kc.retriever.get_relevant_documents(query))
 
 
     prompts = []

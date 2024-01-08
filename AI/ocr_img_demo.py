@@ -13,7 +13,7 @@ img_path = '/mnt/05C3B087-24FB-4c67-B398-EDF6DDC950FF.png'
 f = open('test.txt', 'w')
 
 result = ocr.ocr(img_path, cls=True)
-print(result)
+# print(result)
 for idx in range(len(result)):  # 从第3页显示
     res = result[idx]
     for line in res:
