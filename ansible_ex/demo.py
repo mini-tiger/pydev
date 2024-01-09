@@ -7,10 +7,11 @@ from ansible.executor.task_queue_manager import TaskQueueManager
 from ansible.module_utils.common.collections import ImmutableDict
 from ansible.inventory.manager import InventoryManager
 from ansible.parsing.dataloader import DataLoader
+from ansible.playbook.play import Play
 from ansible.plugins.callback import CallbackBase
-
 from ansible.vars.manager import VariableManager
 from ansible import context
+
 
 # Create a callback plugin so we can capture the output
 class ResultsCollectorJSONCallback(CallbackBase):
@@ -43,7 +44,9 @@ class ResultsCollectorJSONCallback(CallbackBase):
     def v2_runner_on_failed(self, result, *args, **kwargs):
         host = result._host
         self.host_failed[host.get_name()] = result
-def main(hosts):
+
+
+def main(hosts,shell_cmd):
     # 判断主机是否为列表，可以多台机器执行命令
     if isinstance(hosts,list):
         host_list = hosts
@@ -51,13 +54,12 @@ def main(hosts):
         host_list = [hosts]
     # since the API is constructed for CLI it expects certain options to always be set in the context object
     context.CLIARGS = ImmutableDict(connection='smart',
-                                    syntax=None,start_at_task=None,
                                     module_path=['/data/work/pydev/venv_ansible/lib/python3.10/site-packages/ansible',
                                                  '/usr/share/ansible',
                                                  '/data/work/pydev/ansible_ex'],
                                     forks=10, become=True,
                                     ssh_args='-C -o ControlMaster=auto -o ControlPersist=600s -o ConnectTimeout=3 -o ServerAliveInterval=30 -o ServerAliveCountMax=2',
-                                    become_method='sudo', become_user="root", check=False, diff=False, verbosity=3)
+                                    become_method='sudo', become_user="root", check=False, diff=False, verbosity=0)
     # required for
     # https://github.com/ansible/ansible/blob/devel/lib/ansible/inventory/manager.py#L204
     sources = ','.join(host_list)
@@ -66,6 +68,11 @@ def main(hosts):
 
     # initialize needed objects
     loader = DataLoader()  # Takes care of finding and reading yaml, json and ini files
+    # passwords = dict(vault_pass='secret')
+    passwords= dict()
+
+    # Instantiate our ResultsCollectorJSONCallback for handling results as they come in. Ansible expects this to be one of its main display outlets
+    results_callback = ResultsCollectorJSONCallback()
 
     # create inventory, use path to host config file as source or hosts in a comma separated string
     inventory = InventoryManager(loader=loader, sources=sources)
@@ -73,31 +80,63 @@ def main(hosts):
     # variable manager takes care of merging all the different sources to give you a unified view of variables available in each context
     variable_manager = VariableManager(loader=loader, inventory=inventory)
 
-    results_callback = ResultsCollectorJSONCallback()
-    playbook = PlaybookExecutor(playbooks=['/data/work/pydev/ansible_ex/demo.yml'],
-                                inventory=inventory,
-                                variable_manager=variable_manager,
-                                loader=loader,passwords=dict())
-    callback = results_callback
-    playbook._tqm._stdout_callback = callback
-    playbook.run()
-    data = {"up": None, "failed": None, "down": None}
-    # print("UP ***********")
+    # instantiate task queue manager, which takes care of forking and setting up all objects to iterate over host list and tasks
+    # IMPORTANT: This also adds library dirs paths to the module loader
+    # IMPORTANT: and so it must be initialized before calling `Play.load()`.
+    tqm = TaskQueueManager(
+        inventory=inventory,
+        variable_manager=variable_manager,
+        loader=loader,
+        passwords=passwords,
+        stdout_callback=results_callback,  # Use our custom callback instead of the ``default`` callback plugin, which prints to stdout
+    )
+
+    # create data structure that represents our play, including tasks, this is basically what our YAML loader does internally.
+    play_source = dict(
+        name="Ansible Play",
+        hosts=host_list,
+        gather_facts='no',
+        tasks=[
+            # dict(action=dict(module='shell', args=shell_cmd), register='shell_out'),
+            dict(action=dict(module='shell', args=shell_cmd), register='shell_out'),
+        ]
+    )
+
+    # Create play object, playbook objects use .load instead of init or new methods,
+    # this will also automatically create the task objects from the info provided in play_source
+    play = Play().load(play_source, variable_manager=variable_manager, loader=loader)
+
+    # Actually run it
+    try:
+        result = tqm.run(play)  # most interesting data for a play is actually sent to the callback's methods
+    finally:
+        # we always need to cleanup child procs and the structures we use to communicate with them
+        tqm.cleanup()
+        if loader:
+            loader.cleanup_all_tmp_files()
+
+    # Remove ansible tmpdir
+    # shutil.rmtree(C.DEFAULT_LOCAL_TMP, True)
+    # print(vars(C))
+
+    data = {"up":None,"failed":None,"down":None}
+    #print("UP ***********")
     for host, result in results_callback.host_ok.items():
-        # data["up"] = '{0} >>> {1}'.format(host, result._result['stdout'])
-        print('{0} >>> {1}'.format(host, result._result['stdout']))
+        data["up"]= '{0} >>> {1}'.format(host, result._result['stdout'])
+        #print('{0} >>> {1}'.format(host, result._result['stdout']))
 
-    # print("FAILED *******")
+    #print("FAILED *******")
     for host, result in results_callback.host_failed.items():
-        # data["up"] = '{0} >>> {1}'.format(host, result._result['msg'])
-        print('{0} >>> {1}'.format(host, result._result['msg']))
+        data["up"]= '{0} >>> {1}'.format(host, result._result['msg'])
+        #print('{0} >>> {1}'.format(host, result._result['msg']))
 
-    # print("DOWN *********")
+    #print("DOWN *********")
     for host, result in results_callback.host_unreachable.items():
-        # data["down"] = '{0} >>> {1}'.format(host, result._result['msg'])
-        print('{0} >>> {1}'.format(host, result._result['msg']))
+        data["down"] = '{0} >>> {1}'.format(host, result._result['msg'])
+        #print('{0} >>> {1}'.format(host, result._result['msg']))
 
     return data
 
 if __name__ == '__main__':
-    run_shell = main("120.133.83.145")
+    run_shell = main("120.133.83.145","ifconfig")
+    print(run_shell)
