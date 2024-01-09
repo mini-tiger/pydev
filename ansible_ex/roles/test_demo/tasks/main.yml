@@ -1,8 +1,12 @@
 - name: copy repo file
   copy: src=/tmp/111 dest=/tmp/ mode=644
 
+- name: debug vars
+  debug:
+    msg: "{{ ping_ip }}"
+
 - name: test  ping
-  shell: ping -c 2 -W 2 127.0.0.1 > /dev/null 2>&1 && echo "Success!!!!" || echo "Failed!!!!"
+  shell: ping -c 2 -W 2 {{ ping_ip }} > /dev/null 2>&1 && echo "Success!!!!" || echo "Failed!!!!"
   register: vip_test
 
 - name: vip_test output

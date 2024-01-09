@@ -1,5 +1,6 @@
 import json
 import shutil
+import time
 
 import ansible.constants as C
 from ansible.executor.playbook_executor import PlaybookExecutor
@@ -29,7 +30,8 @@ class ResultsCollectorJSONCallback(CallbackBase):
 
     def v2_runner_on_unreachable(self, result):
         host = result._host
-        self.host_unreachable[host.get_name()] = result
+        task = result._task
+        self.host_unreachable[f"{host.get_name()} -> {task.get_name()}"] = result
 
     def v2_runner_on_ok(self, result, *args, **kwargs):
         """Print a json representation of the result.
@@ -37,12 +39,19 @@ class ResultsCollectorJSONCallback(CallbackBase):
         Also, store the result in an instance attribute for retrieval later
         """
         host = result._host
-        self.host_ok[host.get_name()] = result
+        task = result._task
+        # print(dir(host))
+        # print(dir(task))
+        # print(host.get_vars())
+        self.host_ok[f"{host.get_name()} -> {task.get_name()}"] = result
         #print(json.dumps({host.name: result._result}, indent=4))
 
     def v2_runner_on_failed(self, result, *args, **kwargs):
         host = result._host
-        self.host_failed[host.get_name()] = result
+        task = result._task
+        self.host_failed[f"{host.get_name()} -> {task.get_name()}"] = result
+
+
 def main(hosts):
     # 判断主机是否为列表，可以多台机器执行命令
     if isinstance(hosts,list):
@@ -56,7 +65,9 @@ def main(hosts):
                                                  '/usr/share/ansible',
                                                  '/data/work/pydev/ansible_ex'],
                                     forks=10, become=True,
-                                    ssh_args='-C -o ControlMaster=auto -o ControlPersist=600s -o ConnectTimeout=3 -o ServerAliveInterval=30 -o ServerAliveCountMax=2',
+                                    ssh_args='-C -o ControlMaster=auto -o ControlPersist=600s -o ConnectTimeout=300 -o ServerAliveInterval=30 -o ServerAliveCountMax=10',
+                                    timeout=10, #ssh connect timeout,
+                                    extra_vars={"ping_ip=127.0.0.1"},
                                     become_method='sudo', become_user="root", check=False, diff=False, verbosity=3)
     # required for
     # https://github.com/ansible/ansible/blob/devel/lib/ansible/inventory/manager.py#L204
@@ -85,19 +96,21 @@ def main(hosts):
     # print("UP ***********")
     for host, result in results_callback.host_ok.items():
         # data["up"] = '{0} >>> {1}'.format(host, result._result['stdout'])
-        print('{0} >>> {1}'.format(host, result._result['stdout']))
+        print('{0} >>> {1}'.format(host, result._result))
 
     # print("FAILED *******")
     for host, result in results_callback.host_failed.items():
         # data["up"] = '{0} >>> {1}'.format(host, result._result['msg'])
-        print('{0} >>> {1}'.format(host, result._result['msg']))
+        print('{0} >>> {1}'.format(host, result._result))
 
     # print("DOWN *********")
     for host, result in results_callback.host_unreachable.items():
         # data["down"] = '{0} >>> {1}'.format(host, result._result['msg'])
-        print('{0} >>> {1}'.format(host, result._result['msg']))
+        print('{0} >>> {1}'.format(host, result._result))
 
     return data
 
 if __name__ == '__main__':
+    start= time.time()
     run_shell = main("120.133.83.145")
+    print(f"time:{time.time()-start}")

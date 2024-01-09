@@ -1,5 +1,8 @@
 ---
 - hosts: all
-  tasks:
-    - import_role:
-        name: test_demo
+  gather_facts: false
+  roles:
+    - {role: test_demo}
+#  tasks:
+#    - import_role:
+#        name: test_demo
