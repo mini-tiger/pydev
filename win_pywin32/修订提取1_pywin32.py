@@ -13,29 +13,36 @@ def print_revisions_with_line(doc):
         paragraph_range = revision_range.Paragraphs(1).Range
 
         # 打印修订所在行的内容
-        print(f"Author: {revision.Author}")
-        print(f"Date: {revision.Date}")
+        # print(f"Author: {revision.Author}")
+        # print(f"Date: {revision.Date}")
         print(f"Content: {paragraph_range.Text.strip()}")
         print("----")
 
-def main():
-    # 替换为你的Word文档路径
-    doc_path = r'G:\codes\python\pydev\win_pywin32\output_document.docx'
+def print_revisions_with_line1(doc):
+    for index, paragraph in enumerate(doc.Paragraphs):
+        revisions = paragraph.Range.Revisions
+        if revisions.Count > 0:
+            revisions.AcceptAll()
+            print(paragraph.Range.Text)
 
-    # 创建Word应用程序对象
-    word_app = win32com.client.Dispatch('Word.Application')
 
-    # 打开文档
-    doc = word_app.Documents.Open(doc_path)
 
-    # 打印文档中的所有修订及所在行的内容
-    print_revisions_with_line(doc)
 
-    # 关闭文档
-    doc.Close()
+# 替换为你的Word文档路径
+doc_path = r'E:\codes\pydev\neolink-dataset\contract-sentinel\diff_docx\diff.docx'
 
-    # 退出Word应用程序
-    word_app.Quit()
+# 创建Word应用程序对象
+word_app = win32com.client.Dispatch('Word.Application')
 
-if __name__ == "__main__":
-    main()
+# 打开文档
+doc = word_app.Documents.Open(doc_path)
+
+# 打印文档中的所有修订及所在行的内容
+print_revisions_with_line1(doc)
+
+# 关闭文档
+doc.Close(False)
+
+# 退出Word应用程序
+word_app.Quit()
+
