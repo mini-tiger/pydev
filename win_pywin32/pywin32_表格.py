@@ -17,7 +17,7 @@ word_app = win32com.client.Dispatch("Word.Application")
 # 打开Word文档
 current_directory = os.path.dirname(__file__)
 doc_path = os.path.join(current_directory,  "diff.docx")
-doc_path = r"G:\codes\python\neolink-dataset\contract-sentinel\diff_docx\diff1.docx"
+doc_path = r'E:\codes\pydev\neolink-dataset\contract-sentinel\diff_docx\diff.docx'
 doc = word_app.Documents.Open(doc_path)
 # 打开文档
 
@@ -29,15 +29,23 @@ run_table=True
 for paragraph in paragraphs:
     # 判断段落是否为表格
     if paragraph.Range.Tables.Count > 0 and run_table:
+        # print(paragraph.Range.Revisions.Count)
+        start_page_number = paragraph.Range.Information(win32com.client.constants.wdActiveEndPageNumber)
+        print(start_page_number)
         run_table=False
         # 如果是表格，遍历表格并显示内容
         for table in paragraph.Range.Tables:
+            print(table.Range.Revisions.Count)
+
             for row_index in range(1, table.Rows.Count+1 ):
                 row = table.Rows(row_index)
+                print(row.Range.Information(win32com.client.constants.wdActiveEndPageNumber))
                 row_content = []
                 if row_index < 5:
                     for col_index in range(1, table.Columns.Count + 1):
                         cell = row.Cells(col_index)
+                        if cell.Range.Revisions.Count > 0:
+                            cell.Range.Revisions.AcceptAll()
 
                         # 获取单元格文本内容
                         cell_text = cell.Range.Text.strip()
@@ -57,9 +65,9 @@ for paragraph in paragraphs:
                 # 将单元格内容用 "|" 分割显示
                 row_str = " | ".join(row_content)
 
-
+                print(row_str)
 # 关闭Word文档和应用程序对象
-doc.Close()
+doc.Close(False)
 word_app.Quit()
 # for key,value in source_dict.items():
 #     print(key,value)

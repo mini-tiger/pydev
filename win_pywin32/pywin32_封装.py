@@ -119,7 +119,6 @@ class WordMix():
             # word.ActiveDocument.ActiveWindow.View.Type = 3
             # 设置文档为显示修订模式
             word.ActiveDocument.TrackRevisions = True
-
             #
             word.ActiveDocument.SaveAs(FileName=output_path)
         finally:
@@ -173,7 +172,7 @@ def revision_stat(self, path_file_name, save_file, accept=False):
             self.word.ActiveDocument.Revisions.AcceptAll()
         else:
             self.word.ActiveDocument.Revisions.RejectAll()
-        # Delete all comments
+        #xxx Delete all comments
         if self.word.ActiveDocument.Comments.Count >= 1:
             self.word.ActiveDocument.DeleteAllComments()
 
