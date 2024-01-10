@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from views import mysqlview
+from fastapi_demo.views import mysqlview
 
 Router = APIRouter(
     # prefix="/mysql",

@@ -1,5 +1,5 @@
 from typing import List, Set
-from utils import resp  # 默认路径 fastapi-demo
+from fastapi_demo.utils import resp  # 默认路径 fastapi-demo
 from fastapi import params, requests
 from pydantic import BaseModel
 from fastapi.encoders import jsonable_encoder

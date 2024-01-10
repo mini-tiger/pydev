@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 from typing import List, Set
-from utils import resp
+from fastapi_demo.utils import resp
 
 from fastapi import FastAPI, File, UploadFile
 import sys, os

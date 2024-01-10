@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from views import apiview  # 相对路径,todo 如果报错，pycharm  标记目录为源根
+from fastapi_demo.views import apiview  # 相对路径,todo 如果报错，pycharm  标记目录为源根
 
 Router = APIRouter(
     # prefix="/v1",
