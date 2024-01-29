@@ -19,4 +19,4 @@ messages = [
     ),
 ]
 resp = llm(messages)
-print(resp.content)
+print(resp)

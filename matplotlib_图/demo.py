@@ -7,9 +7,9 @@ import matplotlib
 # 中文字体
 matplotlib.rcParams['font.sans-serif']=['SimHei']
 matplotlib.rcParams['axes.unicode_minus']=False
-import shutil
-folder_path = matplotlib.get_cachedir()
-shutil.rmtree(folder_path)
+# import shutil
+# folder_path = matplotlib.get_cachedir()
+# shutil.rmtree(folder_path)
 
 print(matplotlib.matplotlib_fname())
 # print(matplotlib.get_backend())    #返回matplotlib的后端

@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 '''
-@Time    :   2023/09/21 15:06:38
-@Author  :   zoyxiong
-@File    :   gradio_demo.py
-@Desc    :   gradio示例
+https://github.com/hiyouga/LLaMA-Factory/blob/v0.3.3/src/web_demo.py
 '''
 
 
