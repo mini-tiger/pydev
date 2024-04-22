@@ -1,0 +1,64 @@
+<!-- template.html -->
+
+<html>
+<head>
+    <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+{% if warnings %}
+    <p><span style="font-size: 25px;color: #ff7744;"> {{ warnings }} </span></p>
+
+{% else %}
+{% if (total_risk_line_num - max_diff_line  ) == 0 %}
+    <p><span style="font-size: 25px;color: #ff7744;">当前附件与模板文件差异数大于 {{ max_diff_line }} 处,请修改确认当前差异后再次提交 </span></p>
+{% endif %}
+
+
+<p><span style="font-size: 20px;">模板文件名: </span> {{ src_docx_file }}</p>
+<p><span style="font-size: 20px;">附件文件名: </span> {{ email_file }}</p>
+<span style="font-size: 20px;">对比结果注:</span>
+<br>
+    <span style="font-size: 15px;color: #ff9999;">红色文字为</span>
+    <span style="font-size: 15px;">模板文本独有;</span>
+<br>
+
+    <span style="font-size: 15px;color: #99ff99;">绿色文字为</span>
+    <span style="font-size: 15px;">附件文本独有</span>
+<br>
+
+    <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+         <thead>
+        <tr>
+            <th  style="border: 1px solid #ddd; width: 5%;  text-align: center;">序号</th>
+            <th  style="border: 1px solid #ddd; width: 10%;">类型</th>
+            <th  style="border: 1px solid #ddd; width: 5%; text-align: center;">附件中页码</th>
+            <th  style="border: 1px solid #ddd; width: 10%;">段落</th>
+            <th  style="border: 1px solid #ddd; ">模板内容</th>
+            <th  style="border: 1px solid #ddd; ">邮件文本</th>
+            <th  style="border: 1px solid #ddd; ">大模型修改建议</th>
+<!--            <th  style="border: 1px solid #ddd; ">风险提示</th>-->
+        </tr>
+         </thead>
+        <tbody>
+        {% for line in lines %}
+        <tr>
+            <td style="border: 1px solid #ddd;   text-align: center;">{{ line['number'] }}</td>
+            <td style="border: 1px solid #ddd;  text-align: center;">{{ line['type'] }}</td>
+            <td style="border: 1px solid #ddd; text-align: center;">{{ line['page'] |replace('\n', '<br>') | default('') }}</td>
+            <td style="border: 1px solid #ddd; text-align: left;">{{ line['part'] |replace('\n', '<br>') }}</td>
+            <td style="font-size: smaller;border: 1px solid #ddd; text-align: left;">{{ line['tpl_text'] }}</td>
+            <td style="font-size: smaller;border: 1px solid #ddd; text-align: left;">{{ line['mail_text'] }}</td>
+            <td style="font-size: smaller;border: 1px solid #ddd; text-align: left;">{{ line['effect'] |replace('\n', '<br>') }}</td>
+<!--            <td style="font-size: smaller;border: 1px solid #ddd; text-align: left;">{{ line['risk'] |replace('\n', '<br>') }}</td>-->
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+{% endif %}
+<span style="display: none;">大模型分析结果如上</span>
+
+</body>
+</html>

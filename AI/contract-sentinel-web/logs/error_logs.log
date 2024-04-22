@@ -1,0 +1,69 @@
+2024-04-07 15:40:46,359 - run_demo_win32.py:901 - ERROR - !!! change Skip ERROR: Request timed out., line:{'line': '本合同采购货物为中国国际工程咨询有限公司数字化建设项目的组成部分，本合同的采购交付安装和验收全流程受中国国际工程咨询有限公司数字化建设项目统一管理。\n', 'code': 3, 'leftchanges': [], 'rightchanges': [15, 16, 17], 'newline': '本合同采购货物为中国国际工程咨ddd询有限公司数字化建设项目的组成部分，本合同的采购交付安装和验收全流程受中国国际工程咨询有限公司数字化建设项目统一管理。\n'}
+2024-04-07 15:41:52,201 - run_demo_win32.py:901 - ERROR - !!! change Skip ERROR: Request timed out., line:{'line': '监理单位:负责中国国际工程咨询有限公司数字化建设的监理单位，承担本合同监理工作的义务，对乙方本合同履约具有约束力，具体人员详见附件六。\n', 'code': 3, 'leftchanges': [], 'rightchanges': [17, 18, 19], 'newline': '监理单位:负责中国国际工程咨询有限ddd公司数字化建设的监理单位，承担本合同监理工作的义务，对乙方本合同履约具有约束力，具体人员详见附件六。\n'}
+2024-04-07 15:42:58,079 - run_demo_win32.py:901 - ERROR - !!! change Skip ERROR: Request timed out., line:{'line': '(1)国家标准:/；\n', 'code': 3, 'leftchanges': [], 'rightchanges': [8, 9, 11, 12, 13], 'newline': '(1)国家标准:11/111；\n'}
+2024-04-07 15:44:03,737 - run_demo_win32.py:901 - ERROR - !!! change Skip ERROR: Request timed out., line:{'line': '(2)行业标准:/；\n', 'code': 3, 'leftchanges': [], 'rightchanges': [8, 9, 10, 12, 13], 'newline': '(2)行业标准:111/11；\n'}
+2024-04-07 15:45:09,439 - run_demo_win32.py:901 - ERROR - !!! change Skip ERROR: Request timed out., line:{'line': '5.2乙方提供样品的，样品应封存保管。乙方提供的样品质量说明为本合同不可分割的组成部分。乙方交付的货物应当与样品及其说明的质量相同。\n', 'code': 3, 'leftchanges': [46], 'rightchanges': [], 'newline': '5.2乙方提供样品的，样品应封存保管。乙方提供的样品质量说明为本合同不可分割的组成部分。乙方付的货物应当与样品及其说明的质量相同。\n'}
+2024-04-07 17:04:02,576 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件B:《北京世纪互联宽带数据中心托管服务协议DCSS服务订单》\n', 'code': 2}
+2024-04-07 17:04:02,576 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C:《北京世纪互联宽带数据中心托管服务协议DYX服务订单》\n', 'code': 2}
+2024-04-07 17:04:02,577 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-1:《北京世纪互联宽带数据中心托管服务协议MPLSVPN服务订单》\n', 'code': 2}
+2024-04-07 17:04:02,577 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-2:《北京世纪互联宽带数据中心托管服务协议SD-WAN服务订单》\n', 'code': 2}
+2024-04-07 17:04:02,577 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-3:《北京世纪互联宽带数据中心托管服务协议DYX-IDC服务订单》\n', 'code': 2}
+2024-04-07 17:04:02,577 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-4:《北京世纪互联宽带数据中心托管服务协议OCD服务订单》\n', 'code': 2}
+2024-04-07 17:05:19,507 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件B:《北京世纪互联宽带数据中心托管服务协议DCSS服务订单》\n', 'code': 2}
+2024-04-07 17:05:19,507 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C:《北京世纪互联宽带数据中心托管服务协议DYX服务订单》\n', 'code': 2}
+2024-04-07 17:05:19,507 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-1:《北京世纪互联宽带数据中心托管服务协议MPLSVPN服务订单》\n', 'code': 2}
+2024-04-07 17:05:19,508 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-2:《北京世纪互联宽带数据中心托管服务协议SD-WAN服务订单》\n', 'code': 2}
+2024-04-07 17:05:19,508 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-3:《北京世纪互联宽带数据中心托管服务协议DYX-IDC服务订单》\n', 'code': 2}
+2024-04-07 17:05:19,508 - run_demo_win32.py:814 - ERROR - !!! Left Skip ERROR: 'str' object has no attribute 'decode', line:{'line': '附件C-4:《北京世纪互联宽带数据中心托管服务协议OCD服务订单》\n', 'code': 2}
+2024-04-07 17:23:02,146 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 09:51:23,727 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:04:11,880 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:06:42,717 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:08:33,065 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:13:02,166 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:18:10,317 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:20:56,631 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:24:11,008 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 10:25:30,986 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:32:03,537 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 10:32:16,862 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:43:20,678 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 10:46:01,150 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 10:48:52,254 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 10:50:50,456 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 10:51:32,054 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 10:56:04,053 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 10:56:33,076 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:00:55,427 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:02:09,138 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:03:14,210 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:03:25,477 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:03:41,405 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 11:03:52,526 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:04:07,613 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 11:04:33,625 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:04:47,247 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:05:06,389 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 11:05:32,847 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 11:06:03,034 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:13:22,558 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:14:28,463 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:16:07,648 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:18:37,778 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:18:50,010 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:19:00,416 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 11:20:16,486 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 13:32:47,047 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 15:00:53,061 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 15:30:29,893 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 15:50:05,120 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 15:52:19,429 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-08 16:18:16,057 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 16:29:15,701 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 16:56:46,619 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_1.docx 没有匹配到模板 ==============================
+2024-04-08 18:55:30,979 - run_demo_win32.py:355 - ERROR - D:\codes\neolink-dataset\contract-sentinel-web\convert_files\deny_万物大模型服务协议以及隐私政策.docx 没有匹配到模板 ==============================
+2024-04-10 17:35:24,046 - llm.py:110 - ERROR - Request timed out.
+2024-04-10 17:37:04,684 - llm.py:110 - ERROR - Error code: 400 - {'object': 'error', 'message': 'Only Baichuan2-13B-Chat allowed now, your model gpt-3.5-turbo', 'code': 40301}
+2024-04-10 17:37:04,706 - llm.py:110 - ERROR - Error code: 400 - {'object': 'error', 'message': 'Only Baichuan2-13B-Chat allowed now, your model gpt-3.5-turbo', 'code': 40301}
+2024-04-10 17:37:04,730 - llm.py:110 - ERROR - Error code: 400 - {'object': 'error', 'message': 'Only Baichuan2-13B-Chat allowed now, your model gpt-3.5-turbo', 'code': 40301}
+2024-04-10 17:37:04,752 - llm.py:110 - ERROR - Error code: 400 - {'object': 'error', 'message': 'Only Baichuan2-13B-Chat allowed now, your model gpt-3.5-turbo', 'code': 40301}
