@@ -8,7 +8,7 @@ import os
 os.environ["OPENAI_API_KEY"] = 'EMPTY'
 from langchain.chat_models import ChatOpenAI
 
-llm = ChatOpenAI(temperature=0, openai_api_base="http://120.133.83.145:7860/v1")
+llm = ChatOpenAI(temperature=0, openai_api_base="http://120.133.63.166:8000/v1")
 
 # initialize conversational memory
 conversational_memory = ConversationBufferWindowMemory(
@@ -52,3 +52,24 @@ agent = initialize_agent(
     memory=conversational_memory
 )
 agent("can you calculate the circumference of a circle that has a radius of 7.81mm")
+
+
+from langchain_core.messages import AIMessage, HumanMessage
+from langchain import hub
+from langchain.agents import AgentExecutor, create_json_chat_agent
+from langchain_community.tools.tavily_search import TavilySearchResults
+from langchain_openai import ChatOpenAI
+# Create an agent executor by passing in the agent and tools
+from langchain.memory import ConversationBufferMemory,ConversationBufferWindowMemory,Conver
+agent_executor = AgentExecutor(
+    agent=agent, tools=tools, verbose=True, handle_parsing_errors=True
+)
+agent_executor.invoke(
+    {
+        "input": "what's my name?",
+        "chat_history": [
+            HumanMessage(content="hi! my name is bob"),
+            AIMessage(content="Hello Bob! How can I assist you today?"),
+        ],
+    }
+)

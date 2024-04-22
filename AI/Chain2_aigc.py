@@ -1,5 +1,7 @@
 import os,re
 os.environ["OPENAI_API_KEY"] = 'EMPTY'
+os.environ['HTTP_PROXY']='http://localhost:1081'
+os.environ['HTTPS_PROXY']='http://localhost:1081'
 # from langchain.globals import set_debug,set_verbose
 #
 # set_debug(True)
@@ -14,7 +16,7 @@ def replace_str(original_string):
 
 from langchain.chat_models import ChatOpenAI
 
-llm = ChatOpenAI(temperature=0, openai_api_base="http://120.133.83.145:8000/v1")
+llm = ChatOpenAI(temperature=0, openai_api_base="http://120.133.83.166:8000/v1")
 
 # 1.Load 导入Document Loaders
 from langchain.document_loaders import PyPDFLoader
@@ -45,7 +47,7 @@ chunked_documents = text_splitter.split_documents(documents)
 # 3.Store 将分割嵌入并存储在矢量数据库Qdrant中
 from langchain.vectorstores import Qdrant,pgvector
 from langchain.embeddings import OpenAIEmbeddings,HuggingFaceEmbeddings
-hm=HuggingFaceEmbeddings(model_name='/root/.cache/torch/exp_finetune/')
+hm=HuggingFaceEmbeddings(model_name='/data/work/pydev/ai-reporter/webapi/db/m3e-base')
 vectorstore = Qdrant.from_documents(
     documents=chunked_documents, # 以分块的文档
     # embedding=OpenAIEmbeddings(), # 用OpenAI的Embedding Model做嵌入
@@ -72,22 +74,36 @@ logging.getLogger('langchain.retrievers.multi_query').setLevel(logging.INFO)
 if __name__ == "__main__":
     # 实例化一个MultiQueryRetriever
     retriever_from_llm = MultiQueryRetriever.from_llm(retriever=vectorstore.as_retriever(), llm=llm)
-
+    from langchain.prompts import PromptTemplate
     # 实例化一个RetrievalQA链
-    qa_chain = RetrievalQA.from_chain_type(llm, retriever=retriever_from_llm)
+    # xxx https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed
+    template = """Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Use three sentences maximum. Keep the answer as concise as possible. Always say "thanks for asking!" at the end of the answer. 
+    {context}
+    Question: {question}
+    Helpful Answer:"""
+    QA_CHAIN_PROMPT = PromptTemplate.from_template(template)  # Run chain
+    # 实例化一个RetrievalQA链
+    qa_chain = RetrievalQA.from_chain_type(llm, retriever=retriever_from_llm,
+                                           return_source_documents=True,
+                                           chain_type_kwargs={"prompt": QA_CHAIN_PROMPT})
 
     query="易速鲜花网站是什么"
-    docs = retriever_from_llm.get_relevant_documents(query)
-    prompts = []
-    for doc in docs:
-        prompts.append(doc.dict())
-    print("==============prompts append 向量匹配结果================")
-    # print(prompts)
-    for p in prompts:
-        print(f"{replace_str(p['page_content'])}")
-        # print(p)
+    # docs = retriever_from_llm.get_relevant_documents(query)
+    # prompts = []
+    # for doc in docs:
+    #     prompts.append(doc.dict())
+    # print("==============prompts append 向量匹配结果================")
+    # # print(prompts)
+    # for p in prompts:
+    #     print(f"{replace_str(p['page_content'])}")
+    #     # print(p)
+    #
+    # prompts.append({"question": query})
 
-    prompts.append({"question": query})
-    print("answer",qa_chain.run({"query": query}))
-    print("answer1",qa_chain.run({"query":"网站项目的实施分为四大阶段?"}))
+    qa_result = qa_chain(query)
+    # print(qa_result)
+    print(f"result:{qa_result['result']}")
+    for i in qa_result['source_documents']:
+        print(i.metadata['source'])
+        print(i.page_content)
 

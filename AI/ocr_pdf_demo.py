@@ -13,20 +13,48 @@ from paddleocr import PaddleOCR, draw_ocr
 
 import time
 
-start = time.time()
-ocr = PaddleOCR(use_angle_cls=True, lang="ch", use_gpu=False, show_log=False,strategy="fast")  # need to run only once to download and load model into memory
-img_path = '/mnt/m6.pdf'
 
-f = open('test.txt', 'w')
+def pdf_to_txt(pdf_file, txt_file):
+    start = time.time()
+    ocr = PaddleOCR(use_angle_cls=True, lang="ch", use_gpu=False, show_log=True,
+                    strategy="fast")  # need to run only once to download and load model into memory
+    img_path = pdf_file
 
-result = ocr.ocr(img_path, cls=True)
-for idx in list(range(len(result)))[2:]:  # 从第3页显示
-    res = result[idx]
-    for line in res:
-        print((line[1])[0])
-        f.write((line[1])[0])
-        f.write("\n")
+    f = open(txt_file, 'w', encoding='utf-8')
 
-f.close()
-end = time.time()
-print("完成时间: %f s" % (end - start))#
+    result = ocr.ocr(img_path, cls=True)
+    for idx in list(range(len(result)))[:]:
+        res = result[idx]
+        for line in res:
+            print((line[1])[0])
+            f.write((line[1])[0])
+            f.write("\n")
+
+    f.close()
+    end = time.time()
+    print("完成时间: %f s" % (end - start))  #
+
+
+def to_word(txt, word_file):
+    from docx import Document
+
+    # 打开文本文件进行读取
+    with open(txt, 'r', encoding='gbk') as file:
+        text_content = file.read()
+
+    # 创建一个新的 Word 文档
+    doc = Document()
+
+    # 添加文本内容到 Word 文档中
+    doc.add_paragraph(text_content)
+
+    # 保存 Word 文档
+    doc.save(word_file)
+
+
+if __name__ == "__main__":
+    pdf_file = './abcdd.pdf'
+    txt_file = 'test.txt'
+    word_file = 'test.docx'
+    pdf_to_txt(pdf_file, txt_file)
+    to_word(txt_file, word_file)

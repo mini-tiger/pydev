@@ -10,7 +10,7 @@ import os
 os.environ["OPENAI_API_KEY"] = 'EMPTY'
 from langchain.chat_models import ChatOpenAI
 
-llm = ChatOpenAI(temperature=0, openai_api_base="http://120.133.83.145:9116/v1")
+llm = ChatOpenAI(temperature=0, openai_api_base="http://120.133.63.166:8003/v1")
 # 谷歌搜索的Key
 os.environ["SERPAPI_API_KEY"] = '310730e8cccf5e088ae50243cd37fdde7a769f80e46041abf0debb2cbcd5f5c4'
 
