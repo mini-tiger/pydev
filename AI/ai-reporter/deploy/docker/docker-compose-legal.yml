@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  ai-frontend-legal:
+    image:  ai-legal:v0.8.3.0-web
+    container_name: "ai-frontend-legal-web"
+    restart: always
+    privileged: true
+    environment:
+#      - LANG=zh_CN.UTF-8
+#      - LC_ALL=zh_CN.UTF-8
+      - TZ=Asia/Shanghai
+    volumes:
+      - /usr/share/zoneinfo/Asia/Shanghai:/etc/localtime
+      - ./nginx-legal-web.conf:/etc/nginx/nginx.conf
+        #ports:
+        # - "9000:9000"                        #默认管理端口
+    network_mode: host

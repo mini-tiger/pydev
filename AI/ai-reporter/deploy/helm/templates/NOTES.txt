@@ -1,0 +1,33 @@
+#
+#
+#  MMMMMMMM               MMMMMMMM                             tttt                            DDDDDDDDDDDDD      BBBBBBBBBBBBBBBBB
+#  M:::::::M             M:::::::M                          ttt:::t                            D::::::::::::DDD   B::::::::::::::::B
+#  M::::::::M           M::::::::M                          t:::::t                            D:::::::::::::::DD B::::::BBBBBB:::::B
+#  M:::::::::M         M:::::::::M                          t:::::t                            DDD:::::DDDDD:::::DBB:::::B     B:::::B
+#  M::::::::::M       M::::::::::M    eeeeeeeeeeee    ttttttt:::::ttttttt      aaaaaaaaaaaaa     D:::::D    D:::::D B::::B     B:::::B
+#  M:::::::::::M     M:::::::::::M  ee::::::::::::ee  t:::::::::::::::::t      a::::::::::::a    D:::::D     D:::::DB::::B     B:::::B
+#  M:::::::M::::M   M::::M:::::::M e::::::eeeee:::::eet:::::::::::::::::t      aaaaaaaaa:::::a   D:::::D     D:::::DB::::BBBBBB:::::B
+#  M::::::M M::::M M::::M M::::::Me::::::e     e:::::etttttt:::::::tttttt               a::::a   D:::::D     D:::::DB:::::::::::::BB
+#  M::::::M  M::::M::::M  M::::::Me:::::::eeeee::::::e      t:::::t              aaaaaaa:::::a   D:::::D     D:::::DB::::BBBBBB:::::B
+#  M::::::M   M:::::::M   M::::::Me:::::::::::::::::e       t:::::t            aa::::::::::::a   D:::::D     D:::::DB::::B     B:::::B
+#  M::::::M    M:::::M    M::::::Me::::::eeeeeeeeeee        t:::::t           a::::aaaa::::::a   D:::::D     D:::::DB::::B     B:::::B
+#  M::::::M     MMMMM     M::::::Me:::::::e                 t:::::t    tttttta::::a    a:::::a   D:::::D    D:::::D B::::B     B:::::B
+#  M::::::M               M::::::Me::::::::e                t::::::tttt:::::ta::::a    a:::::a DDD:::::DDDDD:::::DBB:::::BBBBBB::::::B
+#  M::::::M               M::::::M e::::::::eeeeeeee        tt::::::::::::::ta:::::aaaa::::::a D:::::::::::::::DD B:::::::::::::::::B
+#  M::::::M               M::::::M  ee:::::::::::::e          tt:::::::::::tt a::::::::::aa:::aD::::::::::::DDD   B::::::::::::::::B
+#  MMMMMMMM               MMMMMMMM    eeeeeeeeeeeeee            ttttttttttt    aaaaaaaaaa  aaaaDDDDDDDDDDDDD      BBBBBBBBBBBBBBBBB
+#
+#
+
+
+Thank you for installing {{ .Chart.Name }}.
+
+Your release is named {{ .Release.Name }}.
+
+To learn more about the release, try:
+
+  $ helm list
+  $ helm history {{ .Release.Name }}
+  $ kubectl get svc -n {{ .Release.Namespace }} 
+  $ kubectl get deploy -n {{ .Release.Namespace }}
+  $ kubectl get po  -n {{ .Release.Namespace }}

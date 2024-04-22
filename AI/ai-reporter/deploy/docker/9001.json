@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "百川",
+      "alias": "baichuan-13B",
+      "enable": "True"
+    },
+    {
+      "name": "01/YI",
+      "alias": "Yi-34B",
+      "enable": "False"
+    }
+  ]
+}

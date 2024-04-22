@@ -1,0 +1,21 @@
+FROM node:16.20.2 as builder
+ENV WORKDIR=/ai-reporter
+WORKDIR $WORKDIR
+COPY ./ $WORKDIR/
+ARG version
+ARG build_tag
+ENV COMMITID=$version
+ENV BUILD_TAG=$build_tag
+RUN npm config set registry https://registry.npmmirror.com
+RUN npm i -g pnpm cross-env
+RUN pnpm install
+RUN pnpm build-${BUILD_TAG}
+
+FROM nginx:stable-alpine3.17-perl as dev
+ARG build_tag
+ENV BUILD_TAG=$build_tag
+RUN mkdir /ai-reporter
+COPY --from=builder /ai-reporter/dist /ai-reporter
+COPY --from=builder /ai-reporter/docker/nginx.${BUILD_TAG}.conf /etc/nginx/nginx.conf
+
+EXPOSE 9001

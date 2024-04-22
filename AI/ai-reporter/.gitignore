@@ -1,0 +1,10 @@
+*.pdf
+*.pyc
+*.docx
+__pycache__/
+*.py[cod]
+**/__pycache__
+.idea/
+*.tar
+**/*.bin
+**/*.model

@@ -1,0 +1,31 @@
+server {
+    listen ${FLASK_PORT};
+    # 如果不使用域名，则可以移除 server_name 指令
+    # 或者设置为默认的 _;
+    server_name _;
+
+    location / {
+        include uwsgi_params;
+        uwsgi_pass unix:/data/ai-reporter/myapp.sock;
+
+        # 设置较大的缓冲区以处理大文件下载
+        uwsgi_buffering off;
+        client_max_body_size 0; # 不限制请求体的大小
+
+        # SSE 相关的配置
+        proxy_http_version 1.1;
+        proxy_set_header Connection "";
+        chunked_transfer_encoding on;
+        proxy_buffering off;
+        proxy_cache off;
+        add_header Vary Accept-Encoding;
+
+        # 设置较长的超时时间
+        proxy_read_timeout 7200s;
+        proxy_send_timeout 7200s;
+        uwsgi_read_timeout 7200s;
+        uwsgi_send_timeout 7200s;
+
+
+    }
+}

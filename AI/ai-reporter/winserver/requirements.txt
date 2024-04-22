@@ -1,0 +1,8 @@
+python-docx==1.1.0
+typing_extensions==4.8.0
+uvicorn==0.27.1
+fastapi==0.110.0
+pywin32==306
+pillow==10.2.0
+concurrent-log-handler==0.9.25
+concurrent_log==1.0.1

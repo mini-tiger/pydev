@@ -1,0 +1,17 @@
+{
+    "建筑房地产":"architectureAndRealty.json",
+    "it和通信":"itAndcommunication.json",
+    "车辆交通":"vehicleAndtraffic.json",
+    "纺织服装":"textileAndGarment.json",
+    "家庭日用":"familyAndDailyuse.json",
+    "家用电器":"householdAndAppliance.json",
+    "金融保险投资":"financialAndInsuranceInvestment.json",
+    "能源矿产":"energyAndMineral.json",
+    "农林渔牧":"agricultureAndForestry.json",
+    "石油化工":"petrochemicalAndIndustry.json",
+    "医疗医药保健":"medicalAndHealthcare.json",
+    "饮食烟酒":"dietAndTobaccoalcohol.json",
+    "机械电子":"mechanoAndElectronic.json",
+    "测试":"agricultureAndForestry-test.json",
+    "测试治理":"shuzizhili.json"
+}

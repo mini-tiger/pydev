@@ -1,0 +1,223 @@
+{
+    "title": "{title}",
+    "Sections": [
+        {
+            "index": 1,
+            "Section": "第一章 {keyword}行业发展概述",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}定义及分类"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}产业链分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业地位分析"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "Section": "第二章 {keyword}行业总体发展状况",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业规模情况分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业产销情况分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业财务能力预测分析"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "Section": "第三章 {keyword}行业政策技术环境分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业政策法规环境分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业技术环境分析"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "Section": "第四章 {keyword}行业市场发展分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业市场运行分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业市场产品价格走势分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业市场发展的主要策略"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "Section": "第五章 {keyword}行业进出口市场分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}进出口市场分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业进出口数据统计"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}进出口区域格局分析"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}进出口预测"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "Section": "第六章 {keyword}行业市场供需状况研究分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业市场需求分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业市场供给分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业市场供需平衡分析"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "Section": "第七章 {keyword}行业相关行业市场运行综合分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业上游运行分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业下游运行分析"
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "Section": "第八章 {keyword}行业竞争格局分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业竞争结构分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}企业国际竞争力比较"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业竞争格局分析"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}行业竞争策略分析"
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "Section": "第九章 {keyword}行业重点区域运行分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 华东地区{keyword}行业运行情况"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 华南地区{keyword}行业运行情况"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 华中地区{keyword}行业运行情况"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 华北地区{keyword}行业运行情况"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 西北地区{keyword}行业运行情况"
+                },
+                {
+                    "index": 6,
+                    "Section": "第六节 西南地区{keyword}行业运行情况"
+                },
+                {
+                    "index": 7,
+                    "Section": "第七节 主要省市集中度及竞争力分析"
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "Section": "第十章 {keyword}行业发展前景预测分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 行业发展前景分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业市场发展趋势预测"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}技术发展趋势预测"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 我国{keyword}行业模型分析研究"
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "Section": "第十一章 {keyword}行业投资分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业投资机会分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业投资风险分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业投资建议"
+                }
+            ]
+        }
+    ]
+}

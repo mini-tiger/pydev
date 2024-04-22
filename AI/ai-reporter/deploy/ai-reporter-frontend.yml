@@ -1,0 +1,59 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ai-flask-frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ai-flask-frontend
+  template:
+    metadata:
+      labels:
+        app: ai-flask-frontend
+    spec:
+      containers:
+      - name: ai-flask-frontend
+        image: ai-reporter:v0.8.3.3-zhongzi-web
+        env:
+          - name: TZ
+            value: "Asia/Shanghai"
+        ports:
+          - containerPort: 9216
+        volumeMounts:
+          - name: timezone
+            mountPath: /etc/localtime
+          - name: config-volume
+            mountPath: /etc/nginx/nginx.conf
+            subPath: nginx.conf
+        livenessProbe:
+          httpGet:
+            path: /
+            port: 9216
+          initialDelaySeconds: 60
+          periodSeconds: 30
+          timeoutSeconds: 10
+          failureThreshold: 3
+      volumes:
+        - name: config-volume
+          configMap:
+            name: nginx-reporter-config  # Name of your ConfigMap
+        - name: timezone
+          hostPath:
+            path: /usr/share/zoneinfo/Asia/Shanghai
+
+#      hostNetwork: true
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ai-flask-frontend-service
+spec:
+  type: NodePort
+  ports:
+    - port: 9216
+      targetPort: 9216
+      protocol: TCP
+      nodePort: 30026  # Optional: Specify a nodePort in range 30000-32767, if not, it will be auto-assigned.
+  selector:
+    app: ai-flask-frontend  # Ensure this matches the labels used in your Deployment

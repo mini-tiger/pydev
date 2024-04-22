@@ -1,0 +1,36 @@
+{{- range .Values.apps }}
+  {{- with . }}
+---
+
+apiVersion: v1
+kind: Service
+metadata: 
+  name: {{ .name }}-svc
+  labels: 
+    app: {{ .name }}-svc
+  annotations:
+    timestamp: {{ now | quote }}
+spec: 
+  ports:
+  {{- if eq .name  "webserver" }}
+  {{- range .ports }}
+  - name: {{ .name }}
+    port: {{ .port }}
+    targetPort: {{ .port }}
+    {{- if .nodePort}}
+    nodePort: {{ .nodePort}}
+    {{- end}}
+  {{- end }}
+  {{- else }}
+  - port: {{ .port }}
+    targetPort: {{ .port }}
+    {{- if .nodePort}}
+    nodePort: {{ .nodePort}}
+    {{- end}}
+  {{- end}}
+  type: NodePort
+  selector:
+    app: {{ .name }}
+---
+{{- end}}
+  {{- end}}
