@@ -1,0 +1,238 @@
+[
+    {
+      "question_std": "6+3 等于 A. 1 B. 18 C. 3  D. 9",
+      "answers_std": "D",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "6+3 等于 A. 1 B. 18 C. 3  D. 9",
+      "score": 0,
+      "err": "not run"
+    },
+  
+    {
+      "question_std": "6*3 等于 A. 1 B. 18 C. 3  D. 9",
+      "answers_std": "B",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "6*3 等于 A. 1 B. 18 C. 3  D. 9",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "6-3 等于 A. 1 B. 18 C. 3  D. 9",
+      "answers_std": "C",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "6-3 等于 A. 1 B. 18 C. 3  D. 9",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "1.2+1.5 等于 A. 1 B. 3 C. 2.8  D. 2.7",
+      "answers_std": "D",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "1.2+1.5 等于 A. 1 B. 3 C. 2.8  D. 2.7",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "1.2*1.5 等于 A. 1.8 B. 3 C. 2.8  D. 2.7",
+      "answers_std": "A",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "1.2*1.5 等于 A. 1.8 B. 3 C. 2.8  D. 2.7",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "1.2的平方 等于 A. 4.96 B. 1 C. 2.8  D. 1.44",
+      "answers_std": "D",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "1.2的平方 等于 A. 4.96 B. 1 C. 2.8  D. 1.44",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "1+2 等于 A. 3 B. 4 C. 5  D. 6",
+      "answers_std": "A",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "1+2 等于 A. 3 B. 4 C. 5  D. 6",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "3-1 等于 A. 1 B. 2 C. 3  D. 4",
+      "answers_std": "B",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "3-1 等于 A. 1 B. 2 C. 3  D. 4",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "2*3 等于 A. 3 B. 6 C. 9  D. 12",
+      "answers_std": "B",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "2*3 等于 A. 3 B. 6 C. 9  D. 12",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "9/3 等于 A. 1 B. 2 C. 3  D. 4",
+      "answers_std": "C",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "9/3 等于 A. 1 B. 2 C. 3  D. 4",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "5+5 等于 A. 8 B. 9 C. 10  D. 11",
+      "answers_std": "C",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "5+5 等于 A. 8 B. 9 C. 10  D. 11",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "12-4 等于 A. 7 B. 8 C. 9  D. 10",
+      "answers_std": "B",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "12-4 等于 A. 7 B. 8 C. 9  D. 10",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "3*4 等于 A. 10 B. 11 C. 12  D. 13",
+      "answers_std": "C",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "3*4 等于 A. 10 B. 11 C. 12  D. 13",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "18/2 等于 A. 7 B. 8 C. 9  D. 10",
+      "answers_std": "C",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "18/2 等于 A. 7 B. 8 C. 9  D. 10",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "6+6 等于 A. 11 B. 12 C. 13  D. 14",
+      "answers_std": "B",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "6+6 等于 A. 11 B. 12 C. 13  D. 14",
+      "score": 0,
+      "err": "not run"
+    },
+    {
+      "question_std": "25-5 等于 A. 18 B. 19 C. 20  D. 21",
+      "answers_std": "C",
+      "answers_real": "",
+      "valid": false,
+      "prompt": "25-5 等于 A. 18 B. 19 C. 20  D. 21",
+      "score": 0,
+      "err": "not run"
+    },
+        {
+          "question_std": "25*5+1 等于 A. 126 B. 130 C. 125  D. 124",
+          "answers_std": "A",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "25*5+1 等于 A. 126 B. 130 C. 125  D. 124",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "15/3+5 等于 A. 7 B. 8 C. 9  D. 10",
+          "answers_std": "D",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "15/3+5 等于 A. 7 B. 8 C. 9  D. 10",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "10-3*2 等于 A. 4 B. 5 C. 6  D. 7",
+          "answers_std": "A",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "10-3*2 等于 A. 4 B. 5 C. 6  D. 7",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "20/5-2 等于 A. 1 B. 2 C. 3  D. 4",
+          "answers_std": "B",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "20/5-2 等于 A. 1 B. 2 C. 3  D. 4",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "5+3*4 等于 A. 17 B. 18 C. 19  D. 20",
+          "answers_std": "A",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "5+3*4 等于 A. 17 B. 18 C. 19  D. 20",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "12/3+2 等于 A. 4 B. 5 C. 6  D. 7",
+          "answers_std": "C",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "12/3+2 等于 A. 4 B. 5 C. 6  D. 7",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "9*2-7 等于 A. 13 B. 11 C. 15  D. 16",
+          "answers_std": "B",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "9*2-7 等于 A. 13 B. 14 C. 15  D. 16",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "18/2+3 等于 A. 10 B. 11 C. 12  D. 13",
+          "answers_std": "C",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "18/2+3 等于 A. 10 B. 11 C. 12  D. 13",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "6+6*2 等于 A. 12 B. 14 C. 16  D. 18",
+          "answers_std": "D",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "6+6*2 等于 A. 12 B. 14 C. 16  D. 18",
+          "score": 0,
+          "err": "not run"
+        },
+        {
+          "question_std": "25-5/5 等于 A. 24 B. 21 C. 22  D. 23",
+          "answers_std": "A",
+          "answers_real": "",
+          "valid": false,
+          "prompt": "25-5/5 等于 A. 20 B. 21 C. 22  D. 23",
+          "score": 0,
+          "err": "not run"
+        }
+    
+  ]

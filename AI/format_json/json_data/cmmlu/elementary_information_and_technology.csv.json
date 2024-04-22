@@ -1,0 +1,2382 @@
+[
+  {
+    "question_std": "网址www.zj.gov.cn中gov表示 A. 教育机构 B. 政府网站 C. 商业网站 D. 国际机构",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "网址www.zj.gov.cn中gov表示 A. 教育机构 B. 政府网站 C. 商业网站 D. 国际机构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于资源管理器中的“滚动条”，下列说法中正确的是 A. 随着窗口尺寸的放大和缩小，滚动条时有时无 B. 某窗口中有垂直滚动条，一定也有水平滚动条 C. 各种被打开的窗口中，都会出现滚动条 D. 滚动条中的滚动块的位置只能用鼠标来拖动移位",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于资源管理器中的“滚动条”，下列说法中正确的是 A. 随着窗口尺寸的放大和缩小，滚动条时有时无 B. 某窗口中有垂直滚动条，一定也有水平滚动条 C. 各种被打开的窗口中，都会出现滚动条 D. 滚动条中的滚动块的位置只能用鼠标来拖动移位",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组成完整的计算机系统的两个部分是 A. 教学软件和财务软件 B. 操作系统和应用系统 C. 系统软件和应用软件 D. 硬件系统和软件系统",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组成完整的计算机系统的两个部分是 A. 教学软件和财务软件 B. 操作系统和应用系统 C. 系统软件和应用软件 D. 硬件系统和软件系统",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对计算机软件正确的认识应该是 A. 正版软件太贵，软件能复制不必购买 B. 正版软件只要能解密就能随意使用 C. 受法律保护的计算机软件不能随便复制 D. 计算机软件受法律保护是多余的",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对计算机软件正确的认识应该是 A. 正版软件太贵，软件能复制不必购买 B. 正版软件只要能解密就能随意使用 C. 受法律保护的计算机软件不能随便复制 D. 计算机软件受法律保护是多余的",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WORD的编辑状态，进行字体设置操作后，按新设置的字体显示的文字是 A. 文档中被选择的文字 B. 插入点所在段落中的文字 C. 文档的全部文字 D. 插入点所在行中的文字",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WORD的编辑状态，进行字体设置操作后，按新设置的字体显示的文字是 A. 文档中被选择的文字 B. 插入点所在段落中的文字 C. 文档的全部文字 D. 插入点所在行中的文字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面不属于局域网络硬件组成的是 A. 个人计算机工作站 B. 浏览器 C. 网络服务器 D. 网络交换机",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面不属于局域网络硬件组成的是 A. 个人计算机工作站 B. 浏览器 C. 网络服务器 D. 网络交换机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "单击Word主窗口标题栏右边显示的“最小化”接钮后 A. Word的窗口被最小化成为任务栏上一按钮 B. Word的窗口关闭，成为桌面上的一个图标 C. Word的窗口关闭，文档窗口末关闭 D. Word退出运行",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "单击Word主窗口标题栏右边显示的“最小化”接钮后 A. Word的窗口被最小化成为任务栏上一按钮 B. Word的窗口关闭，成为桌面上的一个图标 C. Word的窗口关闭，文档窗口末关闭 D. Word退出运行",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种数据一般不会被计算机病毒破坏 A. 多媒体数据 B. 硬盘中的数据 C. 光盘中的数据库 D. 软盘中的数据",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种数据一般不会被计算机病毒破坏 A. 多媒体数据 B. 硬盘中的数据 C. 光盘中的数据库 D. 软盘中的数据",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "PowerPoint，“剪切”命令是 A. 将选择的内容移入剪贴板 B. 仅将文本删除 C. 将选择的内容复制到剪贴板 D. 将剪贴板中的内容粘贴到指定位置",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "PowerPoint，“剪切”命令是 A. 将选择的内容移入剪贴板 B. 仅将文本删除 C. 将选择的内容复制到剪贴板 D. 将剪贴板中的内容粘贴到指定位置",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不是InternetExplorer工具栏上的默认按钮的是 A. 收藏 B. 搜索 C. 打印 D. 保存",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不是InternetExplorer工具栏上的默认按钮的是 A. 收藏 B. 搜索 C. 打印 D. 保存",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Enter键的中文名称是 A. 回车键 B. 控制键 C. 大写字母锁定键 D. 上档键",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Enter键的中文名称是 A. 回车键 B. 控制键 C. 大写字母锁定键 D. 上档键",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "3.5英寸软盘的一个角上有一个滑动块，如果移动该滑动块露出一个小孔，则该盘 A. 只能读不能写 B. 不能读但能写 C. 能读写 D. 不能读也不能写",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "3.5英寸软盘的一个角上有一个滑动块，如果移动该滑动块露出一个小孔，则该盘 A. 只能读不能写 B. 不能读但能写 C. 能读写 D. 不能读也不能写",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于WORD表格说法正确的是 A. 对表格中单元格不可以进行合并和拆分 B. 表格建好后，不能改变表格的高度和宽度 C. 表格可以进出口行边框和底纹的设置 D. 在表格的单元格中只能输入文字",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于WORD表格说法正确的是 A. 对表格中单元格不可以进行合并和拆分 B. 表格建好后，不能改变表格的高度和宽度 C. 表格可以进出口行边框和底纹的设置 D. 在表格的单元格中只能输入文字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "IP地址的组成是 A. 三个黑点分隔4个部分，前两部分是国家名和地区名，后两部分是数字 B. 三个黑点分隔主机名、单位名、地区名和国家名 C. 三个黑点分隔4个部分，前两部分是国家名和地区名代码，后两部分是网络和主机代码 D. 三个黑点分隔4个0~255的数字",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "IP地址的组成是 A. 三个黑点分隔4个部分，前两部分是国家名和地区名，后两部分是数字 B. 三个黑点分隔主机名、单位名、地区名和国家名 C. 三个黑点分隔4个部分，前两部分是国家名和地区名代码，后两部分是网络和主机代码 D. 三个黑点分隔4个0~255的数字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在网上交流信息时，下列操作中不安全的是 A. 在局域网中不能轻易共享重要的资料 B. 不安装杀毒、防毒软件就上网交流信息 C. 在网上不要轻易泄露个人的密码、帐号等信息 D. 在网上申请帐号时要及时进行帐号的密码保护工作",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在网上交流信息时，下列操作中不安全的是 A. 在局域网中不能轻易共享重要的资料 B. 不安装杀毒、防毒软件就上网交流信息 C. 在网上不要轻易泄露个人的密码、帐号等信息 D. 在网上申请帐号时要及时进行帐号的密码保护工作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于电子邮件下面的说法不正确的是 A. 在一个电子邮件中，可以发送文字、图像、语音等信息 B. 电子邮件可以同时发送给多个用户 C. 发送电子邮件时，通讯双方必须都在场 D. 电子邮件比人工邮件传送更方便、快捷",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于电子邮件下面的说法不正确的是 A. 在一个电子邮件中，可以发送文字、图像、语音等信息 B. 电子邮件可以同时发送给多个用户 C. 发送电子邮件时，通讯双方必须都在场 D. 电子邮件比人工邮件传送更方便、快捷",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在字处理系统的编辑状态下，“打开”文档的作用是 A. 显示并打印指定文档的内容 B. 将指定的文档从内存中读入，并显示在当前窗口 C. 为指定的文档打开一个空白窗口 D. 将指定的文档从外存中读入，并显示在当前窗口",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在字处理系统的编辑状态下，“打开”文档的作用是 A. 显示并打印指定文档的内容 B. 将指定的文档从内存中读入，并显示在当前窗口 C. 为指定的文档打开一个空白窗口 D. 将指定的文档从外存中读入，并显示在当前窗口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "RAM的特点是 A. 容量大但存取速度慢 B. 存储在其内的数据将永久保存 C. 断电后，存储在其内的数据将会丢失 D. 用户只能读出数据，但不能随机写入数据",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "RAM的特点是 A. 容量大但存取速度慢 B. 存储在其内的数据将永久保存 C. 断电后，存储在其内的数据将会丢失 D. 用户只能读出数据，但不能随机写入数据",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机的网络种类很多、性能各异。根据其通信的范围距离，下列提法正确的是 A. 可分为城域网、广域网 B. 可分为局域网、校园网和广域网 C. 可分为局域网、城域网 D. 可分为局域网、广域网",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机的网络种类很多、性能各异。根据其通信的范围距离，下列提法正确的是 A. 可分为城域网、广域网 B. 可分为局域网、校园网和广域网 C. 可分为局域网、城域网 D. 可分为局域网、广域网",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于文档窗口的说法中正确的是 A. 只能打开一个文档窗口 B. 可以同时打开多个文档窗口，但在屏幕上只能见到一个文档的窗口 C. 可以同时打开多个文档窗口，但其中只有一个是活动窗口 D. 可以同时打开多个文档窗口，被打开的窗口都是活动窗口",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于文档窗口的说法中正确的是 A. 只能打开一个文档窗口 B. 可以同时打开多个文档窗口，但在屏幕上只能见到一个文档的窗口 C. 可以同时打开多个文档窗口，但其中只有一个是活动窗口 D. 可以同时打开多个文档窗口，被打开的窗口都是活动窗口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组数中属于正确IP地址的是 A. 10.10.10.10.10 B. 10.1.100.1000 C. 192.168.0.1 D. 202.96.104",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组数中属于正确IP地址的是 A. 10.10.10.10.10 B. 10.1.100.1000 C. 192.168.0.1 D. 202.96.104",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法错误的是 A. “画图”软件可以打开BMP位图图像文件，还可以打开JPG、GIF等图像文件 B. Winodws附件中的Midia Player(媒体播放器)可以播放WAV等音乐文件，也可以播放AVI等视频文件 C. Word软件可以找开DOC文件，也可以打开TXT文件 D. PowerPoint用于打开MP3等音乐文件",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法错误的是 A. “画图”软件可以打开BMP位图图像文件，还可以打开JPG、GIF等图像文件 B. Winodws附件中的Midia Player(媒体播放器)可以播放WAV等音乐文件，也可以播放AVI等视频文件 C. Word软件可以找开DOC文件，也可以打开TXT文件 D. PowerPoint用于打开MP3等音乐文件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "ROM中存储的数据在断电后 A. 完全丢失 B. 不一定丢失 C. 部分丢失 D. 不会丢失",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "ROM中存储的数据在断电后 A. 完全丢失 B. 不一定丢失 C. 部分丢失 D. 不会丢失",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "文字在计算机内部的存储采用 A. 十六进制编码 B. 十进制编码 C. 二进制编码 D. 八进制编码",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "文字在计算机内部的存储采用 A. 十六进制编码 B. 十进制编码 C. 二进制编码 D. 八进制编码",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列软件中不属于系统软件的是 A. Word B. DOS C. Linux D. Windows",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列软件中不属于系统软件的是 A. Word B. DOS C. Linux D. Windows",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微型计算机中的CPU是由 A. 微处理器和内存储器组成 B. 运算器和控制器组成 C. 运算器和寄存器组成 D. 内存储器和外存储器组成",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微型计算机中的CPU是由 A. 微处理器和内存储器组成 B. 运算器和控制器组成 C. 运算器和寄存器组成 D. 内存储器和外存储器组成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机存储信息的文件格式有多种，扩展名为txt的文件存储的信息是 A. 图片 B. 视频 C. 文本 D. 声音",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机存储信息的文件格式有多种，扩展名为txt的文件存储的信息是 A. 图片 B. 视频 C. 文本 D. 声音",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "要查看前几天上网的记录，可以按网页工具栏中的按钮是 A. 搜索 B. 历史 C. 收藏 D. 主页",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "要查看前几天上网的记录，可以按网页工具栏中的按钮是 A. 搜索 B. 历史 C. 收藏 D. 主页",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面是一些因特网上常见的文件类型，一般代表WWW页面的文件扩展名是 A. wav B. htm C. gif D. txt",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面是一些因特网上常见的文件类型，一般代表WWW页面的文件扩展名是 A. wav B. htm C. gif D. txt",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在用自己的计算机浏览网页的过程中，如果发现喜欢的网页并希望以后多次访问，最好的方法是把这个页面地址 A. 放到收藏夹中 B. 用笔记抄写到笔记本上 C. 用文本文件保存下来 D. 记忆下来",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在用自己的计算机浏览网页的过程中，如果发现喜欢的网页并希望以后多次访问，最好的方法是把这个页面地址 A. 放到收藏夹中 B. 用笔记抄写到笔记本上 C. 用文本文件保存下来 D. 记忆下来",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在发送电子邮件时，附件的大小是有限制的。假设某网站规定附件的最大值为1M，现有一位同学需发送总容量为2250KB的多个文件。则他在该网站中至少发送的次数是 A. 3 B. 2 C. 1 D. 4",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在发送电子邮件时，附件的大小是有限制的。假设某网站规定附件的最大值为1M，现有一位同学需发送总容量为2250KB的多个文件。则他在该网站中至少发送的次数是 A. 3 B. 2 C. 1 D. 4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用IE访问网页时，鼠标指针移到存在超级链接部位时，形状通常变为 A. 闪烁状态 B. 箭头形状 C. 手形 D. 问号",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用IE访问网页时，鼠标指针移到存在超级链接部位时，形状通常变为 A. 闪烁状态 B. 箭头形状 C. 手形 D. 问号",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": ".根据文件名判断以下哪些文件不是图片文件 A. 图片.bmp B. 图片.gif C. 图片.jpg D. 图片.doc",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": ".根据文件名判断以下哪些文件不是图片文件 A. 图片.bmp B. 图片.gif C. 图片.jpg D. 图片.doc",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于收发邮件的说法不正确的是 A. 可用电子邮件发送可执行文件 B. 向对方发送电子邮件时，并不要求对方开机 C. 无需知道对方的邮件地址就能发送 D. 一次发送操作可发给多个接收者",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于收发邮件的说法不正确的是 A. 可用电子邮件发送可执行文件 B. 向对方发送电子邮件时，并不要求对方开机 C. 无需知道对方的邮件地址就能发送 D. 一次发送操作可发给多个接收者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows2000中，用“创建快捷方式”创建的图标A A. 只能是程序文件和文档文件 B. 可以是任何文件或文件夹 C. 文件夹不能创建快捷方式 D. 只能是可执行程序或程序组",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows2000中，用“创建快捷方式”创建的图标A A. 只能是程序文件和文档文件 B. 可以是任何文件或文件夹 C. 文件夹不能创建快捷方式 D. 只能是可执行程序或程序组",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "PowerPoint中关于动画设置的说法哪一个是错误的 A. 动画的播放顺序一经设置后，就不能改变 B. 制作幻灯片时可以不设置动画效果 C. 可以在自定义动画对话框中进行动画预览 D. 可以在播放动画的同时带有声音",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "PowerPoint中关于动画设置的说法哪一个是错误的 A. 动画的播放顺序一经设置后，就不能改变 B. 制作幻灯片时可以不设置动画效果 C. 可以在自定义动画对话框中进行动画预览 D. 可以在播放动画的同时带有声音",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于GIF图片，下列说法错误的是 A. GIF图片在网页制作中使用 B. GIF图像的图像质量不高，但相对文件占用空间较少 C. 有些GIF图片是静态的，有些是动态的 D. GIF图片只能浏览不能用图像软件进行修改",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于GIF图片，下列说法错误的是 A. GIF图片在网页制作中使用 B. GIF图像的图像质量不高，但相对文件占用空间较少 C. 有些GIF图片是静态的，有些是动态的 D. GIF图片只能浏览不能用图像软件进行修改",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大规模和超大规模集成电路芯片组成的微型计算机属于计算机的 A. 第二代产品 B. 第四代产品 C. 第三代产品 D. 第一代产品",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大规模和超大规模集成电路芯片组成的微型计算机属于计算机的 A. 第二代产品 B. 第四代产品 C. 第三代产品 D. 第一代产品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于操作系统的是 A. Unix B. Word 2000 C. Windows 2000 D. DOS",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于操作系统的是 A. Unix B. Word 2000 C. Windows 2000 D. DOS",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机在工作中尚未进行存盘操作，突然电源中断，则计算机中的哪种信息会全部丢失 A. ROM中的信息 B. ROM和RAM的信息 C. 硬盘中的信息 D. RAM中的信息",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机在工作中尚未进行存盘操作，突然电源中断，则计算机中的哪种信息会全部丢失 A. ROM中的信息 B. ROM和RAM的信息 C. 硬盘中的信息 D. RAM中的信息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列软件类型中，不具备版权的是 A. 共享软件 B. 购买的杀毒软件 C. 免费软件 D. 商业软件",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列软件类型中，不具备版权的是 A. 共享软件 B. 购买的杀毒软件 C. 免费软件 D. 商业软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在桌面空白处右击，弹出的快捷菜单中选择“属性”会出现 A. “桌面主题”对话框 B. “系统属性”对话框 C. “显示属性”对话框 D. “控制面版”对话框",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在桌面空白处右击，弹出的快捷菜单中选择“属性”会出现 A. “桌面主题”对话框 B. “系统属性”对话框 C. “显示属性”对话框 D. “控制面版”对话框",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微型计算机的键盘上用于输入上档字符和转换英文大小写字母输入的键是 A. ALT键 B. SHIFT键 C. TAB键 D. CTRL键",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微型计算机的键盘上用于输入上档字符和转换英文大小写字母输入的键是 A. ALT键 B. SHIFT键 C. TAB键 D. CTRL键",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机病毒是指 A. 一种可传染的细菌 B. 一种人为制造的破坏计算机系统的程序 C. 一种由计算机本身产生的破坏程序 D. 一种由操作者传染给计算机的病毒",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机病毒是指 A. 一种可传染的细菌 B. 一种人为制造的破坏计算机系统的程序 C. 一种由计算机本身产生的破坏程序 D. 一种由操作者传染给计算机的病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "因特网的地址系统表示方法有 A. 域名和IP地址 B. 资源管理器 C. 树型目录 D. Email地址",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "因特网的地址系统表示方法有 A. 域名和IP地址 B. 资源管理器 C. 树型目录 D. Email地址",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "获取信息的途径中属于直接获取信息的是 A. 从事野外科学考察 B. 听广播 C. 看电视 D. 上网浏览",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "获取信息的途径中属于直接获取信息的是 A. 从事野外科学考察 B. 听广播 C. 看电视 D. 上网浏览",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "PowerPoint中放映幻灯片的快捷键为 A. F7 B. F1 C. F8 D. F5",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "PowerPoint中放映幻灯片的快捷键为 A. F7 B. F1 C. F8 D. F5",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下交流方式中不属于实时的信息交流方式的是 A. ICQ B. MSN C. E-mail D. QQ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下交流方式中不属于实时的信息交流方式的是 A. ICQ B. MSN C. E-mail D. QQ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机中常用的CD-ROM是B A. 只读型光盘 B. 只读型大容量软盘 C. 只读型硬盘 D. 可读写存储器",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机中常用的CD-ROM是B A. 只读型光盘 B. 只读型大容量软盘 C. 只读型硬盘 D. 可读写存储器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在“我的文档”中，肯定可以建立 A. 两个不同名的文件夹 B. 两个同名的文件 C. 两个同名的文件夹 D. 同名的文件和文件夹",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在“我的文档”中，肯定可以建立 A. 两个不同名的文件夹 B. 两个同名的文件 C. 两个同名的文件夹 D. 同名的文件和文件夹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在编辑一个已存在的Word文档时，执行“文件”菜单中的“保存”命令后 A. 可以将当前文档存储在已有的任意文件夹内 B. 可以先建立一个新文件夹，再将当前文档存储在该文件内 C. 只能将当前文档存储在原文件中 D. 将所有打开的文档存盘",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在编辑一个已存在的Word文档时，执行“文件”菜单中的“保存”命令后 A. 可以将当前文档存储在已有的任意文件夹内 B. 可以先建立一个新文件夹，再将当前文档存储在该文件内 C. 只能将当前文档存储在原文件中 D. 将所有打开的文档存盘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "WORD启动后其打开的文档名显示在窗口的 A. 标题栏 B. 工具栏 C. 菜单栏 D. 状态栏",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "WORD启动后其打开的文档名显示在窗口的 A. 标题栏 B. 工具栏 C. 菜单栏 D. 状态栏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机中，bit的中文含义是 A. 字节 B. 字 C. 二进制位 D. 像素",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机中，bit的中文含义是 A. 字节 B. 字 C. 二进制位 D. 像素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "多媒体信息不包括 A. 文字、图像 B. 声卡、光盘 C. 音频、视频 D. 动画、图像",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "多媒体信息不包括 A. 文字、图像 B. 声卡、光盘 C. 音频、视频 D. 动画、图像",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上因特网浏览信息，常用的浏览器是 A. Internet Explorer B. WPS2000 C. Word2000 D. KV300",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "上因特网浏览信息，常用的浏览器是 A. Internet Explorer B. WPS2000 C. Word2000 D. KV300",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows2000的桌面上有一个文件夹显示为灰色，则该文件夹的属性为 A. 存档 B. 只读 C. 系统 D. 隐藏",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows2000的桌面上有一个文件夹显示为灰色，则该文件夹的属性为 A. 存档 B. 只读 C. 系统 D. 隐藏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于计算机病毒的四条叙述中，有错误的一条是 A. 计算机病毒是人为编制的一种程序 B. 计算机病毒是一种通过磁盘、网络等媒介传播、扩散并能传染其它计算机的程序 C. 计算机病毒是能够实现自身复制并借助一定的媒介传播的具有潜伏性、传染性和破坏性的程序 D. 计算机病毒是非曲直一个标记或一个命令",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于计算机病毒的四条叙述中，有错误的一条是 A. 计算机病毒是人为编制的一种程序 B. 计算机病毒是一种通过磁盘、网络等媒介传播、扩散并能传染其它计算机的程序 C. 计算机病毒是能够实现自身复制并借助一定的媒介传播的具有潜伏性、传染性和破坏性的程序 D. 计算机病毒是非曲直一个标记或一个命令",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在IE浏览器的地址栏里输入http://www.sinA.Com.cn，它表示 A. 本地硬盘中的一个文件或文件夹地址 B. 网址 C. 电子信箱地址 D. Windows操作系统中一个应用程序",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在IE浏览器的地址栏里输入http://www.sinA.Com.cn，它表示 A. 本地硬盘中的一个文件或文件夹地址 B. 网址 C. 电子信箱地址 D. Windows操作系统中一个应用程序",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows中，文件名不可以 A. 用汉字字符 B. 包括特定标点符号 C. 包含数字 D. 的较多",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows中，文件名不可以 A. 用汉字字符 B. 包括特定标点符号 C. 包含数字 D. 的较多",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当WINDOWS2000安装完成后，自动安装的应用程序有 A. WPS2000 B. EXCEL2000 C. WORD2000 D. 写字板",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当WINDOWS2000安装完成后，自动安装的应用程序有 A. WPS2000 B. EXCEL2000 C. WORD2000 D. 写字板",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不列不属于操作系统的是 A. WINDOWS 2000 B. DOS C. Word 2000 D. Unix",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不列不属于操作系统的是 A. WINDOWS 2000 B. DOS C. Word 2000 D. Unix",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机存储信息的文件格式有多种，扩展名为txt的文件存储的信息是 A. 声音  B. 视频 C. 文本 D. 图片",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机存储信息的文件格式有多种，扩展名为txt的文件存储的信息是 A. 声音  B. 视频 C. 文本 D. 图片",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Word窗口工作区中，闪烁的垂直光条表示 A. 标题的位置 B. 插入点的位置 C. 键盘的位置 D. 鼠标的位置",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Word窗口工作区中，闪烁的垂直光条表示 A. 标题的位置 B. 插入点的位置 C. 键盘的位置 D. 鼠标的位置",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下说法正确的是 A. 软盘和硬盘可永久保存信息，它们是计算机的内存 B. 存可与CPU直接交换信息，与外存相比存取速度慢 C. RAM和ROM在断电后都将丢失信息 D. 内存可与CPU直接交换信息，与外存相比存取速度快",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下说法正确的是 A. 软盘和硬盘可永久保存信息，它们是计算机的内存 B. 存可与CPU直接交换信息，与外存相比存取速度慢 C. RAM和ROM在断电后都将丢失信息 D. 内存可与CPU直接交换信息，与外存相比存取速度快",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在传输介质中，数据传输入能力最强的是 A. 光纤 B. 双绞线 C. 电话线 D. 同轴电缆",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在传输介质中，数据传输入能力最强的是 A. 光纤 B. 双绞线 C. 电话线 D. 同轴电缆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在用IE浏览器浏览网页时，在同一窗口中要看前面浏览过的网页，可以使用工具栏中的 A. “前进”按钮 B. “搜索”按钮 C. “刷新”按钮 D. “后退”按钮",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在用IE浏览器浏览网页时，在同一窗口中要看前面浏览过的网页，可以使用工具栏中的 A. “前进”按钮 B. “搜索”按钮 C. “刷新”按钮 D. “后退”按钮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一张1.44MB软盘已保存了共1000KB数据，则下列哪个文件还可能存入该软盘 A. 750KB的文件 B. 550KB的文件 C. 950KB的文件 D. 350KB的文件 ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一张1.44MB软盘已保存了共1000KB数据，则下列哪个文件还可能存入该软盘 A. 750KB的文件 B. 550KB的文件 C. 950KB的文件 D. 350KB的文件 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows系统默认情况下，要执行某个应用程序，下列方法不正确的是 A.  选中该应用程序后，单击鼠标右键，选择“打开” B. 选中该应用程序后，单击鼠标左键 C. 在资源管理器中，用鼠标双击该应用程序 D.  利用“开始”菜单中的“运行”命令",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows系统默认情况下，要执行某个应用程序，下列方法不正确的是 A.  选中该应用程序后，单击鼠标右键，选择“打开” B. 选中该应用程序后，单击鼠标左键 C. 在资源管理器中，用鼠标双击该应用程序 D.  利用“开始”菜单中的“运行”命令",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于Windows2000窗口的叙述中，不正确的是 A. 在多个被打开的窗口中，刚被打开的窗口一般处在最前面 B. 可以通过关闭窗口结束相应的程序任务 C. 最小化窗口就是使相应的程序在后台运行 D. 在多个被打开的窗口中，后台窗口相应程序是不运行的",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于Windows2000窗口的叙述中，不正确的是 A. 在多个被打开的窗口中，刚被打开的窗口一般处在最前面 B. 可以通过关闭窗口结束相应的程序任务 C. 最小化窗口就是使相应的程序在后台运行 D. 在多个被打开的窗口中，后台窗口相应程序是不运行的",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某电信忆有如下规定，若邮件大小在1MB（含1MB）以内，邮箱免费使用，若邮件超过1MB，则超过部分按每1KB收取管理费0.02元，现小李付了管理费20.48元，他的邮件大小为 A. 2MB B. 4MB C. 500KB D. 1MB",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某电信忆有如下规定，若邮件大小在1MB（含1MB）以内，邮箱免费使用，若邮件超过1MB，则超过部分按每1KB收取管理费0.02元，现小李付了管理费20.48元，他的邮件大小为 A. 2MB B. 4MB C. 500KB D. 1MB",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows中创建及录制声音文件，下列可以使用的软件为 A. WinodowsMediaPlayer  B. 录音机 C. PowerPoint D. 画图板",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows中创建及录制声音文件，下列可以使用的软件为 A. WinodowsMediaPlayer  B. 录音机 C. PowerPoint D. 画图板",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小张想查找用录音机程序录制的声音文件时，应查找的文件类型为 A. WAV B. JPG C. TXT D. HTM",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小张想查找用录音机程序录制的声音文件时，应查找的文件类型为 A. WAV B. JPG C. TXT D. HTM",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列文件扩展名属于视频文件的是 A.  .gif B.  .wmf C. .ppt D. .avi",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列文件扩展名属于视频文件的是 A.  .gif B.  .wmf C. .ppt D. .avi",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一台多媒体电脑中，下列哪一种设备是用来处理声音的 A. 声卡  B. 摄像头 C. 光驱 D. 扫描仪",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一台多媒体电脑中，下列哪一种设备是用来处理声音的 A. 声卡  B. 摄像头 C. 光驱 D. 扫描仪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "李双同学有正版WPS2000软件，张华同学没有，但他想拥有。你认为张华同学可行的是 A. 到软件专卖店买一份 B. 趁李双同学不在去复制一份 C. 到其它地方复制一份 D. 经李双同学同意后才复制一份",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "李双同学有正版WPS2000软件，张华同学没有，但他想拥有。你认为张华同学可行的是 A. 到软件专卖店买一份 B. 趁李双同学不在去复制一份 C. 到其它地方复制一份 D. 经李双同学同意后才复制一份",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于计算机外存储器的是 A. 显示器 B. RAM C. 磁盘 D. ROM",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于计算机外存储器的是 A. 显示器 B. RAM C. 磁盘 D. ROM",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机病毒不能破坏 A. 硬盘中数据和文件 B. 软盘中数据和文件 C. 系统文件 D. CD-ROM中的数据和文件",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机病毒不能破坏 A. 硬盘中数据和文件 B. 软盘中数据和文件 C. 系统文件 D. CD-ROM中的数据和文件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "多媒体计算机是指 A. 可以听音乐的计算机 B. 可以通用的计算机 C. 能处理或提供声音、图像、文字等多种信息形式的计算机系统 D. 可以看电视的计算机",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "多媒体计算机是指 A. 可以听音乐的计算机 B. 可以通用的计算机 C. 能处理或提供声音、图像、文字等多种信息形式的计算机系统 D. 可以看电视的计算机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WINDOWS网络环境中，要访问其他计算机，可以打开 A. 我的文档 B. 网上邻居 C. 控制面板 D. 我的电脑",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WINDOWS网络环境中，要访问其他计算机，可以打开 A. 我的文档 B. 网上邻居 C. 控制面板 D. 我的电脑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于内存的说法错误的是 A. ROM上的数据在关机时会丢失 B. 内存的存储速度很快 C. 它包括ROM和RAM D. ROM为只读存储器",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于内存的说法错误的是 A. ROM上的数据在关机时会丢失 B. 内存的存储速度很快 C. 它包括ROM和RAM D. ROM为只读存储器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机网络最突出的优点是 A. 存储容量大 B. 可以互相通信、数据共享 C. 运算效率高 D. 处理速度快",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机网络最突出的优点是 A. 存储容量大 B. 可以互相通信、数据共享 C. 运算效率高 D. 处理速度快",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于“回收站”的叙述正确的是 A. “回收站”也可以删除 B. “回收站”其实是硬盘中的一块区域 C. “回收站”中的文件不能恢复 D. “回收站”其实是内存中的一块区域",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于“回收站”的叙述正确的是 A. “回收站”也可以删除 B. “回收站”其实是硬盘中的一块区域 C. “回收站”中的文件不能恢复 D. “回收站”其实是内存中的一块区域",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Word的“文件”命令菜单底部显示的文件名所对应的文件是 A. 当前已经打开的所有文件 B. 扩展名是.doc的所有文件 C. 最近被操作过的文件 D. 当前被操作的文件",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Word的“文件”命令菜单底部显示的文件名所对应的文件是 A. 当前已经打开的所有文件 B. 扩展名是.doc的所有文件 C. 最近被操作过的文件 D. 当前被操作的文件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在资源管理器中，文件夹树中的某个文件夹的左边的“+”表示 A. 该文件夹为空 B. 该文件夹含有系统文件 C. 该文件夹含有子文件夹 D. 该文件夹含有隐藏文件",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在资源管理器中，文件夹树中的某个文件夹的左边的“+”表示 A. 该文件夹为空 B. 该文件夹含有系统文件 C. 该文件夹含有子文件夹 D. 该文件夹含有隐藏文件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "WORD中，常用于更正文档中出现频率较多的字或词的简便方法是 A. 查找和替换 B. 查找 C. 复制和粘贴 D. 删除文本",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "WORD中，常用于更正文档中出现频率较多的字或词的简便方法是 A. 查找和替换 B. 查找 C. 复制和粘贴 D. 删除文本",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面的主页地址中正确的写法是 A. Http://www.sina.Com.cn B. Http:/www.sina.com.cn C. Http:www.sina.Com.cn D.  Http//www.sina.Com.cn",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面的主页地址中正确的写法是 A. Http://www.sina.Com.cn B. Http:/www.sina.com.cn C. Http:www.sina.Com.cn D.  Http//www.sina.Com.cn",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电子邮件地址的一般格式为 A. 域名@IP地址 B. IP地址@域名 C. 用户名@域名 D. 域名@用户名",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电子邮件地址的一般格式为 A. 域名@IP地址 B. IP地址@域名 C. 用户名@域名 D. 域名@用户名",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "保存在软盘中的信息在断电后一般 A. 大部分丢失 B. 不会丢失 C. 少量丢失 D. 完全丢失",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "保存在软盘中的信息在断电后一般 A. 大部分丢失 B. 不会丢失 C. 少量丢失 D. 完全丢失",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下面的描述中，正确的是 A. 操作系统是一种非常重要的应用软 B. 键盘是输入设备，打印机是输出设备 C. 外存中的信息可以直接被CPU处理 D. 计算机病毒是一种生物芯片，可以使用整个计算机瘫痪，危害极大",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下面的描述中，正确的是 A. 操作系统是一种非常重要的应用软 B. 键盘是输入设备，打印机是输出设备 C. 外存中的信息可以直接被CPU处理 D. 计算机病毒是一种生物芯片，可以使用整个计算机瘫痪，危害极大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "运用计算机进行导弹轨道计算，在计算机方面的应用中属于 A. 科学计算 B. 信息处理 C. 人工智能 D. 自动控制 ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "运用计算机进行导弹轨道计算，在计算机方面的应用中属于 A. 科学计算 B. 信息处理 C. 人工智能 D. 自动控制 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在发送电子邮件时，附件的大小是有限制的。假设某网站规定附件的最大值为5M，现有一位同学需发送总容量为20024KB的多个文件。则他在该网站中至少发送的次数是 A. 3 B. 2 C. 1 D. 4",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在发送电子邮件时，附件的大小是有限制的。假设某网站规定附件的最大值为5M，现有一位同学需发送总容量为20024KB的多个文件。则他在该网站中至少发送的次数是 A. 3 B. 2 C. 1 D. 4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WINDOWS2000中，“任务栏”的主要作用是 A. 只显示当前活动窗口名 B. 显示系统的所有功能 C. 实现窗口之间的切换 D. 只显示正在后台工作的窗口名",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WINDOWS2000中，“任务栏”的主要作用是 A. 只显示当前活动窗口名 B. 显示系统的所有功能 C. 实现窗口之间的切换 D. 只显示正在后台工作的窗口名",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关Word程序中“文件”菜单的“页面设置”命令中，下列说法错误的是 A. 在纸型中可以选择A4、16开等，但不可以自定义页面的大小 B.  页面的设置可以不是整篇文档  C. 纸型有横向和纵向的选择 D. 页边距中的任何一项都可以设为“0”",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关Word程序中“文件”菜单的“页面设置”命令中，下列说法错误的是 A. 在纸型中可以选择A4、16开等，但不可以自定义页面的大小 B.  页面的设置可以不是整篇文档  C. 纸型有横向和纵向的选择 D. 页边距中的任何一项都可以设为“0”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对一张处理完成的图书馆片，分别用BMP（24位位图）和JPG两种格式保存同一张图片时，生成的两个文件所占用的磁盘空间 A. 不能确定 B. 两者一样大 C. BMP格式的大 D. JPG格式的大",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对一张处理完成的图书馆片，分别用BMP（24位位图）和JPG两种格式保存同一张图片时，生成的两个文件所占用的磁盘空间 A. 不能确定 B. 两者一样大 C. BMP格式的大 D. JPG格式的大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Word中，关闭未保存过的一个新建非空白文档，将弹出 A. “另存为”对话框 B. “保存为”对话框 C. “新建”对话框 D. “全部保存”对话框",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Word中，关闭未保存过的一个新建非空白文档，将弹出 A. “另存为”对话框 B. “保存为”对话框 C. “新建”对话框 D. “全部保存”对话框",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Word编辑状态下，当前编辑的文档是C盘中的文档，要将该文档保存到软盘，应当使用“文件”菜单中的 A. 发送 B. 新建 C. 另存为  D. 保存",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Word编辑状态下，当前编辑的文档是C盘中的文档，要将该文档保存到软盘，应当使用“文件”菜单中的 A. 发送 B. 新建 C. 另存为  D. 保存",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机中以0和1来表示文字、图像、声音等信息的技术称为 A. 模拟技术 B. 通讯技术 C. 数字技术 D. 网络技术",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机中以0和1来表示文字、图像、声音等信息的技术称为 A. 模拟技术 B. 通讯技术 C. 数字技术 D. 网络技术",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在使用Windows的过程中，若出现鼠标故障，在不能使用鼠标的情况下，可以打开“开始”菜单的操作是 A. 按Ctrl+Shift键 B. 按空格键 C. 按Shift+Tab键 D. 按Ctrl+Esc键",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在使用Windows的过程中，若出现鼠标故障，在不能使用鼠标的情况下，可以打开“开始”菜单的操作是 A. 按Ctrl+Shift键 B. 按空格键 C. 按Shift+Tab键 D. 按Ctrl+Esc键",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面几种关于E-mail的说法，正确的是 A. 申请E-mail帐号的目的是让他人能浏览自己的信息 B. 上网和收发电子邮件均需用到E-mail帐号 C. 没有E-mail帐号也可以发送电子邮件 D. 你可以在不同地点使用不同的计算机发取邮件",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面几种关于E-mail的说法，正确的是 A. 申请E-mail帐号的目的是让他人能浏览自己的信息 B. 上网和收发电子邮件均需用到E-mail帐号 C. 没有E-mail帐号也可以发送电子邮件 D. 你可以在不同地点使用不同的计算机发取邮件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows是一种 A. 文字处理系统 B. 字符型的操作系统 C. 图一形化的操作系统 D. 计算机语言",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows是一种 A. 文字处理系统 B. 字符型的操作系统 C. 图一形化的操作系统 D. 计算机语言",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现在许多计算机中装有防火墙。下列描述中属于防火墙作用的是 A. 避免计算机电器起火 B. 防止静电  C. 信息的安全 D. 信息的自由交换台",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现在许多计算机中装有防火墙。下列描述中属于防火墙作用的是 A. 避免计算机电器起火 B. 防止静电  C. 信息的安全 D. 信息的自由交换台",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面关于WINDOWS窗口中滚动条的叙述，不正确的是 A. 每个窗口上都具有滚动条 B. 通过拖动滚动条上的滚动块可以实现快速滚动 C. 滚动条有水平滚动条和垂直滚动条两种 D. 通过单击滚动条上的滚动箭头可以实现单步滚动",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面关于WINDOWS窗口中滚动条的叙述，不正确的是 A. 每个窗口上都具有滚动条 B. 通过拖动滚动条上的滚动块可以实现快速滚动 C. 滚动条有水平滚动条和垂直滚动条两种 D. 通过单击滚动条上的滚动箭头可以实现单步滚动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组设备中，全部属于输入设备的一组是 A. 硬盘、打印机和键盘 B. 键盘、磁盘和打印机 C. 键盘、扫描仪和鼠标 D. 键盘、鼠标和显示器",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组设备中，全部属于输入设备的一组是 A. 硬盘、打印机和键盘 B. 键盘、磁盘和打印机 C. 键盘、扫描仪和鼠标 D. 键盘、鼠标和显示器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "丁丁想上网看新闻，他选用下面哪个软件比较合适 A. PowerPoint  B. Word C. Internet Explorer D. ACDSee",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "丁丁想上网看新闻，他选用下面哪个软件比较合适 A. PowerPoint  B. Word C. Internet Explorer D. ACDSee",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机病毒的传播途径主要通过 A. 磁盘和网络 B. 显示器和光盘 C. 鼠标 D. 空气",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机病毒的传播途径主要通过 A. 磁盘和网络 B. 显示器和光盘 C. 鼠标 D. 空气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微型计算机键盘上的Shift键称为 A. 换档键 B. 回车换行键 C. 空格键 D. 退格键",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微型计算机键盘上的Shift键称为 A. 换档键 B. 回车换行键 C. 空格键 D. 退格键",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows系统中默认的切换中英文的方法为 A. CTRL+空格 B. CTRL+SHIFT C. SHIFT+ALT+CTRL D. ALT +空格",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows系统中默认的切换中英文的方法为 A. CTRL+空格 B. CTRL+SHIFT C. SHIFT+ALT+CTRL D. ALT +空格",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面属于搜索引擎是 A. wps B. excel C. word  D. yahoo",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面属于搜索引擎是 A. wps B. excel C. word  D. yahoo",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在用Word编辑文档时，选择某一段文字后，把鼠标置于选中文本的任一位置，按鼠标左键拖曳到选区外的另一位置上后放开鼠标。那么该操作可以 A. 移动文本  B.  复制文本 C. 替换文本 D. 删除文本",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在用Word编辑文档时，选择某一段文字后，把鼠标置于选中文本的任一位置，按鼠标左键拖曳到选区外的另一位置上后放开鼠标。那么该操作可以 A. 移动文本  B.  复制文本 C. 替换文本 D. 删除文本",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机病毒是可以造成计算机故障的 A. 一种特殊的程序 B. 一块特殊芯片 C. 一种微生物 D. 一个程序逻辑错误",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机病毒是可以造成计算机故障的 A. 一种特殊的程序 B. 一块特殊芯片 C. 一种微生物 D. 一个程序逻辑错误",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "既可以同时在线文字交流，又可以实现语音视频交流的是 A. 电子邮件 B. BBS  C. FTP D. 腾讯QQ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "既可以同时在线文字交流，又可以实现语音视频交流的是 A. 电子邮件 B. BBS  C. FTP D. 腾讯QQ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "十进制数8转换成二进制数是 A. 1001 B. 1011 C. 1000 D. 1010",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "十进制数8转换成二进制数是 A. 1001 B. 1011 C. 1000 D. 1010",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "专门为某一应用目的而编制的软件，我们称为 A. 数据库管理系统 B. 系统软件 C. 应用软件 D. 操作系统",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "专门为某一应用目的而编制的软件，我们称为 A. 数据库管理系统 B. 系统软件 C. 应用软件 D. 操作系统",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows2000的“资源管理器”窗口中，若希望显示文件的名称、类型、大小等信息，则应该选择“查看”菜单中的 A. 列表 B. 小图标 C. 大图标 D. 详细资料",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows2000的“资源管理器”窗口中，若希望显示文件的名称、类型、大小等信息，则应该选择“查看”菜单中的 A. 列表 B. 小图标 C. 大图标 D. 详细资料",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机软件包括程序、数据和 A. 操作系统 B. 算法 C. 源程序 D. 有关文档",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机软件包括程序、数据和 A. 操作系统 B. 算法 C. 源程序 D. 有关文档",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows98中，用最小化按钮关闭窗口后，该窗口的图标仍显示在 A. 状态栏 B. 任务栏 C. 工具栏 D. 标题栏",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows98中，用最小化按钮关闭窗口后，该窗口的图标仍显示在 A. 状态栏 B. 任务栏 C. 工具栏 D. 标题栏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "班主任请小明同学帮助统计考试成绩，小明可以选用的软件是 A. KV3000 B. Photoshop C. 画图 D. Excel",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "班主任请小明同学帮助统计考试成绩，小明可以选用的软件是 A. KV3000 B. Photoshop C. 画图 D. Excel",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在资源管理器中查找文件时，以下选项中不能充当查找条件的是 A. 文件的页码 B. 文件中的一个字或词组 C. 文件修改的日期 D. 文件的大小",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在资源管理器中查找文件时，以下选项中不能充当查找条件的是 A. 文件的页码 B. 文件中的一个字或词组 C. 文件修改的日期 D. 文件的大小",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Word的编辑状态，执行编辑菜单中“复制”命令后 A. 插入点所在的段落内容被复制到剪贴板 B. 光标所在的段落内容被复制到剪贴板 C. 被选择的内容被复制到插入点处 D. 被选择的内容被复制到剪贴板",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Word的编辑状态，执行编辑菜单中“复制”命令后 A. 插入点所在的段落内容被复制到剪贴板 B. 光标所在的段落内容被复制到剪贴板 C. 被选择的内容被复制到插入点处 D. 被选择的内容被复制到剪贴板",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机中数据的表示形式是 A. 十六进制 B. 二进制 C. 十进制 D. 八进制",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机中数据的表示形式是 A. 十六进制 B. 二进制 C. 十进制 D. 八进制",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小张在新浪浏览新闻时，他与服务器之间信息传输所在地使用的协议为 A. HTML B. TCP/IP C. HTTP D. SMTP",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小张在新浪浏览新闻时，他与服务器之间信息传输所在地使用的协议为 A. HTML B. TCP/IP C. HTTP D. SMTP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微机中1K字节表示的字节数是 A. 1024 B. 8X1024 C. 1000 D. 8X1000",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微机中1K字节表示的字节数是 A. 1024 B. 8X1024 C. 1000 D. 8X1000",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机网络中，为了使计算机之间能够正确传输信息，必须 A. 遵循网络协议 B. 获得用户名密码 C. 拥有电子邮箱 D. 使用IE浏览器",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机网络中，为了使计算机之间能够正确传输信息，必须 A. 遵循网络协议 B. 获得用户名密码 C. 拥有电子邮箱 D. 使用IE浏览器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WINDOWS系统中，单击窗口的最小化按钮后，该窗口的图标仍然显示在 A. 状态栏 B. 标题栏 C. 任务栏 D. 工具栏",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WINDOWS系统中，单击窗口的最小化按钮后，该窗口的图标仍然显示在 A. 状态栏 B. 标题栏 C. 任务栏 D. 工具栏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种操作可退出Word软件 A. 单击文件菜单，选择退出选项 B. 单击文件菜单，选择关闭选项 C. 单击文件菜单，选择另存为选项  D. 单击文件菜单，选择发送选项",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种操作可退出Word软件 A. 单击文件菜单，选择退出选项 B. 单击文件菜单，选择关闭选项 C. 单击文件菜单，选择另存为选项  D. 单击文件菜单，选择发送选项",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于Internet，下列说法错误的是 A. Internet存在网络安全问题 B. Internet的用户来自同一个国家 C. Internet是全球性的国际网络 D. 通过Internet我们可以实现资源共享",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于Internet，下列说法错误的是 A. Internet存在网络安全问题 B. Internet的用户来自同一个国家 C. Internet是全球性的国际网络 D. 通过Internet我们可以实现资源共享",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机硬件系统中最核心的部件是 A. 主板 B.  CPU C.  I/O设备 D. 内存储器",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机硬件系统中最核心的部件是 A. 主板 B.  CPU C.  I/O设备 D. 内存储器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列软件中属于操作系统的是 A. WPS B. WINDOWS XP C. EXCEL D. WORD",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列软件中属于操作系统的是 A. WPS B. WINDOWS XP C. EXCEL D. WORD",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下几种关于计算机病毒的说法中，正确的是 A. 杀毒软件能杀所有的病毒 B. 计算机病毒不破坏系统软件 C. 计算机病毒是人为编制的特殊的程序 D. 计算机病毒不破坏应用软件",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下几种关于计算机病毒的说法中，正确的是 A. 杀毒软件能杀所有的病毒 B. 计算机病毒不破坏系统软件 C. 计算机病毒是人为编制的特殊的程序 D. 计算机病毒不破坏应用软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于输出设备的是 A. 显示器 B. 键盘 C. 鼠标 D. 扫描仪",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于输出设备的是 A. 显示器 B. 键盘 C. 鼠标 D. 扫描仪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对一张处理完成的图片，分别用BMP（24位位图）和JPG两种格式保存同一张图片时，生成的两个文件所占用的磁盘空间 A. 不能确定 B. 两者一样大 C. JPG格式的大 D. BMP格式的大",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对一张处理完成的图片，分别用BMP（24位位图）和JPG两种格式保存同一张图片时，生成的两个文件所占用的磁盘空间 A. 不能确定 B. 两者一样大 C. JPG格式的大 D. BMP格式的大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "字符串“中学计算机等级考试”在计算机中占用的存储字节数是 A. 72B B. 9B C. 36B D. 18B",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "字符串“中学计算机等级考试”在计算机中占用的存储字节数是 A. 72B B. 9B C. 36B D. 18B",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人们常说的ADSL是指 A. 一种游戏软件 B. 一种电脑新品牌 C. 一种上网方式 D. 一种办公软件",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人们常说的ADSL是指 A. 一种游戏软件 B. 一种电脑新品牌 C. 一种上网方式 D. 一种办公软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "URL的意思是 A. Internet协议 B. 简单邮件传输协议 C. 传输控制协议 D. 统一资源定位器",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "URL的意思是 A. Internet协议 B. 简单邮件传输协议 C. 传输控制协议 D. 统一资源定位器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "要输入数字键“8”上面的“*”号，必须首先按住下列哪个键，再按此数字键 A. SHIFT键 B. ALT键 C. ESC键 D. CTRL键",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "要输入数字键“8”上面的“*”号，必须首先按住下列哪个键，再按此数字键 A. SHIFT键 B. ALT键 C. ESC键 D. CTRL键",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "将word文档中的内容全部选定的快捷键是 A. CTRL+Z B. CTRL+A C. CTRL+C D. CTRL+V",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "将word文档中的内容全部选定的快捷键是 A. CTRL+Z B. CTRL+A C. CTRL+C D. CTRL+V",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows2000“资源管理器”中，左部显示的内容是 A. 所有可打开的文件夹 B. 系统的树形文件夹结构 C. 所有已打开的文件夹 D. 打开的文件夹下的子文件夹及文件",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows2000“资源管理器”中，左部显示的内容是 A. 所有可打开的文件夹 B. 系统的树形文件夹结构 C. 所有已打开的文件夹 D. 打开的文件夹下的子文件夹及文件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "完整的计算机系统包括 A. 主机和外部设备 B. 运算器、存储器和控制器 C. 主机和实用程序  D. 硬件和软件",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "完整的计算机系统包括 A. 主机和外部设备 B. 运算器、存储器和控制器 C. 主机和实用程序  D. 硬件和软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "BMP文件格式是 A. 文本文件格式 B. 记事本文件格式 C. 标准位图格式 D. 影音文件格式",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "BMP文件格式是 A. 文本文件格式 B. 记事本文件格式 C. 标准位图格式 D. 影音文件格式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Word的编辑状态，进行字体设置操作后，按新设置的字体显示的文字是 A. 插入点所在段落中的文字 B. 插入点所在行中的文字 C. 文档的全部文字 D. 文档中被选择的文字",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Word的编辑状态，进行字体设置操作后，按新设置的字体显示的文字是 A. 插入点所在段落中的文字 B. 插入点所在行中的文字 C. 文档的全部文字 D. 文档中被选择的文字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列有关计算机病毒的说法，正确的是 A. 病毒是人为编制的一种特殊程序 B. 损坏的计算机容易产生病毒 C. 病毒没有传染性 D. 病毒是因机房环境不清洁而产生",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列有关计算机病毒的说法，正确的是 A. 病毒是人为编制的一种特殊程序 B. 损坏的计算机容易产生病毒 C. 病毒没有传染性 D. 病毒是因机房环境不清洁而产生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果你用网际快车下载了一个Powerpoint的课件，在重命名栏中应更名为 A. 课件名.rar B. 课件名.doc C. 课件名.exe D. 课件名.ppt",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果你用网际快车下载了一个Powerpoint的课件，在重命名栏中应更名为 A. 课件名.rar B. 课件名.doc C. 课件名.exe D. 课件名.ppt",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WINDOWS2000中，下列关于“任务栏”的叙述，哪一项是错误的 A. 通过任务栏上的按钮，可实现窗口之间的切换 B. 可以将任务栏设置为自动隐藏 C. 在任务栏上，只显示当前活动窗 D. 任务栏可以移动",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WINDOWS2000中，下列关于“任务栏”的叙述，哪一项是错误的 A. 通过任务栏上的按钮，可实现窗口之间的切换 B. 可以将任务栏设置为自动隐藏 C. 在任务栏上，只显示当前活动窗 D. 任务栏可以移动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第一台电脑ENIAC诞生在 A. 中国 B. 德国  C. 美国 D. 英国",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第一台电脑ENIAC诞生在 A. 中国 B. 德国  C. 美国 D. 英国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列文件扩展名属于单频文件的是 A.  .wav B.  .gif C. .bmp D. .xls",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列文件扩展名属于单频文件的是 A.  .wav B.  .gif C. .bmp D. .xls",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于操作系统的软件是 A. Linux B. Windows C. Office D. DOS",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于操作系统的软件是 A. Linux B. Windows C. Office D. DOS",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": " http://www.eol.com.cn所表示的网址位于 A. 中国香港 B. 中国大陆 C. 美国 D. 中国台湾",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": " http://www.eol.com.cn所表示的网址位于 A. 中国香港 B. 中国大陆 C. 美国 D. 中国台湾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在网址www.sina.com中.com是指 A. 公共类 B. 商业类 C. 教育类 D. 政府类",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在网址www.sina.com中.com是指 A. 公共类 B. 商业类 C. 教育类 D. 政府类",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Internet采用的协议类型为 A. TCP/IP B. FTP C. IPX/SPX D. HTTP",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Internet采用的协议类型为 A. TCP/IP B. FTP C. IPX/SPX D. HTTP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机内进行算术运算和逻辑判断的功能部件是 A. RAM B. 控制器 C. 存储器 D. 运算器",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机内进行算术运算和逻辑判断的功能部件是 A. RAM B. 控制器 C. 存储器 D. 运算器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于操作系统的叙述，正确的是 A. 操作系统是可有可无的 B. 应用软件是操作系统的基础 C. 操作系统只能控制软件 D. 操作系统是一种系统软件",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于操作系统的叙述，正确的是 A. 操作系统是可有可无的 B. 应用软件是操作系统的基础 C. 操作系统只能控制软件 D. 操作系统是一种系统软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列文件扩展名属于音频文件的是 A. .bmp B. .xls C.  .wav  D. .gif ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列文件扩展名属于音频文件的是 A. .bmp B. .xls C.  .wav  D. .gif ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows操作系统中，如果记住某个文件或文件夹的名称，忘记了它的位置，那么，要定位它的最简便的方法是 A. 使用“开始”菜单中的“运行”命令 B. 使用“开始”菜单中的“查找”命令 C. 通过“我的电脑”或“资源管理器”浏览 D. 打开一个应用程序窗口，使用窗口“文件”菜单中的“打开”命令",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows操作系统中，如果记住某个文件或文件夹的名称，忘记了它的位置，那么，要定位它的最简便的方法是 A. 使用“开始”菜单中的“运行”命令 B. 使用“开始”菜单中的“查找”命令 C. 通过“我的电脑”或“资源管理器”浏览 D. 打开一个应用程序窗口，使用窗口“文件”菜单中的“打开”命令",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "理论上1MB可以存储的中文字符数是 A. 1024 B. 1024*1024*1024  C. 1024*1024/2 D. 1024*1024 ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "理论上1MB可以存储的中文字符数是 A. 1024 B. 1024*1024*1024  C. 1024*1024/2 D. 1024*1024 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小红在用WORD编辑文档时，突然想到又要创建一个新文档进行编辑，则正确的操作是 A. 选择“插入”菜单，单击“新建” B. 选择“文件”菜单，单击“新建” C. 选择“插入”菜单，单击“文件” D. 选择“文件”菜单，单击“打开”",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小红在用WORD编辑文档时，突然想到又要创建一个新文档进行编辑，则正确的操作是 A. 选择“插入”菜单，单击“新建” B. 选择“文件”菜单，单击“新建” C. 选择“插入”菜单，单击“文件” D. 选择“文件”菜单，单击“打开”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列活动用不到多媒体技术的是 A. 网上搜索资料 B. 视频会议系统 C. 远程教学系统 D. 电视实况传播",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列活动用不到多媒体技术的是 A. 网上搜索资料 B. 视频会议系统 C. 远程教学系统 D. 电视实况传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微型计算机键盘上的SHIFT键称为 A. 空格键 B. 退格键 C. 回车键 D. 换档键",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微型计算机键盘上的SHIFT键称为 A. 空格键 B. 退格键 C. 回车键 D. 换档键",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机操作系统的作用是 A. 管理计算机系统的全部软、硬件资源 B. 为汉字操作系统提供运行基础 C. 对用户存储的文件进行管理，方便用户 D. 执行用户键入的各类命令",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机操作系统的作用是 A. 管理计算机系统的全部软、硬件资源 B. 为汉字操作系统提供运行基础 C. 对用户存储的文件进行管理，方便用户 D. 执行用户键入的各类命令",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "显示器的主要技术指标之一是 A. 耗电量  B. 重量 C. 分辨率 D. 亮度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "显示器的主要技术指标之一是 A. 耗电量  B. 重量 C. 分辨率 D. 亮度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在资源管理器中，单击文件夹左边的“+” A. 在右窗口中显示该文件夹中的文件夹和文件 B. 在左窗口中展开该文件夹的子文件夹 C. 在右窗口中展开该文件夹的子文件夹 D. 在左窗口中显示文件夹中的子文件夹和文件",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在资源管理器中，单击文件夹左边的“+” A. 在右窗口中显示该文件夹中的文件夹和文件 B. 在左窗口中展开该文件夹的子文件夹 C. 在右窗口中展开该文件夹的子文件夹 D. 在左窗口中显示文件夹中的子文件夹和文件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列对WINDOWS窗口的描述中，错误的是 A. 可以通过鼠标或键盘进行窗口的切换 B. 可以对窗口进行“最小化”、“最大化”操作 C. 可以改变窗口大小，但不能移动 D. 可以同时打开多个窗口，但只有一个活动窗口",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列对WINDOWS窗口的描述中，错误的是 A. 可以通过鼠标或键盘进行窗口的切换 B. 可以对窗口进行“最小化”、“最大化”操作 C. 可以改变窗口大小，但不能移动 D. 可以同时打开多个窗口，但只有一个活动窗口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四种存储器中，存取速度最快的是 A. 磁带 B. 内存储器 C. 硬盘 D. 软盘",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四种存储器中，存取速度最快的是 A. 磁带 B. 内存储器 C. 硬盘 D. 软盘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Word中输入某些特殊的符号时，可行的操作方式是 A. 依次单击“格式”、“字体” B. 依次单击“格式”、“项目符号和编号” C. 依次单击“插入”、“对象”  D. 在编辑区右击，打开快捷菜单，单击其中“符号”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Word中输入某些特殊的符号时，可行的操作方式是 A. 依次单击“格式”、“字体” B. 依次单击“格式”、“项目符号和编号” C. 依次单击“插入”、“对象”  D. 在编辑区右击，打开快捷菜单，单击其中“符号”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows系统中，目录体系采用 A. 树型目录结构 B. 网络型目录结构 C. 直线型目录结构 D. 阶梯型目录结构",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows系统中，目录体系采用 A. 树型目录结构 B. 网络型目录结构 C. 直线型目录结构 D. 阶梯型目录结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列可作为计算机中文件名通配符的是  A. +和- B. *和# C. >和< D. *和？",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列可作为计算机中文件名通配符的是  A. +和- B. *和# C. >和< D. *和？",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三位二进制数可以表示的最大的十进制数是 A. 5 B. 6 C. 7 D. 4",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三位二进制数可以表示的最大的十进制数是 A. 5 B. 6 C. 7 D. 4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在资源管理器中选定了文件或文件夹后，若要将它们复制到同一驱动器的文件夹中，其操作为 A. 直接拖动鼠标到目标位置 B. 按下CTRL键，同时拖动鼠标到目标位置 C. 按下SHIFT键，同时拖动鼠标到目标位置 D. 按下ALT键，同时拖动鼠标到目标位置",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在资源管理器中选定了文件或文件夹后，若要将它们复制到同一驱动器的文件夹中，其操作为 A. 直接拖动鼠标到目标位置 B. 按下CTRL键，同时拖动鼠标到目标位置 C. 按下SHIFT键，同时拖动鼠标到目标位置 D. 按下ALT键，同时拖动鼠标到目标位置",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机中软驱的盘符通常用（） 表示 A. B： B. C： C. D： D. A：",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机中软驱的盘符通常用（） 表示 A. B： B. C： C. D： D. A：",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中不能关闭PowerPoint程序的是 A. 双击标题栏左上角的PowerPoint图标 B. 单击文件菜单中的“关闭” C. 单击文件菜单中的“退出” D. 单击标题栏右边的“×”",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中不能关闭PowerPoint程序的是 A. 双击标题栏左上角的PowerPoint图标 B. 单击文件菜单中的“关闭” C. 单击文件菜单中的“退出” D. 单击标题栏右边的“×”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Internet的规范译名是 A. 科研网 B. 校园网 C. 公用网 D. 因特网",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Internet的规范译名是 A. 科研网 B. 校园网 C. 公用网 D. 因特网",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于无效的IP地址的是 A. 10.250.0.100 B. 168.123.0.1 C. 130.169.163 D. 125.254.0.2",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于无效的IP地址的是 A. 10.250.0.100 B. 168.123.0.1 C. 130.169.163 D. 125.254.0.2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面属于搜索引擎的是 A. Word B. Outlook C. Yahoo D. Excel",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面属于搜索引擎的是 A. Word B. Outlook C. Yahoo D. Excel",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鼠标属于计算机的 A. 输入设备 B. CPU C. 输出设备 D. 内存储器",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鼠标属于计算机的 A. 输入设备 B. CPU C. 输出设备 D. 内存储器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于回收站的说法，正确的是 A. 回收站不占硬盘空间  B. 回收站里的文件可以被还原 C. 清空回收站后，被“删除”的文件还能直接恢复 D. 关机后，回收站中的文件将全部丢失",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于回收站的说法，正确的是 A. 回收站不占硬盘空间  B. 回收站里的文件可以被还原 C. 清空回收站后，被“删除”的文件还能直接恢复 D. 关机后，回收站中的文件将全部丢失",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下一步列不属于操作系统的软件是 A. Powerpoint B. DOS C. Linux D. Windows",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下一步列不属于操作系统的软件是 A. Powerpoint B. DOS C. Linux D. Windows",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面关于鼠标的叙述，错误的是 A. 计算机的有关操作几乎都能通过鼠标完成 B. 在任何情况下，鼠标指针的形状都不会发生变化 C. 通常用鼠标左键双击Windows桌面上的应用程序图标，可以运行该应用程序 D. 鼠标是常用的输入工具",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面关于鼠标的叙述，错误的是 A. 计算机的有关操作几乎都能通过鼠标完成 B. 在任何情况下，鼠标指针的形状都不会发生变化 C. 通常用鼠标左键双击Windows桌面上的应用程序图标，可以运行该应用程序 D. 鼠标是常用的输入工具",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列设备中属于输入设备的是 A. 显示器 B. 绘图仪 C. 扫描仪 D. 打印机 ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列设备中属于输入设备的是 A. 显示器 B. 绘图仪 C. 扫描仪 D. 打印机 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当个人计算机以拨号方式接入因特网时，必须使用的电脑设备是 A. 网卡 B. 浏览器软件 C. 电话机 D. 调制解调器",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当个人计算机以拨号方式接入因特网时，必须使用的电脑设备是 A. 网卡 B. 浏览器软件 C. 电话机 D. 调制解调器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在文字编辑时“Enter”的功能是 A. 删除字符 B. 换行  C. 大小写控制 D. 翻页",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在文字编辑时“Enter”的功能是 A. 删除字符 B. 换行  C. 大小写控制 D. 翻页",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在桌面上同时打开多个窗口，则下面叙述正确的是 A. 没有活动窗口 B. 只有一个活动窗口 C. 可以有多个活动窗口 D. 全部都是活动窗口",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在桌面上同时打开多个窗口，则下面叙述正确的是 A. 没有活动窗口 B. 只有一个活动窗口 C. 可以有多个活动窗口 D. 全部都是活动窗口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows的文件夹下 A. 不能存放任何东西 B. 只能存放文件 C. 可以存放文件或文件夹 D. 只能存放文件夹",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows的文件夹下 A. 不能存放任何东西 B. 只能存放文件 C. 可以存放文件或文件夹 D. 只能存放文件夹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "算机病毒是一种 A. 电子仪器 B. 生物 C. 硬件损坏产生的程序 D. 程序",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "算机病毒是一种 A. 电子仪器 B. 生物 C. 硬件损坏产生的程序 D. 程序",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows资源管理器在“查看”菜单中没有提供的文件显示方式是 A. 小图标方式 B. 树型方式 C. 详细资料方式 D. 大图标方式",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows资源管理器在“查看”菜单中没有提供的文件显示方式是 A. 小图标方式 B. 树型方式 C. 详细资料方式 D. 大图标方式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows操作系统中设置单个文件的共享方法为 A. 建一个文件夹用于存放想要共享的文件，将该文件夹设置为共享，并将该文件移入 B. 在Windows网络中无法让其他网络用户访问到该文件 C. 选中文件一单击左键一选择共享一设置记问类 D.  选中文件一单击右键一选择共享一设置访问类型",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows操作系统中设置单个文件的共享方法为 A. 建一个文件夹用于存放想要共享的文件，将该文件夹设置为共享，并将该文件移入 B. 在Windows网络中无法让其他网络用户访问到该文件 C. 选中文件一单击左键一选择共享一设置记问类 D.  选中文件一单击右键一选择共享一设置访问类型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电子邮件系统中，“邮局”一般放在 A. 接收方的个人计算机中 B. 发送方的个人计算机中 C. 本地的地方邮局中 D. 提供邮件服务的主机中",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电子邮件系统中，“邮局”一般放在 A. 接收方的个人计算机中 B. 发送方的个人计算机中 C. 本地的地方邮局中 D. 提供邮件服务的主机中",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列存储器中只能读不能写的是 A. 磁盘 B. ROM C. 软盘 D. RAM",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列存储器中只能读不能写的是 A. 磁盘 B. ROM C. 软盘 D. RAM",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于附件里的程序有 A. 记事本 B. 画图 C. 磁盘碎片整理程序 D. MicrosoftWord ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于附件里的程序有 A. 记事本 B. 画图 C. 磁盘碎片整理程序 D. MicrosoftWord ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows2000的窗口中，单击末尾带有省略号（„）的菜单项，将会 A. 弹出下一级菜单 B. 表明该菜单项已被选用 C. 将弹出一个对话框 D. 执行该菜单命令",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows2000的窗口中，单击末尾带有省略号（„）的菜单项，将会 A. 弹出下一级菜单 B. 表明该菜单项已被选用 C. 将弹出一个对话框 D. 执行该菜单命令",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于多媒体的说法中，错误的是 A. 多媒体是一种人机交互式媒体 B. 多媒体信息是交流和传播的工具 C. 多媒体包含了文字、图形、动画、声音、视频等多种类型 D. 多媒体就是图片，图片就是多媒体",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于多媒体的说法中，错误的是 A. 多媒体是一种人机交互式媒体 B. 多媒体信息是交流和传播的工具 C. 多媒体包含了文字、图形、动画、声音、视频等多种类型 D. 多媒体就是图片，图片就是多媒体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "扫描仪属于 A. 外存储器 B. 输入设备 C. 内存储器 D. 输出设备",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "扫描仪属于 A. 外存储器 B. 输入设备 C. 内存储器 D. 输出设备",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在日常生活中，计算机不能够 A. 帮用户保存一些重要的资料 B. 帮用户处理数据 C. 帮用户美化照片 D. 自我开发软件",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在日常生活中，计算机不能够 A. 帮用户保存一些重要的资料 B. 帮用户处理数据 C. 帮用户美化照片 D. 自我开发软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows资源管理器中，要一次选定多个连续排列的文件或文件夹，应用鼠标单击第一个要选择的对象，然后 A. 按住ALT键，再单击最后一个对象 B. 将鼠标移到最后一个对象上，再单击之 C. 按住SHIFT键，再单击最后一个对象 D. 按住CTRL键，再单击最后一个对象",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows资源管理器中，要一次选定多个连续排列的文件或文件夹，应用鼠标单击第一个要选择的对象，然后 A. 按住ALT键，再单击最后一个对象 B. 将鼠标移到最后一个对象上，再单击之 C. 按住SHIFT键，再单击最后一个对象 D. 按住CTRL键，再单击最后一个对象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WORD中，以下关于文字设置的说法正确的是 A. 利用“格式”菜单打开“字体”对话框，可以设置字符间距 B. 文字格式工具栏中“加粗”按钮可以设置文字的颜色 C. 默认字体只有宋体、黑体 D. 利用“格式”菜单打开“段落”对话框，可以设置字符间距",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WORD中，以下关于文字设置的说法正确的是 A. 利用“格式”菜单打开“字体”对话框，可以设置字符间距 B. 文字格式工具栏中“加粗”按钮可以设置文字的颜色 C. 默认字体只有宋体、黑体 D. 利用“格式”菜单打开“段落”对话框，可以设置字符间距",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows98和写字板中，删除的文件 A. 用回收站的还原后可以还原 B. 以上三种说法都错 C. 不可以还原 D. 可以还原",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows98和写字板中，删除的文件 A. 用回收站的还原后可以还原 B. 以上三种说法都错 C. 不可以还原 D. 可以还原",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows中的“回收站”存放的是 A. 硬盘上被删除的文件或文件夹 B. 网上邻居上被删除的文件或文件夹 C. 软盘上被删除的文件或文件夹 D. 所有外存储器中被删除的文件或文件夹",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows中的“回收站”存放的是 A. 硬盘上被删除的文件或文件夹 B. 网上邻居上被删除的文件或文件夹 C. 软盘上被删除的文件或文件夹 D. 所有外存储器中被删除的文件或文件夹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微机中1KB表示的二进制位数是 A. 8X1024 B. 1024 C. 1000 D. 8X1000",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微机中1KB表示的二进制位数是 A. 8X1024 B. 1024 C. 1000 D. 8X1000",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面关于使用IE上网的叙述，错误的有 A. 通常按下停止按钮不能关闭IE窗口 B. 通常按下后退按钮可以访问刚才访问的网页 C. 历史菜单中全都是很久以前的东西 D. 通常按下刷新按钮可以显示刚才网页中无法显示或显示不完全的图片",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面关于使用IE上网的叙述，错误的有 A. 通常按下停止按钮不能关闭IE窗口 B. 通常按下后退按钮可以访问刚才访问的网页 C. 历史菜单中全都是很久以前的东西 D. 通常按下刷新按钮可以显示刚才网页中无法显示或显示不完全的图片",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机中的存储器可分为哪两类 A. 光盘和硬盘  B. 内存储器和外存储器 C. 硬盘和软盘 D. RAM和ROM ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机中的存储器可分为哪两类 A. 光盘和硬盘  B. 内存储器和外存储器 C. 硬盘和软盘 D. RAM和ROM ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows中，最大化是指将某一特定程序所在窗口 A. 填满整个屏幕 B. 显示全部程序 C. 在其它窗口之下 D. 与其它窗口平行",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows中，最大化是指将某一特定程序所在窗口 A. 填满整个屏幕 B. 显示全部程序 C. 在其它窗口之下 D. 与其它窗口平行",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面关于Windows2000文件名的叙述中，错误的是 A. 文件名中允许使用多个圆点分隔符 B. 文件名中允许使用竖线“|” C. 文件名中允许使用汉字  D. 文件名中允许使用空格",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面关于Windows2000文件名的叙述中，错误的是 A. 文件名中允许使用多个圆点分隔符 B. 文件名中允许使用竖线“|” C. 文件名中允许使用汉字  D. 文件名中允许使用空格",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面有关计算机操作系统的叙述中，不正确的是 A. 操作系统只负责管理内存储器，而不管理外存储器 B. 计算机的处理器、内存等硬件资源也由操作系统管理 C. 从用户的观点看，操作系统是用户和计算机之间的接口 D. 操作系统属于系统软件",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面有关计算机操作系统的叙述中，不正确的是 A. 操作系统只负责管理内存储器，而不管理外存储器 B. 计算机的处理器、内存等硬件资源也由操作系统管理 C. 从用户的观点看，操作系统是用户和计算机之间的接口 D. 操作系统属于系统软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可将图片输入计算机的是 A. 键盘 B. 绘图仪 C. 数码照相机 D. 鼠标",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可将图片输入计算机的是 A. 键盘 B. 绘图仪 C. 数码照相机 D. 鼠标",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于计算机内存储器的是 A. 随机存储器 B. 软盘 C. 光盘 D. 硬盘 ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于计算机内存储器的是 A. 随机存储器 B. 软盘 C. 光盘 D. 硬盘 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机硬件能直接识别和执行的只有 A. 高级语言 B. 符号语言 C. 汇编语言 D. 机器语言",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机硬件能直接识别和执行的只有 A. 高级语言 B. 符号语言 C. 汇编语言 D. 机器语言",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电子邮件地址为：wyzx@sohu.com，其中sohu.com是 A. 网址 B. 国家名称 C. 主机名 D. 用户名",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电子邮件地址为：wyzx@sohu.com，其中sohu.com是 A. 网址 B. 国家名称 C. 主机名 D. 用户名",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "近几年全球掀起了Internet热，在Internet上能够 A. 打国际长途电话 B. 网上购物 C. 以上都对 D. 网上看病",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "近几年全球掀起了Internet热，在Internet上能够 A. 打国际长途电话 B. 网上购物 C. 以上都对 D. 网上看病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机硬件能直接识别并执行的语言是 A. 算法语言 B. 机器语言 C. 高级语言 D. 符号语言",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机硬件能直接识别并执行的语言是 A. 算法语言 B. 机器语言 C. 高级语言 D. 符号语言",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前流行的E-mail指的是 A.  电子邮件 B.  电子通讯 C. 电子设备 D. 电子商务",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前流行的E-mail指的是 A.  电子邮件 B.  电子通讯 C. 电子设备 D. 电子商务",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小华在用Word编辑文档时不小心误删除了一些文本，那么可用常用工具栏中的哪个按钮进行恢复 A. 剪切 B. 撤消 C. 恢复 D. 粘贴",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小华在用Word编辑文档时不小心误删除了一些文本，那么可用常用工具栏中的哪个按钮进行恢复 A. 剪切 B. 撤消 C. 恢复 D. 粘贴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于Windows的窗口，下列说法错误的是 A. 窗口由标题栏、菜单栏、工具栏、状态栏、显示区域组成，且不能更改 B. 窗口可以最小化，并可以通过点击任务栏上相应按钮还原 C. 窗口可以根据需要更改大小和位置 D. 窗口的菜单中一般有帮助菜单，为用户提供相应信息",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于Windows的窗口，下列说法错误的是 A. 窗口由标题栏、菜单栏、工具栏、状态栏、显示区域组成，且不能更改 B. 窗口可以最小化，并可以通过点击任务栏上相应按钮还原 C. 窗口可以根据需要更改大小和位置 D. 窗口的菜单中一般有帮助菜单，为用户提供相应信息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机软件系统组成是 A. 系统软件和应用软件 B. Windows系统和Office系统 C. DOS和WPS D. Windows系统和应用软件",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机软件系统组成是 A. 系统软件和应用软件 B. Windows系统和Office系统 C. DOS和WPS D. Windows系统和应用软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WORD中，若在设置字号时由四号改为三号，则文件中内容打印出来将 A. 不能确定 B. 与原来一样大 C. 比原来小 D. 比原来大",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WORD中，若在设置字号时由四号改为三号，则文件中内容打印出来将 A. 不能确定 B. 与原来一样大 C. 比原来小 D. 比原来大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法不正确的是 A. 计算机软件通常是指系统软件 B. 计算机软件和计算机程序在本质上是相同的 C. 计算机系统除了硬件系统外，还有软件系统 D. 计算机病毒是指系统软件",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法不正确的是 A. 计算机软件通常是指系统软件 B. 计算机软件和计算机程序在本质上是相同的 C. 计算机系统除了硬件系统外，还有软件系统 D. 计算机病毒是指系统软件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机中，ROM属于 A. 输入设备 B. 输出设备 C. 外存储器 D. 内存储器",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机中，ROM属于 A. 输入设备 B. 输出设备 C. 外存储器 D. 内存储器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "键盘上“DEL”键等同于下面功能  A. 重命名 B. 删除 C. 复制 D. 粘贴",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "键盘上“DEL”键等同于下面功能  A. 重命名 B. 删除 C. 复制 D. 粘贴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一只64M的优盘的容量相当于 A. 640000KB B. 1000KB C. 64KB D. 65536KB",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一只64M的优盘的容量相当于 A. 640000KB B. 1000KB C. 64KB D. 65536KB",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "李双同学有WPS2000软件，张华同学没有，但他想使用。下列行为合法的是 A. 经李双同学同意后才复制一份 B. 到软件专卖店买一份 C. 趁李双同学不在去复制一份 D. 到其他地方去复制一份",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "李双同学有WPS2000软件，张华同学没有，但他想使用。下列行为合法的是 A. 经李双同学同意后才复制一份 B. 到软件专卖店买一份 C. 趁李双同学不在去复制一份 D. 到其他地方去复制一份",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "显示器是一种 A. 微处理设备 B. 输入设备 C. 存储设备 D. 输出设备",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "显示器是一种 A. 微处理设备 B. 输入设备 C. 存储设备 D. 输出设备",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "制作电子杂志的步骤有：①设计版面，②规划资料库与积累资料，③确定主题，④评价修改，⑤制作作品一般情况下，较合理的流程顺序是 A. ③⑤①②④ B. ①③②⑤④ C. ③①②⑤④ D. ③②①⑤④",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "制作电子杂志的步骤有：①设计版面，②规划资料库与积累资料，③确定主题，④评价修改，⑤制作作品一般情况下，较合理的流程顺序是 A. ③⑤①②④ B. ①③②⑤④ C. ③①②⑤④ D. ③②①⑤④",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机中数据存储的信息量大小的基本单位是 A. 字节 B. 字长 C. 扇区 D. 二进制",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机中数据存储的信息量大小的基本单位是 A. 字节 B. 字长 C. 扇区 D. 二进制",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机硬件系统的性能主要取决于 A. 中央处理器 B. 硬磁盘存储器 C. 内存储器 D. 显示适配卡",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机硬件系统的性能主要取决于 A. 中央处理器 B. 硬磁盘存储器 C. 内存储器 D. 显示适配卡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于内存的说法正确的是 A. 存储速度很快 B. 携带比较方便  C. 病毒一般不会感染它 D. 价格相对于硬盘来说比较便宜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于内存的说法正确的是 A. 存储速度很快 B. 携带比较方便  C. 病毒一般不会感染它 D. 价格相对于硬盘来说比较便宜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "WPS2000是哪个公司的产品 A. 金山公司  B.  IBM C. SONY D. Microsoft ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "WPS2000是哪个公司的产品 A. 金山公司  B.  IBM C. SONY D. Microsoft ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用IE访问网页时，鼠标指针移动存在超级链接部位时，形状通常变为 A. 闪烁状态 B. 问号 C. 手形 D. 箭头形状",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用IE访问网页时，鼠标指针移动存在超级链接部位时，形状通常变为 A. 闪烁状态 B. 问号 C. 手形 D. 箭头形状",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于计算机的科学计算机范畴的是 A. 天气预报 B. 图像处理 C. 服装设计 D. 办公自动化",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于计算机的科学计算机范畴的是 A. 天气预报 B. 图像处理 C. 服装设计 D. 办公自动化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在windows2000中，共享的访问类型可分为哪三类 A. “只读”、“写”、“根据密码访问” B. “写”、“只读”、“根据密码访问” C. “只读”、“完全”、“根据密码访问” D. 写”、“完全”、“根据密码访问”",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在windows2000中，共享的访问类型可分为哪三类 A. “只读”、“写”、“根据密码访问” B. “写”、“只读”、“根据密码访问” C. “只读”、“完全”、“根据密码访问” D. 写”、“完全”、“根据密码访问”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "收发电子邮件，首先必须拥有 A. 中文菜单 B. 个人主页 C. 邮政编码 D. 电子邮箱",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "收发电子邮件，首先必须拥有 A. 中文菜单 B. 个人主页 C. 邮政编码 D. 电子邮箱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对两个Word文档分别进行“剪切”操作，则剪贴板中 A. 可以有两次被剪切的内容 B. 仅有第二次被剪切的内容 C. 无内容 D. 仅有第一次被剪切的内容",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对两个Word文档分别进行“剪切”操作，则剪贴板中 A. 可以有两次被剪切的内容 B. 仅有第二次被剪切的内容 C. 无内容 D. 仅有第一次被剪切的内容",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在WORD主窗口的右上角、可以同时显示的按钮 A. 最小化、还原和最大化 B. 还原、最大化和关闭 C. 还原和最大化 D. 最小化、还原和关闭 ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在WORD主窗口的右上角、可以同时显示的按钮 A. 最小化、还原和最大化 B. 还原、最大化和关闭 C. 还原和最大化 D. 最小化、还原和关闭 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows2000中，如果想同时改变窗口的高度和宽度可以通过按住鼠标左键拖放窗口的位置是 A. 窗口边框 B. 滚动条 C. 菜单栏 D. 窗口角",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows2000中，如果想同时改变窗口的高度和宽度可以通过按住鼠标左键拖放窗口的位置是 A. 窗口边框 B. 滚动条 C. 菜单栏 D. 窗口角",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于信息传递的方式的是 A. 思考 B. 看电影 C. 上网 D. 发信",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于信息传递的方式的是 A. 思考 B. 看电影 C. 上网 D. 发信",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "除显示器、绘图仪外，也属于输出设备的是 A. 扫描仪 B. 激光打印机 C. 键盘 D. 鼠标",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "除显示器、绘图仪外，也属于输出设备的是 A. 扫描仪 B. 激光打印机 C. 键盘 D. 鼠标",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows2000中，如果想同时改变窗口的高度和宽度，可以通过按住鼠标左键播放窗口的位置是 A.  窗口边框 B. 菜单栏 C.  窗口角 D. 滚动条 ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows2000中，如果想同时改变窗口的高度和宽度，可以通过按住鼠标左键播放窗口的位置是 A.  窗口边框 B. 菜单栏 C.  窗口角 D. 滚动条 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电子邮件地址格式为username@hostname，其中hostname为 A. 电子邮局主机 B. 公司名 C. 国家名 D. 用户名",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电子邮件地址格式为username@hostname，其中hostname为 A. 电子邮局主机 B. 公司名 C. 国家名 D. 用户名",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与普通邮件相比，电子邮件的特点是 A. 发送速度慢、费用高 B. 发送速度快、费用低 C. 发送速度快、费用高 D. 发送速度慢、费用低",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与普通邮件相比，电子邮件的特点是 A. 发送速度慢、费用高 B. 发送速度快、费用低 C. 发送速度快、费用高 D. 发送速度慢、费用低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在IE浏览器中，如果查看近期访问的站点，应该点击的按钮是 A. 搜索 B. 历史 C.  收藏  D. 主页",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在IE浏览器中，如果查看近期访问的站点，应该点击的按钮是 A. 搜索 B. 历史 C.  收藏  D. 主页",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个字节对应的二进制位数是 A. 1 B. 2 C. 8 D. 4",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个字节对应的二进制位数是 A. 1 B. 2 C. 8 D. 4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们用WORD软件来处理文字是属于计算机的 A. 科学计算  B. 数据处理  C. 辅助设计 D. 人工智能",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们用WORD软件来处理文字是属于计算机的 A. 科学计算  B. 数据处理  C. 辅助设计 D. 人工智能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

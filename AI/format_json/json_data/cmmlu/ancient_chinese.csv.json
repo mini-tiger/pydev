@@ -1,0 +1,1642 @@
+[
+  {
+    "question_std": "下列句中，括号内的词意义解释正确的一句是 A. 好仁者，無以尚之。(尚：时尚) B. 小人懷璧，不可以越鄉。(越：超越) C. 大道之行也，天下爲公，選賢舆能，講信脩睦。(舆：推举) D. 舉儉力孝弟，罰偷廳，而惰民惡之；決獄不避，貴强恶之。(狱：监狱)",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，括号内的词意义解释正确的一句是 A. 好仁者，無以尚之。(尚：时尚) B. 小人懷璧，不可以越鄉。(越：超越) C. 大道之行也，天下爲公，選賢舆能，講信脩睦。(舆：推举) D. 舉儉力孝弟，罰偷廳，而惰民惡之；決獄不避，貴强恶之。(狱：监狱)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“吹”字应属 A. 会意 B. 指事 C. 象形 D. 形声",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“吹”字应属 A. 会意 B. 指事 C. 象形 D. 形声",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“辟”和“避”的关系是 A. 繁简字 B. 通假字 C. 古今字 D. 异体字",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“辟”和“避”的关系是 A. 繁简字 B. 通假字 C. 古今字 D. 异体字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，有名词用作动词的一句是 A. 女股肱周室，以夾輔先王。 B. 我醉，汝道苦我，何故? C. 單于使使曉武，會論虞常，欲因此時降武。 D. 公子纠敗，召忽死之。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，有名词用作动词的一句是 A. 女股肱周室，以夾輔先王。 B. 我醉，汝道苦我，何故? C. 單于使使曉武，會論虞常，欲因此時降武。 D. 公子纠敗，召忽死之。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，“是”充当判断句系词的一句是 A. 客人不知其是商君也。 B. 臣聞七十里爲政於天下者，湯是也。 C. 故外戶而不閉，是謂大同。 D. 輕死而暴，是小人之勇也。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，“是”充当判断句系词的一句是 A. 客人不知其是商君也。 B. 臣聞七十里爲政於天下者，湯是也。 C. 故外戶而不閉，是謂大同。 D. 輕死而暴，是小人之勇也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大汶口文化中发现有四个与早期汉字结构相似的图形符号，这几个符号属于大汶口文化早期，距今约（）年至5000年 A. 3000 B. 2000 C. 4500 D. 40000",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大汶口文化中发现有四个与早期汉字结构相似的图形符号，这几个符号属于大汶口文化早期，距今约（）年至5000年 A. 3000 B. 2000 C. 4500 D. 40000",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字中是古今字关系的是 A. 错措 B. 沽酤 C. 置寘 D. 睹親",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字中是古今字关系的是 A. 错措 B. 沽酤 C. 置寘 D. 睹親",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“关雎乐而不淫，哀而不伤。”中的“淫”意思是 A. 不正当的 B. 浸润 C. 过分、过度 D. 淫邪",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“关雎乐而不淫，哀而不伤。”中的“淫”意思是 A. 不正当的 B. 浸润 C. 过分、过度 D. 淫邪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“说文四大家”中注重分析字义来源和发展的是 A. 王筠 B. 朱骏声 C. 桂馥 D. 段玉裁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“说文四大家”中注重分析字义来源和发展的是 A. 王筠 B. 朱骏声 C. 桂馥 D. 段玉裁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“要”和“腰”之间的关系是 A. 异体字 B. 古今字 C. 通假字 D. 古音同",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“要”和“腰”之间的关系是 A. 异体字 B. 古今字 C. 通假字 D. 古音同",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字中属于古今字关系的是 A. 见－现征－徵解－懈 B. 奉－俸景－影文－纹 C. 立－位县－悬雕－凋 D. 益－溢然－燃干－乾",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字中属于古今字关系的是 A. 见－现征－徵解－懈 B. 奉－俸景－影文－纹 C. 立－位县－悬雕－凋 D. 益－溢然－燃干－乾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“子墨子之守圉有余”（《墨子•公输》），其中的“守圉”即“守御”，“圉”和“御”是 A. 异体字 B. 古今字 C. 繁简字 D. 通假字",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“子墨子之守圉有余”（《墨子•公输》），其中的“守圉”即“守御”，“圉”和“御”是 A. 异体字 B. 古今字 C. 繁简字 D. 通假字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，属于用判断句的形式表示原因的一句是 A. 蓋公之所能者天也，其所不能者人也。 B. 吾不能早用子，今急而求子，是寡人之過也。 C. 民多曠者，而我取富焉，是勤民以自封也。 D. 桓公九合諸侯，不以兵車，管仲之力也。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，属于用判断句的形式表示原因的一句是 A. 蓋公之所能者天也，其所不能者人也。 B. 吾不能早用子，今急而求子，是寡人之過也。 C. 民多曠者，而我取富焉，是勤民以自封也。 D. 桓公九合諸侯，不以兵車，管仲之力也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，“爲”表示被动的一句是 A. 以此爲治，豈不悲哉! B. 鮑叔終善遇之，不以爲言。 C. 誰習計會?能爲文收責于薛者乎? D. 今君聽讒人之議而不知我，西河之爲秦取不久矣。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，“爲”表示被动的一句是 A. 以此爲治，豈不悲哉! B. 鮑叔終善遇之，不以爲言。 C. 誰習計會?能爲文收責于薛者乎? D. 今君聽讒人之議而不知我，西河之爲秦取不久矣。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“十年之计，莫如树木。”中，“树木”的意思是 A. 树 B. 种树 C. 树木和木材 D. 就是“树木”",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“十年之计，莫如树木。”中，“树木”的意思是 A. 树 B. 种树 C. 树木和木材 D. 就是“树木”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "汉字笔画的最后定型，是在 A. 行书阶段 B. 汉隶阶段 C. 楷书阶段 D. 古隶阶段",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "汉字笔画的最后定型，是在 A. 行书阶段 B. 汉隶阶段 C. 楷书阶段 D. 古隶阶段",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《经传释词》的作者是 A. 王引之 B. 张玉书 C. 许慎 D. 阮元",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《经传释词》的作者是 A. 王引之 B. 张玉书 C. 许慎 D. 阮元",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，属于异体字关系的一组是 A. 並一竝 B. 暴一曝 C. 置—寘 D. 錫一賜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，属于异体字关系的一组是 A. 並一竝 B. 暴一曝 C. 置—寘 D. 錫一賜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“太后之色少解”中“色”指 A. 怒色 B. 颜色 C. 品种 D. 妇女美貌",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“太后之色少解”中“色”指 A. 怒色 B. 颜色 C. 品种 D. 妇女美貌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各句中的黑体词其古今词义的发展变化属于词义扩大的是 A. 笑从双脸生。 B. 祈父，予王之爪牙。 C. 交通王侯。 D. 同心之言，其臭如兰。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各句中的黑体词其古今词义的发展变化属于词义扩大的是 A. 笑从双脸生。 B. 祈父，予王之爪牙。 C. 交通王侯。 D. 同心之言，其臭如兰。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“期”是一个多义词，有下列义项：1邀约、会合；2希望；3期限、日期；4至、及；5必、决定。有下列例句：ａ《韩非子•五蠹》“是以圣人不期修古，不法常可。”ｂ《史记•陈涉世家》“会天大雨，道不通，度已失期。”ｃ《诗经•桑中》“期我乎桑中，要我乎上宫。”ｄ《左传•哀公十六年》“期死，非勇也。”ｅ《韩诗外传》卷五：“比期三年，果有越裳氏重九译而至。”例句和义项搭配得当的是（） A. 1ｃ/2ａ/3ｂ/4ｅ/5ｄ B. 1ｂ/2ａ/3ｅ/4ｃ/5ｄ C. 1ｂ/2ｃ/3ｄ/4ｅ/5ａ D. 1ａ/2ｂ/3ｃ/4ｄ/5ｅ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“期”是一个多义词，有下列义项：1邀约、会合；2希望；3期限、日期；4至、及；5必、决定。有下列例句：ａ《韩非子•五蠹》“是以圣人不期修古，不法常可。”ｂ《史记•陈涉世家》“会天大雨，道不通，度已失期。”ｃ《诗经•桑中》“期我乎桑中，要我乎上宫。”ｄ《左传•哀公十六年》“期死，非勇也。”ｅ《韩诗外传》卷五：“比期三年，果有越裳氏重九译而至。”例句和义项搭配得当的是（） A. 1ｃ/2ａ/3ｂ/4ｅ/5ｄ B. 1ｂ/2ａ/3ｅ/4ｃ/5ｄ C. 1ｂ/2ｃ/3ｄ/4ｅ/5ａ D. 1ａ/2ｂ/3ｃ/4ｄ/5ｅ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中加点词与例句“童子隅坐而执烛”用法不同的是 A. 其后秦稍蚕食魏。 B. 舜勤于民事而野死。 C. 良庖岁更刀，割也。 D. 子路拱而立。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中加点词与例句“童子隅坐而执烛”用法不同的是 A. 其后秦稍蚕食魏。 B. 舜勤于民事而野死。 C. 良庖岁更刀，割也。 D. 子路拱而立。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，属于主谓倒装句的一句是 A. 甚矣古書之難讀也。 B. 吾以子爲異之問，曾由舆求之問。 C. 此可謂知義舆不義之别乎? D. 古今所傳，不可誣也。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，属于主谓倒装句的一句是 A. 甚矣古書之難讀也。 B. 吾以子爲異之問，曾由舆求之問。 C. 此可謂知義舆不義之别乎? D. 古今所傳，不可誣也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，动词宾语省略的一句是 A. 數日不死，匈奴以爲神。 B. 人皆有兄弟，我獨無。 C. 諸生業患不能精，無患有司之不明。 D. 可輿言而不輿之言，失人。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，动词宾语省略的一句是 A. 數日不死，匈奴以爲神。 B. 人皆有兄弟，我獨無。 C. 諸生業患不能精，無患有司之不明。 D. 可輿言而不輿之言，失人。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有双宾语的一句是 A. 夫晉何厭之有? B. 重爲之禮而歸之。 C. 兔不可復得，而身爲宋國笑。 D. 甚矣，汝之不惠!",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有双宾语的一句是 A. 夫晉何厭之有? B. 重爲之禮而歸之。 C. 兔不可復得，而身爲宋國笑。 D. 甚矣，汝之不惠!",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列例句“防”字用其本义的是 A. 以防止水。 B. 吾闻忠善以损怨，不闻作威以防怨。 C. 以礼义防民。 D. 视俗而施教，察失而立防。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列例句“防”字用其本义的是 A. 以防止水。 B. 吾闻忠善以损怨，不闻作威以防怨。 C. 以礼义防民。 D. 视俗而施教，察失而立防。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“征”和“徵”的关系是 A. 繁简字 B. 古今字 C. 异体字 D. 通假字",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“征”和“徵”的关系是 A. 繁简字 B. 古今字 C. 异体字 D. 通假字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，数词表示约数的一句是 A. 夫諸侯上象四七，垂耀在天。 B. 秋水才深四五尺，野航恰受兩三人。 C. 棗栗千石者三之。 D. 長不滿七尺，滑稽多辩。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，数词表示约数的一句是 A. 夫諸侯上象四七，垂耀在天。 B. 秋水才深四五尺，野航恰受兩三人。 C. 棗栗千石者三之。 D. 長不滿七尺，滑稽多辩。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组汉字，象形字、指事字、会意字、形声字四种都有的一组是 A. 止末行锦 B. 皿亦眉疆 C. 目曰戒哀 D. 又甘受朝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组汉字，象形字、指事字、会意字、形声字四种都有的一组是 A. 止末行锦 B. 皿亦眉疆 C. 目曰戒哀 D. 又甘受朝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中加点的词在古今词义的演变中属于词义扩大的是 A. 我稼既同，上入执宫功。 B. 空谷传响，哀转久绝。 C. 夸父与日逐走。 D. 小大之狱，虽不能察，必以情。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中加点的词在古今词义的演变中属于词义扩大的是 A. 我稼既同，上入执宫功。 B. 空谷传响，哀转久绝。 C. 夸父与日逐走。 D. 小大之狱，虽不能察，必以情。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，括号中对词意义解释正确的一句是 A. 聞大王有意督過之，脱身獨去，已至軍矣。(督：责问) B. 齊侯陳諸侯之師，輿屈完乘而觀之。(乘：骑马) C. 先生不羞，乃有意欲爲收責於薛乎?(羞：害羞) D. 成事不說，遂事不諫，既往不咎。(遂：于是)",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，括号中对词意义解释正确的一句是 A. 聞大王有意督過之，脱身獨去，已至軍矣。(督：责问) B. 齊侯陳諸侯之師，輿屈完乘而觀之。(乘：骑马) C. 先生不羞，乃有意欲爲收責於薛乎?(羞：害羞) D. 成事不說，遂事不諫，既往不咎。(遂：于是)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“望”和“顾”两词意义的不同之处主要表现在 A. 性状情态不同：“望”指抬头向远处看；“顾”指转头向后看。 B. 侧重的方面不同：“望”侧重予外表；“顾”侧重内心。 C. 程度深浅不同：“望”是一般地看；“顾”是认真地看。 D. 语法功能不同：“望”可以带宾语；“顾”不可以。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“望”和“顾”两词意义的不同之处主要表现在 A. 性状情态不同：“望”指抬头向远处看；“顾”指转头向后看。 B. 侧重的方面不同：“望”侧重予外表；“顾”侧重内心。 C. 程度深浅不同：“望”是一般地看；“顾”是认真地看。 D. 语法功能不同：“望”可以带宾语；“顾”不可以。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是会意字的一组是 A. 采明北晶 B. 治星炊信 C. 自文蚕进 D. 耳林从解",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是会意字的一组是 A. 采明北晶 B. 治星炊信 C. 自文蚕进 D. 耳林从解",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字中，象形、指事、会意、形声都具备的一组是 A. 馬初産亦 B. 息法刃本 C. 匪穎止末 D. 未向耆湟",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字中，象形、指事、会意、形声都具备的一组是 A. 馬初産亦 B. 息法刃本 C. 匪穎止末 D. 未向耆湟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列有关“集解类”的说法，表述正确的一句是 A. “集解类”的最大特点是维护前人注释的观点。 B. “集解类”是指汇集各家注解，再加上自己注解的一种古注类型。 C. “集解类”的代表作是晋代杜预的《春秋经传集解》。 D. “集解类”的重点是对前人注释的补充和订正。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列有关“集解类”的说法，表述正确的一句是 A. “集解类”的最大特点是维护前人注释的观点。 B. “集解类”是指汇集各家注解，再加上自己注解的一种古注类型。 C. “集解类”的代表作是晋代杜预的《春秋经传集解》。 D. “集解类”的重点是对前人注释的补充和订正。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，有名词作状语的一句是 A. 故天下盡以扁鵲爲能生死人。 B. 今先生儼然不遠千里而庭教之，願以異日。 C. 今媪尊長安君之位。 D. 是故明君貴五縠而賤金玉。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，有名词作状语的一句是 A. 故天下盡以扁鵲爲能生死人。 B. 今先生儼然不遠千里而庭教之，願以異日。 C. 今媪尊長安君之位。 D. 是故明君貴五縠而賤金玉。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组形声字中，属左形右声的一组是 A. 滑株鸠功 B. 郊胡鸽邵 C. 攻期江棋 D. 河诂语超",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组形声字中，属左形右声的一组是 A. 滑株鸠功 B. 郊胡鸽邵 C. 攻期江棋 D. 河诂语超",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列形声字的结构分类正确的一项是()a桃b雅c洗d室e篇f贼g颖h彩 A. ac/bh/de/fg B. ab/ch/de/fg C. abcg/de/fh D. abc/de/fgh",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列形声字的结构分类正确的一项是()a桃b雅c洗d室e篇f贼g颖h彩 A. ac/bh/de/fg B. ab/ch/de/fg C. abcg/de/fh D. abc/de/fgh",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“干”和“乾”的关系是 A. 繁简字 B. 通假字 C. 古今字 D. 异体字",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“干”和“乾”的关系是 A. 繁简字 B. 通假字 C. 古今字 D. 异体字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“孝公既见卫鞅，语事良久，孝公时时睡，弗听。”中的“睡”意思是 A. 睡醒 B. 睡觉 C. 坐着打盹 D. 睡着",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“孝公既见卫鞅，语事良久，孝公时时睡，弗听。”中的“睡”意思是 A. 睡醒 B. 睡觉 C. 坐着打盹 D. 睡着",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是形声字的一组是 A. 斧行财国 B. 固颁旗锦 C. 病师姑甲 D. 马偷逃布",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是形声字的一组是 A. 斧行财国 B. 固颁旗锦 C. 病师姑甲 D. 马偷逃布",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“视而可识，察而见意”解释的汉字结构类型是 A. 指事 B. 会意 C. 象形 D. 转注",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“视而可识，察而见意”解释的汉字结构类型是 A. 指事 B. 会意 C. 象形 D. 转注",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在商代金文中，字体笔画的明显特征是 A. 块面笔画 B. 平直笔画 C. 方折笔画 D. 线条笔画",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在商代金文中，字体笔画的明显特征是 A. 块面笔画 B. 平直笔画 C. 方折笔画 D. 线条笔画",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，关系为异体字的是 A. 翦—剪 B. 佗—他 C. 反—返 D. 说—悦",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，关系为异体字的是 A. 翦—剪 B. 佗—他 C. 反—返 D. 说—悦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列古注类别中，既解释经文又解释前人注文的注释类型是 A. 传注类 B. 补注类 C. 音义类 D. 章句类",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列古注类别中，既解释经文又解释前人注文的注释类型是 A. 传注类 B. 补注类 C. 音义类 D. 章句类",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，宾语借助代词复指而前置的一句是 A. 何爲棄墳井，在山谷爲寇也? B. 大道之行也，輿三代之英，丘未之逮也。 C. 我無爾詐，爾無我虞。 D. 其一人專心致志，惟奕秋之爲聽。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，宾语借助代词复指而前置的一句是 A. 何爲棄墳井，在山谷爲寇也? B. 大道之行也，輿三代之英，丘未之逮也。 C. 我無爾詐，爾無我虞。 D. 其一人專心致志，惟奕秋之爲聽。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，有动词使动用法的一句是 A. 既而舆為公介，倒戟以禦公徒而免之。 B. 此理之常，無足怪者。 C. 孔子登東山而小魯，登泰山而小天下。 D. 良馬可形容筋骨相也。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，有动词使动用法的一句是 A. 既而舆為公介，倒戟以禦公徒而免之。 B. 此理之常，無足怪者。 C. 孔子登東山而小魯，登泰山而小天下。 D. 良馬可形容筋骨相也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，括号中词意义解释正确的一句是 A. 於是惠子恐，搜於國中三日三夜。(國：诸侯国) B. 兵刃既接，棄甲曳兵而走。(既：既然) C. 雖有高城深池，嚴法重刑，猶不能禁也。(城：城墙) D. 不虞君之涉吾地也。(虞：防备)",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，括号中词意义解释正确的一句是 A. 於是惠子恐，搜於國中三日三夜。(國：诸侯国) B. 兵刃既接，棄甲曳兵而走。(既：既然) C. 雖有高城深池，嚴法重刑，猶不能禁也。(城：城墙) D. 不虞君之涉吾地也。(虞：防备)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，全都是指事字的一组是 A. 向舂高 B. 匪星上 C. 大止匍 D. 刃本末",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，全都是指事字的一组是 A. 向舂高 B. 匪星上 C. 大止匍 D. 刃本末",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中括号左边的字与括号中的字是分化字关系的一句是 A. 少益耆(嗜)食，和於身也。 B. 或令孺子懷錢挈壺壅(瓮)而往酤。 C. 以官服事，以勞殿(奠)賞，量功而分禄。 D. 為酒甚美，縣(懸)幟甚高，然而不售，酒酸。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中括号左边的字与括号中的字是分化字关系的一句是 A. 少益耆(嗜)食，和於身也。 B. 或令孺子懷錢挈壺壅(瓮)而往酤。 C. 以官服事，以勞殿(奠)賞，量功而分禄。 D. 為酒甚美，縣(懸)幟甚高，然而不售，酒酸。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“星”字应属 A. 会意 B. 象形 C. 形声 D. 指事",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“星”字应属 A. 会意 B. 象形 C. 形声 D. 指事",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列古注术语中，与“讀若”功能不相同的是 A. 讀破 B. 讀如 C. 讀近 D. 讀似",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列古注术语中，与“讀若”功能不相同的是 A. 讀破 B. 讀如 C. 讀近 D. 讀似",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知我国最早的成系统的文字是 A. 战国文字 B. 秦朝小篆 C. 殷商甲骨文 D. 西周金文",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知我国最早的成系统的文字是 A. 战国文字 B. 秦朝小篆 C. 殷商甲骨文 D. 西周金文",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中“莫”的用法与其它三个不同的是 A. 吾有老父，身死莫之养也。 B. 保民而王，莫之能御也。 C. 过而能改，善莫大焉。 D. 君有疾病见于面，莫多饮酒。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中“莫”的用法与其它三个不同的是 A. 吾有老父，身死莫之养也。 B. 保民而王，莫之能御也。 C. 过而能改，善莫大焉。 D. 君有疾病见于面，莫多饮酒。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列例句“道”字用其本义的是 A. 臣之所好者，道也，进乎技矣。 B. 从许子之道，则市价不贰，国中无伪。 C. 邦有道则仕，邦无道则隐 D. 民扶老携幼，迎君道中。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列例句“道”字用其本义的是 A. 臣之所好者，道也，进乎技矣。 B. 从许子之道，则市价不贰，国中无伪。 C. 邦有道则仕，邦无道则隐 D. 民扶老携幼，迎君道中。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列例句“问”字用其本义的是 A. 昭王南征而不复，寡人是问。 B. 既而羁寓京师，久无家问。 C. 昭王之不复，君其问诸水滨。 D. 伯牛有疾，子问之。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列例句“问”字用其本义的是 A. 昭王南征而不复，寡人是问。 B. 既而羁寓京师，久无家问。 C. 昭王之不复，君其问诸水滨。 D. 伯牛有疾，子问之。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“策”字应属 A. 象形 B. 指事 C. 形声 D. 会意",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“策”字应属 A. 象形 B. 指事 C. 形声 D. 会意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“问”和“访”两词意义的不同之处主要表现在 A. 语法功能不同：“问”可以带宾语；“访”不可以。 B. 程度深浅不同：“问”是仔细的问；“访”是一般的问。 C. 范围广狭不同：“问”的对象范围宽；“访”的对象范围窄。 D. 侧重的方面不同：“问”侧重于询问某事；“访”侧重于访问某人。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“问”和“访”两词意义的不同之处主要表现在 A. 语法功能不同：“问”可以带宾语；“访”不可以。 B. 程度深浅不同：“问”是仔细的问；“访”是一般的问。 C. 范围广狭不同：“问”的对象范围宽；“访”的对象范围窄。 D. 侧重的方面不同：“问”侧重于询问某事；“访”侧重于访问某人。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中加点的词使用了本义的是 A. 孟春之月，东风解冻。 B. 是何异于刺人而杀之。 C. 君子引而不发。 D. 五色令人目盲。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中加点的词使用了本义的是 A. 孟春之月，东风解冻。 B. 是何异于刺人而杀之。 C. 君子引而不发。 D. 五色令人目盲。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有形容词使动用法的一句是 A. 然則今有美堯、舜、湯、武、禹之道於當今之世者，必爲新聖笑矣。 B. 楚左尹项伯者，素善留侯張良。 C. 問其深，則其好遊者不能窮也。 D. 凡用兵之法，全國爲上，破國次之。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有形容词使动用法的一句是 A. 然則今有美堯、舜、湯、武、禹之道於當今之世者，必爲新聖笑矣。 B. 楚左尹项伯者，素善留侯張良。 C. 問其深，則其好遊者不能窮也。 D. 凡用兵之法，全國爲上，破國次之。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据字形分析，“朝”字的本义应该是 A. 早上省视父母、君王 B. 早晨 C. 朝见，朝拜 D. 朝廷",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据字形分析，“朝”字的本义应该是 A. 早上省视父母、君王 B. 早晨 C. 朝见，朝拜 D. 朝廷",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，属于判断句的一句是 A. 古今所傳，不可誣也。 B. 颍考叔爲颍谷封人。 C. 是非君子之言也。 D. 蟹六跪而二螯。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，属于判断句的一句是 A. 古今所傳，不可誣也。 B. 颍考叔爲颍谷封人。 C. 是非君子之言也。 D. 蟹六跪而二螯。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“北”是一个（）字。 A. 指事 B. 象形 C. 形声 D. 会意",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“北”是一个（）字。 A. 指事 B. 象形 C. 形声 D. 会意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“姜氏何厌之有?不如早为之所，无使滋蔓，蔓，难图也。”下列有关说法错误的是 A. “无”与“勿”是古今字。 B. 两个“之”用法不同。 C. “为之所”是双宾语句。 D. “何厌之有”是宾语前置句。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“姜氏何厌之有?不如早为之所，无使滋蔓，蔓，难图也。”下列有关说法错误的是 A. “无”与“勿”是古今字。 B. 两个“之”用法不同。 C. “为之所”是双宾语句。 D. “何厌之有”是宾语前置句。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各句中加点的词其古今词义的发展变化属词义扩大的是 A. 治其事故。 B. 孝公时时睡，弗听。 C. 孟尝君使人给其食用，无使乏。 D. 弥子之妻与子路之妻，兄弟也。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各句中加点的词其古今词义的发展变化属词义扩大的是 A. 治其事故。 B. 孝公时时睡，弗听。 C. 孟尝君使人给其食用，无使乏。 D. 弥子之妻与子路之妻，兄弟也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据字形分析，“时”字的本义应该是 A. 时常 B. 时间 C. 季节 D. 时机",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据字形分析，“时”字的本义应该是 A. 时常 B. 时间 C. 季节 D. 时机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是形声字的一组是 A. 胞记范舀 B. 斩初伐婚 C. 暑迪跳除 D. 箸怡哨安",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是形声字的一组是 A. 胞记范舀 B. 斩初伐婚 C. 暑迪跳除 D. 箸怡哨安",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，属于分化字关系的一组是 A. 毫—豪 B. 受一授 C. 游一遊 D. 灾一災",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，属于分化字关系的一组是 A. 毫—豪 B. 受一授 C. 游一遊 D. 灾一災",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列例句“鄙”字用其本义的是 A. 今之争夺，非鄙也，财寡也。 B. 我皆有礼，夫犹鄙我。 C. 焚符破玺，而民朴鄙。 D. 国中之众，四鄙之萌人，皆兢为义。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列例句“鄙”字用其本义的是 A. 今之争夺，非鄙也，财寡也。 B. 我皆有礼，夫犹鄙我。 C. 焚符破玺，而民朴鄙。 D. 国中之众，四鄙之萌人，皆兢为义。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，采用“连类而及”这种特殊表达方式的是 A. 秦時明月漢時關 B. 無羽毛以御寒暑 C. 母也天只，不諒人只 D. 新來瘦，非關病酒，不是悲秋",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，采用“连类而及”这种特殊表达方式的是 A. 秦時明月漢時關 B. 無羽毛以御寒暑 C. 母也天只，不諒人只 D. 新來瘦，非關病酒，不是悲秋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于《康熙字典》的说法正确的是 A. 全书按部首排列，共分540部。 B. 采用了直音、反切和叶音三种注音方法。 C. 全书按照地支分成十集。 D. 王引之《字典考证》纠正了五千多条错误。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于《康熙字典》的说法正确的是 A. 全书按部首排列，共分540部。 B. 采用了直音、反切和叶音三种注音方法。 C. 全书按照地支分成十集。 D. 王引之《字典考证》纠正了五千多条错误。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“盗—窃—攘”这组同义词在（）上有所不同。 A. 使用条件 B. 感情色彩 C. 词义轻重 D. 语法关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“盗—窃—攘”这组同义词在（）上有所不同。 A. 使用条件 B. 感情色彩 C. 词义轻重 D. 语法关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列古注类型，属于对古书文字进行辨音释义的一项是 A. 音义 B. 传注 C. 补注 D. 集解",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列古注类型，属于对古书文字进行辨音释义的一项是 A. 音义 B. 传注 C. 补注 D. 集解",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，表述正确的一句是 A. “连类而及”只限于同类事物的连及。 B. “连类而及”所连带提及的事物在文中有实际表意作用。 C. “無羽毛以御寒暑”中，使用“连类而及”表达方式的是“羽毛”。 D. “连类而及”也省称为“连及”。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，表述正确的一句是 A. “连类而及”只限于同类事物的连及。 B. “连类而及”所连带提及的事物在文中有实际表意作用。 C. “無羽毛以御寒暑”中，使用“连类而及”表达方式的是“羽毛”。 D. “连类而及”也省称为“连及”。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有形容词意动用法的一句是 A. 强本而節用，則天不能贫。 B. 願車馬衣輕装舆朋友共，敝之而無憾。 C. 鮑叔不以我爲無耽，知我不羞小節而恥功名不顯於天下也。 D. 工師得大木，則王喜；匠人斫而小之，則王怒。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有形容词意动用法的一句是 A. 强本而節用，則天不能贫。 B. 願車馬衣輕装舆朋友共，敝之而無憾。 C. 鮑叔不以我爲無耽，知我不羞小節而恥功名不顯於天下也。 D. 工師得大木，則王喜；匠人斫而小之，則王怒。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是形声字的一组是 A. 后美碧途 B. 勉海谐盗 C. 腾贼章汁 D. 徒问辩背",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是形声字的一组是 A. 后美碧途 B. 勉海谐盗 C. 腾贼章汁 D. 徒问辩背",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是形声字的一组是 A. 志赛浅鸣 B. 修梁吟前 C. 吠技菜荆 D. 怕表苦存",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是形声字的一组是 A. 志赛浅鸣 B. 修梁吟前 C. 吠技菜荆 D. 怕表苦存",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是象形字的一组是 A. 兵本日月 B. 手木鱼甘 C. 刀亦哀鸟 D. 雨舟水牛",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是象形字的一组是 A. 兵本日月 B. 手木鱼甘 C. 刀亦哀鸟 D. 雨舟水牛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“眉”字应属 A. 象形 B. 会意 C. 形声 D. 指事",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“眉”字应属 A. 象形 B. 会意 C. 形声 D. 指事",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列判断句不属于活用的是 A. 曹公，豺虎也。 B. 仲弓父，贱人也。 C. 良庖岁更刀，割也。 D. 君者，舟也。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列判断句不属于活用的是 A. 曹公，豺虎也。 B. 仲弓父，贱人也。 C. 良庖岁更刀，割也。 D. 君者，舟也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列对汉字结构的分析完全正确的一项是 A. 泅，从水从囚。会意 B. 吹，从口从欠。会意 C. 眉，从目上长眉毛。会意 D. 餓，从我从食。会意",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列对汉字结构的分析完全正确的一项是 A. 泅，从水从囚。会意 B. 吹，从口从欠。会意 C. 眉，从目上长眉毛。会意 D. 餓，从我从食。会意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“自”字应属 A. 指事 B. 形声 C. 象形 D. 会意",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“自”字应属 A. 指事 B. 形声 C. 象形 D. 会意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“今有一人，入人园圃，窃其桃李。”下列关于“园圃”的说法正确的是 A. 是双声联绵词 B. 是偏义复词 C. 是叠韵联绵词 D. 是单纯词",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“今有一人，入人园圃，窃其桃李。”下列关于“园圃”的说法正确的是 A. 是双声联绵词 B. 是偏义复词 C. 是叠韵联绵词 D. 是单纯词",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的”六书”体例，”益”字应属 A. 会意 B. 象形 C. 形声 D. 指事",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的”六书”体例，”益”字应属 A. 会意 B. 象形 C. 形声 D. 指事",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有形容词意动用法的一句是 A. 君子食之，以平其心。 B. 卑而驕之，佚而勞之，親而離之。 C. 且夫我嘗聞少仲尼之聞而輕伯夷之義者，始吾弗信。 D. 傾奪鄰國，而雄諸侯。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有形容词意动用法的一句是 A. 君子食之，以平其心。 B. 卑而驕之，佚而勞之，親而離之。 C. 且夫我嘗聞少仲尼之聞而輕伯夷之義者，始吾弗信。 D. 傾奪鄰國，而雄諸侯。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是会意字的一组是 A. 森栽表朝 B. 锦楚众男 C. 袜肥果解 D. 友见比炎",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是会意字的一组是 A. 森栽表朝 B. 锦楚众男 C. 袜肥果解 D. 友见比炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，具有相同声符的一组是 A. 胡朔朗朝 B. 颖颍顿颈 C. 治始怡笞 D. 闷问闺闾",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，具有相同声符的一组是 A. 胡朔朗朝 B. 颖颍顿颈 C. 治始怡笞 D. 闷问闺闾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列工具书中，收列材料遍及经、史、子、集，专门解释虚词的工具书是 A. 《助字辨略》 B. 《说文解字》 C. 《经籍篡诂》 D. 《经传释词》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列工具书中，收列材料遍及经、史、子、集，专门解释虚词的工具书是 A. 《助字辨略》 B. 《说文解字》 C. 《经籍篡诂》 D. 《经传释词》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是会意字的一组是 A. 笛初明看 B. 即婢休驰 C. 暴祭赤半 D. 回步文意",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是会意字的一组是 A. 笛初明看 B. 即婢休驰 C. 暴祭赤半 D. 回步文意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有名词使动用法的一句是 A. 東面而征，西夷怨；南面而征，北狄怨，曰：“奚爲後我?” B. 沛公北嚮坐，張良西嚮侍。 C. 築室百堵，西南其户。 D. 君有區區之薛，不拊愛子其民，因而賈利之。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有名词使动用法的一句是 A. 東面而征，西夷怨；南面而征，北狄怨，曰：“奚爲後我?” B. 沛公北嚮坐，張良西嚮侍。 C. 築室百堵，西南其户。 D. 君有區區之薛，不拊愛子其民，因而賈利之。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国目前收集汉字最多的字典是 A. 《中华字海》 B. 《康熙字典》 C. 《词源》 D. 《汉语大字典》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国目前收集汉字最多的字典是 A. 《中华字海》 B. 《康熙字典》 C. 《词源》 D. 《汉语大字典》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有介词宾语前置的一句是 A. 今人君之左右，出則爲势重而收利於民，入則比周而蔽恶於君。 B. 子玉之敗，子之舉也。舉以敗國，將何賀焉? C. 敢問夫子惡乎長? D. 盖有之矣，我未之見也。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有介词宾语前置的一句是 A. 今人君之左右，出則爲势重而收利於民，入則比周而蔽恶於君。 B. 子玉之敗，子之舉也。舉以敗國，將何賀焉? C. 敢問夫子惡乎長? D. 盖有之矣，我未之見也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "注重分析虚词特殊用法的著作是 A. 《词诠》 B. 《古汉语虚词通释》 C. 《助字辨略》 D. 《经传释词》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "注重分析虚词特殊用法的著作是 A. 《词诠》 B. 《古汉语虚词通释》 C. 《助字辨略》 D. 《经传释词》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中括号左侧的字同括号内的字属于古今字关系的是 A. 古之葬者，厚衣之以薪，……丧期无(无)数。 B. 他日发，则有馈其兄生鸟我(鹅)者。 C. 予畏上帝，不敢不正(征)。 D. 尺虫只之屈，以求信(伸)也。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中括号左侧的字同括号内的字属于古今字关系的是 A. 古之葬者，厚衣之以薪，……丧期无(无)数。 B. 他日发，则有馈其兄生鸟我(鹅)者。 C. 予畏上帝，不敢不正(征)。 D. 尺虫只之屈，以求信(伸)也。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，名词作状语表示工具或凭借的一句是 A. 鄒忌修八尺有餘，形貌昳麗。朝服衣冠，窥鏡。 B. 每字爲一印，火烧令堅。 C. 夫山居而谷汲者，腰臘而相遗以水。 D. 童子隅坐而執燭。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，名词作状语表示工具或凭借的一句是 A. 鄒忌修八尺有餘，形貌昳麗。朝服衣冠，窥鏡。 B. 每字爲一印，火烧令堅。 C. 夫山居而谷汲者，腰臘而相遗以水。 D. 童子隅坐而執燭。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，属于被动句的一句是 A. 故不能推車而及。 B. 父母唯其疾之憂。 C. 夫戰，勇氣也。 D. 豕人立而啼。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，属于被动句的一句是 A. 故不能推車而及。 B. 父母唯其疾之憂。 C. 夫戰，勇氣也。 D. 豕人立而啼。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，不属于双宾语句的一句是 A. 虞公弗聽，遂假之道。 B. 輿吾共定天下者，獨卿而已。 C. 天佑下民，作之君，作之師。 D. 東野舆吾書。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，不属于双宾语句的一句是 A. 虞公弗聽，遂假之道。 B. 輿吾共定天下者，獨卿而已。 C. 天佑下民，作之君，作之師。 D. 東野舆吾書。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“保”字应属 A. 会意 B. 形声 C. 指事 D. 象形",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“保”字应属 A. 会意 B. 形声 C. 指事 D. 象形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，名量表示法不同于其他三句的一句是 A. 良地一畝，用子五升，薄地三升。 B. 我持白璧一雙，欲獻項王；玉斗一雙，欲輿亞父。 C. 於是爲長安君約車百乘，質於齊。 D. 食顷，吐出三升許蟲。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，名量表示法不同于其他三句的一句是 A. 良地一畝，用子五升，薄地三升。 B. 我持白璧一雙，欲獻項王；玉斗一雙，欲輿亞父。 C. 於是爲長安君約車百乘，質於齊。 D. 食顷，吐出三升許蟲。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“亦”字应属 A. 指事 B. 会意 C. 象形 D. 形声",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“亦”字应属 A. 指事 B. 会意 C. 象形 D. 形声",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中加点词使用了本义的是 A. 天帝使我长百兽。 B. 孟尝君顾谓冯谖。 C. 学而时习之，不亦悦乎。 D. 途有饿莩而不知发。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中加点词使用了本义的是 A. 天帝使我长百兽。 B. 孟尝君顾谓冯谖。 C. 学而时习之，不亦悦乎。 D. 途有饿莩而不知发。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“牟”字应属 A. 会意 B. 指事 C. 形声 D. 象形",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“牟”字应属 A. 会意 B. 指事 C. 形声 D. 象形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "许慎所举“考、老”两字，用来说明的“六书”中的定义是 A. 以事爲名，取譬相成 B. 本無其字，依聲託事 C. 畫成其物，随體詰詘 D. 建類一首，同意相受",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "许慎所举“考、老”两字，用来说明的“六书”中的定义是 A. 以事爲名，取譬相成 B. 本無其字，依聲託事 C. 畫成其物，随體詰詘 D. 建類一首，同意相受",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有名词作状语，表示对人的态度的一句是 A. 田單乃起，引還，東鄉坐，師事之。 B. 鵬之徙於南冥也，水撃三千里。 C. 黎丘之鬼効其子之狀，扶而道苦之。 D. 家人車戟欲往就醫。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有名词作状语，表示对人的态度的一句是 A. 田單乃起，引還，東鄉坐，師事之。 B. 鵬之徙於南冥也，水撃三千里。 C. 黎丘之鬼効其子之狀，扶而道苦之。 D. 家人車戟欲往就醫。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，关系为通假字的是 A. 赴—讣 B. 陈—阵 C. 曾—增 D. 矢—屎",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，关系为通假字的是 A. 赴—讣 B. 陈—阵 C. 曾—增 D. 矢—屎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列形声字的结构分类正确的一项是（）a袒b崔c欣d照e路f效g霜h基 A. ae/cf/bg/dh B. ac/ef/bd/gh C. aeg/bdh/cf D. acdf/befh",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列形声字的结构分类正确的一项是（）a袒b崔c欣d照e路f效g霜h基 A. ae/cf/bg/dh B. ac/ef/bd/gh C. aeg/bdh/cf D. acdf/befh",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，全部属于义符相同的形声字的一组是 A. 哀衷初 B. 頭頸题 C. 問聞關 D. 幕茅草",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，全部属于义符相同的形声字的一组是 A. 哀衷初 B. 頭頸题 C. 問聞關 D. 幕茅草",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“無羽毛以御寒暑”这句话含有的特殊表达方式是 A. 婉曲 B. 互文 C. 連類而及 D. 變文",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“無羽毛以御寒暑”这句话含有的特殊表达方式是 A. 婉曲 B. 互文 C. 連類而及 D. 變文",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子中名词作状语表示凭借的是 A. 天下云集而响应。 B. 秦稍蚕食魏。 C. 太祖累书呼。 D. 君为我呼入，吾得兄事之。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子中名词作状语表示凭借的是 A. 天下云集而响应。 B. 秦稍蚕食魏。 C. 太祖累书呼。 D. 君为我呼入，吾得兄事之。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "弑”和“杀”两词意义或用法的不同之处主要表现在 A. 侧重的方面不同：“弑”侧重于腰斩；“杀”侧重于斩首。 B. 语法功能不同：“弑”不可以带宾语；“杀”可以带宾语。 C. 程度深浅不同：“弑”用于庄重场合，程度深；“杀”用于一般场合，程度浅。 D. 情感色彩不同：“弑”指下杀上，含有贬义；“杀”用于泛指，是中性词。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "弑”和“杀”两词意义或用法的不同之处主要表现在 A. 侧重的方面不同：“弑”侧重于腰斩；“杀”侧重于斩首。 B. 语法功能不同：“弑”不可以带宾语；“杀”可以带宾语。 C. 程度深浅不同：“弑”用于庄重场合，程度深；“杀”用于一般场合，程度浅。 D. 情感色彩不同：“弑”指下杀上，含有贬义；“杀”用于泛指，是中性词。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，属于无形式标志被动句的一句是 A. 雖萬被戮，豈有悔哉? B. 管仲既用，任政於齊。 C. 父母宗族，皆爲戮没。 D. 吾長見笑於大方之家。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，属于无形式标志被动句的一句是 A. 雖萬被戮，豈有悔哉? B. 管仲既用，任政於齊。 C. 父母宗族，皆爲戮没。 D. 吾長見笑於大方之家。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，数字表示分数的一句是 A. 凡詩賦百六家，千三百一十八篇。 B. 稻苗長六七寸，陳草復起。 C. 是乃其所以千萬臣而無數者也。 D. 什一，去關市之徵，今茲未能。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，数字表示分数的一句是 A. 凡詩賦百六家，千三百一十八篇。 B. 稻苗長六七寸，陳草復起。 C. 是乃其所以千萬臣而無數者也。 D. 什一，去關市之徵，今茲未能。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《周易•系辞》和《说文解字》认为“八卦”为（）所作 A. 郑樵 B. 伏牺氏 C. 神农氏 D. 仓颉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《周易•系辞》和《说文解字》认为“八卦”为（）所作 A. 郑樵 B. 伏牺氏 C. 神农氏 D. 仓颉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在“既至匈奴，置币遗单于”中，“币”用的是 A. 本义 B. 今义 C. 引申义 D. 假借义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在“既至匈奴，置币遗单于”中，“币”用的是 A. 本义 B. 今义 C. 引申义 D. 假借义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中“孰与”与其它三句不同的是 A. 吾孰与城北徐公美。 B. 从天而颂之，孰与制天命而用之。 C. 公之视廉将军孰与秦王。 D. 百姓足，君孰与不足。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中“孰与”与其它三句不同的是 A. 吾孰与城北徐公美。 B. 从天而颂之，孰与制天命而用之。 C. 公之视廉将军孰与秦王。 D. 百姓足，君孰与不足。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《逍遥游》“若夫乘天地之正，而御六气之辩。”其中“辩”用的是 A. 本义 B. 常用义 C. 假借义 D. 引申义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《逍遥游》“若夫乘天地之正，而御六气之辩。”其中“辩”用的是 A. 本义 B. 常用义 C. 假借义 D. 引申义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，加着重号的字与括号中的字是假借关系的一句是 A. 民不知禮，未生其共(恭)。 B. 其御之妻從門間而闕(窺)。 C. 小人也者，疾(急)爲誕而欲人之信己也。 D. 亡不越竟(境)，反不討賊。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，加着重号的字与括号中的字是假借关系的一句是 A. 民不知禮，未生其共(恭)。 B. 其御之妻從門間而闕(窺)。 C. 小人也者，疾(急)爲誕而欲人之信己也。 D. 亡不越竟(境)，反不討賊。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列工具书中，可查检《论语》、《孟子》等儒家经典著作的语句出处的是 A. 《十三经索引》 B. 《四库全书总目提要》 C. 《辞通》 D. 《词诠》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列工具书中，可查检《论语》、《孟子》等儒家经典著作的语句出处的是 A. 《十三经索引》 B. 《四库全书总目提要》 C. 《辞通》 D. 《词诠》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，动宾关系属于为动关系的一句是 A. 故君人者，勞於索之，而休於使之。 B. 君聞而賢之。 C. 求也退，故進之；由也兼人，故退之。 D. 伯夷死名於首陽之下。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，动宾关系属于为动关系的一句是 A. 故君人者，勞於索之，而休於使之。 B. 君聞而賢之。 C. 求也退，故進之；由也兼人，故退之。 D. 伯夷死名於首陽之下。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“诛—戮—弑”这组同义词在（）上有所不同。 A. 词义轻重 B. 使用条件 C. 感情色彩 D. 语法关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“诛—戮—弑”这组同义词在（）上有所不同。 A. 词义轻重 B. 使用条件 C. 感情色彩 D. 语法关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，名词作状语表示对人态度的一句是 A. 今先生不遠千里而庭教之。 B. 各親其親，各子其子。 C. 孟嘗君客我。 D. 齊將田忌善而客待之。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，名词作状语表示对人态度的一句是 A. 今先生不遠千里而庭教之。 B. 各親其親，各子其子。 C. 孟嘗君客我。 D. 齊將田忌善而客待之。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列工具书按照注音字母顺序排列的是 A. 《经传释词》 B. 《辞源》 C. 《词诠》 D. 《辞海》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列工具书按照注音字母顺序排列的是 A. 《经传释词》 B. 《辞源》 C. 《词诠》 D. 《辞海》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，属于婉曲这一表达方式的一句是 A. 一旦山陵崩，長安君何以自託於趙? B. 葉上雨聲枝上月，何须焦尾始相知。 C. 大夫不得造車馬。 D. 雷霆不作，風雨不興。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，属于婉曲这一表达方式的一句是 A. 一旦山陵崩，長安君何以自託於趙? B. 葉上雨聲枝上月，何须焦尾始相知。 C. 大夫不得造車馬。 D. 雷霆不作，風雨不興。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组形声字，声符相同的一组是 A. 福祈 B. 通过 C. 问闷 D. 江河",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组形声字，声符相同的一组是 A. 福祈 B. 通过 C. 问闷 D. 江河",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，与“秦時明月漢時關”所用表达方式相同的一句是 A. 輔依車，車亦依輔。 B. 事出於沉思，義歸乎翰藻。 C. 賜女土地，質之以犧牲，世世子孫無相害也。 D. 小知不及大知，小年不及大年。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，与“秦時明月漢時關”所用表达方式相同的一句是 A. 輔依車，車亦依輔。 B. 事出於沉思，義歸乎翰藻。 C. 賜女土地，質之以犧牲，世世子孫無相害也。 D. 小知不及大知，小年不及大年。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《礼记•王记》“南方有蛮，雕题交趾”中“题”字的意义是 A. 题写 B. 题目 C. 额头 D. 雕刻",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《礼记•王记》“南方有蛮，雕题交趾”中“题”字的意义是 A. 题写 B. 题目 C. 额头 D. 雕刻",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是会意字的一组是 A. 草慎武信 B. 现责至秉 C. 从战天走 D. 集泪承莫",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是会意字的一组是 A. 草慎武信 B. 现责至秉 C. 从战天走 D. 集泪承莫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "许慎的“本无其字，依声托事”是指 A. 形声 B. 转注 C. 会意 D. 假借",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "许慎的“本无其字，依声托事”是指 A. 形声 B. 转注 C. 会意 D. 假借",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“吾闻汉购我头千金，邑万户。”中的“购”意思是 A. 买 B. 重价收买 C. 悬赏征求 D. 卖",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“吾闻汉购我头千金，邑万户。”中的“购”意思是 A. 买 B. 重价收买 C. 悬赏征求 D. 卖",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，与“信—伸”两字间关系相同的一组是 A. 赴—讣 B. 予—舆 C. 剩—賸 D. 泪—淚",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，与“信—伸”两字间关系相同的一组是 A. 赴—讣 B. 予—舆 C. 剩—賸 D. 泪—淚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "许慎为“转注”下的定义是 A. 視而可識，察而見意 B. 比類合誼，以見指撝 C. 建類一首，同意相受 D. 本無其字，依聲記事",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "许慎为“转注”下的定义是 A. 視而可識，察而見意 B. 比類合誼，以見指撝 C. 建類一首，同意相受 D. 本無其字，依聲記事",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组中完全属会意字的是 A. 从、信、秉、亦 B. 友、及、伐、取 C. 炎、寒、贼、朱 D. 莫、休、甘、武",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组中完全属会意字的是 A. 从、信、秉、亦 B. 友、及、伐、取 C. 炎、寒、贼、朱 D. 莫、休、甘、武",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“穆公访诸蹇叔”中的“访”意思是 A. 拜访 B. 征询 C. 探望 D. 访问",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“穆公访诸蹇叔”中的“访”意思是 A. 拜访 B. 征询 C. 探望 D. 访问",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《后汉书·斑超传》，“互抱超马脚不得行”句中，“脚”字的词义发展成今义，它的词义范围的变化属于 A. 缩小了 B. 没有变 C. 扩大了 D. 转移了",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《后汉书·斑超传》，“互抱超马脚不得行”句中，“脚”字的词义发展成今义，它的词义范围的变化属于 A. 缩小了 B. 没有变 C. 扩大了 D. 转移了",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《说文解字•叙》中所谓“视而可识，察而见意”，指的是“六书”中的 A. 象形 B. 指事 C. 会意 D. 转注",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《说文解字•叙》中所谓“视而可识，察而见意”，指的是“六书”中的 A. 象形 B. 指事 C. 会意 D. 转注",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《辞源》和《康熙字典》的部首总数分别是 A. 214部；540部 B. 214部；214部 C. 540部；197部 D. 240部；514部",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《辞源》和《康熙字典》的部首总数分别是 A. 214部；540部 B. 214部；214部 C. 540部；197部 D. 240部；514部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，有名词作状语表示处所的一句是 A. 童子隅坐而執燭。 B. 秋水時至，百川灌河。 C. 漁夫樵夫之舍，皆可指數。 D. 田單兵日益多。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，有名词作状语表示处所的一句是 A. 童子隅坐而執燭。 B. 秋水時至，百川灌河。 C. 漁夫樵夫之舍，皆可指數。 D. 田單兵日益多。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，含有双宾语的一句是 A. 遣使向西域求之，乃得經像焉。 B. 范增数目項王，舉所佩玉玦以示之者三。 C. 客人不知其是商君也。 D. 故天予之時，地生之財。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，含有双宾语的一句是 A. 遣使向西域求之，乃得經像焉。 B. 范增数目項王，舉所佩玉玦以示之者三。 C. 客人不知其是商君也。 D. 故天予之時，地生之財。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下对汉字结构的分析完全正确的一项是 A. 餓，从我从食，会意。 B. 産，从生，产声，形声。 C. 捨，从手从舍，会意。 D. 吹，从口从欠，会意。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下对汉字结构的分析完全正确的一项是 A. 餓，从我从食，会意。 B. 産，从生，产声，形声。 C. 捨，从手从舍，会意。 D. 吹，从口从欠，会意。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列工具书中，可查检《论语》、《孟子》等儒家经典著作的语句出处的是 A. 《十三经索引》 B. 《词诠》 C. 《辞通》 D. 《四库全书总目提要》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列工具书中，可查检《论语》、《孟子》等儒家经典著作的语句出处的是 A. 《十三经索引》 B. 《词诠》 C. 《辞通》 D. 《四库全书总目提要》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字中，象形、指事、会意、形声都具备的一组是 A. 大春栗項 B. 夜亦向息 C. 本頼雷高 D. 祭題血莫",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字中，象形、指事、会意、形声都具备的一组是 A. 大春栗項 B. 夜亦向息 C. 本頼雷高 D. 祭題血莫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，“莫”为副词的一句是 A. 左右莫敢諫。 B. 朝廷之臣，莫不畏王。 C. 默然遙相許，欲往心莫遂。 D. 我心傷悲，莫知我哀。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，“莫”为副词的一句是 A. 左右莫敢諫。 B. 朝廷之臣，莫不畏王。 C. 默然遙相許，欲往心莫遂。 D. 我心傷悲，莫知我哀。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子，名词用作一般动词的一句是 A. 荆人欲襲宋，使人先表滩水。 B. 五畝之宅，樹之以桑。 C. 得者不敢輒食，乃歷數家。 D. 此不知其罪而死，臣爲君數之。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子，名词用作一般动词的一句是 A. 荆人欲襲宋，使人先表滩水。 B. 五畝之宅，樹之以桑。 C. 得者不敢輒食，乃歷數家。 D. 此不知其罪而死，臣爲君數之。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中不是名词作状语的是 A. 豕人立而啼。 B. 其一犬坐于前。 C. 秦惠王车裂商君以徇。 D. 齐桓公合诸侯而国异姓。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中不是名词作状语的是 A. 豕人立而啼。 B. 其一犬坐于前。 C. 秦惠王车裂商君以徇。 D. 齐桓公合诸侯而国异姓。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，全都是象形字的一组是 A. 齊果向 B. 莫雞眉 C. 星逐鹿 D. 玄齒矢",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，全都是象形字的一组是 A. 齊果向 B. 莫雞眉 C. 星逐鹿 D. 玄齒矢",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "形声字义符的表义特点是 A. 大多数义符都能表示词的具体意义。 B. 大多数义符都不能表示词义的所属范围。 C. 大多数义符都能表示词义所属的范围。 D. 大多数义符都没有表义作用。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "形声字义符的表义特点是 A. 大多数义符都能表示词的具体意义。 B. 大多数义符都不能表示词义的所属范围。 C. 大多数义符都能表示词义所属的范围。 D. 大多数义符都没有表义作用。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "东汉郑玄“三禮”注的吉注类别是 A. 章句类 B. 音义类 C. 义疏类 D. 传注类",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "东汉郑玄“三禮”注的吉注类别是 A. 章句类 B. 音义类 C. 义疏类 D. 传注类",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是象形字的一组是 A. 丘皿行回 B. 人血象舟 C. 山雨目本 D. 果州考豆",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是象形字的一组是 A. 丘皿行回 B. 人血象舟 C. 山雨目本 D. 果州考豆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是会意字的一组是 A. 鸣步武益 B. 亦街炎伐 C. 安即和牧 D. 涉崔莫私",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是会意字的一组是 A. 鸣步武益 B. 亦街炎伐 C. 安即和牧 D. 涉崔莫私",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，“见”表示被动的一句是 A. 今有人於此，少見黑曰黑，多見黑曰白。 B. 生孩六月，慈父見背。 C. 故彌子之行未變於初也，而以前之所以見賢而後獲罪者，愛憎之變也。 D. 後布詣允，陳卓幾見殺狀。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，“见”表示被动的一句是 A. 今有人於此，少見黑曰黑，多見黑曰白。 B. 生孩六月，慈父見背。 C. 故彌子之行未變於初也，而以前之所以見賢而後獲罪者，愛憎之變也。 D. 後布詣允，陳卓幾見殺狀。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "汉字起源有种种传说，不属于起源传说的是 A. 结绳说 B. 图画说 C. 八卦说 D. 仓颉造字说",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "汉字起源有种种传说，不属于起源传说的是 A. 结绳说 B. 图画说 C. 八卦说 D. 仓颉造字说",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列形声字，全都是内形外声的一组是 A. 酱問固 B. 隨嬴辯 C. 簡裹閩 D. 衷關戚",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列形声字，全都是内形外声的一组是 A. 酱問固 B. 隨嬴辯 C. 簡裹閩 D. 衷關戚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，“哀”字应属 A. 象形 B. 指事 C. 会意 D. 形声",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，“哀”字应属 A. 象形 B. 指事 C. 会意 D. 形声",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列字中完全属于会意字的一组是 A. 上过本 B. 戒及炎 C. 校信原 D. 友武叔",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列字中完全属于会意字的一组是 A. 上过本 B. 戒及炎 C. 校信原 D. 友武叔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组字，象形、指事、会意、形声四种结构类型都具备的一组是 A. 斤刃牧祝 B. 牛向鹿徒 C. 門上星裹 D. 水亦息夜",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组字，象形、指事、会意、形声四种结构类型都具备的一组是 A. 斤刃牧祝 B. 牛向鹿徒 C. 門上星裹 D. 水亦息夜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组汉字中，均为形声字的一组是 A. 哀赖佞雒 B. 耆豪疆眉 C. 裁毓戚修 D. 颖行路公",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组汉字中，均为形声字的一组是 A. 哀赖佞雒 B. 耆豪疆眉 C. 裁毓戚修 D. 颖行路公",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列对汉字结构的分析完全正确的一项是 A. 孟，从子从皿。会意 B. 蝕，从食从虫。会意 C. 佞，从仁女声。形声 D. 錦，从帛金声。形声",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列对汉字结构的分析完全正确的一项是 A. 孟，从子从皿。会意 B. 蝕，从食从虫。会意 C. 佞，从仁女声。形声 D. 錦，从帛金声。形声",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面关于古书旧注类型表述正确的一项是 A. 义疏类是指既解释经文又给前人的注作解释的一种古注类型。 B. 《毛诗故训传》属于补注类。 C. 最有名的章句类注释专书是梁代皇侃的《孟子章句》。 D. 章句类是对古书中文字进行辨音释义的注释类型。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面关于古书旧注类型表述正确的一项是 A. 义疏类是指既解释经文又给前人的注作解释的一种古注类型。 B. 《毛诗故训传》属于补注类。 C. 最有名的章句类注释专书是梁代皇侃的《孟子章句》。 D. 章句类是对古书中文字进行辨音释义的注释类型。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组字中，全是形声字的一组是 A. 唾睹理明 B. 炼约输碉 C. 特灿威慕 D. 油姚破益",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组字中，全是形声字的一组是 A. 唾睹理明 B. 炼约输碉 C. 特灿威慕 D. 油姚破益",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四组形声字中，属内形外声的一组是 A. 阁围屈觉 B. 辩凤国裹 C. 超街碧冈 D. 风瓣闻闽",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四组形声字中，属内形外声的一组是 A. 阁围屈觉 B. 辩凤国裹 C. 超街碧冈 D. 风瓣闻闽",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照传统的“六书”体例，”眉”字应属 A. 会意 B. 形声 C. 象形 D. 指事",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照传统的“六书”体例，”眉”字应属 A. 会意 B. 形声 C. 象形 D. 指事",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古书注释术语“如字”的功能是 A. 按借字的读音读某字。 B. 按规范的写法写某字。 C. 按常见的读音读某字。 D. 用音近字为某字注音。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古书注释术语“如字”的功能是 A. 按借字的读音读某字。 B. 按规范的写法写某字。 C. 按常见的读音读某字。 D. 用音近字为某字注音。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，属于无形式标志被动句的一句是 A. 丈人智惑於似其子者而殺於真子。 B. 今君聽讒人之議而不知我，西河之爲秦取不久矣。 C. 萬嘗輿莊公戰，獲乎莊公。 D. 故不能推車而及。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，属于无形式标志被动句的一句是 A. 丈人智惑於似其子者而殺於真子。 B. 今君聽讒人之議而不知我，西河之爲秦取不久矣。 C. 萬嘗輿莊公戰，獲乎莊公。 D. 故不能推車而及。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中，“易”表示“轻视”义的一句是 A. 夫然後足以化民易俗，近者說服而遠者懷之。 B. 是以古之易財，非仁也，財多也。 C. 世易時移，變法宜矣。 D. 逢丑父輿公易位。",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中，“易”表示“轻视”义的一句是 A. 夫然後足以化民易俗，近者說服而遠者懷之。 B. 是以古之易財，非仁也，財多也。 C. 世易時移，變法宜矣。 D. 逢丑父輿公易位。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

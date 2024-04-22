@@ -1,0 +1,2522 @@
+[
+  {
+    "question_std": "唱念做打是中国戏曲表演的四种艺术手段，也是戏曲表演的四项基本功，其中“做”指的是 A. 舞蹈动作 B. 器械表演 C. 肢体动作 D. 面部表情",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "唱念做打是中国戏曲表演的四种艺术手段，也是戏曲表演的四项基本功，其中“做”指的是 A. 舞蹈动作 B. 器械表演 C. 肢体动作 D. 面部表情",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下几位诗人中，不是边塞诗人的是 A. 高适 B. 王昌龄 C. 岑参 D. 孟浩然",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下几位诗人中，不是边塞诗人的是 A. 高适 B. 王昌龄 C. 岑参 D. 孟浩然",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个是农历五月的别称 A. 桃月 B. 荷月 C. 榴月 D. 杏月",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个是农历五月的别称 A. 桃月 B. 荷月 C. 榴月 D. 杏月",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“初出茅庐”中的“茅庐”本意是指谁的的住处 A. 诸葛亮 B. 司马迁 C. 刘备 D. 司马光",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“初出茅庐”中的“茅庐”本意是指谁的的住处 A. 诸葛亮 B. 司马迁 C. 刘备 D. 司马光",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《霸王别姬》是京剧中的名段，“虞姬”这一角色在京剧中属于 A. 青衣 B. 武生 C. 文丑 D. 花旦",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《霸王别姬》是京剧中的名段，“虞姬”这一角色在京剧中属于 A. 青衣 B. 武生 C. 文丑 D. 花旦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国古代的很多事物都有自己的雅称，请问我们常说的“润笔”指的是什么 A. 文章书画稿费 B. 替人写稿 C. 为人作序 D. 替人研磨墨汁",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国古代的很多事物都有自己的雅称，请问我们常说的“润笔”指的是什么 A. 文章书画稿费 B. 替人写稿 C. 为人作序 D. 替人研磨墨汁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“塞”在字典中有如下解释：①塞子；②边关，塞外；③重要的地方；④把窟窿堵住。在“军事要塞”这个词中它应选 A. ① B. ② C. ④ D. ③",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“塞”在字典中有如下解释：①塞子；②边关，塞外；③重要的地方；④把窟窿堵住。在“军事要塞”这个词中它应选 A. ① B. ② C. ④ D. ③",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "唐朝文宗御封的“三绝”指的是李白的诗歌、张旭的草书和 A. 公孙大娘的舞蹈 B. 裴旻的剑舞 C. 郑板桥的竹 D. 吴道子的画",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "唐朝文宗御封的“三绝”指的是李白的诗歌、张旭的草书和 A. 公孙大娘的舞蹈 B. 裴旻的剑舞 C. 郑板桥的竹 D. 吴道子的画",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“但使龙城飞将在，不教胡马度阴山”中的“龙城飞将”指的是 A. 汉朝名将李广 B. 赵国名将廉颇 C. 汉朝名将霍去病 D. 三国名将赵云",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“但使龙城飞将在，不教胡马度阴山”中的“龙城飞将”指的是 A. 汉朝名将李广 B. 赵国名将廉颇 C. 汉朝名将霍去病 D. 三国名将赵云",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们要珍惜现在来之不易的学习机会，不能辜负革命先烈们的 A. 愿望 B. 渴望 C. 期望 D. 盼望",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们要珍惜现在来之不易的学习机会，不能辜负革命先烈们的 A. 愿望 B. 渴望 C. 期望 D. 盼望",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列字母的排列顺序错误的一组是 A. UVWXYZ B. ABCDEF C. JMMKLG D. OPQRST",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列字母的排列顺序错误的一组是 A. UVWXYZ B. ABCDEF C. JMMKLG D. OPQRST",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "哪个成语典故和棋文化有关 A. 势如破竹 B. 专心致志 C. 泾渭分明 D. 出奇制胜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "哪个成语典故和棋文化有关 A. 势如破竹 B. 专心致志 C. 泾渭分明 D. 出奇制胜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "唐代边塞诗人王昌龄的“但使龙城飞将在，不教胡马度阴山”中的“飞将”指的是谁 A. 关羽 B. 卫青 C. 李广 D. 张飞",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "唐代边塞诗人王昌龄的“但使龙城飞将在，不教胡马度阴山”中的“飞将”指的是谁 A. 关羽 B. 卫青 C. 李广 D. 张飞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子中，意思不同的一句是 A. 难道他不会知道这件事吗？ B. 这件事他肯定知道。 C. 这件事他不可能不知道。 D. 他不可能知道这件事。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子中，意思不同的一句是 A. 难道他不会知道这件事吗？ B. 这件事他肯定知道。 C. 这件事他不可能不知道。 D. 他不可能知道这件事。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《三国演义》中的“三英战吕布”的“三英”指的是 A. 刘备，关羽，张飞 B. 赵云，张飞，关羽 C. 刘备，张飞，赵云 D. 刘备，关羽，赵云",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《三国演义》中的“三英战吕布”的“三英”指的是 A. 刘备，关羽，张飞 B. 赵云，张飞，关羽 C. 刘备，张飞，赵云 D. 刘备，关羽，赵云",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个不是北京的别称 A. 上都 B. 南京 C. 大都 D. 中都",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个不是北京的别称 A. 上都 B. 南京 C. 大都 D. 中都",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“一门父子三词客，千古文章八大家”这幅对联中提到的“三父子”是 A. 曹操、曹丕、曹植 B. 诸葛亮、诸葛瑾、诸葛诞 C. 苏洵、苏轼、苏辙 D. 班彪、班固、班超",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“一门父子三词客，千古文章八大家”这幅对联中提到的“三父子”是 A. 曹操、曹丕、曹植 B. 诸葛亮、诸葛瑾、诸葛诞 C. 苏洵、苏轼、苏辙 D. 班彪、班固、班超",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "文人对各种植物有自己的偏爱，陶渊明喜爱菊花，北宋文豪苏东坡则说过：宁可食无肉，不可 A. 居无松 B. 居无梅 C. 居无竹 D. 居无菊",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "文人对各种植物有自己的偏爱，陶渊明喜爱菊花，北宋文豪苏东坡则说过：宁可食无肉，不可 A. 居无松 B. 居无梅 C. 居无竹 D. 居无菊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不是中国经典童话故事的是 A. 神笔马良的故事》 B. 《大林和小林》 C. 《灰姑娘》 D. 《宝葫芦的秘密》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不是中国经典童话故事的是 A. 神笔马良的故事》 B. 《大林和小林》 C. 《灰姑娘》 D. 《宝葫芦的秘密》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪句话是孔子说的 A. 有朋自远方来，不亦乐乎！ B. 出淤泥而不染，濯清涟而不妖 C. 王侯将相宁有种乎 D. 天下兴亡，匹夫有责",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪句话是孔子说的 A. 有朋自远方来，不亦乐乎！ B. 出淤泥而不染，濯清涟而不妖 C. 王侯将相宁有种乎 D. 天下兴亡，匹夫有责",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《三国演义》中有关羽“单刀赴会”的故事，历史上也确有“单刀赴会”一事，赴会的是 A. 张飞 B. 赵云 C. 鲁肃 D. 周瑜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《三国演义》中有关羽“单刀赴会”的故事，历史上也确有“单刀赴会”一事，赴会的是 A. 张飞 B. 赵云 C. 鲁肃 D. 周瑜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "落霞与孤鹜齐飞秋水共长天一色”与下列哪座建筑有关 A. 蓬莱阁 B. 滕王阁 C. 黄鹤楼 D. 岳阳楼",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "落霞与孤鹜齐飞秋水共长天一色”与下列哪座建筑有关 A. 蓬莱阁 B. 滕王阁 C. 黄鹤楼 D. 岳阳楼",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《三十六计》是体现我国古代卓越军事思想的一部兵书，下列不属于《三十六计》的是 A. 浑水摸鱼 B. 反客为主 C. 笑里藏刀 D. 反戈一击",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《三十六计》是体现我国古代卓越军事思想的一部兵书，下列不属于《三十六计》的是 A. 浑水摸鱼 B. 反客为主 C. 笑里藏刀 D. 反戈一击",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《尼尔斯骑鹅旅行记》作为9至13岁孩子的通俗的历史和地理读物，具有很强的趣味性。其中，风、河流、城市都成了拟人化的形象，巧妙的比喻更让人耳目一新，如把斯康奈的平坦大地比喻为 A. “黑色的线穗” B. “方格子布” C. “长面包和小点心” D. “粗麻布”",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《尼尔斯骑鹅旅行记》作为9至13岁孩子的通俗的历史和地理读物，具有很强的趣味性。其中，风、河流、城市都成了拟人化的形象，巧妙的比喻更让人耳目一新，如把斯康奈的平坦大地比喻为 A. “黑色的线穗” B. “方格子布” C. “长面包和小点心” D. “粗麻布”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“结发”在古时是指结婚时 A. 妻子把头发束起来 B. 夫妻分别把头发束起来 C. 丈夫把头发束起来 D. 把夫妻头发束在一起",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“结发”在古时是指结婚时 A. 妻子把头发束起来 B. 夫妻分别把头发束起来 C. 丈夫把头发束起来 D. 把夫妻头发束在一起",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个字常用作表示顺序的第五位 A. 戊 B. 成 C. 戌 D. 戍",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个字常用作表示顺序的第五位 A. 戊 B. 成 C. 戌 D. 戍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“深浅”这个词由“深”与“浅”这一对反义词组成，下面词语中与它相近的一组是 A. 正反 前后 快慢 良好 输赢 B. 好坏 死活 后退 春秋 曲直 C. 上下 中外 水火 红绿 长远 D. 出入 开关 厚薄 东西 装卸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“深浅”这个词由“深”与“浅”这一对反义词组成，下面词语中与它相近的一组是 A. 正反 前后 快慢 良好 输赢 B. 好坏 死活 后退 春秋 曲直 C. 上下 中外 水火 红绿 长远 D. 出入 开关 厚薄 东西 装卸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“释”这个字用部首查字法应查部首 A. 米 B. 又 C. 木 D. 采",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“释”这个字用部首查字法应查部首 A. 米 B. 又 C. 木 D. 采",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列植物中，不应当出现在《岁寒三友图》中的是 A. 梅 B. 兰 C. 菊 D. 竹",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列植物中，不应当出现在《岁寒三友图》中的是 A. 梅 B. 兰 C. 菊 D. 竹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“生当作人杰，死亦为鬼雄，至今思项羽，不肯过江东。”是谁咏赞项羽的名句 A. 辛弃疾 B. 杜甫 C. 白居易 D. 李清照",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“生当作人杰，死亦为鬼雄，至今思项羽，不肯过江东。”是谁咏赞项羽的名句 A. 辛弃疾 B. 杜甫 C. 白居易 D. 李清照",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“路漫漫其修远兮，吾将上下而求索”是谁的名言 A. 孟子 B. 孔子 C. 韩非子 D. 屈原",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“路漫漫其修远兮，吾将上下而求索”是谁的名言 A. 孟子 B. 孔子 C. 韩非子 D. 屈原",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古代战争中指挥军队撤退时要敲击 A. 琴 B. 钟 C. 鼓 D. 锣",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古代战争中指挥军队撤退时要敲击 A. 琴 B. 钟 C. 鼓 D. 锣",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "王先生的QQ签名档最近改成了“庆祝弄璋之喜”，王先生近来的喜事是 A. 搬家 B. 新婚 C. 妻子生了个男孩 D. 考试通过",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "王先生的QQ签名档最近改成了“庆祝弄璋之喜”，王先生近来的喜事是 A. 搬家 B. 新婚 C. 妻子生了个男孩 D. 考试通过",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“桃李满天下”的“桃李“指什么 A. 学生 B. 朋友 C. 知己 D. 老师",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“桃李满天下”的“桃李“指什么 A. 学生 B. 朋友 C. 知己 D. 老师",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "昆明又被人们称为 A. 鸢城 B. 泉城 C. 春城 D. 羊城",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "昆明又被人们称为 A. 鸢城 B. 泉城 C. 春城 D. 羊城",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列成语有错别字的一组是 A. 各抒己 心旷神怡 名副其实 人声鼎沸 B. 神机妙算 从容不迫 阴谋诡计 身临其境 C. 漫不经心 逃之夭夭 郁郁寡欢 无微不至 D. 穿流不息 前所未有 斗志昂扬 爱不失手",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列成语有错别字的一组是 A. 各抒己 心旷神怡 名副其实 人声鼎沸 B. 神机妙算 从容不迫 阴谋诡计 身临其境 C. 漫不经心 逃之夭夭 郁郁寡欢 无微不至 D. 穿流不息 前所未有 斗志昂扬 爱不失手",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“一问三不知”出自《左传》，说的是哪“三不知” A. 天文、地理、文学 B. 自己的姓名、籍贯、生辰八字 C. 孔子、孟子、老子 D. 事情的开始、经过、结果",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“一问三不知”出自《左传》，说的是哪“三不知” A. 天文、地理、文学 B. 自己的姓名、籍贯、生辰八字 C. 孔子、孟子、老子 D. 事情的开始、经过、结果",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“苦心人，无不负，卧薪尝胆，三千越申可吞吴”描写的是谁 A. 勾践 B. 荆轲 C. 伍子胥 D. 吕不韦",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“苦心人，无不负，卧薪尝胆，三千越申可吞吴”描写的是谁 A. 勾践 B. 荆轲 C. 伍子胥 D. 吕不韦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面的字，书写笔画顺序不正确的一个是 A. 再 B. 长 C. 出 D. 方",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面的字，书写笔画顺序不正确的一个是 A. 再 B. 长 C. 出 D. 方",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个成语与秦始皇有关 A. 指鹿为马 B. 图穷匕见 C. 奇货可居 D. 完璧归赵",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个成语与秦始皇有关 A. 指鹿为马 B. 图穷匕见 C. 奇货可居 D. 完璧归赵",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "王实甫在《西厢记》中写道：“淋漓襟袖啼红泪，比司马青衫更湿”，其中“司马青衫”指的是 A. 杜甫 B. 白居易 C. 崔莺莺 D. 司马相如",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "王实甫在《西厢记》中写道：“淋漓襟袖啼红泪，比司马青衫更湿”，其中“司马青衫”指的是 A. 杜甫 B. 白居易 C. 崔莺莺 D. 司马相如",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列词语中只有（）不是指真正地用眼睛看 A. 俯视 B. 监视 C. 轻视 D. 环视",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列词语中只有（）不是指真正地用眼睛看 A. 俯视 B. 监视 C. 轻视 D. 环视",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列用词造句哪一项有错误？请你把它选出来。 A. 拮据：她的性格十分内向，在陌生人面前常常拮据不安。 B. 精致：文具店里摆放着几个精致的笔盒，我很想买一个。 C. 怂恿：在朋友的极力怂恿下，我决定今年暑假去西藏旅游。 D. 酝酿：这次班会经过大家的酝酿，组织得非常好。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列用词造句哪一项有错误？请你把它选出来。 A. 拮据：她的性格十分内向，在陌生人面前常常拮据不安。 B. 精致：文具店里摆放着几个精致的笔盒，我很想买一个。 C. 怂恿：在朋友的极力怂恿下，我决定今年暑假去西藏旅游。 D. 酝酿：这次班会经过大家的酝酿，组织得非常好。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“三更半夜”中的“三更”指的是几点 A. 23点至凌晨1点 B. 21点至23点 C. 凌晨3点到5点 D. 凌晨1点至3点",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“三更半夜”中的“三更”指的是几点 A. 23点至凌晨1点 B. 21点至23点 C. 凌晨3点到5点 D. 凌晨1点至3点",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "王羲之对一种动物十分偏爱，并从它的体态姿势上领悟到书法执笔运笔的道理，这是什么动物 A. 鱼 B. 鸡 C. 鹤 D. 鹅",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "王羲之对一种动物十分偏爱，并从它的体态姿势上领悟到书法执笔运笔的道理，这是什么动物 A. 鱼 B. 鸡 C. 鹤 D. 鹅",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪句话出自《孟子》 A. 水能载舟，亦能覆舟 B. 民惟邦本，本固邦宁 C. 先天下之忧而忧，后天下之乐而乐 D. 独乐乐，与人乐乐，熟乐？",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪句话出自《孟子》 A. 水能载舟，亦能覆舟 B. 民惟邦本，本固邦宁 C. 先天下之忧而忧，后天下之乐而乐 D. 独乐乐，与人乐乐，熟乐？",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“勿以恶小而为之，勿以善小而不为”语出《三国志》，这是谁说的 A. 诸葛亮 B. 曹操 C. 刘备 D. 周瑜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“勿以恶小而为之，勿以善小而不为”语出《三国志》，这是谁说的 A. 诸葛亮 B. 曹操 C. 刘备 D. 周瑜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《诗经》是我国第一部诗歌总集，《诗经》里面包括多少首诗 A. 三百零五首 B. 三百零四首 C. 三百零三首 D. 三百首",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《诗经》是我国第一部诗歌总集，《诗经》里面包括多少首诗 A. 三百零五首 B. 三百零四首 C. 三百零三首 D. 三百首",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子不是比喻句的一句是 A. 河两岸的柳条像一丝丝的绿绸。 B. 昆明湖仿佛一块无瑕的翡翠。 C. 鱼儿好像睡着了一样。 D. 清华大学是工程师的摇篮。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子不是比喻句的一句是 A. 河两岸的柳条像一丝丝的绿绸。 B. 昆明湖仿佛一块无瑕的翡翠。 C. 鱼儿好像睡着了一样。 D. 清华大学是工程师的摇篮。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“楚河”和“汉界”在今天的哪个省 A. 河南 B. 湖南 C. 河北 D. 湖北",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“楚河”和“汉界”在今天的哪个省 A. 河南 B. 湖南 C. 河北 D. 湖北",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下几位历史人物谁在家排行老大 A. 诸葛亮 B. 程顾 C. 班固 D. 孔子",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下几位历史人物谁在家排行老大 A. 诸葛亮 B. 程顾 C. 班固 D. 孔子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《康熙字典》成书于哪个朝代 A. 宋朝 B. 秦朝 C. 唐朝 D. 清朝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《康熙字典》成书于哪个朝代 A. 宋朝 B. 秦朝 C. 唐朝 D. 清朝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列汉字笔画笔顺正确的是 A. \"魂\"字共14画第三笔是撇折 B. \"凹\"字共5画第四笔是横折 C. \"肺\"字共8画第5笔是横 D. \"长\"字共5画第三笔是横",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列汉字笔画笔顺正确的是 A. \"魂\"字共14画第三笔是撇折 B. \"凹\"字共5画第四笔是横折 C. \"肺\"字共8画第5笔是横 D. \"长\"字共5画第三笔是横",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“大材小用古所叹，管仲、萧何实流亚”是陆游的一句名诗，其中“大材小用”形容的是下面哪位人物 A. 辛弃疾 B. 韩愈 C. 宋玉 D. 庞统",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“大材小用古所叹，管仲、萧何实流亚”是陆游的一句名诗，其中“大材小用”形容的是下面哪位人物 A. 辛弃疾 B. 韩愈 C. 宋玉 D. 庞统",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“但愿人长久，千里共婵娟”，其中婵娟指的是什么 A. 婚姻 B. 姻缘 C. 一种动物 D. 月亮",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“但愿人长久，千里共婵娟”，其中婵娟指的是什么 A. 婚姻 B. 姻缘 C. 一种动物 D. 月亮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "诸子百家中名家的特点是注重逻辑辩证，以下哪个典故能体现名家的这一特点 A. “白马非马” B. “望梅止渴” C. “指鹿为马” D. “庄周梦蝶”",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "诸子百家中名家的特点是注重逻辑辩证，以下哪个典故能体现名家的这一特点 A. “白马非马” B. “望梅止渴” C. “指鹿为马” D. “庄周梦蝶”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句中横线上，依次填入词语最恰当的一项是（1）包兰铁路通车以来，火车在沙漠上行驶，从来没有因为风沙的而发生事故。（2）农民兄弟要做好准备，防止害虫农作物。（3）由于长城外的风沙，榆林城也受到袭击。（4）这个区域不断受到风沙的，有些部分逐渐变成荒漠了。 A. 侵害 侵占 侵入 侵袭 B. 侵入 侵害 侵袭 侵占 C. 侵占 侵入 侵袭 侵害 D. 侵袭 侵害 侵入 侵占",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句中横线上，依次填入词语最恰当的一项是（1）包兰铁路通车以来，火车在沙漠上行驶，从来没有因为风沙的而发生事故。（2）农民兄弟要做好准备，防止害虫农作物。（3）由于长城外的风沙，榆林城也受到袭击。（4）这个区域不断受到风沙的，有些部分逐渐变成荒漠了。 A. 侵害 侵占 侵入 侵袭 B. 侵入 侵害 侵袭 侵占 C. 侵占 侵入 侵袭 侵害 D. 侵袭 侵害 侵入 侵占",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个成语典故说的是吕不讳的故事 A. 一掷千金 B. 一字千金 C. 一饭千金 D. 一诺千金",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个成语典故说的是吕不讳的故事 A. 一掷千金 B. 一字千金 C. 一饭千金 D. 一诺千金",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下相同字字义也相同的一组是 A. 沉浸 沉静 B. 飞翔 飞跃 C. 敏感 敏捷 D. 宽慰 宽裕",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下相同字字义也相同的一组是 A. 沉浸 沉静 B. 飞翔 飞跃 C. 敏感 敏捷 D. 宽慰 宽裕",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孔子提倡中庸之道的理论基础是 A. 道法自然 B. 天人合一 C. 阴阳五行 D. 无为而治",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孔子提倡中庸之道的理论基础是 A. 道法自然 B. 天人合一 C. 阴阳五行 D. 无为而治",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现在我们常用“阳春白雪”和“下里巴人”指代高雅和通俗的文艺作品，请问这两个成语最初指的是什么 A. 乐曲 B. 画作 C. 文章 D. 舞蹈",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现在我们常用“阳春白雪”和“下里巴人”指代高雅和通俗的文艺作品，请问这两个成语最初指的是什么 A. 乐曲 B. 画作 C. 文章 D. 舞蹈",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "存最早用纸作画的作品是 A. 洛神赋图 B. 历代帝王图 C. 五牛图 D. 清明上河图",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "存最早用纸作画的作品是 A. 洛神赋图 B. 历代帝王图 C. 五牛图 D. 清明上河图",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《百家姓》中没有下面哪个姓 A. 巫 B. 肖 C. 乌 D. 萧",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《百家姓》中没有下面哪个姓 A. 巫 B. 肖 C. 乌 D. 萧",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们熟悉的《百家姓》是按照什么方式排列的 A. 政治地位 B. 人口数量 C. 姓氏笔画 D. 出现顺序",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们熟悉的《百家姓》是按照什么方式排列的 A. 政治地位 B. 人口数量 C. 姓氏笔画 D. 出现顺序",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "苏轼在《念奴娇·赤壁怀古》中提到了“羽扇纶巾，谈笑间，樯橹灰飞烟灭”，“羽扇纶巾”形容的是下面哪位历史人物 A. 孙权 B. 周瑜 C. 诸葛亮 D. 曹操",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "苏轼在《念奴娇·赤壁怀古》中提到了“羽扇纶巾，谈笑间，樯橹灰飞烟灭”，“羽扇纶巾”形容的是下面哪位历史人物 A. 孙权 B. 周瑜 C. 诸葛亮 D. 曹操",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个字不含“黑色”的意思 A. 玄 B. 皂 C. 苍 D. 青",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个字不含“黑色”的意思 A. 玄 B. 皂 C. 苍 D. 青",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下词语解释正确的是 A. 他一闲下来，便感觉到无聊。无聊：言谈、行动等没有意义而使人讨厌 B. 商店里琳琅满目的商品摆放得错落有致。错落有致：交错纷杂，很有秩序。 C. 杜甫的诗深受后人推崇。推崇：崇敬 D. 民主战士闻一多先生面对敌人的枪口大声疾呼：民主、自由。大声疾呼：大声呼喊，提醒人们注意。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下词语解释正确的是 A. 他一闲下来，便感觉到无聊。无聊：言谈、行动等没有意义而使人讨厌 B. 商店里琳琅满目的商品摆放得错落有致。错落有致：交错纷杂，很有秩序。 C. 杜甫的诗深受后人推崇。推崇：崇敬 D. 民主战士闻一多先生面对敌人的枪口大声疾呼：民主、自由。大声疾呼：大声呼喊，提醒人们注意。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“鄂尔多斯”在蒙古语中是什么意思 A. 美丽的地方 B. 大草原 C. 盛产羊毛的地方 D. 众多宫殿",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“鄂尔多斯”在蒙古语中是什么意思 A. 美丽的地方 B. 大草原 C. 盛产羊毛的地方 D. 众多宫殿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "完成这项任务对我来说，是一次（）的考验。 A. 严格 B. 严厉 C. 严峻 D. 严肃",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "完成这项任务对我来说，是一次（）的考验。 A. 严格 B. 严厉 C. 严峻 D. 严肃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在我国风俗中，常常避讳73和84这两个岁数，因为这是两位历史人物去世的年龄，他们是 A. 周武王和周文王 B. 孔子和孟子 C. 汉高祖和汉武帝 D. 老子和庄子",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在我国风俗中，常常避讳73和84这两个岁数，因为这是两位历史人物去世的年龄，他们是 A. 周武王和周文王 B. 孔子和孟子 C. 汉高祖和汉武帝 D. 老子和庄子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个成语和曹操有关 A. 破釜沉舟 B. 望梅止渴 C. 画饼充饥 D. 守株待兔",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个成语和曹操有关 A. 破釜沉舟 B. 望梅止渴 C. 画饼充饥 D. 守株待兔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“讳疾忌医”典故中的君王是 A. 宋襄公 B. 蔡桓公 C. 秦穆公 D. 齐桓公",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“讳疾忌医”典故中的君王是 A. 宋襄公 B. 蔡桓公 C. 秦穆公 D. 齐桓公",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "选出词语修饰不当的一项 A. 茫茫的大海 茫茫的草地 茫茫的云雾 B. 冷冷的声调 冷冷的面孔 冷冷的眼神 C. 隆隆的雨声 隆隆的鼓声 隆隆的掌声 D. 浓浓的茶水 浓浓的情思 浓浓的色彩",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "选出词语修饰不当的一项 A. 茫茫的大海 茫茫的草地 茫茫的云雾 B. 冷冷的声调 冷冷的面孔 冷冷的眼神 C. 隆隆的雨声 隆隆的鼓声 隆隆的掌声 D. 浓浓的茶水 浓浓的情思 浓浓的色彩",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子中，意思不同的一句是 A. 他今天不一定会来。 B. 他今天一定不会来。 C. 今天他一定不会来。 D. 今天一定他不会来。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子中，意思不同的一句是 A. 他今天不一定会来。 B. 他今天一定不会来。 C. 今天他一定不会来。 D. 今天一定他不会来。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不是出自于寓言故事的成语是 A. 郑人买履 B. 望梅止渴 C. 叶公好龙 D. 揠苗助长",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不是出自于寓言故事的成语是 A. 郑人买履 B. 望梅止渴 C. 叶公好龙 D. 揠苗助长",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "填入下面一段中最贴切的比喻是这淡蓝色的苍穹一直伸展到我的身后，垂向一片碧绿的草滩，草滩上伫立着连绵起伏的深褐色的山峦，而我的脚下，银色的公路像（）逶迤着伸向遥远的地方…… A. 一条哈达。 B. 奔腾的骏马。 C. 凝固的玻璃浆液。 D. 一幅巨大的画卷。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "填入下面一段中最贴切的比喻是这淡蓝色的苍穹一直伸展到我的身后，垂向一片碧绿的草滩，草滩上伫立着连绵起伏的深褐色的山峦，而我的脚下，银色的公路像（）逶迤着伸向遥远的地方…… A. 一条哈达。 B. 奔腾的骏马。 C. 凝固的玻璃浆液。 D. 一幅巨大的画卷。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们常用“社稷”来指代国家，其中“社”字代表的是 A. 土地之神 B. 五谷之神 C. 海洋之神 D. 天空之神",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们常用“社稷”来指代国家，其中“社”字代表的是 A. 土地之神 B. 五谷之神 C. 海洋之神 D. 天空之神",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被誉为“万国之园”的是 A. 颐和园 B. 故宫 C. 圆明园 D. 天坛",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被誉为“万国之园”的是 A. 颐和园 B. 故宫 C. 圆明园 D. 天坛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一只鹦鹉用英()法()西班牙语轮流向大家问好()欢迎光临本店()谢谢()这句话中的正确标点应为 A. ， ， ： ， 。 B. 、 、 ： “， 。” C. 、 、 ： “， ”！ D. 、 、 ： “， ！”",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一只鹦鹉用英()法()西班牙语轮流向大家问好()欢迎光临本店()谢谢()这句话中的正确标点应为 A. ， ， ： ， 。 B. 、 、 ： “， 。” C. 、 、 ： “， ”！ D. 、 、 ： “， ！”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面四位来都是我国唐朝杰出的诗人，其中号称“诗圣”的是 A. 李白 B. 白居易 C. 杜甫 D. 陆游",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面四位来都是我国唐朝杰出的诗人，其中号称“诗圣”的是 A. 李白 B. 白居易 C. 杜甫 D. 陆游",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“实事求是”一词出自哪部典籍 A. 《汉书》 B. 《战国策》 C. 《史记》 D. 《左传》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“实事求是”一词出自哪部典籍 A. 《汉书》 B. 《战国策》 C. 《史记》 D. 《左传》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "度量衡是我国古代使用的计量单位，其中“衡”是指的哪个方面的标准 A. 长度 B. 重量 C. 面积 D. 体积",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "度量衡是我国古代使用的计量单位，其中“衡”是指的哪个方面的标准 A. 长度 B. 重量 C. 面积 D. 体积",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“盛”在字典里有多种解释：①兴旺；②丰，华美；③热烈，大规模的；④深厚。“盛开”“盛会”“盛情”“盛装”四个词中，“盛”字的意思依次是 A. ①②③④ B. ①④③② C. ①③④② D. ①③②④",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“盛”在字典里有多种解释：①兴旺；②丰，华美；③热烈，大规模的；④深厚。“盛开”“盛会”“盛情”“盛装”四个词中，“盛”字的意思依次是 A. ①②③④ B. ①④③② C. ①③④② D. ①③②④",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《红楼梦》的作者曹雪芹是家喻户晓的文学家，“雪芹”是他的 A. 号 B. 字 C. 名 D. 复姓",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《红楼梦》的作者曹雪芹是家喻户晓的文学家，“雪芹”是他的 A. 号 B. 字 C. 名 D. 复姓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国的京剧脸谱色彩含义丰富，黑色一般表示 A. 忠勇侠义 B. 阴险狡诈 C. 刚愎自用 D. 忠耿正直",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国的京剧脸谱色彩含义丰富，黑色一般表示 A. 忠勇侠义 B. 阴险狡诈 C. 刚愎自用 D. 忠耿正直",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“今天我（）没有去训练，（）我感冒了，身体不舒服。”这句话中的关联词就填 A. 因为……所以…… B. 不是……而是…… C. 既然……就…… D. 之所以……是因为……",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“今天我（）没有去训练，（）我感冒了，身体不舒服。”这句话中的关联词就填 A. 因为……所以…… B. 不是……而是…… C. 既然……就…… D. 之所以……是因为……",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一句诗描写的场景最适合采用水墨画来表现 A. 落霞与孤鹜齐飞，秋水共长天一色 B. 返景入深林，复照青苔上 C. 接天莲叶无穷碧，映日荷花别样红 D. 孤舟蓑笠翁，独钓寒江雪",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一句诗描写的场景最适合采用水墨画来表现 A. 落霞与孤鹜齐飞，秋水共长天一色 B. 返景入深林，复照青苔上 C. 接天莲叶无穷碧，映日荷花别样红 D. 孤舟蓑笠翁，独钓寒江雪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鸿雁传书的故事和下列哪个人物有关 A. 不辱使命的苏武 B. 常胜将军霍去病 C. 史学家司马迁 D. 汉武帝刘彻",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鸿雁传书的故事和下列哪个人物有关 A. 不辱使命的苏武 B. 常胜将军霍去病 C. 史学家司马迁 D. 汉武帝刘彻",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孔子为什么“三月不知肉滋味” A. 看到一场好舞蹈 B. 读到一本好书 C. 听到一段好乐曲 D. 梦到一场好梦",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孔子为什么“三月不知肉滋味” A. 看到一场好舞蹈 B. 读到一本好书 C. 听到一段好乐曲 D. 梦到一场好梦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面的句子各属于什么句式，①陈述句②疑问句③反问句，选择正确的答案把序号填在横线处___这么远，箭哪能射到呢？___铺这么长的路要多少块石板呢？___陈赓牵着那匹被疲惫的瘦马，一步一步朝前走着。 前面下划线位置应该填入哪个选项,只输出选项字母 A. ①③② B. ②③① C. ①②③ D. ③②①",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面的句子各属于什么句式，①陈述句②疑问句③反问句，选择正确的答案把序号填在横线处___这么远，箭哪能射到呢？___铺这么长的路要多少块石板呢？___陈赓牵着那匹被疲惫的瘦马，一步一步朝前走着。 前面下划线位置应该填入哪个选项,只输出选项字母 A. ①③② B. ②③① C. ①②③ D. ③②①",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "字形有误的一组是 A. 隔阂 滑稽 琐屑 忌讳 B. 鄙薄 修葺 畸形 竹篾 C. 害臊 沟壑 恳荒 无赖 D. 阔绰 倦怠 颧骨 游弋",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "字形有误的一组是 A. 隔阂 滑稽 琐屑 忌讳 B. 鄙薄 修葺 畸形 竹篾 C. 害臊 沟壑 恳荒 无赖 D. 阔绰 倦怠 颧骨 游弋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在古代人们尊称对方的妻子 A. 令爱 B. 令嫔 C. 令妃 D. 令正",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在古代人们尊称对方的妻子 A. 令爱 B. 令嫔 C. 令妃 D. 令正",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“建安七子”中，文学成就最高的是 A. 曹植 B. 曹丕 C. 王粲 D. 陈琳",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“建安七子”中，文学成就最高的是 A. 曹植 B. 曹丕 C. 王粲 D. 陈琳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《尚书》中的“尚”是什么意思 A. 官名 B. 前贤 C. 上古 D. 崇尚",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《尚书》中的“尚”是什么意思 A. 官名 B. 前贤 C. 上古 D. 崇尚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“风儿每天梳理着柳树姑娘的长发，等着燕子妹妹的到来。”下列句子中和这句修辞手法一样的一句是 A. 雨，落叶儿般轻，针尖儿样细。 B. 白杨树哗哗地响，在杨科头上不断地号叫。 C. 我的心激动得要跳出胸膛。 D. 灿烂阳光下盛开的百合发就是你的笑容。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“风儿每天梳理着柳树姑娘的长发，等着燕子妹妹的到来。”下列句子中和这句修辞手法一样的一句是 A. 雨，落叶儿般轻，针尖儿样细。 B. 白杨树哗哗地响，在杨科头上不断地号叫。 C. 我的心激动得要跳出胸膛。 D. 灿烂阳光下盛开的百合发就是你的笑容。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "河姆渡遗址位于 A. 长江流域 B. 雅鲁藏布江流域 C. 淮河流域 D. 黄河流域",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "河姆渡遗址位于 A. 长江流域 B. 雅鲁藏布江流域 C. 淮河流域 D. 黄河流域",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面的句子属于比喻句的是 A. 一阵风吹来树上的梨儿像在对我们点头微笑 B. 教师是园丁我们是花朵 C. 像只无头的苍蝇到处乱钻衣裤上挂满了芒刺 D. 他走路的样子很像我爸爸",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面的句子属于比喻句的是 A. 一阵风吹来树上的梨儿像在对我们点头微笑 B. 教师是园丁我们是花朵 C. 像只无头的苍蝇到处乱钻衣裤上挂满了芒刺 D. 他走路的样子很像我爸爸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "给这个句子选择合适的关联词“这篇文章（）字数不多，（）内容丰富，算得上是一篇佳作。” A. 因为……所以…… B. 不是……就是…… C. 虽然……但是…… D. 不但……而且……",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "给这个句子选择合适的关联词“这篇文章（）字数不多，（）内容丰富，算得上是一篇佳作。” A. 因为……所以…… B. 不是……就是…… C. 虽然……但是…… D. 不但……而且……",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "拱手而立”表示对长者的尊敬，一般来说，男子行拱手礼时应该 A. 左手在外 B. 双手交叉 C. 左手在前 D. 右手在外",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "拱手而立”表示对长者的尊敬，一般来说，男子行拱手礼时应该 A. 左手在外 B. 双手交叉 C. 左手在前 D. 右手在外",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果你想到图书馆借阅寓言性质的书，在下列书籍中应优先选择哪一本 A. 《史记》 B. 《庄子》 C. 《论语》 D. 《山海经》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果你想到图书馆借阅寓言性质的书，在下列书籍中应优先选择哪一本 A. 《史记》 B. 《庄子》 C. 《论语》 D. 《山海经》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孟子说：“不以规矩，不成方圆”，这里“规矩”的意思是 A. 潜规则 B. 美德善行 C. 圆规曲尺 D. 法律条文",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孟子说：“不以规矩，不成方圆”，这里“规矩”的意思是 A. 潜规则 B. 美德善行 C. 圆规曲尺 D. 法律条文",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“卧薪尝胆”与下面哪个历史人物有关 A. 诸葛亮 B. 李白 C. 勾践 D. 项羽",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“卧薪尝胆”与下面哪个历史人物有关 A. 诸葛亮 B. 李白 C. 勾践 D. 项羽",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“这个问题他没有完全搞清楚。”这句话的意思是说 A. 这个问题他一点儿都不懂。 B. 这个问题还有一点儿不懂。 C. 这个问题他都懂了。 D. 这个问题他懂了一点儿。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“这个问题他没有完全搞清楚。”这句话的意思是说 A. 这个问题他一点儿都不懂。 B. 这个问题还有一点儿不懂。 C. 这个问题他都懂了。 D. 这个问题他懂了一点儿。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在白族姑娘的头饰上，蕴含着一个完美熟悉的词语，它就是 A. 梅兰竹菊 B. 阴晴圆缺 C. 风花雪月 D. 春夏秋冬",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在白族姑娘的头饰上，蕴含着一个完美熟悉的词语，它就是 A. 梅兰竹菊 B. 阴晴圆缺 C. 风花雪月 D. 春夏秋冬",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子不属于比喻句的是 A. 小兴安岭是一座巨大的宝库。 B. 落在电线上的燕子，就像是五线谱上的音符。 C. 他的身子还是那么单薄，像是生病的样子。 D. 秋风如同柔韧的梳子，把田野梳得井井有条。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子不属于比喻句的是 A. 小兴安岭是一座巨大的宝库。 B. 落在电线上的燕子，就像是五线谱上的音符。 C. 他的身子还是那么单薄，像是生病的样子。 D. 秋风如同柔韧的梳子，把田野梳得井井有条。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“大禹治水”的故事家喻户晓，大禹治理的是哪个流域的洪水 A. 洞庭湖水域 B. 鄱阳湖水域 C. 黄河流域 D. 长江流域",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“大禹治水”的故事家喻户晓，大禹治理的是哪个流域的洪水 A. 洞庭湖水域 B. 鄱阳湖水域 C. 黄河流域 D. 长江流域",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个成语和“道听途说”词意更接近 A. 三人成虎 B. 守株待兔 C. 指鹿为马 D. 空穴来风",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个成语和“道听途说”词意更接近 A. 三人成虎 B. 守株待兔 C. 指鹿为马 D. 空穴来风",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据中国传统建筑的特点，面对大院的门口，你的左手边是什么方向 A. 南 B. 西 C. 北 D. 东",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据中国传统建筑的特点，面对大院的门口，你的左手边是什么方向 A. 南 B. 西 C. 北 D. 东",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古时候高唱人生在世不称意，明朝散发弄扁舟的诗人是 A. 陶渊明 B. 苏轼 C. 李白 D. 李商隐",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古时候高唱人生在世不称意，明朝散发弄扁舟的诗人是 A. 陶渊明 B. 苏轼 C. 李白 D. 李商隐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "西湖的白堤的得名与哪位诗人有关 A. 白居易 B. 李商隐 C. 杜甫 D. 李白",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "西湖的白堤的得名与哪位诗人有关 A. 白居易 B. 李商隐 C. 杜甫 D. 李白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面四项中的标点符号使用正确的一项是 A. 我最爱读李白、杜甫，和白居易的诗。 B. 晚上爸爸问我今天一天做了什么事？我吞吞吐吐说不出来。 C. 老师同他谈过话后，他说，他有决心把学习搞好。 D. 那里开着许多鲜花，火红的桃花，雪白的梨花，娇艳的海棠花。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面四项中的标点符号使用正确的一项是 A. 我最爱读李白、杜甫，和白居易的诗。 B. 晚上爸爸问我今天一天做了什么事？我吞吞吐吐说不出来。 C. 老师同他谈过话后，他说，他有决心把学习搞好。 D. 那里开着许多鲜花，火红的桃花，雪白的梨花，娇艳的海棠花。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“天时不如地利，地利不如人和”出自 A. 《孟子》 B. 《论语》 C. 《庄子》 D. 《春秋》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“天时不如地利，地利不如人和”出自 A. 《孟子》 B. 《论语》 C. 《庄子》 D. 《春秋》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面每个词语中的4个词声调和结构都不同的是 A. 山明水秀 B. 万马奔腾 C. 随遇而安 D. 字里行间",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面每个词语中的4个词声调和结构都不同的是 A. 山明水秀 B. 万马奔腾 C. 随遇而安 D. 字里行间",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "峻丽，骨力劲健”形容的是历史上哪位书法家的字 A. 王羲之 B. 吴道子 C. 柳公权 D. 颜真卿",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "峻丽，骨力劲健”形容的是历史上哪位书法家的字 A. 王羲之 B. 吴道子 C. 柳公权 D. 颜真卿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“不以物喜，不以己悲”出自哪篇目哪篇古文 A. 《孟子》 B. 《醉翁亭记》 C. 《桃花源记》 D. 《岳阳楼记》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“不以物喜，不以己悲”出自哪篇目哪篇古文 A. 《孟子》 B. 《醉翁亭记》 C. 《桃花源记》 D. 《岳阳楼记》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“夕阳无限好，只是近黄昏”是谁的诗句 A. 骆宾王 B. 辛弃疾 C. 李商隐 D. 李白",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“夕阳无限好，只是近黄昏”是谁的诗句 A. 骆宾王 B. 辛弃疾 C. 李商隐 D. 李白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小王模仿古人填了一首词，写完后发现正文刚好100字，请问他用的是哪种词牌 A. 念奴娇 B. 满庭芳 C. 雨霖铃 D. 水龙吟",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小王模仿古人填了一首词，写完后发现正文刚好100字，请问他用的是哪种词牌 A. 念奴娇 B. 满庭芳 C. 雨霖铃 D. 水龙吟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "桃花潭水深千尺，不及汪伦送我情”诗中的“我”指的是谁 A. 李白 B. 李商隐 C. 杜牧 D. 杜甫",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "桃花潭水深千尺，不及汪伦送我情”诗中的“我”指的是谁 A. 李白 B. 李商隐 C. 杜牧 D. 杜甫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "明朝永乐年间，从西洋归来的郑和船队带回了一只西方异域兽“麒麟”，就是现在我们所知的 A. 金钱豹 B. 长颈鹿 C. 河马 D. 狮子",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "明朝永乐年间，从西洋归来的郑和船队带回了一只西方异域兽“麒麟”，就是现在我们所知的 A. 金钱豹 B. 长颈鹿 C. 河马 D. 狮子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“文章千古事，得失寸心知”是谁的名句 A. 白居易 B. 孟浩然 C. 杜甫 D. 李白",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“文章千古事，得失寸心知”是谁的名句 A. 白居易 B. 孟浩然 C. 杜甫 D. 李白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“海上升明白，天涯共此时”是谁的名句 A. 张九龄 B. 李白 C. 王腾 D. 王勃",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“海上升明白，天涯共此时”是谁的名句 A. 张九龄 B. 李白 C. 王腾 D. 王勃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列语句中没有错别字的一项是 A. 工匠们就地取材，建造了世界上最早的独拱石桥——赵州桥。 B. 不论学习哪种知识，都应该辩伪去妄，掌握事物的真谛。 C. 模拟体育加试，同学们取得了很好的成绩，我们应再接再励，攀登高峰。 D. 北京办奥运既展示传统文化又展现精神风貌，可谓两全齐美。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列语句中没有错别字的一项是 A. 工匠们就地取材，建造了世界上最早的独拱石桥——赵州桥。 B. 不论学习哪种知识，都应该辩伪去妄，掌握事物的真谛。 C. 模拟体育加试，同学们取得了很好的成绩，我们应再接再励，攀登高峰。 D. 北京办奥运既展示传统文化又展现精神风貌，可谓两全齐美。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“壮”这个字如果用音序查字法来查的话，应查 A. zhuang  B. Z B C. zuang D. zh",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“壮”这个字如果用音序查字法来查的话，应查 A. zhuang  B. Z B C. zuang D. zh",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下两位谁曾经中过状元 A. 狄仁杰 B. 欧阳修 C. 文天祥 D. 范仲淹",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下两位谁曾经中过状元 A. 狄仁杰 B. 欧阳修 C. 文天祥 D. 范仲淹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孟子说：“君子有三乐”，下列哪项不在其“三乐”之列 A. 乡人无不称其善也 B. 得天下英才而教育之 C. 仰不愧于天，俯不作于人 D. 父母俱存，兄弟无故",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孟子说：“君子有三乐”，下列哪项不在其“三乐”之列 A. 乡人无不称其善也 B. 得天下英才而教育之 C. 仰不愧于天，俯不作于人 D. 父母俱存，兄弟无故",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《二十四史》是我国古代二十四史的总称，其中只有一部是完全意义上的通史，它是 A. 《史记》 B. 《汉书》 C. 《左传》 D. 《三国志》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《二十四史》是我国古代二十四史的总称，其中只有一部是完全意义上的通史，它是 A. 《史记》 B. 《汉书》 C. 《左传》 D. 《三国志》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲骨文最早是在哪种物品上发现的 A. 药材 B. 青铜器 C. 竹筒 D. 墓碑",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲骨文最早是在哪种物品上发现的 A. 药材 B. 青铜器 C. 竹筒 D. 墓碑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "京剧《贵妃醉酒》是根据哪部古代戏曲改编而成的 A. 《长生殿》 B. 《南柯梦》 C. 《牡丹亭》 D. 《桃花扇》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "京剧《贵妃醉酒》是根据哪部古代戏曲改编而成的 A. 《长生殿》 B. 《南柯梦》 C. 《牡丹亭》 D. 《桃花扇》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "张衡发明的地动仪上有几条龙 A. 八条 B. 二十二条 C. 十二条 D. 四条",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "张衡发明的地动仪上有几条龙 A. 八条 B. 二十二条 C. 十二条 D. 四条",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“弱冠”指的是男子多少岁 A. 十八岁 B. 十六十 C. 十五岁 D. 二十岁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“弱冠”指的是男子多少岁 A. 十八岁 B. 十六十 C. 十五岁 D. 二十岁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "文学史上被称作“小李杜”的是杜牧和谁 A. 李白 B. 李商隐 C. 李煜 D. 李贺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "文学史上被称作“小李杜”的是杜牧和谁 A. 李白 B. 李商隐 C. 李煜 D. 李贺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《红楼梦》是我国古代著名的长篇小说之一，它的别名是 A. 《西游记》 B. 《金陵记》 C. 《搜神记》 D. 《石头记》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《红楼梦》是我国古代著名的长篇小说之一，它的别名是 A. 《西游记》 B. 《金陵记》 C. 《搜神记》 D. 《石头记》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于汉字造字法的是 A. 象形 B. 图示 C. 会意 D. 形声",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于汉字造字法的是 A. 象形 B. 图示 C. 会意 D. 形声",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按要求朗读，重音标示错误的一组是 A. 吴昊喜欢踢足球。（不讨厌踢足球） B. 这是我的语文书（不是别人的） C. 今年我上五年级。（不是明年） D. 南京是江苏省的省会（其它的城市不是）",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按要求朗读，重音标示错误的一组是 A. 吴昊喜欢踢足球。（不讨厌踢足球） B. 这是我的语文书（不是别人的） C. 今年我上五年级。（不是明年） D. 南京是江苏省的省会（其它的城市不是）",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列古代名曲哪一首是琵琶曲 A. 赛马 B. 二泉映月 C. 高山流水 D. 十面埋伏",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列古代名曲哪一首是琵琶曲 A. 赛马 B. 二泉映月 C. 高山流水 D. 十面埋伏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“负荆请罪”的“荆”字我不认识，那么我应该用哪种查字法来查。 A. 数笔画查字法 B. 音序查字法 C. 随便哪一种 D. 部首查字法",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“负荆请罪”的“荆”字我不认识，那么我应该用哪种查字法来查。 A. 数笔画查字法 B. 音序查字法 C. 随便哪一种 D. 部首查字法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“杏林”指代的是 A. 医学界 B. 教育界 C. 商界 D. 官场",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“杏林”指代的是 A. 医学界 B. 教育界 C. 商界 D. 官场",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“红娘”今指代为爱情牵线搭桥的人，请问她最早出现在哪部文学作品中 A. 元稹的《莺莺传》 B. 班固的《两都赋》 C. 王实甫的《西厢记》 D. 张衡的《二京赋》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“红娘”今指代为爱情牵线搭桥的人，请问她最早出现在哪部文学作品中 A. 元稹的《莺莺传》 B. 班固的《两都赋》 C. 王实甫的《西厢记》 D. 张衡的《二京赋》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“七月流火，九月授衣”，其中“七月流火”指的是 A. 天气逐渐升温 B. 流星异常出现 C. 天气渐渐转凉 D. 天气炎热似火",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“七月流火，九月授衣”，其中“七月流火”指的是 A. 天气逐渐升温 B. 流星异常出现 C. 天气渐渐转凉 D. 天气炎热似火",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“问世间情为何物，直教生死相许”这句诗是谁写的 A. 元好问 B. 柳永 C. 辛弃疾 D. 晏殊",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“问世间情为何物，直教生死相许”这句诗是谁写的 A. 元好问 B. 柳永 C. 辛弃疾 D. 晏殊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“老吾老以及人之老”是中华民族的传统美德，这句话是谁最早提出的 A. 孔子 B. 孟子 C. 墨子 D. 韩非子",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“老吾老以及人之老”是中华民族的传统美德，这句话是谁最早提出的 A. 孔子 B. 孟子 C. 墨子 D. 韩非子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列字中跟“龄”字造字方法不一样的字是 A. 休 B. 园 C. 蝴 D. 堡",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列字中跟“龄”字造字方法不一样的字是 A. 休 B. 园 C. 蝴 D. 堡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中与“亡羊补牢”意思最接近的是 A. 失之东隅，收之桑榆 B. 往者不可谏，来者犹可追 C. 人无远虑，必有近忧 D. 祸兮，福之所倚，福兮，祝之所伏",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中与“亡羊补牢”意思最接近的是 A. 失之东隅，收之桑榆 B. 往者不可谏，来者犹可追 C. 人无远虑，必有近忧 D. 祸兮，福之所倚，福兮，祝之所伏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古代宫殿大门前成对的石狮一般都是 A. 左雌右雄 B. 都是雌性 C. 都是雄性 D. 左雄右雌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古代宫殿大门前成对的石狮一般都是 A. 左雌右雄 B. 都是雌性 C. 都是雄性 D. 左雄右雌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各组成语中\"差\"的意义与读音相同的一组是 A. 一念之差 一差二错 毫无差别 B. 差之毫厘 参差不齐 差三错四 C. 屡出差错 毫无差别 差强人意 D. 鬼使神差 钦差大臣 应付差事",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各组成语中\"差\"的意义与读音相同的一组是 A. 一念之差 一差二错 毫无差别 B. 差之毫厘 参差不齐 差三错四 C. 屡出差错 毫无差别 差强人意 D. 鬼使神差 钦差大臣 应付差事",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“金戈铁马，气吞万里如虎“是谁的词句 A. 岳飞 B. 李清照 C. 白居易 D. 辛弃疾",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“金戈铁马，气吞万里如虎“是谁的词句 A. 岳飞 B. 李清照 C. 白居易 D. 辛弃疾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“这件事你不能不做。”这句话的意思是 A. 你一定要做。 B. 你不能做。 C. 你不可以做也可以不做。 D. 你可以不做。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“这件事你不能不做。”这句话的意思是 A. 你一定要做。 B. 你不能做。 C. 你不可以做也可以不做。 D. 你可以不做。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古人用“父母教，须敬听；父母责，须顺承”来劝谕人们要尊敬父母，这句话出自 A. 《百家姓》 B. 《弟子规》 C. 《三字经》 D. 《千字文》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古人用“父母教，须敬听；父母责，须顺承”来劝谕人们要尊敬父母，这句话出自 A. 《百家姓》 B. 《弟子规》 C. 《三字经》 D. 《千字文》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "括号中词语在句中含贬义色彩的是 A. 在乌云和大海之间，海燕像黑色的闪电，在(高傲)地飞翔。 B. 对同志对人民不是(满腔热情)，而是冷冷清清，漠不关心，麻木不仁。 C. 也有解散辫子，盘得平的，除下帽来，(油光可鉴)，宛如小姑娘的发髻一般，还要将脖子扭几扭。实在标致极了。 D. 我喜欢海，(溺爱)着海，尤其是潮来的时候。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "括号中词语在句中含贬义色彩的是 A. 在乌云和大海之间，海燕像黑色的闪电，在(高傲)地飞翔。 B. 对同志对人民不是(满腔热情)，而是冷冷清清，漠不关心，麻木不仁。 C. 也有解散辫子，盘得平的，除下帽来，(油光可鉴)，宛如小姑娘的发髻一般，还要将脖子扭几扭。实在标致极了。 D. 我喜欢海，(溺爱)着海，尤其是潮来的时候。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国古代最大的一部百科全书是 A. 《西游记》 B. 《四库全书》 C. 《永乐大典》 D. 《三国演义》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国古代最大的一部百科全书是 A. 《西游记》 B. 《四库全书》 C. 《永乐大典》 D. 《三国演义》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古代有很多姓氏都来源于官职，司马的职能是什么 A. 水利 B. 军政 C. 农耕 D. 养马",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古代有很多姓氏都来源于官职，司马的职能是什么 A. 水利 B. 军政 C. 农耕 D. 养马",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "秦始皇统一中国后，将全国文字统一成了下面哪一种 A. 小篆 B. 鸟虫文 C. 行书 D. 楷书",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "秦始皇统一中国后，将全国文字统一成了下面哪一种 A. 小篆 B. 鸟虫文 C. 行书 D. 楷书",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国古代对于年龄有很多独特的称呼，其中满一百岁被称为 A. 古稀 B. 耄耋 C. 花甲 D. 期颐",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国古代对于年龄有很多独特的称呼，其中满一百岁被称为 A. 古稀 B. 耄耋 C. 花甲 D. 期颐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面四位都是我国唐朝杰出的诗人，其中号称“诗圣”的是 A. 李白 B. 杜甫 C. 王维 D. 白居易",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面四位都是我国唐朝杰出的诗人，其中号称“诗圣”的是 A. 李白 B. 杜甫 C. 王维 D. 白居易",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“美”字最初的含义是 A. 土地里生长的花朵 B. 羊大即为美 C. 戴着头饰站立的人 D. 远方茂盛的森林",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“美”字最初的含义是 A. 土地里生长的花朵 B. 羊大即为美 C. 戴着头饰站立的人 D. 远方茂盛的森林",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列字形正确的一组是 A. 遵敬 B. 一丝不苟 C. 署假 D. 锻练",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列字形正确的一组是 A. 遵敬 B. 一丝不苟 C. 署假 D. 锻练",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪部著作的成书时间最长 A. 《徐霞客游记》 B. 《天工开物》 C. 《梦溪笔谈》 D. 《说文解字》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪部著作的成书时间最长 A. 《徐霞客游记》 B. 《天工开物》 C. 《梦溪笔谈》 D. 《说文解字》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列词的字形错误的一组是 A. 桥梁 B. 资态 C. 漂流 D. 侮辱",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列词的字形错误的一组是 A. 桥梁 B. 资态 C. 漂流 D. 侮辱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子有语病的一句是 A. 学习了《小学生守则》后，我受到了深刻的教育。 B. 烤着火，大家的手逐渐温暖起来。 C. 我虽然这么用功，但是成绩仍然不如你。 D. 爸爸在外语学院工作，会说三四国的英语。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子有语病的一句是 A. 学习了《小学生守则》后，我受到了深刻的教育。 B. 烤着火，大家的手逐渐温暖起来。 C. 我虽然这么用功，但是成绩仍然不如你。 D. 爸爸在外语学院工作，会说三四国的英语。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被誉为“东方之珠”的是下列哪座城市 A. 南京 B. 澳门 C. 上海 D. 香港",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被誉为“东方之珠”的是下列哪座城市 A. 南京 B. 澳门 C. 上海 D. 香港",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪篇童话不是出自《安徒生童话集》 A. 《白雪公主》 B. 《皇帝的新装》 C. 《海的女儿》 D. 《丑小鸭》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪篇童话不是出自《安徒生童话集》 A. 《白雪公主》 B. 《皇帝的新装》 C. 《海的女儿》 D. 《丑小鸭》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“熄火连三月，家书抵万金”古代书信通过邮驿传递。唐代管理这类工作的中央管理机构是 A. 中书省 B. 尚书省 C. 下书省 D. 门下省",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“熄火连三月，家书抵万金”古代书信通过邮驿传递。唐代管理这类工作的中央管理机构是 A. 中书省 B. 尚书省 C. 下书省 D. 门下省",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与“暮色”对仗最为工整的词是 A. 朝阳 B. 朝晖 C. 朝霞 D. 清晨",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与“暮色”对仗最为工整的词是 A. 朝阳 B. 朝晖 C. 朝霞 D. 清晨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“已是悬崖百丈冰，犹有花枝俏”这两句词描写的是 A. 秋天景色 B. 冬天景色 C. 夏天景色 D. 春天景色",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“已是悬崖百丈冰，犹有花枝俏”这两句词描写的是 A. 秋天景色 B. 冬天景色 C. 夏天景色 D. 春天景色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们常说的“十八般武艺”最初指的是什么 A. 十八种技艺 B. 使用十八种兵器的技能 C. 十八种武术动作 D. 十八种环境",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们常说的“十八般武艺”最初指的是什么 A. 十八种技艺 B. 使用十八种兵器的技能 C. 十八种武术动作 D. 十八种环境",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“会当凌绝顶，一览众山小”是杜甫的名句，诗人登上了哪座山发出了这样的感慨 A. 泰山 B. 黄山 C. 衡山 D. 华山",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“会当凌绝顶，一览众山小”是杜甫的名句，诗人登上了哪座山发出了这样的感慨 A. 泰山 B. 黄山 C. 衡山 D. 华山",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面四项中没有错别字的一项是 A. 红军的主力度过了天险大渡河。 B. 晨雾弥漫，仿拂给大地披上了一层沙。 C. 道路在艰险，也挡不住我们前进的脚步。 D. 他毫不迟疑地从座位上站了起来。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面四项中没有错别字的一项是 A. 红军的主力度过了天险大渡河。 B. 晨雾弥漫，仿拂给大地披上了一层沙。 C. 道路在艰险，也挡不住我们前进的脚步。 D. 他毫不迟疑地从座位上站了起来。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“揭竿为旗，斩木为兵”形容的是哪一场起义 A. 赤眉起义、义和团起义 B. 绿林起义、黄巾起义 C. 赤眉起义、陈胜吴广起义 D. 黄巾起义、义和团起义",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“揭竿为旗，斩木为兵”形容的是哪一场起义 A. 赤眉起义、义和团起义 B. 绿林起义、黄巾起义 C. 赤眉起义、陈胜吴广起义 D. 黄巾起义、义和团起义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "假如你的一首五绝诗被杂志社采用，按照正文部分每字5元来计算，你应得多少稿费 A. 200元 B. 50元 C. 100元 D. 500元",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "假如你的一首五绝诗被杂志社采用，按照正文部分每字5元来计算，你应得多少稿费 A. 200元 B. 50元 C. 100元 D. 500元",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "成语“请君入瓮”，“请”的是谁 A. 周文王 B. 宋襄公 C. 周兴 D. 来俊臣",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "成语“请君入瓮”，“请”的是谁 A. 周文王 B. 宋襄公 C. 周兴 D. 来俊臣",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "神话故事“夸父逐日”出自哪部书 A. 《世说新语》 B. 《山海经》 C. 《搜神记》 D. 《孟子》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "神话故事“夸父逐日”出自哪部书 A. 《世说新语》 B. 《山海经》 C. 《搜神记》 D. 《孟子》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“顷刻间千秋事业，方寸地万里江山；三五步行遍天下，六七人百万雄兵”描写的是 A. 官场 B. 下棋 C. 戏台 D. 战场",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“顷刻间千秋事业，方寸地万里江山；三五步行遍天下，六七人百万雄兵”描写的是 A. 官场 B. 下棋 C. 戏台 D. 战场",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请选出下列的成语主人公搭配正确的一项 A. 乐不思蜀——刘禅 B.  望梅止渴——刘邦 C. 指鹿为马——赵构 D. 韦编三绝——老子",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "请选出下列的成语主人公搭配正确的一项 A. 乐不思蜀——刘禅 B.  望梅止渴——刘邦 C. 指鹿为马——赵构 D. 韦编三绝——老子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“少壮不努力，老大徒伤悲”出自 A. 《短歌行》 B. 《长歌行》 C. 《诗经》 D. 《长恨歌》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“少壮不努力，老大徒伤悲”出自 A. 《短歌行》 B. 《长歌行》 C. 《诗经》 D. 《长恨歌》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按音序给\"白水洋小学就是好\"排列正确的一组是 A. 白水好是就学小洋 B. 白好就水是学小洋 C. 白好就是水小学洋 D. 白好水就是学小洋",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按音序给\"白水洋小学就是好\"排列正确的一组是 A. 白水好是就学小洋 B. 白好就水是学小洋 C. 白好就是水小学洋 D. 白好水就是学小洋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国书法艺术博大精深，请问“欧体”是指谁的字体 A. 欧阳洵 B. 欧阳生 C. 欧阳珣 D. 欧阳修",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国书法艺术博大精深，请问“欧体”是指谁的字体 A. 欧阳洵 B. 欧阳生 C. 欧阳珣 D. 欧阳修",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "水浒一百单八将中有几位女性 A. 两位 B. 四位 C. 一位 D. 三位",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "水浒一百单八将中有几位女性 A. 两位 B. 四位 C. 一位 D. 三位",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果在华佗去世后不及，曹操还想寻找一位名医为自己治病，他可以找下列的哪一位 A. 扁鹊 B. 张仲景 C. 孙思邈 D. 李时珍",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果在华佗去世后不及，曹操还想寻找一位名医为自己治病，他可以找下列的哪一位 A. 扁鹊 B. 张仲景 C. 孙思邈 D. 李时珍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《牛郎织女》的体裁是 A. 童话 B. 神话 C. 传说 D. 寓言",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《牛郎织女》的体裁是 A. 童话 B. 神话 C. 传说 D. 寓言",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“完璧归赵”这个故事发生在 A. 秦汉时期 B. 唐宋时期 C. 春秋战国 D. 三国时期",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“完璧归赵”这个故事发生在 A. 秦汉时期 B. 唐宋时期 C. 春秋战国 D. 三国时期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“态生两靥之愁，娇袭一身之病”玉对黛玉的第一印象，其中“靥”是指 A. 腮帮 B. 酒窝 C. 眼睛 D. 嘴角 ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“态生两靥之愁，娇袭一身之病”玉对黛玉的第一印象，其中“靥”是指 A. 腮帮 B. 酒窝 C. 眼睛 D. 嘴角 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“但愿人长久，千里共婵娟”，苏东坡借这首词表达了对谁的思念之情 A. 妻子 B. 朋友 C. 父亲 D. 兄弟",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“但愿人长久，千里共婵娟”，苏东坡借这首词表达了对谁的思念之情 A. 妻子 B. 朋友 C. 父亲 D. 兄弟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个诗句描写的不是古琴 A. 寒苦不忍言，为君奏丝桐 B. 为我一挥手，如听万壑松 C. 欲把心事付瑶琴 D. 一弦一柱思华年",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个诗句描写的不是古琴 A. 寒苦不忍言，为君奏丝桐 B. 为我一挥手，如听万壑松 C. 欲把心事付瑶琴 D. 一弦一柱思华年",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列大小形式互换完全正确的是 A. Gg LI  B. Tt Wu C. Yy Nn D. Qp Rr ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列大小形式互换完全正确的是 A. Gg LI  B. Tt Wu C. Yy Nn D. Qp Rr ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“词苑千载，群芳竞秀，盛开一枝女儿花”说的是哪位历史上的哪位才女 A. 孟母 B. 秦良玉 C. 朱淑真 D. 李清照",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“词苑千载，群芳竞秀，盛开一枝女儿花”说的是哪位历史上的哪位才女 A. 孟母 B. 秦良玉 C. 朱淑真 D. 李清照",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "木版年画发源于四大名镇中的哪个名镇 A. 朱仙镇 B. 佛山镇 C. 景德镇 D. 汉口镇",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "木版年画发源于四大名镇中的哪个名镇 A. 朱仙镇 B. 佛山镇 C. 景德镇 D. 汉口镇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《西游记》里的孙悟空神通广大，他在花果山的名字叫 A. 齐天大圣 B. 孙行者 C. 孙悟空 D. 美猴王",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《西游记》里的孙悟空神通广大，他在花果山的名字叫 A. 齐天大圣 B. 孙行者 C. 孙悟空 D. 美猴王",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "陕西省一块著名的“无字碑”，它与哪位皇帝有关 A. 唐玄宗 B. 秦始皇 C. 武则天 D. 唐太宗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "陕西省一块著名的“无字碑”，它与哪位皇帝有关 A. 唐玄宗 B. 秦始皇 C. 武则天 D. 唐太宗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“水则载舟，水则覆舟”是谁的名言 A. 孔子 B. 老子 C. 荀子 D. 孟子",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“水则载舟，水则覆舟”是谁的名言 A. 孔子 B. 老子 C. 荀子 D. 孟子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列民间爱情故事起源年代最早的是 A. 《白蛇传》 B. 《梁山仙与祝英台》 C. 《西厢记》 D. 《唐伯虎点秋香》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列民间爱情故事起源年代最早的是 A. 《白蛇传》 B. 《梁山仙与祝英台》 C. 《西厢记》 D. 《唐伯虎点秋香》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国古代有很多计量单位，比如诗句“黄河远上白云间，一片孤城万仞山”中的“仞”，一仞约相当于 A. 一个成年人的高度 B. 成年人一掌的长度 C. 成年人食指的长度 D. 成年人一臂的长度",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国古代有很多计量单位，比如诗句“黄河远上白云间，一片孤城万仞山”中的“仞”，一仞约相当于 A. 一个成年人的高度 B. 成年人一掌的长度 C. 成年人食指的长度 D. 成年人一臂的长度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据意思写出的词语，错误的一项是 A. 顾不得睡觉，忘记了吃饭——废寝忘食 B. 不顾个人安危，奋勇直前——奋不顾身 C. 比喻居高临下，不可阻挡的形势——势如破竹 D. 连声称赞个没完——赞不绝口",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据意思写出的词语，错误的一项是 A. 顾不得睡觉，忘记了吃饭——废寝忘食 B. 不顾个人安危，奋勇直前——奋不顾身 C. 比喻居高临下，不可阻挡的形势——势如破竹 D. 连声称赞个没完——赞不绝口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国人常说“五福临门”，下面哪一项是属于“五福”的 A. 妻妾成群 B. 子孙成群 C. 品德高尚 D. 两袖清风",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国人常说“五福临门”，下面哪一项是属于“五福”的 A. 妻妾成群 B. 子孙成群 C. 品德高尚 D. 两袖清风",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“双簧”是我们一门独特的曲艺艺术，它得名于 A. 表演者使用的乐器叫做簧 B. 表演者身着黄马褂 C. 初演的两个人都姓黄 D. 表演者巧舌如簧",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“双簧”是我们一门独特的曲艺艺术，它得名于 A. 表演者使用的乐器叫做簧 B. 表演者身着黄马褂 C. 初演的两个人都姓黄 D. 表演者巧舌如簧",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个成语典故与项羽有关 A. 隔岸观火 B. 破釜沉舟 C. 暗度陈仓 D. 背水一战",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个成语典故与项羽有关 A. 隔岸观火 B. 破釜沉舟 C. 暗度陈仓 D. 背水一战",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面四句话中，意义与其它三句不同的是 A. 合抱之木生于毫末 B. 一日之行在于清晨 C. 千里之行始于足下 D. 九层之台起于累土",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面四句话中，意义与其它三句不同的是 A. 合抱之木生于毫末 B. 一日之行在于清晨 C. 千里之行始于足下 D. 九层之台起于累土",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《孙子兵法》的作者是 A. 孙策 B. 孙武 C. 孙尚香 D. 孙膑",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《孙子兵法》的作者是 A. 孙策 B. 孙武 C. 孙尚香 D. 孙膑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“在天愿做比翼鸟，在地愿为连理枝”这句诗描写的是谁的爱情故事 A. 白素贞和许仙 B. 唐明皇和杨贵妃 C. 梁山伯和祝英台 D. 牛郎和织女",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“在天愿做比翼鸟，在地愿为连理枝”这句诗描写的是谁的爱情故事 A. 白素贞和许仙 B. 唐明皇和杨贵妃 C. 梁山伯和祝英台 D. 牛郎和织女",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据句意依次填写词语最恰当的是（1）傍晚时候，上灯了，一点点黄晕的光，( )出一片安静而和平的夜。（2）我们上了轮船，离开栈桥，在一片( )的好似绿色大理石桌面的海上驶向远处。（3）汽车在望不到边际的高原上奔驰，( )你的视野的，是黄绿错综的一条大毡子。（4）沙丘的移动虽然慢，可是所到之处，森林全被( )，田园全被埋葬，城郭变成丘墟。 A. 烘托 平静 扑入 摧毁 B. 烘托 寂静 进入 摧毁 C. 映衬 寂静 扑入 毁坏 D. 映衬 平静 进入 毁坏",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据句意依次填写词语最恰当的是（1）傍晚时候，上灯了，一点点黄晕的光，( )出一片安静而和平的夜。（2）我们上了轮船，离开栈桥，在一片( )的好似绿色大理石桌面的海上驶向远处。（3）汽车在望不到边际的高原上奔驰，( )你的视野的，是黄绿错综的一条大毡子。（4）沙丘的移动虽然慢，可是所到之处，森林全被( )，田园全被埋葬，城郭变成丘墟。 A. 烘托 平静 扑入 摧毁 B. 烘托 寂静 进入 摧毁 C. 映衬 寂静 扑入 毁坏 D. 映衬 平静 进入 毁坏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一个故事不是出自《伊索寓言》 A. 狐狸和葡萄 B. 狼和小羊 C. 农夫与蛇 D. 狐假虎威",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一个故事不是出自《伊索寓言》 A. 狐狸和葡萄 B. 狼和小羊 C. 农夫与蛇 D. 狐假虎威",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个故事不是三国故事 A. 负荆请罪 B. 三顾茅庐 C. 草船借箭 D. 赤壁大战",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个故事不是三国故事 A. 负荆请罪 B. 三顾茅庐 C. 草船借箭 D. 赤壁大战",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国很早就有了穿木屐的相关史书记载，下面的鞋就是东晋时谢灵运发生的“谢公屐”，它当时的用途是 A. 舞鞋 B. 登山鞋 C. 回家时穿的鞋 D. 上朝穿的朝鞋",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国很早就有了穿木屐的相关史书记载，下面的鞋就是东晋时谢灵运发生的“谢公屐”，它当时的用途是 A. 舞鞋 B. 登山鞋 C. 回家时穿的鞋 D. 上朝穿的朝鞋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "李清照词中的“绿肥红瘦”描写的是什么季节的景色 A. 仲夏 B. 初秋 C. 早春 D. 晚春",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "李清照词中的“绿肥红瘦”描写的是什么季节的景色 A. 仲夏 B. 初秋 C. 早春 D. 晚春",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古琴最初只有五根弦，代表着金、木、水、火、土。后来又增加了两根弦，这两根弦代表 A. 阴、阳 B. 文、武 C. 南、北 D. 天、地",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古琴最初只有五根弦，代表着金、木、水、火、土。后来又增加了两根弦，这两根弦代表 A. 阴、阳 B. 文、武 C. 南、北 D. 天、地",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "依次填入下列各方框的成语与句意最贴切的一组是（1）许多年以后这一带的人们还（）地传说这当年刘家敏的奋战情形（2）小明的悟性特别好，张老师才上了第一节课，张老师讲课的样子小明就能模仿得（）（3）他所描写的事物往往给人以一种（）历历如绘须眉毕现仿佛可触可摸的印象（4）站在龛里的那两个小童和那尊柳树精塑像是那样逼真传神真称得上是（）之作 A. 栩栩如生 活灵活现 鬼斧神工 惟妙惟肖 B. 活灵活现 惟妙惟肖 栩栩如生 鬼斧神工 C. 惟妙惟肖 栩栩如生 活灵活现 鬼斧神工 D. 活灵活现 鬼斧神工 惟妙惟肖 栩栩如生",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "依次填入下列各方框的成语与句意最贴切的一组是（1）许多年以后这一带的人们还（）地传说这当年刘家敏的奋战情形（2）小明的悟性特别好，张老师才上了第一节课，张老师讲课的样子小明就能模仿得（）（3）他所描写的事物往往给人以一种（）历历如绘须眉毕现仿佛可触可摸的印象（4）站在龛里的那两个小童和那尊柳树精塑像是那样逼真传神真称得上是（）之作 A. 栩栩如生 活灵活现 鬼斧神工 惟妙惟肖 B. 活灵活现 惟妙惟肖 栩栩如生 鬼斧神工 C. 惟妙惟肖 栩栩如生 活灵活现 鬼斧神工 D. 活灵活现 鬼斧神工 惟妙惟肖 栩栩如生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面不是三国故事的是 A. 草船借箭 B. 三顾茅庐 C. 负荆请罪 D. 赤壁大战",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面不是三国故事的是 A. 草船借箭 B. 三顾茅庐 C. 负荆请罪 D. 赤壁大战",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了孩子的学习环境而三迁居的是哪个历史故事 A. 凿壁偷光 B. 孟母教子 C. 举案齐眉 D. 岳母刺字",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了孩子的学习环境而三迁居的是哪个历史故事 A. 凿壁偷光 B. 孟母教子 C. 举案齐眉 D. 岳母刺字",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“鼎”的最初用途是 A. 烹煮器具 B. 演奏乐器 C. 祭祀用礼器 D. 地位象征物",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“鼎”的最初用途是 A. 烹煮器具 B. 演奏乐器 C. 祭祀用礼器 D. 地位象征物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“生旦净末丑”是京剧的行当，其中“净”是 A. 老人 B. 孩子 C. 女角 D. 男角",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“生旦净末丑”是京剧的行当，其中“净”是 A. 老人 B. 孩子 C. 女角 D. 男角",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“月上柳梢头，人约黄昏后”描写的是哪个传统节日 A. 中秋节 B. 七夕节 C. 端午节 D. 元宵节",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“月上柳梢头，人约黄昏后”描写的是哪个传统节日 A. 中秋节 B. 七夕节 C. 端午节 D. 元宵节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“一琴一鹤”所形容的是 A. 两袖清风 B. 淡泊名利 C. 为政清简 D. 平安长春",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“一琴一鹤”所形容的是 A. 两袖清风 B. 淡泊名利 C. 为政清简 D. 平安长春",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面成语中相同两字字意思相同的一组是 A. 锐不可当 当之无愧 B. 漠然置之 漠不关心 C. 挑拨离间 亲密无间 D. 风雨交加 交头接耳",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面成语中相同两字字意思相同的一组是 A. 锐不可当 当之无愧 B. 漠然置之 漠不关心 C. 挑拨离间 亲密无间 D. 风雨交加 交头接耳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“醉里挑灯看剑，梦回吹角连营”出自谁的作品 A. 辛弃疾 B. 陆游 C. 岳飞 D. 李清照",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“醉里挑灯看剑，梦回吹角连营”出自谁的作品 A. 辛弃疾 B. 陆游 C. 岳飞 D. 李清照",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "句中的成语使用不恰当的是 A. 五岁的小侄子戴着大檐帽，别着玩具枪，煞有介事地在房间里巡视，那模样真是让人忍俊不禁。 B. 为了筹建南极长城站，他呕心沥血；长城站落成时，这位钢铁般的汉子也流泪了。 C. 等得不耐烦的父亲对儿子说：“看你妈出个门还得打扮半天，真是麻烦——让她深居简出还挺不容易！” D. 竹筏在湍急的河流中，就像一只漂浮于水面的甲虫，船工小心翼翼地撑着筏子，惟恐它被巨浪打翻。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "句中的成语使用不恰当的是 A. 五岁的小侄子戴着大檐帽，别着玩具枪，煞有介事地在房间里巡视，那模样真是让人忍俊不禁。 B. 为了筹建南极长城站，他呕心沥血；长城站落成时，这位钢铁般的汉子也流泪了。 C. 等得不耐烦的父亲对儿子说：“看你妈出个门还得打扮半天，真是麻烦——让她深居简出还挺不容易！” D. 竹筏在湍急的河流中，就像一只漂浮于水面的甲虫，船工小心翼翼地撑着筏子，惟恐它被巨浪打翻。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“爆竹声中一岁除，春风送暖入屠苏”，这里的“屠苏”指的是 A. 庄稼 B. 房屋 C. 酒 D. 苏州",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“爆竹声中一岁除，春风送暖入屠苏”，这里的“屠苏”指的是 A. 庄稼 B. 房屋 C. 酒 D. 苏州",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古人的婚礼在什么时间举行 A. 上午 B. 清晨 C. 傍晚 D. 中午",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古人的婚礼在什么时间举行 A. 上午 B. 清晨 C. 傍晚 D. 中午",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "选出下列不是同一类的一组 A. 汉族 回族苗族 壮族 B. 长江 黄河 银河 洞庭湖 C. 钢笔 铅笔 圆珠笔 毛笔 D. 汽车 火车 摩托车 自行车",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "选出下列不是同一类的一组 A. 汉族 回族苗族 壮族 B. 长江 黄河 银河 洞庭湖 C. 钢笔 铅笔 圆珠笔 毛笔 D. 汽车 火车 摩托车 自行车",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "道家思想在我国影响深远，请问历史中的哪一时期最接近道家所主张的无为而治 A. 光武中兴 B. 开无盛世 C. 贞观之治 D. 文景之治",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "道家思想在我国影响深远，请问历史中的哪一时期最接近道家所主张的无为而治 A. 光武中兴 B. 开无盛世 C. 贞观之治 D. 文景之治",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "草书、行书、楷书、隶书四种字体当中哪一种是其余三种的起源 A. 行书 B. 隶书 C. 楷书 D. 草书",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "草书、行书、楷书、隶书四种字体当中哪一种是其余三种的起源 A. 行书 B. 隶书 C. 楷书 D. 草书",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "墨子的主要思想是“兼爱”，他所反对的“爱有差等”这一观点是哪家学派的 A. 儒家 B. 道家 C. 名家 D. 法家",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "墨子的主要思想是“兼爱”，他所反对的“爱有差等”这一观点是哪家学派的 A. 儒家 B. 道家 C. 名家 D. 法家",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国传统表示次序的“天干”共有几个字 A. 十一个 B. 十个 C. 十二个 D. 九个",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国传统表示次序的“天干”共有几个字 A. 十一个 B. 十个 C. 十二个 D. 九个",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“萧萧梧叶送寒声，江上秋风动客情。”这句诗出自于 A. 《枫桥夜泊》 B. 《夜书所见》 C. 《舟夜书所见》 D. 《秋夕》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“萧萧梧叶送寒声，江上秋风动客情。”这句诗出自于 A. 《枫桥夜泊》 B. 《夜书所见》 C. 《舟夜书所见》 D. 《秋夕》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《在水一方》的歌词来源于 A. 《诗经》 B. 《楚辞》 C. 《陌上桑》 D. 《孔雀东南飞》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《在水一方》的歌词来源于 A. 《诗经》 B. 《楚辞》 C. 《陌上桑》 D. 《孔雀东南飞》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "善良的小姑娘多萝茜被一场龙卷风刮到了一个陌生而神奇的国度——()，并迷失了回家的路。 A. 中国 B. 美国 C. 英国 D. 奥兹国",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "善良的小姑娘多萝茜被一场龙卷风刮到了一个陌生而神奇的国度——()，并迷失了回家的路。 A. 中国 B. 美国 C. 英国 D. 奥兹国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“近朱者赤，近墨者黑”所蕴含的道理和下列哪句话最相似 A. 蓬生麻中，不扶而直 B. 出淤泥而不染，濯清涟而不妖 C. 公生明，偏生暗 D. 青出于蓝，而胜于蓝",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“近朱者赤，近墨者黑”所蕴含的道理和下列哪句话最相似 A. 蓬生麻中，不扶而直 B. 出淤泥而不染，濯清涟而不妖 C. 公生明，偏生暗 D. 青出于蓝，而胜于蓝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项不是端午节的习俗 A. 喝雄黄酒 B. 插艾蒿 C. 挂香包 D. 登高采菊",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项不是端午节的习俗 A. 喝雄黄酒 B. 插艾蒿 C. 挂香包 D. 登高采菊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "填入下面语段括号处最恰当的一组词语是那兴安岭上起伏不断的茫茫林海，那开满斑斓多彩的无名花儿、长满()奶油草的呼伦贝尔草原，以及举手可以接天的险峻的华山。曾给人多少有趣的遐想，曾激发多少变幻的感情。走近看时，原来是树身上布满了()的青苔，那样鲜嫩，那样可爱，使得()的苏堤更加绿了几分。 A. 绿茸茸 绿莹莹 绿油油 B. 绿莹莹 绿油油 绿茸茸 C. 绿沉沉 绿莹莹 绿油油 D. 绿油油 绿茸茸 绿莹莹",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "填入下面语段括号处最恰当的一组词语是那兴安岭上起伏不断的茫茫林海，那开满斑斓多彩的无名花儿、长满()奶油草的呼伦贝尔草原，以及举手可以接天的险峻的华山。曾给人多少有趣的遐想，曾激发多少变幻的感情。走近看时，原来是树身上布满了()的青苔，那样鲜嫩，那样可爱，使得()的苏堤更加绿了几分。 A. 绿茸茸 绿莹莹 绿油油 B. 绿莹莹 绿油油 绿茸茸 C. 绿沉沉 绿莹莹 绿油油 D. 绿油油 绿茸茸 绿莹莹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“意思”在下列各句中和其它三句意义不一样的是 A. 这个词的意思我懂了。 B. 只有多读几遍，才能明白课文的意思。 C. 你说的这句话是什么意思？ D. 这本书可有意思了！",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“意思”在下列各句中和其它三句意义不一样的是 A. 这个词的意思我懂了。 B. 只有多读几遍，才能明白课文的意思。 C. 你说的这句话是什么意思？ D. 这本书可有意思了！",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "天干地支纪年始于汉代，请问这种纪年是以哪一天为起点的 A. 立春 B. 除夕 C. 正月初一 D. 春分",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "天干地支纪年始于汉代，请问这种纪年是以哪一天为起点的 A. 立春 B. 除夕 C. 正月初一 D. 春分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪位女性的名字被用来命名外太空环形山 A. 班昭 B. 蔡文姬 C. 王昭君 D. 李清照",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪位女性的名字被用来命名外太空环形山 A. 班昭 B. 蔡文姬 C. 王昭君 D. 李清照",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鲁肃这一人物形象出自 A. 《封神演义》 B. 《三国演义》 C. 《西游记》 D. 《水浒传》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鲁肃这一人物形象出自 A. 《封神演义》 B. 《三国演义》 C. 《西游记》 D. 《水浒传》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "吃年糕的习俗与下列哪位历史人物有关 A. 秦始皇 B. 屈原 C. 伍子胥 D. 范蠡",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "吃年糕的习俗与下列哪位历史人物有关 A. 秦始皇 B. 屈原 C. 伍子胥 D. 范蠡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宣纸得名于它的 A. 使用人群 B. 材质 C. 产地 D. 用途",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宣纸得名于它的 A. 使用人群 B. 材质 C. 产地 D. 用途",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“洛阳纸贵”比喻作品风行一时，广为流传，这个成语与以下哪部著作有关 A. 班固的《两都赋》 B. 左思的《三都赋》 C. 张衡的《二京赋》 D. 司马相如的《长六赋》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“洛阳纸贵”比喻作品风行一时，广为流传，这个成语与以下哪部著作有关 A. 班固的《两都赋》 B. 左思的《三都赋》 C. 张衡的《二京赋》 D. 司马相如的《长六赋》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "曹植七步成诗，相传历史上还有一位三步就能成诗的人，他是 A. 王安石 B. 李清照 C. 寇准 D. 辛弃疾",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "曹植七步成诗，相传历史上还有一位三步就能成诗的人，他是 A. 王安石 B. 李清照 C. 寇准 D. 辛弃疾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "句中括号括起来的字解释都正确的是1、他（触）目伤怀，自然感情不能自已。2、于是大家放开喉咙读一阵书，真是人声（鼎）沸。 A. 触（感动）鼎（大） B. 触（接触）鼎（古代的一种锅） C. 触（接触）鼎（大） D. 触（抵）鼎（正在）",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "句中括号括起来的字解释都正确的是1、他（触）目伤怀，自然感情不能自已。2、于是大家放开喉咙读一阵书，真是人声（鼎）沸。 A. 触（感动）鼎（大） B. 触（接触）鼎（古代的一种锅） C. 触（接触）鼎（大） D. 触（抵）鼎（正在）",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子中的成语使用不正确的一项是 A. 这么好的天气去旅游，同学们可以在大自然中尽情地享受天伦之乐。 B. 一方困难百方支援，被洪水冲得囊空如洗的灾区又重建了家园。 C. 凡是优秀的演员，总能把剧中人物的内心世界表演得惟妙惟肖。 D. 这行云流水般的歌声使所有在场的听众获得了极大的艺术享受。",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子中的成语使用不正确的一项是 A. 这么好的天气去旅游，同学们可以在大自然中尽情地享受天伦之乐。 B. 一方困难百方支援，被洪水冲得囊空如洗的灾区又重建了家园。 C. 凡是优秀的演员，总能把剧中人物的内心世界表演得惟妙惟肖。 D. 这行云流水般的歌声使所有在场的听众获得了极大的艺术享受。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个剧种被称为“中国百戏之师” A. 黄梅戏 B. 昆曲 C. 越剧 D. 京剧",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个剧种被称为“中国百戏之师” A. 黄梅戏 B. 昆曲 C. 越剧 D. 京剧",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "太极拳讲究“以柔克刚，以静制动，以弱胜强”这和下面哪位思想家的观点不谋而合 A. 荀子 B. 孔子 C. 孟子 D. 老子",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "太极拳讲究“以柔克刚，以静制动，以弱胜强”这和下面哪位思想家的观点不谋而合 A. 荀子 B. 孔子 C. 孟子 D. 老子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能使下列语意顺畅、连贯的一组短语是：()实施素质教育有赖于、或者说根本受制于教育工作者的责任。有人说，孩子们的心就像一块奇妙的大地，播下①的种子，就会获得行为的收获，播下②的种子，就会获得习惯的收获，播下③的种子，就会获得性格的收获，播下④的种子，就会获得命运的收获。从这个意义上来说，教育工作者确实是主宰每一个学生命运的人。 A. ①行为②习惯③性格④思想 B. ①思想②行为③习惯④性格 C. ①思想②性格③行为④习惯 D. ①性格②行为③习惯④思想",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能使下列语意顺畅、连贯的一组短语是：()实施素质教育有赖于、或者说根本受制于教育工作者的责任。有人说，孩子们的心就像一块奇妙的大地，播下①的种子，就会获得行为的收获，播下②的种子，就会获得习惯的收获，播下③的种子，就会获得性格的收获，播下④的种子，就会获得命运的收获。从这个意义上来说，教育工作者确实是主宰每一个学生命运的人。 A. ①行为②习惯③性格④思想 B. ①思想②行为③习惯④性格 C. ①思想②性格③行为④习惯 D. ①性格②行为③习惯④思想",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《西游记》中唐僧的原型是 A. 玄奘 B. 弘一 C. 法海 D. 鉴真",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《西游记》中唐僧的原型是 A. 玄奘 B. 弘一 C. 法海 D. 鉴真",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "元太祖铁木真是蒙古草原上的英雄，他被人们尊称为“成吉思汗”，“汗”的意思是大王，那么“成吉思汗”的意思是 A. 大海 B. 天空 C. 草原 D. 高山",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "元太祖铁木真是蒙古草原上的英雄，他被人们尊称为“成吉思汗”，“汗”的意思是大王，那么“成吉思汗”的意思是 A. 大海 B. 天空 C. 草原 D. 高山",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪位诗人是“初唐四杰”之一 A. 王维 B. 杜甫 C. 王勃 D. 李白",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪位诗人是“初唐四杰”之一 A. 王维 B. 杜甫 C. 王勃 D. 李白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列每组中相同的两个字读音也相同的一组是 A. 落花流水 丢三落四 B. 发人深省 江苏省 C. 怒发冲冠 千钧一发 D. 挨打 挨挨挤挤",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列每组中相同的两个字读音也相同的一组是 A. 落花流水 丢三落四 B. 发人深省 江苏省 C. 怒发冲冠 千钧一发 D. 挨打 挨挨挤挤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“塞翁失马”这一典故出自 A. 《孟子》 B. 《庄子》 C. 《山海经》 D. 《淮南子》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“塞翁失马”这一典故出自 A. 《孟子》 B. 《庄子》 C. 《山海经》 D. 《淮南子》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列诗词名句出自男子之笔的是 A. 物是人非事事休，欲语泪先流 B. 北风历兮肃冷冷，胡笳动兮边马鸣 C. 人生若只如初见，何事秋风悲画扇 D. 看朱成碧思纷纷，憔悴支离为忆君",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列诗词名句出自男子之笔的是 A. 物是人非事事休，欲语泪先流 B. 北风历兮肃冷冷，胡笳动兮边马鸣 C. 人生若只如初见，何事秋风悲画扇 D. 看朱成碧思纷纷，憔悴支离为忆君",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1932年，清华大学招生试题中有一道对对子题，上联“孙行者”，下面下联中最合适的是 A. 周作人 B. 郁达夫 C. 胡适之 D. 唐三藏",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1932年，清华大学招生试题中有一道对对子题，上联“孙行者”，下面下联中最合适的是 A. 周作人 B. 郁达夫 C. 胡适之 D. 唐三藏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "盘古、女娲、夸父、后羿都是古代神话中的人物，其中开天辟地的是 A. 女娲 B. 夸父 C. 盘古 D. 后羿",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "盘古、女娲、夸父、后羿都是古代神话中的人物，其中开天辟地的是 A. 女娲 B. 夸父 C. 盘古 D. 后羿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子中没有语病的一组是 A. 对于未来，我的内心充满了希望。 B. 狮子是一种非常猛烈的动物。 C. 吴厂长介绍许多陈师傅的先进事迹。 D. 小强和小明聊天，他告诉了他许多心里话。",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子中没有语病的一组是 A. 对于未来，我的内心充满了希望。 B. 狮子是一种非常猛烈的动物。 C. 吴厂长介绍许多陈师傅的先进事迹。 D. 小强和小明聊天，他告诉了他许多心里话。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“床前明月光”是李白的千古名句，其中“床”指的是什么 A. 井上的围栏 B. 卧具 C. 门 D. 窗户",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“床前明月光”是李白的千古名句，其中“床”指的是什么 A. 井上的围栏 B. 卧具 C. 门 D. 窗户",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《卧薪尝胆》这个故事出自于 A. 孔子《论语》 B. 司马光《资治通鉴》 C. 司马迁《史记》 D. 司马迁《春秋》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《卧薪尝胆》这个故事出自于 A. 孔子《论语》 B. 司马光《资治通鉴》 C. 司马迁《史记》 D. 司马迁《春秋》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列句子没有语病的一项是 A. 学习是否勤奋，是取得好成绩的重要条件 B. 标点用得恰当，不仅能准确地表达文章的内容，在一定的语境里，还能代替文字直接表达人们的思想感情 C. 从这套厚厚的知识丛书中，使我获得了不少的课外知识 D. 为了避免今后不再犯同样的错误，我们应当好好订正这道题",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列句子没有语病的一项是 A. 学习是否勤奋，是取得好成绩的重要条件 B. 标点用得恰当，不仅能准确地表达文章的内容，在一定的语境里，还能代替文字直接表达人们的思想感情 C. 从这套厚厚的知识丛书中，使我获得了不少的课外知识 D. 为了避免今后不再犯同样的错误，我们应当好好订正这道题",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

@@ -1,0 +1,2092 @@
+[
+  {
+    "question_std": "世界市场最终完备是在 A. 19世纪末到20世纪初 B. 18世纪末到19世纪初 C. 17世纪末到18世纪初 D. 20世纪末到21世纪初",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界市场最终完备是在 A. 19世纪末到20世纪初 B. 18世纪末到19世纪初 C. 17世纪末到18世纪初 D. 20世纪末到21世纪初",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“伦理”区别于其他社会关系的特殊性在于 A. 它包含了人自身各种潜质潜能的全面发展 B. 它包含了好坏善恶的价值标准 C. 它包含了天、人、物的和谐相处 D. 它包含了人与人、人与世界关系的事实",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“伦理”区别于其他社会关系的特殊性在于 A. 它包含了人自身各种潜质潜能的全面发展 B. 它包含了好坏善恶的价值标准 C. 它包含了天、人、物的和谐相处 D. 它包含了人与人、人与世界关系的事实",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于董事的伦理责任的是 A. 独立性与监督性融合 B. 底线思维、客观决策 C. 勤勉监督董事及管理层的工作和行为 D. 专业性与判断性兼具",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于董事的伦理责任的是 A. 独立性与监督性融合 B. 底线思维、客观决策 C. 勤勉监督董事及管理层的工作和行为 D. 专业性与判断性兼具",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中，制定企业经营决策的重要依据是 A. 会计责任 B. 会计信息 C. 会计工作 D. 会计教育",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中，制定企业经营决策的重要依据是 A. 会计责任 B. 会计信息 C. 会计工作 D. 会计教育",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "跨国公司以东道国的市场需求为基点，进行一系列的产品推广、价格制定、渠道扩、广告促销等经营活动，这一策略属于 A. 营销本土化 B. 人员本土化 C. 利益本土化 D. 采购本土化",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "跨国公司以东道国的市场需求为基点，进行一系列的产品推广、价格制定、渠道扩、广告促销等经营活动，这一策略属于 A. 营销本土化 B. 人员本土化 C. 利益本土化 D. 采购本土化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "道德规范分为最高规范和 A. 一般规范 B. 伦理规范 C. 最低规范 D. 社团规范",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "道德规范分为最高规范和 A. 一般规范 B. 伦理规范 C. 最低规范 D. 社团规范",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有理性、会算计、追求自利最大化的人，被亚当·斯密称为 A. 社会人 B. 经济人 C. 道德人 D. 自然人",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有理性、会算计、追求自利最大化的人，被亚当·斯密称为 A. 社会人 B. 经济人 C. 道德人 D. 自然人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下行为中，不属于企业舞弊行为的是 A. 挪用资金 B. 招待客户 C. 偷漏税金 D. 盗窃",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下行为中，不属于企业舞弊行为的是 A. 挪用资金 B. 招待客户 C. 偷漏税金 D. 盗窃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业社会责任的本质内容体现为 A. 道德责任 B. 员工意识 C. 企业文化 D. 行为规范",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业社会责任的本质内容体现为 A. 道德责任 B. 员工意识 C. 企业文化 D. 行为规范",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "经济活动中的信用是不同所有者之间商品和货币资金的借贷以及赊销预付等行为，它是指一种 A. 间接信用 B. 信用行为 C. 借贷行为 D. 直接信用",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "经济活动中的信用是不同所有者之间商品和货币资金的借贷以及赊销预付等行为，它是指一种 A. 间接信用 B. 信用行为 C. 借贷行为 D. 直接信用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业主体道德的本质是 A. “应当如何” B. 自律与他律的统一 C. 他律 D. 自律",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业主体道德的本质是 A. “应当如何” B. 自律与他律的统一 C. 他律 D. 自律",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国注册会计师令人担忧的状况是 A. 职业道德 B. 审计报告 C. 专业知识 D. 业务工作",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国注册会计师令人担忧的状况是 A. 职业道德 B. 审计报告 C. 专业知识 D. 业务工作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业中互利互惠的最低要 A. 不损害他人利益 B. 无为 C. 宽容 D. 仁爱",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业中互利互惠的最低要 A. 不损害他人利益 B. 无为 C. 宽容 D. 仁爱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于直接利益相关者公共关系构建原则的是 A. 互惠互利 B. 和平共处 C. 共同发展 D. 团结合作",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于直接利益相关者公共关系构建原则的是 A. 互惠互利 B. 和平共处 C. 共同发展 D. 团结合作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在经济社会中，人们的经济自由主要表现在 A. 财产权的实际使用权 B. 财产权的实际占有权 C. 财产权的实际收益权 D. 财产权的自由支配权",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在经济社会中，人们的经济自由主要表现在 A. 财产权的实际使用权 B. 财产权的实际占有权 C. 财产权的实际收益权 D. 财产权的自由支配权",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在现实中，社会公正的首要问题是 A. 引入市场机制 B. 培养道德情操 C. 切实保障个人利益 D. 创建良好的社会制度",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在现实中，社会公正的首要问题是 A. 引入市场机制 B. 培养道德情操 C. 切实保障个人利益 D. 创建良好的社会制度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业进行管理创新的根本途径是 A. 提高管理者自身的素质 B. 增强员工的自尊 C. 使员工对自己的工作更加满意 D. 让员工参与决策",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业进行管理创新的根本途径是 A. 提高管理者自身的素质 B. 增强员工的自尊 C. 使员工对自己的工作更加满意 D. 让员工参与决策",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大白兔与大白兔两家奶糖生产企业最可能涉及的伦理争端是 A. 故意损害名誉 B. 夸大、虚假宣传 C. 价格操纵行为 D. 商业混淆行为",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大白兔与大白兔两家奶糖生产企业最可能涉及的伦理争端是 A. 故意损害名誉 B. 夸大、虚假宣传 C. 价格操纵行为 D. 商业混淆行为",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人与动物的一个根本区别是人具有 A. 文化性 B. 自我实现性 C. 思想性 D. 社会性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人与动物的一个根本区别是人具有 A. 文化性 B. 自我实现性 C. 思想性 D. 社会性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关税与凭借政治权力规定的其他税赋一样具有强制性、无偿性 和 A. 固定性 B. 变化性 C. 调节性 D. 保护性",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关税与凭借政治权力规定的其他税赋一样具有强制性、无偿性 和 A. 固定性 B. 变化性 C. 调节性 D. 保护性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面属于企业的基本社会责任的是 A. 保护消费者权益 B. 保护生态平衡 C. 获取利润 D. 减少环境污染",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面属于企业的基本社会责任的是 A. 保护消费者权益 B. 保护生态平衡 C. 获取利润 D. 减少环境污染",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业价值观的中心容是 A. 社会责任观 B. 企业伦理观 C. 企业决策观 D. 道德善恶观",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业价值观的中心容是 A. 社会责任观 B. 企业伦理观 C. 企业决策观 D. 道德善恶观",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关商业伦理与企业社会责任的描述，下列说法不正确的是 A. 社会责任与商业伦理是两个截然不同的概念，它们之间有十分明确的界线 B. 企业的社会责任，就是指企业在追求其基本经济目标的同时，对于利益相关方承担义务 C. 商业伦理以企业中的员工以及企业自身为规范对象 D. 企业承担社会责任可视为遵守商业伦理的必然结果",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关商业伦理与企业社会责任的描述，下列说法不正确的是 A. 社会责任与商业伦理是两个截然不同的概念，它们之间有十分明确的界线 B. 企业的社会责任，就是指企业在追求其基本经济目标的同时，对于利益相关方承担义务 C. 商业伦理以企业中的员工以及企业自身为规范对象 D. 企业承担社会责任可视为遵守商业伦理的必然结果",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "将出口商品以低于国市场价格，甚至低于商品生产成本的价格，在国外市场抛售商品以打击竞争对手的削价竞销行为，被称为 A. 商品削价 B. 商品倾销 C. 商品抛售 D. 商品竞销",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "将出口商品以低于国市场价格，甚至低于商品生产成本的价格，在国外市场抛售商品以打击竞争对手的削价竞销行为，被称为 A. 商品削价 B. 商品倾销 C. 商品抛售 D. 商品竞销",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个国家的人均国民收入达到多少的时候，信用交易将不可避免地成为市场经济的主导经济形式 A. 2000美元 B. 1000美元 C. 4000美元 D. 3000美元",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个国家的人均国民收入达到多少的时候，信用交易将不可避免地成为市场经济的主导经济形式 A. 2000美元 B. 1000美元 C. 4000美元 D. 3000美元",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可以认为是人与人之间的一种“等利”或“等害”交换的是 A. 自由 B. 公正 C. 均衡 D. 平等",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可以认为是人与人之间的一种“等利”或“等害”交换的是 A. 自由 B. 公正 C. 均衡 D. 平等",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "正确处理义与利的关系是商业道德的基本要求，我们要做到 A. 以义制利 B. 以利制义 C. 利义合一 D. 先利后义",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "正确处理义与利的关系是商业道德的基本要求，我们要做到 A. 以义制利 B. 以利制义 C. 利义合一 D. 先利后义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业良心在义利关系上主 A. 先义后利、以义制利 B. 先利后义、以利和义 C. 先利后义、以义制利 D. 先义后利、以利和义",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业良心在义利关系上主 A. 先义后利、以义制利 B. 先利后义、以利和义 C. 先利后义、以义制利 D. 先义后利、以利和义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "保护产权的途径（）a国家政治；b国家法律；c道德观念；d遵纪守法的广泛宣传 A. ab B. abcd C. abc D. bcd",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "保护产权的途径（）a国家政治；b国家法律；c道德观念；d遵纪守法的广泛宣传 A. ab B. abcd C. abc D. bcd",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从伦理意义上看，斯密揭示了“经济人”成功有效的市场经济行为是 A. 自利必然利他 B. 自利不必利他 C. 实现自我利益最大化 D. 实现社会利益最大化",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从伦理意义上看，斯密揭示了“经济人”成功有效的市场经济行为是 A. 自利必然利他 B. 自利不必利他 C. 实现自我利益最大化 D. 实现社会利益最大化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "只注意到了市场经济条件下出现的道德消极现象，没有看到利益驱动力对推动社会发展前进的巨大作用是 A. “上坡论” B. “经济论” C. “价值论” D. “滑坡论”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "只注意到了市场经济条件下出现的道德消极现象，没有看到利益驱动力对推动社会发展前进的巨大作用是 A. “上坡论” B. “经济论” C. “价值论” D. “滑坡论”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "SA8000 是全球首个道德规范国际标准，它的中文意思是 A. 社会道德标准 B. 社会伦理标准 C. 社会规范标准 D. 社会责任标准",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "SA8000 是全球首个道德规范国际标准，它的中文意思是 A. 社会道德标准 B. 社会伦理标准 C. 社会规范标准 D. 社会责任标准",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "市场经济按其发展程度高低经历了实物交换关系、货币交换 关系和（）三种形态 A. 商业交换关系 B. 信贷交换关系 C. 信用交换关系 D. 纸币交换关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "市场经济按其发展程度高低经历了实物交换关系、货币交换 关系和（）三种形态 A. 商业交换关系 B. 信贷交换关系 C. 信用交换关系 D. 纸币交换关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "跨国公司伦理关系整合的关键是 A. 化解矛盾冲突 B. 化解文化冲突 C. 化解利益冲突 D. 化解贸易冲突",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "跨国公司伦理关系整合的关键是 A. 化解矛盾冲突 B. 化解文化冲突 C. 化解利益冲突 D. 化解贸易冲突",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列可能不符合商业伦理规范的是 A. 企业在生产过程中提供健康、安全的工作环境 B. 同股不同权 C. 企业禁止从不尊重人权、无人性道义的企业采购物资 D. 员工努力工作以达成公司目标并获得薪酬与职业升迁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列可能不符合商业伦理规范的是 A. 企业在生产过程中提供健康、安全的工作环境 B. 同股不同权 C. 企业禁止从不尊重人权、无人性道义的企业采购物资 D. 员工努力工作以达成公司目标并获得薪酬与职业升迁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业的股东分为企业（）和（）两大类 A. 管理股东；投资者股东 B. 个人股东；机构股东 C. 大股东；小股东 D. 控制股东；非控制股东",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业的股东分为企业（）和（）两大类 A. 管理股东；投资者股东 B. 个人股东；机构股东 C. 大股东；小股东 D. 控制股东；非控制股东",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业中存在“道德风险”的主要原因 A. 权力与责任不对称 B. 某种垄断 C. 信息不对称 D. 过分追求利润最大化",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业中存在“道德风险”的主要原因 A. 权力与责任不对称 B. 某种垄断 C. 信息不对称 D. 过分追求利润最大化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于不正当竞争行为的是 A. 恶性低价竞争 B. 蓄意抹黑对手 C. 商业贿赂 D. 性别、种族歧视",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于不正当竞争行为的是 A. 恶性低价竞争 B. 蓄意抹黑对手 C. 商业贿赂 D. 性别、种族歧视",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业伦理守则的基本依据是 A. 道德规范 B. 伦理观念 C. 伦理守则 D. 社会伦理规范",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业伦理守则的基本依据是 A. 道德规范 B. 伦理观念 C. 伦理守则 D. 社会伦理规范",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通常所说的商业信用体系建设是由信用和（）两方面构成的 A. 诚信 B. 法律 C. 信托 D. 伦理",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通常所说的商业信用体系建设是由信用和（）两方面构成的 A. 诚信 B. 法律 C. 信托 D. 伦理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "经济活动中的信用区别于其他借贷行为的首要特征是偿还性和 A. 支付利息 B. 让渡货币 C. 中介介入 D. 让渡商品",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "经济活动中的信用区别于其他借贷行为的首要特征是偿还性和 A. 支付利息 B. 让渡货币 C. 中介介入 D. 让渡商品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面不属于契约关系中公平理念的集中体现的是 A. 诚信制度 B. 显失公平制度 C. 情势 变更制度 D. 重大误解制度",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面不属于契约关系中公平理念的集中体现的是 A. 诚信制度 B. 显失公平制度 C. 情势 变更制度 D. 重大误解制度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公正的原则有很多具体的表现形式，其中最核心的是 A. 分配性公正 B. 补偿性公正 C. 惩罚公正 D. 制度公正",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公正的原则有很多具体的表现形式，其中最核心的是 A. 分配性公正 B. 补偿性公正 C. 惩罚公正 D. 制度公正",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "跨国公司伦理关系整合战略的终极目标是 A. 社区化 B. 利益化 C. 本土化 D. 信息化",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "跨国公司伦理关系整合战略的终极目标是 A. 社区化 B. 利益化 C. 本土化 D. 信息化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "市场经济按其发展程度高低经历了实物交换关系、货币交换关系和()三种形态 A. 纸币交换关系 B. 信用交换关系 C. 商业交换关系 D. 信贷交换关系",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "市场经济按其发展程度高低经历了实物交换关系、货币交换关系和()三种形态 A. 纸币交换关系 B. 信用交换关系 C. 商业交换关系 D. 信贷交换关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "随着市场经济的发达，居统治地位的是 A. 债权关系 B. 契约关系 C. 物权关系 D. 财产交换关系",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "随着市场经济的发达，居统治地位的是 A. 债权关系 B. 契约关系 C. 物权关系 D. 财产交换关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织内部的沟通过程就是 A. 分享信息 B. 协作 C. 观念趋于一致 D. 互助",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织内部的沟通过程就是 A. 分享信息 B. 协作 C. 观念趋于一致 D. 互助",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理关系是一种 A. 仅仅包含在家庭关系中的社会关系 B. 人们自行设计，并经人们努力创造的一种客观事实 C. 独立于其它社会关系之外的一种关系 D. 客观的、必然的社会关系事实",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理关系是一种 A. 仅仅包含在家庭关系中的社会关系 B. 人们自行设计，并经人们努力创造的一种客观事实 C. 独立于其它社会关系之外的一种关系 D. 客观的、必然的社会关系事实",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在卡罗尔设计的金字塔型企业社会责任模型中，最基础层面的责任是企业的 A. 经济责任 B. 慈善责任 C. 伦理责任 D. 法律责任",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在卡罗尔设计的金字塔型企业社会责任模型中，最基础层面的责任是企业的 A. 经济责任 B. 慈善责任 C. 伦理责任 D. 法律责任",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业伦理导向下的企业与员工关系的构建原则是 A. 尊重人、关心人、帮助人 B. 尊重人、关心人、公正地对待人 C. 尊重人、关心人、友好地对待人 D. 尊重人、关心人、理解人",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业伦理导向下的企业与员工关系的构建原则是 A. 尊重人、关心人、帮助人 B. 尊重人、关心人、公正地对待人 C. 尊重人、关心人、友好地对待人 D. 尊重人、关心人、理解人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业立业之根本要求是 A. 诚实守信 B. 社会利益 C. 盈利 D. 增大竞争力",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业立业之根本要求是 A. 诚实守信 B. 社会利益 C. 盈利 D. 增大竞争力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关系营销更注意维系现有顾客，不让顾客有离去的机会，这就是企业推行的 A. 少量顾客背离计划 B. 挽留顾客计划 C. 零顾客背离计划 D. 留住多数顾客计划",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关系营销更注意维系现有顾客，不让顾客有离去的机会，这就是企业推行的 A. 少量顾客背离计划 B. 挽留顾客计划 C. 零顾客背离计划 D. 留住多数顾客计划",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“树立‘共生’理念，共建美好家园”，这是 A. 间接利益相关者公共关系构建的基点 B. 现代公共关系构建的基点 C. 部门关系构建的基点 D. 直接利益相关者公共关系构建的基点",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“树立‘共生’理念，共建美好家园”，这是 A. 间接利益相关者公共关系构建的基点 B. 现代公共关系构建的基点 C. 部门关系构建的基点 D. 直接利益相关者公共关系构建的基点",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法正确的是（）a传统产品赔偿前提是厂商在产品安全方面没尽到责任，是消费者受损害；b严格赔偿责任前提是无论厂商是否在产品安全方面尽到责任，消费者受到伤害；c传统的产品赔偿条件是产品的安全性能与缺陷；d严格的产品赔偿责任的条件是产品的某种安全性能有缺陷 A. abc B. bcd C. abd D. abcd",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法正确的是（）a传统产品赔偿前提是厂商在产品安全方面没尽到责任，是消费者受损害；b严格赔偿责任前提是无论厂商是否在产品安全方面尽到责任，消费者受到伤害；c传统的产品赔偿条件是产品的安全性能与缺陷；d严格的产品赔偿责任的条件是产品的某种安全性能有缺陷 A. abc B. bcd C. abd D. abcd",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "合乎伦理的管理是 A. 提升企业的道德水准，消除不道德经营行为，获取正当的经济效益 B. 一项管理职能，即是管理工作的一部分 C. 创造良好的部关系，为企业经济效益服务 D. 保持企业与公众之间的交流、理解、认可与合作",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "合乎伦理的管理是 A. 提升企业的道德水准，消除不道德经营行为，获取正当的经济效益 B. 一项管理职能，即是管理工作的一部分 C. 创造良好的部关系，为企业经济效益服务 D. 保持企业与公众之间的交流、理解、认可与合作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "注册会计师职业行为的偏差，将严重影响整个行业的 A. 诚信度 B. 社会信誉度 C. 道德状况 D. 思想状况",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "注册会计师职业行为的偏差，将严重影响整个行业的 A. 诚信度 B. 社会信誉度 C. 道德状况 D. 思想状况",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业伦理学是（）的一个分支 A. 经济伦理学 B. 政治伦理学 C. 心理伦理学 D. 科技伦理学",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业伦理学是（）的一个分支 A. 经济伦理学 B. 政治伦理学 C. 心理伦理学 D. 科技伦理学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "市场经济的发展有助于消除（）的以权谋私、家长作风和行业不正之风，有助于树立会计人员平等互助，以及会计部门与其他行业的平等互助关系 A. 会计行业 B. 会计信息 C. 会计职业 D. 会计道德",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "市场经济的发展有助于消除（）的以权谋私、家长作风和行业不正之风，有助于树立会计人员平等互助，以及会计部门与其他行业的平等互助关系 A. 会计行业 B. 会计信息 C. 会计职业 D. 会计道德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业不能只顾自身的利益，必须考虑社会利益，承担社会义务，这就是企业的 A. 企业使命 B. 社会责任 C. 企业愿景 D. 环境责任",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业不能只顾自身的利益，必须考虑社会利益，承担社会义务，这就是企业的 A. 企业使命 B. 社会责任 C. 企业愿景 D. 环境责任",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于美国国家产品安全委员会关于合理的危险的定义的是 A. 消费者能够估计危险发生的必然性和严重性 B. 消费者愿意花钱去防止的危险 C. 消费者为了获得此外无法获得的利益而自愿接受的危险 D. 消费者知道危险发生时应如何应付",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于美国国家产品安全委员会关于合理的危险的定义的是 A. 消费者能够估计危险发生的必然性和严重性 B. 消费者愿意花钱去防止的危险 C. 消费者为了获得此外无法获得的利益而自愿接受的危险 D. 消费者知道危险发生时应如何应付",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面属于产品策略的道德原则的是 A. 价值相符 B. 道德化广告 C. 明码标价 D. 道德化包装",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面属于产品策略的道德原则的是 A. 价值相符 B. 道德化广告 C. 明码标价 D. 道德化包装",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“兵不厌诈”最可能反映的商业伦理是 A. 股东与管理层伦理 B. 消费者关系中的伦理 C. 雇员与员工伦理 D. 市场竞争与合作伦理",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“兵不厌诈”最可能反映的商业伦理是 A. 股东与管理层伦理 B. 消费者关系中的伦理 C. 雇员与员工伦理 D. 市场竞争与合作伦理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项是对利己与利他之间的辩证关系的准确概括? A. 自然人 B. 经济人 C. 道德人 D. 社会人",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项是对利己与利他之间的辩证关系的准确概括? A. 自然人 B. 经济人 C. 道德人 D. 社会人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在A·B·卡罗尔设计的金字塔型社会责任模型中，第三层是 A. 慈善责任 B. 经济责任 C. 企业的伦理责任 D. 法律责任",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在A·B·卡罗尔设计的金字塔型社会责任模型中，第三层是 A. 慈善责任 B. 经济责任 C. 企业的伦理责任 D. 法律责任",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一项是规企业经济行为的道德约束，是商业道德中的最重要、最核心、最基本的品德标准 A. 契约 B. 诚信 C. 信用 D. 平等",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一项是规企业经济行为的道德约束，是商业道德中的最重要、最核心、最基本的品德标准 A. 契约 B. 诚信 C. 信用 D. 平等",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孔子的名言“己所不欲，勿施与人”之所以流传至今，是由于它道出了企业营销道德的一个原则，即 A. 集体主义 B. 互利与合作 C. 公平竞争 D. 优质服务",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孔子的名言“己所不欲，勿施与人”之所以流传至今，是由于它道出了企业营销道德的一个原则，即 A. 集体主义 B. 互利与合作 C. 公平竞争 D. 优质服务",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各项中，属于注册会计师执行鉴证业务的灵魂，是客观、公正的体现，也是职业道德守则精髓的是 A. 专业知识 B. 客观 C. 诚信 D. 独立性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各项中，属于注册会计师执行鉴证业务的灵魂，是客观、公正的体现，也是职业道德守则精髓的是 A. 专业知识 B. 客观 C. 诚信 D. 独立性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一项是社会对其成员最基本的、必须遵守的道德要求，是最低限度的道德 A. 社会规 B. 法律规 C. 伦理规 D. 文明规",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一项是社会对其成员最基本的、必须遵守的道德要求，是最低限度的道德 A. 社会规 B. 法律规 C. 伦理规 D. 文明规",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人类历史上的第三次大分工具有特殊的意义，其意义在于产生了一个独立的经济部门即 A. 农业 B. 手工业 C. 商业 D. 工业",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人类历史上的第三次大分工具有特殊的意义，其意义在于产生了一个独立的经济部门即 A. 农业 B. 手工业 C. 商业 D. 工业",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业整体的道德责任（）a企业内部成员行为当有利于企业整体道德责任的履行；b高效率地为社会提供所需要的产品和服务；c企业当尊重所有参与者和相关者的权利按贡献分配的原则；d企业内部成员都要做好本职工作 A. abc B. acd C. bc D. abcd",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业整体的道德责任（）a企业内部成员行为当有利于企业整体道德责任的履行；b高效率地为社会提供所需要的产品和服务；c企业当尊重所有参与者和相关者的权利按贡献分配的原则；d企业内部成员都要做好本职工作 A. abc B. acd C. bc D. abcd",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "市场营销的出发点和最终归宿是 A. 股东 B. 雇员 C. 供货商 D. 顾客",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "市场营销的出发点和最终归宿是 A. 股东 B. 雇员 C. 供货商 D. 顾客",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关系营销实施步骤中的资源配置包括人力资源配置和 A. 信息资源配置 B. 组织设计 C. 信息资源共享 D. 文化整合",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关系营销实施步骤中的资源配置包括人力资源配置和 A. 信息资源配置 B. 组织设计 C. 信息资源共享 D. 文化整合",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理经营的天敌是 A. 中长期行为 B. 短期行为 C. 中期行为 D. 长期行为",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理经营的天敌是 A. 中长期行为 B. 短期行为 C. 中期行为 D. 长期行为",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于侵犯商业秘密的是 A. 以盗窃、贿赂、欺诈、胁迫、电子侵入或者其他不正当手段获取权利人的商业秘密 B. 披露、使用或者允许他人使用以前项手段获取的权利人的商业秘密 C. 通过组织虚假交易、编造虚假信息等方式，帮助其他经营者进行虚假或引人误解的商业宣传 D. 违反保密义务或者违反权利人有关保守商业秘密的要求，披露、使用或者允许他人使用其所长握的商业秘密",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于侵犯商业秘密的是 A. 以盗窃、贿赂、欺诈、胁迫、电子侵入或者其他不正当手段获取权利人的商业秘密 B. 披露、使用或者允许他人使用以前项手段获取的权利人的商业秘密 C. 通过组织虚假交易、编造虚假信息等方式，帮助其他经营者进行虚假或引人误解的商业宣传 D. 违反保密义务或者违反权利人有关保守商业秘密的要求，披露、使用或者允许他人使用其所长握的商业秘密",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从经济学角度看，道德在建立市场机制中具有的作用是 A. 浪费交易费用 B. 保障社会利益 C. 降低市场成本 D. 建立信用制度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从经济学角度看，道德在建立市场机制中具有的作用是 A. 浪费交易费用 B. 保障社会利益 C. 降低市场成本 D. 建立信用制度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "狭义的绿色营销也称 A. 关系营销 B. 观念营销 C. 环境营销 D. 伦理营销",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "狭义的绿色营销也称 A. 关系营销 B. 观念营销 C. 环境营销 D. 伦理营销",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与企业发生利益联系的个人或团体，具有经济涵、社会文化涵乃至政治涵的集团，称为 A. 直接利益相关者 B. 间接利益相关者 C. 利益相关者 D. 公众",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与企业发生利益联系的个人或团体，具有经济涵、社会文化涵乃至政治涵的集团，称为 A. 直接利益相关者 B. 间接利益相关者 C. 利益相关者 D. 公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "将企业置身于社会经济大环境中来考察企业的市场营销活动，认为企业营销是一种与消费者、竞争者等等发生互动作用的过程，这种营销被视为 A. 绿色营销 B. 道德营销 C. 传统营销 D. 关系营销",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "将企业置身于社会经济大环境中来考察企业的市场营销活动，认为企业营销是一种与消费者、竞争者等等发生互动作用的过程，这种营销被视为 A. 绿色营销 B. 道德营销 C. 传统营销 D. 关系营销",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面属于价格策略中的道德原则的是 A. 道德化包装 B. 广告欺诈 C. 压强式推销 D. 恶性价格战",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面属于价格策略中的道德原则的是 A. 道德化包装 B. 广告欺诈 C. 压强式推销 D. 恶性价格战",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "资本主义契约制度的典型特征是 A. 国家对契约严加干预 B. 实行契约自由原则 C. 对违约者的惩罚极其严格，甚至施以刑罚 D. 注重形式，程序繁琐",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "资本主义契约制度的典型特征是 A. 国家对契约严加干预 B. 实行契约自由原则 C. 对违约者的惩罚极其严格，甚至施以刑罚 D. 注重形式，程序繁琐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新冠肺炎疫情防控期间，“天价口罩”凸显了相关企业违反的商业伦理类型是 A. 侵犯商业秘密 B. 虚假宣传 C. 恶性价格竞争 D. 操纵价格行为",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新冠肺炎疫情防控期间，“天价口罩”凸显了相关企业违反的商业伦理类型是 A. 侵犯商业秘密 B. 虚假宣传 C. 恶性价格竞争 D. 操纵价格行为",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "构成人生幸福的基本要素不包括 A. 人的全面发展 B. 人的友爱情谊 C. 人的身心健康 D. 人的创造活动",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "构成人生幸福的基本要素不包括 A. 人的全面发展 B. 人的友爱情谊 C. 人的身心健康 D. 人的创造活动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从宏观角度看，下列不合伦理的行为会引起成本增加的是 A. 欺骗 B. 贿赂 C. 偷税漏税 D. 价格欺骗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从宏观角度看，下列不合伦理的行为会引起成本增加的是 A. 欺骗 B. 贿赂 C. 偷税漏税 D. 价格欺骗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "解决商业伦理基本矛盾的总的方法、实现合理的商业伦理秩 序的基本原则是 A. 兼顾与结合，最优化妥协 B. 协调发展 C. 高效、公正、平衡 D. 有机结合",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "解决商业伦理基本矛盾的总的方法、实现合理的商业伦理秩 序的基本原则是 A. 兼顾与结合，最优化妥协 B. 协调发展 C. 高效、公正、平衡 D. 有机结合",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世纪企业与竞争者之间的关系本质上是 A. 消灭对手 B. 互惠互利 C. 竞争合作 D. 互相促进",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世纪企业与竞争者之间的关系本质上是 A. 消灭对手 B. 互惠互利 C. 竞争合作 D. 互相促进",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面不属于影响世界市场发达程度的因素的是 A. 资本主义发展程度 B. 国际分工的广度 C. 参与的国家数量 D. 商品总量",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面不属于影响世界市场发达程度的因素的是 A. 资本主义发展程度 B. 国际分工的广度 C. 参与的国家数量 D. 商品总量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "资本主义社会的契约制度较之以前的契约制度的明显特点是立法体系完备和 A. 诚信度高 B. 国家干涉 C. 机会平等 D. 契约自由原则",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "资本主义社会的契约制度较之以前的契约制度的明显特点是立法体系完备和 A. 诚信度高 B. 国家干涉 C. 机会平等 D. 契约自由原则",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业部部门关系建设的原则是 A. 沟通与创新 B. 沟通与协调 C. 创新与协调 D. 合作与沟通",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业部部门关系建设的原则是 A. 沟通与创新 B. 沟通与协调 C. 创新与协调 D. 合作与沟通",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在市场经济不很发达的时代，居于主导地位的是 A. 财产交换关系 B. 契约关系 C. 债权关系 D. 物权关系",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在市场经济不很发达的时代，居于主导地位的是 A. 财产交换关系 B. 契约关系 C. 债权关系 D. 物权关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业公共关系中最具有核心意义的部分是企业与()的关系 A. 供应商 B. 经销商 C. 消费者 D. 生产商",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业公共关系中最具有核心意义的部分是企业与()的关系 A. 供应商 B. 经销商 C. 消费者 D. 生产商",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "市场经济体制与计划经济体制相比（）a目的一致；b交易与合作方式一致；c组织形式不同 A. abc B. ac C. ab D. bc",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "市场经济体制与计划经济体制相比（）a目的一致；b交易与合作方式一致；c组织形式不同 A. abc B. ac C. ab D. bc",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业与员工的权利与义务可以在雇佣合同中得到规定，包括（）a工资待遇；b工作性质；c工作时间；d退休金 A. abcd B. acd C. bcd D. abc",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业与员工的权利与义务可以在雇佣合同中得到规定，包括（）a工资待遇；b工作性质；c工作时间；d退休金 A. abcd B. acd C. bcd D. abc",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "个人主体品德是由哪些方面构成的? A. 仁、义、廉、耻 B. 仁、义、礼、智、信 C. 知、仁、勇 D. 知、情、意",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "个人主体品德是由哪些方面构成的? A. 仁、义、廉、耻 B. 仁、义、礼、智、信 C. 知、仁、勇 D. 知、情、意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于企业社会责任的说法正确的是 A. 企业社会责任的履行以能给企业带来收益为前提 B. 企业履行社会责任时不应考虑成本与代价 C. 企业社会责任与企业价值实现存在协调统一的可能 D. 企业社会责任与商业伦理是完全不同的内容",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于企业社会责任的说法正确的是 A. 企业社会责任的履行以能给企业带来收益为前提 B. 企业履行社会责任时不应考虑成本与代价 C. 企业社会责任与企业价值实现存在协调统一的可能 D. 企业社会责任与商业伦理是完全不同的内容",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对企业拥有所有权的利益相关者是指 A. 各种与企业有关的国家和地区一级行政管理机关等特殊群体 B. 企业外部的债权人、消费者、经销商和供应商等 C. 在公司取得薪俸的所有员工 D. 所有持有公司股票者",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对企业拥有所有权的利益相关者是指 A. 各种与企业有关的国家和地区一级行政管理机关等特殊群体 B. 企业外部的债权人、消费者、经销商和供应商等 C. 在公司取得薪俸的所有员工 D. 所有持有公司股票者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列各项中，企业的会计人员在面临企业的利益与债权人的利益相冲突或者企业的利益与国家的利益相冲突的情况时，应该采取的行为是 A. 只维护债权人利益 B. 只维护企业利益 C. 与各级人员沟通 D. 主动辞职",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列各项中，企业的会计人员在面临企业的利益与债权人的利益相冲突或者企业的利益与国家的利益相冲突的情况时，应该采取的行为是 A. 只维护债权人利益 B. 只维护企业利益 C. 与各级人员沟通 D. 主动辞职",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人的本性中的社会性反映了人（）的基本需要 A. 物质生活资料 B. 生活意义 C. 社会秩序 D. 社会生活",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人的本性中的社会性反映了人（）的基本需要 A. 物质生活资料 B. 生活意义 C. 社会秩序 D. 社会生活",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在商业信用中，诚实、正直和（）是最基本的构成部分 A. 诚信 B. 遵守协议 C. 伦理 D. 互惠互利",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在商业信用中，诚实、正直和（）是最基本的构成部分 A. 诚信 B. 遵守协议 C. 伦理 D. 互惠互利",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "会计道德教育是根据（）的特点，有目的、有组织、有计划地对会计人员施加系统的会计道德影响，促使会计人员形成会计道德，履行会计道德义务的活动 A. 会计工作 B. 会计信息 C. 会计核算 D. 会计监督",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "会计道德教育是根据（）的特点，有目的、有组织、有计划地对会计人员施加系统的会计道德影响，促使会计人员形成会计道德，履行会计道德义务的活动 A. 会计工作 B. 会计信息 C. 会计核算 D. 会计监督",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人员本土化首先要做的是对本土员工的培训，包括对他们业务能力的培训和 A. 伦理观培训 B. 世界观培训 C. 价值观培训 D. 企业文化培训",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人员本土化首先要做的是对本土员工的培训，包括对他们业务能力的培训和 A. 伦理观培训 B. 世界观培训 C. 价值观培训 D. 企业文化培训",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《道德情操论》的作者是 A. 富兰克林 B. 孔子 C. 墨子 D. 亚当·斯密",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《道德情操论》的作者是 A. 富兰克林 B. 孔子 C. 墨子 D. 亚当·斯密",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "2020年新冠肺炎疫情时期，浦发银行向武汉市慈善总会捐赠人民币2000万元，用于支持新冠肺炎疫情防控工作，这类公益营销属于 A. 设立基金或奖项型 B. 销售分成型 C. 公益事业冠名型 D. 公益捐赠型",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "2020年新冠肺炎疫情时期，浦发银行向武汉市慈善总会捐赠人民币2000万元，用于支持新冠肺炎疫情防控工作，这类公益营销属于 A. 设立基金或奖项型 B. 销售分成型 C. 公益事业冠名型 D. 公益捐赠型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "股东享有的自益权包括资产收益权、退股权、优先受让和认购新股权以及()等 A. 选择和监督管理者权 B. 股东身份权 C. 知情权 D. 决策参与权",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "股东享有的自益权包括资产收益权、退股权、优先受让和认购新股权以及()等 A. 选择和监督管理者权 B. 股东身份权 C. 知情权 D. 决策参与权",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理关系整合的着眼点是企业所面临的 A. 竞争者关系 B. 全方位利益关系 C. 企业发展关系 D. 社会关系",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理关系整合的着眼点是企业所面临的 A. 竞争者关系 B. 全方位利益关系 C. 企业发展关系 D. 社会关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在市场经济中处于最核心、最突出的地位的是（），它是市场经济所要确立的最主要、最重要的道德 A. 诚信道德 B. 互利互惠 C. 仁爱 D. 先义后利",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在市场经济中处于最核心、最突出的地位的是（），它是市场经济所要确立的最主要、最重要的道德 A. 诚信道德 B. 互利互惠 C. 仁爱 D. 先义后利",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人的品德培养的出发点和落脚点是 A. 道德认识与道德实践 B. 道德情感与道德意志 C. 道德认识、道德情感、道德意志与道德教育 D. 道德认识、道德情感、道德意志与道德实践",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人的品德培养的出发点和落脚点是 A. 道德认识与道德实践 B. 道德情感与道德意志 C. 道德认识、道德情感、道德意志与道德教育 D. 道德认识、道德情感、道德意志与道德实践",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们一般把道德和伦理的关系理解为 A. 整体和部分的关系 B. 积极和消极的关系 C. 抽象和具体的关系 D. 弹性和刚性的关系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们一般把道德和伦理的关系理解为 A. 整体和部分的关系 B. 积极和消极的关系 C. 抽象和具体的关系 D. 弹性和刚性的关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列各项中，由政治利益动机导致会计职业道德缺失的是 A. 新上任的管理人员粉饰财务报表 B. 本地企业享有的税收优惠多于外地企业 C. 企业偷税 D. 在申请银行贷款时虚报企业利润",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列各项中，由政治利益动机导致会计职业道德缺失的是 A. 新上任的管理人员粉饰财务报表 B. 本地企业享有的税收优惠多于外地企业 C. 企业偷税 D. 在申请银行贷款时虚报企业利润",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "跨国公司伦理关系整合战略的理论依据是 A. 跨文化管理理论 B. 整合同化理论 C. 同化理论 D. 整合理论",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "跨国公司伦理关系整合战略的理论依据是 A. 跨文化管理理论 B. 整合同化理论 C. 同化理论 D. 整合理论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "针对企业营销活动的性质提出的交易中的基本信条是 A. 公平竞争 B. 优质服务 C. 互利与合作 D. 营销道德原则的制度化",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "针对企业营销活动的性质提出的交易中的基本信条是 A. 公平竞争 B. 优质服务 C. 互利与合作 D. 营销道德原则的制度化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业信用有广义的和狭义之分，广义的商业信用包括 A. 分期付款 B. 信贷交换 C. 预付定金 D. 消费信用",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业信用有广义的和狭义之分，广义的商业信用包括 A. 分期付款 B. 信贷交换 C. 预付定金 D. 消费信用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业与其产品或服务的购买者或直接消费者之间的关系是 A. 员工关系 B. 客户关系 C. 顾客关系 D. 股东关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业与其产品或服务的购买者或直接消费者之间的关系是 A. 员工关系 B. 客户关系 C. 顾客关系 D. 股东关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当前，一些人之所以会产生“靠我们一家企业走正道也没有用，而且走正道还会碰壁，不如随波逐流”的念头，是因为 A. 地方保护主义 B. 金钱的诱惑 C. 法制不够健全 D. 社会风气不良",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当前，一些人之所以会产生“靠我们一家企业走正道也没有用，而且走正道还会碰壁，不如随波逐流”的念头，是因为 A. 地方保护主义 B. 金钱的诱惑 C. 法制不够健全 D. 社会风气不良",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "2016年，年仅22岁的魏则西因癌症去世。他此前曾相信百度上关于“免疫治疗法”癌症治愈率高达90%的广告，花了高昂医药费用却毫无效果。该事件体现了企业违反了营销的道德的 A. 不欺负弱小、不强买强卖 B. 不搞恶俗、弘扬正能量 C. 不投机取巧、故意混淆 D. 不虚假、夸大宣传",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "2016年，年仅22岁的魏则西因癌症去世。他此前曾相信百度上关于“免疫治疗法”癌症治愈率高达90%的广告，花了高昂医药费用却毫无效果。该事件体现了企业违反了营销的道德的 A. 不欺负弱小、不强买强卖 B. 不搞恶俗、弘扬正能量 C. 不投机取巧、故意混淆 D. 不虚假、夸大宣传",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面属于跨国企业直接利益相关者的关系整合的是 A. 股东关系 B. 社区关系 C. 媒体关系 D. 竞争者关系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面属于跨国企业直接利益相关者的关系整合的是 A. 股东关系 B. 社区关系 C. 媒体关系 D. 竞争者关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "跨国企业要建立自己的企业文化所面临的挑战是 A. 成本高 B. 周期短 C. 过程简单 D. 接触少",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "跨国企业要建立自己的企业文化所面临的挑战是 A. 成本高 B. 周期短 C. 过程简单 D. 接触少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "所有权的伦理意义反映在它与（B）的关系之中 A. 平等权 B. 财产权 C. 所有制 D. 交换权",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "所有权的伦理意义反映在它与（B）的关系之中 A. 平等权 B. 财产权 C. 所有制 D. 交换权",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（ ）是市场经济中最核心，最突出地位也是最主要的道德 A. 先义后利 B. 诚信 C. 贵和宽容  D. 互利互惠",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（ ）是市场经济中最核心，最突出地位也是最主要的道德 A. 先义后利 B. 诚信 C. 贵和宽容  D. 互利互惠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "营销本土化伦理关系整合策略的核心是 A. 员工关系策略 B. 顾客关系策略 C. 经销商关系策略 D. 股东关系策略",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "营销本土化伦理关系整合策略的核心是 A. 员工关系策略 B. 顾客关系策略 C. 经销商关系策略 D. 股东关系策略",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业在市场营销价格策略中消除价格欺诈的途径主要有明码 标价和 A. 价值相符 B. 加强管理 C. 渠道畅通 D. 规范法制",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业在市场营销价格策略中消除价格欺诈的途径主要有明码 标价和 A. 价值相符 B. 加强管理 C. 渠道畅通 D. 规范法制",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "全球第一个可用于第三方认证的社会责任国际标准即 A. ISO9000 B. ISO14000 C. SA8000 D. SA9000",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "全球第一个可用于第三方认证的社会责任国际标准即 A. ISO9000 B. ISO14000 C. SA8000 D. SA9000",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列各项提高会计职业道德水平的措施中，属于深化体制改革、转换政府职能的是 A. 提高会计人员的专业技能 B. 建立道德行为档案 C. 完善公司治理制度 D. 加强社会舆论监督",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列各项提高会计职业道德水平的措施中，属于深化体制改革、转换政府职能的是 A. 提高会计人员的专业技能 B. 建立道德行为档案 C. 完善公司治理制度 D. 加强社会舆论监督",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在商业行为过程中，从动机到效果，表现为两者的 A. 一致性 B. 不一定一致 C. 其他 D. 非一致性",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在商业行为过程中，从动机到效果，表现为两者的 A. 一致性 B. 不一定一致 C. 其他 D. 非一致性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于商业贿赂的说法正确的是 A. 代理费属于一种商业贿赂 B. 润滑贿赂属于一种商业贿赂 C. 是一种主动行为 D. 是一种被强迫的付出",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于商业贿赂的说法正确的是 A. 代理费属于一种商业贿赂 B. 润滑贿赂属于一种商业贿赂 C. 是一种主动行为 D. 是一种被强迫的付出",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理学可以分为“理论伦理学”和 A. 道德伦理学 B. 规范伦理学 C. 应用伦理学 D. 美德伦理学",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理学可以分为“理论伦理学”和 A. 道德伦理学 B. 规范伦理学 C. 应用伦理学 D. 美德伦理学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "道德准则是较普遍的标准，用于评价个人和组织行为。下面不属于这个标准的 A. 公正原则 B. 功利原则 C. 平等原则 D. 权利原则",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "道德准则是较普遍的标准，用于评价个人和组织行为。下面不属于这个标准的 A. 公正原则 B. 功利原则 C. 平等原则 D. 权利原则",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面不属于企业与竞争者关系构建的原则的是 A. 以诚相待 B. 彼此沟通 C. 公平竞争 D. 相互学习",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面不属于企业与竞争者关系构建的原则的是 A. 以诚相待 B. 彼此沟通 C. 公平竞争 D. 相互学习",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各项中，明确指出注册会计师执行审计和审阅业务以及其他鉴证业务时，应当从实质上和形式上保持独立性，不得因任何利害关系影响其客观性的是 A. 《审计准则》 B. 《职业道德守则》 C. 《会计准则》 D. 《职业道德基本准则》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各项中，明确指出注册会计师执行审计和审阅业务以及其他鉴证业务时，应当从实质上和形式上保持独立性，不得因任何利害关系影响其客观性的是 A. 《审计准则》 B. 《职业道德守则》 C. 《会计准则》 D. 《职业道德基本准则》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中，不属于企业股东权利的是 A. 对企业资产的控制权 B. 其他有关法规、规则规定的其他权利 C. 拥有剩余索取权 D. 企业章程的权利",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中，不属于企业股东权利的是 A. 对企业资产的控制权 B. 其他有关法规、规则规定的其他权利 C. 拥有剩余索取权 D. 企业章程的权利",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业文化的核心是 A. 企业人文观 B. 企业道德观 C. 企业伦理观 D. 企业价值观",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业文化的核心是 A. 企业人文观 B. 企业道德观 C. 企业伦理观 D. 企业价值观",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项是指生产直接以交换为目的的经济形式 A. 计划经济 B. 商品经济 C. 市场经济 D. 商品交换",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项是指生产直接以交换为目的的经济形式 A. 计划经济 B. 商品经济 C. 市场经济 D. 商品交换",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业员工具备优秀企业诚信品质的首要要求是 A. 保持正直客观立场 B. 企业经营判断与责任能力 C. 笃信虔敬态度 D. 公正平等意识",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业员工具备优秀企业诚信品质的首要要求是 A. 保持正直客观立场 B. 企业经营判断与责任能力 C. 笃信虔敬态度 D. 公正平等意识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当利益相关者的利益互相发生冲突时，一般来说处于优先地位 的是 A. 企业利益 B. 个人利益 C. 国家利益 D. 社会利益",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当利益相关者的利益互相发生冲突时，一般来说处于优先地位 的是 A. 企业利益 B. 个人利益 C. 国家利益 D. 社会利益",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一定社会的伦理受制于一定社会的（）和经济关系 A. 所有制形式 B. 道德形式 C. 财产权形式 D. 法律形式",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一定社会的伦理受制于一定社会的（）和经济关系 A. 所有制形式 B. 道德形式 C. 财产权形式 D. 法律形式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项是一种借贷行为，是不同所有者之间商品和货币资金的借贷及赊销预付等行为 A. 商业信用 B. 契约 C. 商业诚信 D. 合同",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项是一种借贷行为，是不同所有者之间商品和货币资金的借贷及赊销预付等行为 A. 商业信用 B. 契约 C. 商业诚信 D. 合同",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "真正的关系营销是达到关系双方的 A. 协同一致 B. 双向沟通 C. 信息畅通 D. 互惠互利",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "真正的关系营销是达到关系双方的 A. 协同一致 B. 双向沟通 C. 信息畅通 D. 互惠互利",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“东京回合”达成的有关协议体现的原则是 A. 三边互惠 B. 单边互惠 C. 双边互惠 D. 多边互惠",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“东京回合”达成的有关协议体现的原则是 A. 三边互惠 B. 单边互惠 C. 双边互惠 D. 多边互惠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "跨国公司伦理关系整合战略的终极目标是 A. 全球化 B. 网络化 C. 本土化 D. 一体化",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "跨国公司伦理关系整合战略的终极目标是 A. 全球化 B. 网络化 C. 本土化 D. 一体化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业活动的目的与商业活动手段的关系是目的（）手段， 手段为目的服务 A. 体现 B. 满足 C. 说明 D. 决定",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业活动的目的与商业活动手段的关系是目的（）手段， 手段为目的服务 A. 体现 B. 满足 C. 说明 D. 决定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个国家的人均国民收入超过（）美元，信用交易将不可避免地成为市场经济的主导经济形式，这个国家也将从市场经济体制转而开始进入信用经济体制 A. 2000 B. 3000 C. 4000 D. 1000",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个国家的人均国民收入超过（）美元，信用交易将不可避免地成为市场经济的主导经济形式，这个国家也将从市场经济体制转而开始进入信用经济体制 A. 2000 B. 3000 C. 4000 D. 1000",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面是品德的充要条件，是品德的最终因素、最终环节的是 A. 道德意志 B. 道德认识 C. 道德观念 D. 道德情感",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面是品德的充要条件，是品德的最终因素、最终环节的是 A. 道德意志 B. 道德认识 C. 道德观念 D. 道德情感",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于商业合作中的商业伦理的是 A. 共担责任 B. 平等自愿、互惠互利 C. 商业混淆行为 D. 尊重多元",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于商业合作中的商业伦理的是 A. 共担责任 B. 平等自愿、互惠互利 C. 商业混淆行为 D. 尊重多元",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于商业贿赂方式的是 A. 提供各种佣金或费用、给予回扣 B. 赠送实物 C. 赠送购物卡、赠送有价证券(包括股票、债券等) D. 赠送节日卡片并微信发送祝福",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于商业贿赂方式的是 A. 提供各种佣金或费用、给予回扣 B. 赠送实物 C. 赠送购物卡、赠送有价证券(包括股票、债券等) D. 赠送节日卡片并微信发送祝福",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面不属于世界贸易组织的基本原则的是 A. 相互协调原则 B. 贸易自由化原则 C. 非歧视性原则 D. 公平贸易原则",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面不属于世界贸易组织的基本原则的是 A. 相互协调原则 B. 贸易自由化原则 C. 非歧视性原则 D. 公平贸易原则",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "促使道德认识和道德情感实际发生作用的是 A. 道德理性 B. 道德感性 C. 道德观念 D. 道德意志",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "促使道德认识和道德情感实际发生作用的是 A. 道德理性 B. 道德感性 C. 道德观念 D. 道德意志",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法正确的是 A. 合法与合乎道义并非一一对应关系 B. 不存在既不合法又不合乎道义的产品 C. 符合道义的产品一定是合法的 D. 合法的产品一定是符合道义的",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法正确的是 A. 合法与合乎道义并非一一对应关系 B. 不存在既不合法又不合乎道义的产品 C. 符合道义的产品一定是合法的 D. 合法的产品一定是符合道义的",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "权利所保障的贡献，也就是权力所保障的他人应得的利益，我 们称之为 A. 契约 B. 法律 C. 权利 D. 义务",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "权利所保障的贡献，也就是权力所保障的他人应得的利益，我 们称之为 A. 契约 B. 法律 C. 权利 D. 义务",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "由交易当事人双方订立的有关买卖、抵押、租赁等事项的文书，称为 A. 契约精神 B. 契约制度 C. 契约 D. 契约自由",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "由交易当事人双方订立的有关买卖、抵押、租赁等事项的文书，称为 A. 契约精神 B. 契约制度 C. 契约 D. 契约自由",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理学的同义词是 A. 商业哲学 B. 商业伦理 C. 企业伦理 D. 道德哲学",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理学的同义词是 A. 商业哲学 B. 商业伦理 C. 企业伦理 D. 道德哲学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发挥制度规则外在机制和()的作用是实现公正合理的经济伦理秩序的两个缺一不可的途径 A. 政治权利平等 B. 道德内在机制 C. 制度法律 D. 社会公正秩序",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发挥制度规则外在机制和()的作用是实现公正合理的经济伦理秩序的两个缺一不可的途径 A. 政治权利平等 B. 道德内在机制 C. 制度法律 D. 社会公正秩序",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业自律行为的道德规标准与法律（他律）规的行为标准相比 A. 前者高于后者 B. 前者低于后者 C. 前者和后者相当 D. 二者没有关系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业自律行为的道德规标准与法律（他律）规的行为标准相比 A. 前者高于后者 B. 前者低于后者 C. 前者和后者相当 D. 二者没有关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "道德行为不可缺少的组成部分是商业动机和 A. 商业良心 B. 商业目的 C. 商业手段 D. 商业效果",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "道德行为不可缺少的组成部分是商业动机和 A. 商业良心 B. 商业目的 C. 商业手段 D. 商业效果",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理上的权利和义务来源于 A. 国家 B. 权力 C. 法律 D. 社会",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理上的权利和义务来源于 A. 国家 B. 权力 C. 法律 D. 社会",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们说市场经济就是（），它是现代市场经济的基石 A. 利益经济 B. 信用经济 C. 商业经济 D. 道德经济",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们说市场经济就是（），它是现代市场经济的基石 A. 利益经济 B. 信用经济 C. 商业经济 D. 道德经济",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主狭义社会责任论的代表是 A. 弗雷德曼 B. K·R·恩卓斯 C. 亚当·斯密 D. 阿马蒂亚·森",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主狭义社会责任论的代表是 A. 弗雷德曼 B. K·R·恩卓斯 C. 亚当·斯密 D. 阿马蒂亚·森",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商业领域里建立经济与正义、人道相一致的理想秩序是商业伦理的 A. 过程 B. 对象 C. 目的 D. 方法",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商业领域里建立经济与正义、人道相一致的理想秩序是商业伦理的 A. 过程 B. 对象 C. 目的 D. 方法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "厉以宁教授在《超越市场与超越政府——论道德力量在经济中的作用》一书中指出，在经济运行中除了市场调节、政府调节之外的第三种调节方式是 A. 政策调节 B. 伦理调节 C. 习惯与道德调节 D. 法律调节",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "厉以宁教授在《超越市场与超越政府——论道德力量在经济中的作用》一书中指出，在经济运行中除了市场调节、政府调节之外的第三种调节方式是 A. 政策调节 B. 伦理调节 C. 习惯与道德调节 D. 法律调节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于对产品及其相关事项的暗示性描述的是 A. 向客户承诺无条件退款且无其他特别说明 B. 相关鉴定证书 C. 使用有效期 D. 试用期限和无条件退款的期限与情形",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于对产品及其相关事项的暗示性描述的是 A. 向客户承诺无条件退款且无其他特别说明 B. 相关鉴定证书 C. 使用有效期 D. 试用期限和无条件退款的期限与情形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "金融公众关系是指企业与投资者、股票交易商、股票经纪人、 证券分析家、托管银行、投资公司等的关系，又称 A. 股东关系 B. 合作关系 C. 利益关系 D. 投资关系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "金融公众关系是指企业与投资者、股票交易商、股票经纪人、 证券分析家、托管银行、投资公司等的关系，又称 A. 股东关系 B. 合作关系 C. 利益关系 D. 投资关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面属于商品流通公式表达的是 A. W-W B. G-W-G C. W-G-W D. G-W-W",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面属于商品流通公式表达的是 A. W-W B. G-W-G C. W-G-W D. G-W-W",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "资本主义生产的必要条件是 A. 货币出现 B. 社会分工 C. 对外贸易的发展 D. 技术进步",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "资本主义生产的必要条件是 A. 货币出现 B. 社会分工 C. 对外贸易的发展 D. 技术进步",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "所有权实质上是劳动和()的关系，是人与人之间的利益关系 A. 占有 B. 收益 C. 所有权 D. 道德",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "所有权实质上是劳动和()的关系，是人与人之间的利益关系 A. 占有 B. 收益 C. 所有权 D. 道德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "维系国际贸易关系和国际经济关系的伦理标准是 A. 谈判协商 B. 平等互利 C. 贸易保护 D. 分工合作",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "维系国际贸易关系和国际经济关系的伦理标准是 A. 谈判协商 B. 平等互利 C. 贸易保护 D. 分工合作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个房地产代理商知道他代理的房子的邻居经常举行喧闹的宴会，但他从不把这一点告诉有意向的顾客，该种行为 A. 不属于欺骗 B. 以上答案都不对 C. 若顾客表示希望居住在一个安静的环境中，却没有被告知则为欺骗 D. 属于欺骗",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个房地产代理商知道他代理的房子的邻居经常举行喧闹的宴会，但他从不把这一点告诉有意向的顾客，该种行为 A. 不属于欺骗 B. 以上答案都不对 C. 若顾客表示希望居住在一个安静的环境中，却没有被告知则为欺骗 D. 属于欺骗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于完全竞争市场，以下说法正确的是 A. 完全竞争市场重视社会总效用最大化 B. 完全竞争市场促使人们逐渐形成忠诚、善良和关怀的美德 C. 完全竞争市场重视需求、发展及平等的正义 D. 完全竞争是市场通过引导买方和卖方以完美的效率划分、使用和分配商品，使他们的效用最大化",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于完全竞争市场，以下说法正确的是 A. 完全竞争市场重视社会总效用最大化 B. 完全竞争市场促使人们逐渐形成忠诚、善良和关怀的美德 C. 完全竞争市场重视需求、发展及平等的正义 D. 完全竞争是市场通过引导买方和卖方以完美的效率划分、使用和分配商品，使他们的效用最大化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在市场交换中，物与物或物与货币交换的实质是 A. 自由的转让 B. 所有权转让 C. 使用权转让 D. 平等的转让",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在市场交换中，物与物或物与货币交换的实质是 A. 自由的转让 B. 所有权转让 C. 使用权转让 D. 平等的转让",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代学术界认为契约就是 A. 契约平等 B. 合同 C. 契约自由 D. 合意",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代学术界认为契约就是 A. 契约平等 B. 合同 C. 契约自由 D. 合意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商品交换的两个必要条件：一是生产资料和劳动产品归不同的 劳动者占有，二是 A. 私有制 B. 社会分工 C. 生产力发展 D. 生产关系发展",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商品交换的两个必要条件：一是生产资料和劳动产品归不同的 劳动者占有，二是 A. 私有制 B. 社会分工 C. 生产力发展 D. 生产关系发展",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业间合作本身的伦理不包括 A. 建立在平等自愿的基础上 B. 无须共担责任 C. 进行互惠互利 D. 尊重多元以及个体选择",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业间合作本身的伦理不包括 A. 建立在平等自愿的基础上 B. 无须共担责任 C. 进行互惠互利 D. 尊重多元以及个体选择",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "他律与自律的统一实质上是 A. 公德 B. 道德 C. 法律 D. 伦理",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "他律与自律的统一实质上是 A. 公德 B. 道德 C. 法律 D. 伦理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业伦理守则的基本依据是 A. 社会法律规 B. 社会文明规 C. 社会行为规 D. 社会伦理规",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业伦理守则的基本依据是 A. 社会法律规 B. 社会文明规 C. 社会行为规 D. 社会伦理规",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在市场经济的基本属性与要求中，构成平等交换的先决条件的是 A. 追求利益最大化 B. 产权关系独立化 C. 生产要素商品化 D. 企业行为契约化",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在市场经济的基本属性与要求中，构成平等交换的先决条件的是 A. 追求利益最大化 B. 产权关系独立化 C. 生产要素商品化 D. 企业行为契约化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "道德的营销不包括 A. 公益营销 B. 绿色营销 C. 社群营销 D. 社会营销",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "道德的营销不包括 A. 公益营销 B. 绿色营销 C. 社群营销 D. 社会营销",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "整合同化理论指明，跨国公司的管理应该具有发展性和 A. 全局性 B. 人文性 C. 上升性 D. 稳定性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "整合同化理论指明，跨国公司的管理应该具有发展性和 A. 全局性 B. 人文性 C. 上升性 D. 稳定性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国历来有“谨乎其外以养乎其”这一道德传统，其中反映的道理是 A. 将自律转化为他律 B. 将他律转化为自律 C. 他律与自律的统一 D. 严于律己的重要性",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国历来有“谨乎其外以养乎其”这一道德传统，其中反映的道理是 A. 将自律转化为他律 B. 将他律转化为自律 C. 他律与自律的统一 D. 严于律己的重要性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "权利与义务的等量交换就是 A. 自由 B. 公正 C. 公开 D. 公平",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "权利与义务的等量交换就是 A. 自由 B. 公正 C. 公开 D. 公平",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "直接信用的现代表现形式主要是指 A. 商业信用 B. 银行信用 C. 信用合作社信用 D. 信托信用",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "直接信用的现代表现形式主要是指 A. 商业信用 B. 银行信用 C. 信用合作社信用 D. 信托信用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列行为属于会计活动中不道德行为的是（）a做假帐；b软敲诈；c杠杆收购；d不道德的融资；e不道德投资 A. a B. abcde C. abc D. ab",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列行为属于会计活动中不道德行为的是（）a做假帐；b软敲诈；c杠杆收购；d不道德的融资；e不道德投资 A. a B. abcde C. abc D. ab",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在经济社会，经济自由主要是表现在财产权的（）上 A. 所有权 B. 支配 C. 收益权 D. 转让权",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在经济社会，经济自由主要是表现在财产权的（）上 A. 所有权 B. 支配 C. 收益权 D. 转让权",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "由两个或两个以上的主权国家为确定彼此间的经济关系，特别是贸易关系所缔结的书面协议，叫做 A. WTO B. 贸易合作组织 C. 贸易条约和协定 D. 国际贸易关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "由两个或两个以上的主权国家为确定彼此间的经济关系，特别是贸易关系所缔结的书面协议，叫做 A. WTO B. 贸易合作组织 C. 贸易条约和协定 D. 国际贸易关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业赔偿责任的根据在于（）经济伦理准则 A. 诚实不欺 B. 公平互利 C. 消费者自我保护 D. 等价交换",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业赔偿责任的根据在于（）经济伦理准则 A. 诚实不欺 B. 公平互利 C. 消费者自我保护 D. 等价交换",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理学的研究对象是 A. 道德规范 B. 企业规范 C. 经济公平 D. 伦理道德",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理学的研究对象是 A. 道德规范 B. 企业规范 C. 经济公平 D. 伦理道德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在货币出现以后，借贷活动变的简单了，特别是在产生了以货 币为借贷对象的信用之后，信用的范畴就被认定为 A. 广义的信用活动 B. 狭义的信用活动 C. 狭义的借贷活动 D. 广义的借贷 活动",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在货币出现以后，借贷活动变的简单了，特别是在产生了以货 币为借贷对象的信用之后，信用的范畴就被认定为 A. 广义的信用活动 B. 狭义的信用活动 C. 狭义的借贷活动 D. 广义的借贷 活动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公平交易的实质是 A. 互惠互利 B. 等价交换 C. 自愿 D. 诚实无欺",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公平交易的实质是 A. 互惠互利 B. 等价交换 C. 自愿 D. 诚实无欺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关系双方真正协调运作的关键是 A. 相互学习 B. 组织设计 C. 信息资源共享 D. 文化整合",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关系双方真正协调运作的关键是 A. 相互学习 B. 组织设计 C. 信息资源共享 D. 文化整合",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "所有权的伦理意义反映在它与（）的关系之中 A. 交换权 B. 平等权 C. 财产权 D. 所有制",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "所有权的伦理意义反映在它与（）的关系之中 A. 交换权 B. 平等权 C. 财产权 D. 所有制",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“高投资回报，企业稳定发展”的要求所属的利益相关者是 A. 供应商 B. 债权人 C. 消费者 D. 股东",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“高投资回报，企业稳定发展”的要求所属的利益相关者是 A. 供应商 B. 债权人 C. 消费者 D. 股东",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于不道德工商行为的危害是（）a降低市场经济体制的效率；b侵害他人的权利；c导致自我毁灭 A. bc B. abc C. ac D. ab",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于不道德工商行为的危害是（）a降低市场经济体制的效率；b侵害他人的权利；c导致自我毁灭 A. bc B. abc C. ac D. ab",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "体现买卖双方共同意志建立起来的客观关系的是 A. 诚信 B. 借贷 C. 信用 D. 信托",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "体现买卖双方共同意志建立起来的客观关系的是 A. 诚信 B. 借贷 C. 信用 D. 信托",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "调节伦理关系的强制手段和非强制手段主要指的是 A. 法律与道德 B. 政治与法律 C. 法律与文化 D. 政治与道德",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "调节伦理关系的强制手段和非强制手段主要指的是 A. 法律与道德 B. 政治与法律 C. 法律与文化 D. 政治与道德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从长远看伦理优势可以转化为 A. 道德优势 B. 发展优势 C. 竞争优势 D. 利润优势",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从长远看伦理优势可以转化为 A. 道德优势 B. 发展优势 C. 竞争优势 D. 利润优势",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "压力过大可能会促使人们注重短期目标而忽视 A. 社会进步 B. 企业发展 C. 长期利润 D. 利益相关者利益",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "压力过大可能会促使人们注重短期目标而忽视 A. 社会进步 B. 企业发展 C. 长期利润 D. 利益相关者利益",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "社会信用体系包括诚信道德和 A. 意志道德 B. 交易信用 C. 认识道德 D. 商业信用",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "社会信用体系包括诚信道德和 A. 意志道德 B. 交易信用 C. 认识道德 D. 商业信用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业价值观的中心内容是 A. 企业伦理观 B. 道德伦理观 C. 道德善恶观 D. 企业人文观",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业价值观的中心内容是 A. 企业伦理观 B. 道德伦理观 C. 道德善恶观 D. 企业人文观",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伦理意义上的权利与义务来源于 A. 权利 B. 权利与义务 C. 义务 D. 权力",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伦理意义上的权利与义务来源于 A. 权利 B. 权利与义务 C. 义务 D. 权力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个人的长期行为所表现和形成的稳定的、恒久的、整体的心理状态是 A. 品德 B. 主体道德本质 C. 人格 D. 道德意志",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个人的长期行为所表现和形成的稳定的、恒久的、整体的心理状态是 A. 品德 B. 主体道德本质 C. 人格 D. 道德意志",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人类历史上的.第三次大分工具有特殊的意义，其意义在于产生了一个独立的经济部门即 A. 手工业 B. 农业 C. 商业 D. 工业",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人类历史上的.第三次大分工具有特殊的意义，其意义在于产生了一个独立的经济部门即 A. 手工业 B. 农业 C. 商业 D. 工业",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“清清白白办事，正正直直做人”体现的会计职业道德规范的内容是 A. 坚持准则 B. 客观公正 C. 爱岗敬业 D. 廉洁自律",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“清清白白办事，正正直直做人”体现的会计职业道德规范的内容是 A. 坚持准则 B. 客观公正 C. 爱岗敬业 D. 廉洁自律",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代经济交往中各种信用都得到广泛的发展，其中最基本、最主要的信用形式仍然是 A. 政府信用 B. 国家信用 C. 商业信用 D. 消费信用",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代经济交往中各种信用都得到广泛的发展，其中最基本、最主要的信用形式仍然是 A. 政府信用 B. 国家信用 C. 商业信用 D. 消费信用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "信用管理行业中专业化的信用评价机构主要包括 A. 征信公司 B. 资信管理公司 C. 资信评级机构 D. 咨询评估公司",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "信用管理行业中专业化的信用评价机构主要包括 A. 征信公司 B. 资信管理公司 C. 资信评级机构 D. 咨询评估公司",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "消费者关系指的是企业与其产品或服务的购买者或直接消费者之间的关系，又称为 A. 生产关系 B. 公共关系 C. 顾客关系 D. 买卖关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "消费者关系指的是企业与其产品或服务的购买者或直接消费者之间的关系，又称为 A. 生产关系 B. 公共关系 C. 顾客关系 D. 买卖关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人们追求功利的伦理标准是 A. 权利和义务 B. 公正和平等 C. 公平和公正 D. 均衡和合理",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人们追求功利的伦理标准是 A. 权利和义务 B. 公正和平等 C. 公平和公正 D. 均衡和合理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "调节伦理关系的非强制性手段是 A. 风俗 B. 道德 C. 文化 D. 法律",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "调节伦理关系的非强制性手段是 A. 风俗 B. 道德 C. 文化 D. 法律",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在市场经济中仅靠契约伦理的约束，契约是很难顺利完成的。市场经济发展的必然是将契约关系 A. 市场化 B. 诚信化 C. 法律化 D. 伦理化",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在市场经济中仅靠契约伦理的约束，契约是很难顺利完成的。市场经济发展的必然是将契约关系 A. 市场化 B. 诚信化 C. 法律化 D. 伦理化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "早期的跨国公司是（）向外扩张的产物 A. 工业资本 B. 垄断资本 C. 产业资本 D. 商业资本",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "早期的跨国公司是（）向外扩张的产物 A. 工业资本 B. 垄断资本 C. 产业资本 D. 商业资本",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "建立营销道德最根本的是企业要确立并实施 A. 企业市场 营销观念 B. 社会市场营销观念 C. 人员推销观念 D. 产品组合观念",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "建立营销道德最根本的是企业要确立并实施 A. 企业市场 营销观念 B. 社会市场营销观念 C. 人员推销观念 D. 产品组合观念",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "法律依赖于伦理，反之，法律又是维系伦理的 A. 方法 B. 手段 C. 工具 D. 途径",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "法律依赖于伦理，反之，法律又是维系伦理的 A. 方法 B. 手段 C. 工具 D. 途径",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "道德化品牌管理属于下面营销组合策略中道德原则的是 A. 产品策略的道德原则 B. 促销的道德原则 C. 分销渠道的道德原则 D. 价格策略的道德原则",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "道德化品牌管理属于下面营销组合策略中道德原则的是 A. 产品策略的道德原则 B. 促销的道德原则 C. 分销渠道的道德原则 D. 价格策略的道德原则",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国会计职业道德的历史研究方向是 A. 垂直 B. 水平 C. 横向 D. 纵向",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国会计职业道德的历史研究方向是 A. 垂直 B. 水平 C. 横向 D. 纵向",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

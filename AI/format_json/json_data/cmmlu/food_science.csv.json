@@ -1,0 +1,1432 @@
+[
+  {
+    "question_std": "煎炸食物时油温不宜过高的原因是 A. 以上说法均 B. 油温过高容易使油产生“哈喇味” C. 容易使被煎炸食物的口感不好 D. 油温过高使油产生对人体有害的物质",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "煎炸食物时油温不宜过高的原因是 A. 以上说法均 B. 油温过高容易使油产生“哈喇味” C. 容易使被煎炸食物的口感不好 D. 油温过高使油产生对人体有害的物质",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了满足微生物生长，发酵可以通过三个因素控制，因此下列选项除了 A. 盐浓度 B. 温度 C. 湿度 D. pH",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了满足微生物生长，发酵可以通过三个因素控制，因此下列选项除了 A. 盐浓度 B. 温度 C. 湿度 D. pH",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "软罐头的包装最常用的是 A. PA/PVDC B. PET/Al/PP C. PET/PA/PE D. PET/PP",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "软罐头的包装最常用的是 A. PA/PVDC B. PET/Al/PP C. PET/PA/PE D. PET/PP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品中的水分活度值应 A. ≤1 B. ≥1 C. ≤0.1 D. 10～100",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品中的水分活度值应 A. ≤1 B. ≥1 C. ≤0.1 D. 10～100",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "D值与细菌带菌量 A. 无关 B. 有关 C. 带菌量多D值大 D. 带菌量多D值小",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "D值与细菌带菌量 A. 无关 B. 有关 C. 带菌量多D值大 D. 带菌量多D值小",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品科学依托的基础学科主要是 A. 化学学科 B. 以上全部 C. 生物学科 D. 工程学科",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品科学依托的基础学科主要是 A. 化学学科 B. 以上全部 C. 生物学科 D. 工程学科",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "将啤酒花加入麦芽汁，要煮沸，煮沸的目的除了下列 A. 杀死微生物 B. 浓缩液体 C. 灭活酶 D. 溶解啤酒花",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "将啤酒花加入麦芽汁，要煮沸，煮沸的目的除了下列 A. 杀死微生物 B. 浓缩液体 C. 灭活酶 D. 溶解啤酒花",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一个为粗制品，含非糖物质及有机酸较多，特别是有机酸达到一定浓度时，可使牛奶中的蛋白质发生凝聚和沉淀，营养价值大大降低 A. 蜂蜜 B. 红糖 C. 白糖 D. 木糖醇",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一个为粗制品，含非糖物质及有机酸较多，特别是有机酸达到一定浓度时，可使牛奶中的蛋白质发生凝聚和沉淀，营养价值大大降低 A. 蜂蜜 B. 红糖 C. 白糖 D. 木糖醇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代的食品供应链较之前也发生了变化，商务部大力推广 A. 农户直销 B. 分散化经营 C. 农商对接 D. 粗放生产",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代的食品供应链较之前也发生了变化，商务部大力推广 A. 农户直销 B. 分散化经营 C. 农商对接 D. 粗放生产",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品辐照用的辐照源主要采用 A. X射线 B. 以上全部 C. 铀235 D. 钴60",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品辐照用的辐照源主要采用 A. X射线 B. 以上全部 C. 铀235 D. 钴60",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项不属于抑菌剂的是 A. 丙酸钙 B. 苯甲酸 C. 抗坏血酸 D. 苯甲酸钠",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项不属于抑菌剂的是 A. 丙酸钙 B. 苯甲酸 C. 抗坏血酸 D. 苯甲酸钠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "由于田螺生存在淤泥中，有容易致病的 A. 病毒 B. 微生物 C. 寄生虫 D. 化工污染",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "由于田螺生存在淤泥中，有容易致病的 A. 病毒 B. 微生物 C. 寄生虫 D. 化工污染",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "辐照的方法不包括 A. 微波 B. 可见光 C. 紫外线 D. X射线",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "辐照的方法不包括 A. 微波 B. 可见光 C. 紫外线 D. X射线",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品安全标准的性质是 A. 鼓励性标准 B. 强制性标准 C. 引导性标准 D. 自愿性标准",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品安全标准的性质是 A. 鼓励性标准 B. 强制性标准 C. 引导性标准 D. 自愿性标准",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国食品工业产值占世界食品工业产值的比例是 A. 10% B. 15% C. 30% D. 3%",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国食品工业产值占世界食品工业产值的比例是 A. 10% B. 15% C. 30% D. 3%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "利乐包装纸容器对包装材料的杀菌采用 A. 紫外线 B. 过氧化氢 C. 超高温瞬时 D. 121°C",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "利乐包装纸容器对包装材料的杀菌采用 A. 紫外线 B. 过氧化氢 C. 超高温瞬时 D. 121°C",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "解决铁听罐头铅超标的方法有 A. 采用素铁罐 B. 采用电阻焊罐 C. 采用涂料铁 D. 采用锡焊罐",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "解决铁听罐头铅超标的方法有 A. 采用素铁罐 B. 采用电阻焊罐 C. 采用涂料铁 D. 采用锡焊罐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品干制过程的核心问题是 A. 品质变化 B. 水分转移 C. 湿热转移 D. 水分梯度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品干制过程的核心问题是 A. 品质变化 B. 水分转移 C. 湿热转移 D. 水分梯度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人工脱水技术中最常用的方法是 A. 滚筒干燥 B. 真空干燥 C. 晒干 D. 空气对流干燥",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人工脱水技术中最常用的方法是 A. 滚筒干燥 B. 真空干燥 C. 晒干 D. 空气对流干燥",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "盐渍保藏方法要求食盐溶液的浓度应在多少以上 A. 10% B. 15% C. 20% D. 25%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "盐渍保藏方法要求食盐溶液的浓度应在多少以上 A. 10% B. 15% C. 20% D. 25%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列物质中，可以用来吸附乙烯的是 A. 高锰酸钾 B. 消石灰 C. 碳酸钾 D. 碱溶液",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列物质中，可以用来吸附乙烯的是 A. 高锰酸钾 B. 消石灰 C. 碳酸钾 D. 碱溶液",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "蛋白质约占人体重量的 A. 20% B. 10% C. 25% D. 15%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "蛋白质约占人体重量的 A. 20% B. 10% C. 25% D. 15%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前发酵工业大多数采用（）来制备大量的无菌空气 A. 静电除菌 B. 射线灭菌 C. 加热灭菌 D. 介质过滤除菌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前发酵工业大多数采用（）来制备大量的无菌空气 A. 静电除菌 B. 射线灭菌 C. 加热灭菌 D. 介质过滤除菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "痢疾杆菌很耐寒，在冰块中能生存 A. 三个月 B. 半年 C. 一年 D. 一个月",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "痢疾杆菌很耐寒，在冰块中能生存 A. 三个月 B. 半年 C. 一年 D. 一个月",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品质量安全市场准入标志“QS”表示的含义是 A. 符合标准 B. 认证标志 C. 以上都是 D. 质量安全",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品质量安全市场准入标志“QS”表示的含义是 A. 符合标准 B. 认证标志 C. 以上都是 D. 质量安全",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于冰淇淋加工步骤的是 A. 硬化 B. 老化 C. 凝冻 D. 护色",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于冰淇淋加工步骤的是 A. 硬化 B. 老化 C. 凝冻 D. 护色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项不是维生素A的活性形式的是 A. 视黄醛 B. 视黄酮 C. 视黄醇 D. 视黄酸",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项不是维生素A的活性形式的是 A. 视黄醛 B. 视黄酮 C. 视黄醇 D. 视黄酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "蒸煮袋的包装材料最常用的是 A. PET/Al/PP B. PET/PA/PE C. PET/PP D. PA/PVDC",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "蒸煮袋的包装材料最常用的是 A. PET/Al/PP B. PET/PA/PE C. PET/PP D. PA/PVDC",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在常量凯氏定氮法消化过程中，加入哪种物质会起到提高溶液沸点的作用 A. 氧化汞 B. 硫酸钾 C. 硒粉 D. 硫酸铜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在常量凯氏定氮法消化过程中，加入哪种物质会起到提高溶液沸点的作用 A. 氧化汞 B. 硫酸钾 C. 硒粉 D. 硫酸铜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在脂类测定中以下哪项不属于溶剂萃取法 A. 巴布科克法 B. 索氏提取法 C. 碱性乙醚提取法 D. 酸性乙醚提取法",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在脂类测定中以下哪项不属于溶剂萃取法 A. 巴布科克法 B. 索氏提取法 C. 碱性乙醚提取法 D. 酸性乙醚提取法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罐装食品中最耐热性最强的微生物是 A. 大肠杆菌 B. 肉毒梭状芽孢杆菌 C. 沙门氏菌 D. 乳酸菌",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罐装食品中最耐热性最强的微生物是 A. 大肠杆菌 B. 肉毒梭状芽孢杆菌 C. 沙门氏菌 D. 乳酸菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "水俣病是什么中毒引起的 A. 砷 B. 氰 C. 苯 D. 汞",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "水俣病是什么中毒引起的 A. 砷 B. 氰 C. 苯 D. 汞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列矿物质中属于常量矿物质的是 A. 钠 B. 碘 C. 铁 D. 锌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列矿物质中属于常量矿物质的是 A. 钠 B. 碘 C. 铁 D. 锌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《中华人民共和国食品安全法实施条例》是根据什么制定 A. 《中华人民共和国食品安全法》 B. 《中华人民共和国反不正当竞争法》 C. 《中华人民共和国民法通则》 D. 《中华人民共和国消费者权益保护法》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《中华人民共和国食品安全法实施条例》是根据什么制定 A. 《中华人民共和国食品安全法》 B. 《中华人民共和国反不正当竞争法》 C. 《中华人民共和国民法通则》 D. 《中华人民共和国消费者权益保护法》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "识别真瓶假酒的正确做法是 A. 看包装，真瓶假酒的包装盒上有磨损的痕迹，防伪商标没有立体感 B. 以上做法都正确 C. 摇酒瓶，里面的液体开始变混浊，没有真酒透亮 D. 凑近酒瓶，能闻到由于瓶盖密封不严而散发出的酒香",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "识别真瓶假酒的正确做法是 A. 看包装，真瓶假酒的包装盒上有磨损的痕迹，防伪商标没有立体感 B. 以上做法都正确 C. 摇酒瓶，里面的液体开始变混浊，没有真酒透亮 D. 凑近酒瓶，能闻到由于瓶盖密封不严而散发出的酒香",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "钙的最好食物来源是 A. 豆类和豆制品 B. 水 C. 乳和乳制品 D. 蔬菜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "钙的最好食物来源是 A. 豆类和豆制品 B. 水 C. 乳和乳制品 D. 蔬菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "金属罐圆罐编号按 A. 外径外高 B. 内径外高 C. 内径内高 D. 外径内高",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "金属罐圆罐编号按 A. 外径外高 B. 内径外高 C. 内径内高 D. 外径内高",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《散装食品卫生管理规范》中的散装食品是指 A. 需清洗后加工的原粮 B. 新鲜果蔬 C. 需清洗后加工的鲜冻畜禽产品和水产品 D. 无预包装的食品、食品原料及加工半成品",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《散装食品卫生管理规范》中的散装食品是指 A. 需清洗后加工的原粮 B. 新鲜果蔬 C. 需清洗后加工的鲜冻畜禽产品和水产品 D. 无预包装的食品、食品原料及加工半成品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们吃的最多的转基因的食品是 A. 水果 B. 蔬菜 C. 花生 D. 大豆",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们吃的最多的转基因的食品是 A. 水果 B. 蔬菜 C. 花生 D. 大豆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下关于优质酱油的错误说法是 A. 优质酱油，有酱香味 B. 优质酱油粘稠性较大 C. 摇动瓶子不挂瓶的酱油为优质酱油 D. 优质酱油呈红褐色或棕色",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下关于优质酱油的错误说法是 A. 优质酱油，有酱香味 B. 优质酱油粘稠性较大 C. 摇动瓶子不挂瓶的酱油为优质酱油 D. 优质酱油呈红褐色或棕色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "喷雾干燥的喷雾系统生产上主要有 A. 气流喷雾 B. 压力喷雾 C. 以上全部 D. 离心喷雾",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "喷雾干燥的喷雾系统生产上主要有 A. 气流喷雾 B. 压力喷雾 C. 以上全部 D. 离心喷雾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品中大部分细菌繁殖的适宜温度是 A. 高于10°C B. 10°C至60°C C. 低于10°C D. 高于60°C",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品中大部分细菌繁殖的适宜温度是 A. 高于10°C B. 10°C至60°C C. 低于10°C D. 高于60°C",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "同一种食品在进行热交换过程中，热交换速度最快的是 A. 不受形状限制 B. 颗粒型 C. 薄片状 D. 条型",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "同一种食品在进行热交换过程中，热交换速度最快的是 A. 不受形状限制 B. 颗粒型 C. 薄片状 D. 条型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品杀菌时间的计算方法有 A. 图解法 B. 以上全部 C. 求和法 D. 公式法",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品杀菌时间的计算方法有 A. 图解法 B. 以上全部 C. 求和法 D. 公式法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "液氮喷淋冻结在冻结速度上属于 A. 中速冻结 B. 快速冻结 C. 以上全部 D. 缓慢冻结",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "液氮喷淋冻结在冻结速度上属于 A. 中速冻结 B. 快速冻结 C. 以上全部 D. 缓慢冻结",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在面糊和面团的混合工程中通常的目标不包括 A. 淀粉的黏度 B. 成分的均一分布 C. 针对不同的产品生成适当面筋 D. 发酵剂的损失最小",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在面糊和面团的混合工程中通常的目标不包括 A. 淀粉的黏度 B. 成分的均一分布 C. 针对不同的产品生成适当面筋 D. 发酵剂的损失最小",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "影响食品中微生物生长的主要因素不包括 A. 微生物种类 B. 贮藏温度 C. 氧气 D. 水分",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "影响食品中微生物生长的主要因素不包括 A. 微生物种类 B. 贮藏温度 C. 氧气 D. 水分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项属于B族维生素的是 A. 视黄醛 B. 生育酚 C. 核黄素 D. 胆固醇",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项属于B族维生素的是 A. 视黄醛 B. 生育酚 C. 核黄素 D. 胆固醇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "副溶血性弧菌引起的食源性疾病占人群的 A. 0.055 B. 0.025 C. 0.015 D. 0.035",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "副溶血性弧菌引起的食源性疾病占人群的 A. 0.055 B. 0.025 C. 0.015 D. 0.035",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "利乐包纸容器的消毒采用 A. 过氧化氢 B. 蒸汽 C. 过热蒸汽 D. 紫外线",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "利乐包纸容器的消毒采用 A. 过氧化氢 B. 蒸汽 C. 过热蒸汽 D. 紫外线",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "2004年我国食品工业总产值为 A. 16000亿元左右 B. 6000亿元左右 C. 10000亿元左右 D. 1000亿元左右",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "2004年我国食品工业总产值为 A. 16000亿元左右 B. 6000亿元左右 C. 10000亿元左右 D. 1000亿元左右",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "果蔬通过冷藏延长保存期的主要原理是 A. 果蔬的呼吸热值随冷藏温度的下降而下降 B. 在冷藏温度下，致腐微生物的繁殖生长受到了抑制 C. 在冷藏温度下，果蔬的水分散失变得缓慢 D. 冷藏必须和气调保藏相结合",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "果蔬通过冷藏延长保存期的主要原理是 A. 果蔬的呼吸热值随冷藏温度的下降而下降 B. 在冷藏温度下，致腐微生物的繁殖生长受到了抑制 C. 在冷藏温度下，果蔬的水分散失变得缓慢 D. 冷藏必须和气调保藏相结合",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在食物的运输过程中，容易发生的问题是 A. 食品变质 B. 食品损伤 C. 食品中毒 D. 食品损耗",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在食物的运输过程中，容易发生的问题是 A. 食品变质 B. 食品损伤 C. 食品中毒 D. 食品损耗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新鲜肉中肌红蛋白的存在形式是 A. 氧合型肌红蛋白 B. 一氧化氮肌红蛋白 C. 还原型肌红蛋白 D. 氧化型肌红蛋白",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新鲜肉中肌红蛋白的存在形式是 A. 氧合型肌红蛋白 B. 一氧化氮肌红蛋白 C. 还原型肌红蛋白 D. 氧化型肌红蛋白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品最主要的特点是 A. 滋味和气味 B. 外观 C. 色泽 D. 营养和易消化",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品最主要的特点是 A. 滋味和气味 B. 外观 C. 色泽 D. 营养和易消化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罐头排气最常用的排气方法是 A. 加热排气 B. 蒸汽喷射 C. 真空排气 D. 热罐装",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罐头排气最常用的排气方法是 A. 加热排气 B. 蒸汽喷射 C. 真空排气 D. 热罐装",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于必需脂肪酸的是 A. 亚油酸 B. 软脂酸 C. 硬脂酸 D. DHA",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于必需脂肪酸的是 A. 亚油酸 B. 软脂酸 C. 硬脂酸 D. DHA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在由微生物引起的食品腐败中，引起变质最为显著的因素是 A. 真菌 B. 放线菌 C. 细菌 D. 病毒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在由微生物引起的食品腐败中，引起变质最为显著的因素是 A. 真菌 B. 放线菌 C. 细菌 D. 病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对肉毒杆菌的杀菌应做到 A. 20D B. 6D C. 3D D. 12D",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对肉毒杆菌的杀菌应做到 A. 20D B. 6D C. 3D D. 12D",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品中的水分活度值应 A. ≥1 B. ≤0.01 C. ≤1 D. ≤0.1",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品中的水分活度值应 A. ≥1 B. ≤0.01 C. ≤1 D. ≤0.1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "维生素是维持肌体健康所必需的一类低分子有机化合物，通常分为脂溶性和 A. 油溶性 B. 脂肪 C. 水溶性 D. 有机溶剂",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "维生素是维持肌体健康所必需的一类低分子有机化合物，通常分为脂溶性和 A. 油溶性 B. 脂肪 C. 水溶性 D. 有机溶剂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "决定食品安全的相对性的因素不包括 A. 食用者本身 B. 食品本身 C. 外来不良因素 D. 生态环境",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "决定食品安全的相对性的因素不包括 A. 食用者本身 B. 食品本身 C. 外来不良因素 D. 生态环境",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "国际上采用的标准商业冻藏温度是 A. －5°C B. －10°C C. －30°C D. －18°C",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "国际上采用的标准商业冻藏温度是 A. －5°C B. －10°C C. －30°C D. －18°C",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一个与蟹肉同属寒凉之物，若二者同食，易伤肠胃，导致腹泻等症，对身体健康不利 A. 花生 B. 茄子 C. 胡萝卜 D. 小白菜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一个与蟹肉同属寒凉之物，若二者同食，易伤肠胃，导致腹泻等症，对身体健康不利 A. 花生 B. 茄子 C. 胡萝卜 D. 小白菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列食品中，哪些属禁止生产经营的 A. 无标签的预包装食品 B. 超过保质期的食品 C. 以上都是 D. 营养成分不符合食品安全标准的专供婴幼儿和其他特定人群的主辅食品",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列食品中，哪些属禁止生产经营的 A. 无标签的预包装食品 B. 超过保质期的食品 C. 以上都是 D. 营养成分不符合食品安全标准的专供婴幼儿和其他特定人群的主辅食品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于鞍山市食品安全委员会成员单位的是 A. 市工商局 B. 以上全部都是 C. 市质监局 D. 市卫生局",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于鞍山市食品安全委员会成员单位的是 A. 市工商局 B. 以上全部都是 C. 市质监局 D. 市卫生局",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可明显减少维生素、矿物质等水溶性营养素损失的烹调方式是 A. 微波加热 B. 蒸煮 C. 烤 D. 炸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可明显减少维生素、矿物质等水溶性营养素损失的烹调方式是 A. 微波加热 B. 蒸煮 C. 烤 D. 炸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流化床干燥适用于 A. 条装食品 B. 颗粒形食品 C. 片状食品 D. 以上全部",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流化床干燥适用于 A. 条装食品 B. 颗粒形食品 C. 片状食品 D. 以上全部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不用透明容器而采用棕色牛奶瓶和避光纸盒包装牛奶的原因是 A. 牛奶胶体在贮存中易发生混浊和分层 B. 牛奶富含核黄素，但核黄素对光非常敏感 C. 牛奶富含抗坏血酸，但抗坏血酸对光是不稳定的 D. 牛奶遇光易发生磷酸钙沉淀",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不用透明容器而采用棕色牛奶瓶和避光纸盒包装牛奶的原因是 A. 牛奶胶体在贮存中易发生混浊和分层 B. 牛奶富含核黄素，但核黄素对光非常敏感 C. 牛奶富含抗坏血酸，但抗坏血酸对光是不稳定的 D. 牛奶遇光易发生磷酸钙沉淀",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某消费者在食用某经营者出售的食品后出现了胃肠不适，并到医院就医花费了一些费用，消费者有权利要求经营者支付的赔偿项目包括 A. 治疗期间的护理费 B. 支付医疗费 C. 以上都包括 D. 因误工减少的收入等费用",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某消费者在食用某经营者出售的食品后出现了胃肠不适，并到医院就医花费了一些费用，消费者有权利要求经营者支付的赔偿项目包括 A. 治疗期间的护理费 B. 支付医疗费 C. 以上都包括 D. 因误工减少的收入等费用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鱼类是（）的良好来源 A. 钾 B. 维生素K C. 不饱和脂肪酸 D. 膳食纤维",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鱼类是（）的良好来源 A. 钾 B. 维生素K C. 不饱和脂肪酸 D. 膳食纤维",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "SFDA是什么的简称 A. 发改委 B. 食品药品监督管理局 C. 国家安全局 D. 质监局",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "SFDA是什么的简称 A. 发改委 B. 食品药品监督管理局 C. 国家安全局 D. 质监局",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罐头净重是指 A. 罐头固体食品的重量 B. 容器的重量 C. 罐头食品总重 D. 罐头食品总重－容器的重量",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罐头净重是指 A. 罐头固体食品的重量 B. 容器的重量 C. 罐头食品总重 D. 罐头食品总重－容器的重量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品安全标准级别中最高的是 A. 企业标准 B. 国家标准 C. 地方标准 D. 行业标准",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品安全标准级别中最高的是 A. 企业标准 B. 国家标准 C. 地方标准 D. 行业标准",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "安徽贾湖遗址中酿造酒类的发现证明了 A. 自然资源减少推动了当地农业 B. 当地文化当时已进入农业社会 C. 人口压力增大推动了当地农业 D. 竞争宴飨现象推动了当地农业",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "安徽贾湖遗址中酿造酒类的发现证明了 A. 自然资源减少推动了当地农业 B. 当地文化当时已进入农业社会 C. 人口压力增大推动了当地农业 D. 竞争宴飨现象推动了当地农业",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "浓缩的乳品包括 A. 浓缩乳清 B. 乳粉 C. 脱脂蒸发乳或全脂乳 D. 浓缩酪乳",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "浓缩的乳品包括 A. 浓缩乳清 B. 乳粉 C. 脱脂蒸发乳或全脂乳 D. 浓缩酪乳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "让人产生呼吸衰竭、痉挛的是 A. 氰化物 B. 酚类污染物 C. 苯及其同系物 D. 石油",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "让人产生呼吸衰竭、痉挛的是 A. 氰化物 B. 酚类污染物 C. 苯及其同系物 D. 石油",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品经营者应当建立食品进货记录制度，且食品进货查验记录应当真实，保存期限不得少于几年 A. 5 B. 3 C. 2 D. 4",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品经营者应当建立食品进货记录制度，且食品进货查验记录应当真实，保存期限不得少于几年 A. 5 B. 3 C. 2 D. 4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "冷冻保藏的温度一般要求在多少摄氏度 A. 1 B. -5 C. -20 D. -10",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "冷冻保藏的温度一般要求在多少摄氏度 A. 1 B. -5 C. -20 D. -10",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肉类的发色剂和助剂主要采用的有 A. 硝酸盐 B. 亚硝酸盐 C. 以上全部 D. 抗坏血酸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肉类的发色剂和助剂主要采用的有 A. 硝酸盐 B. 亚硝酸盐 C. 以上全部 D. 抗坏血酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下食物搭配能较好起到蛋白质互补作用的是 A. 大米+大白菜 B. 鸡蛋+猪瘦肉 C. 大豆+面粉 D. 带鱼+猪肝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下食物搭配能较好起到蛋白质互补作用的是 A. 大米+大白菜 B. 鸡蛋+猪瘦肉 C. 大豆+面粉 D. 带鱼+猪肝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品腐败菌中耐热性最强的是 A. 肉毒杆菌 B. 乳酸菌 C. 霉菌、酵母菌 D. 嗜热脂肪芽孢杆菌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品腐败菌中耐热性最强的是 A. 肉毒杆菌 B. 乳酸菌 C. 霉菌、酵母菌 D. 嗜热脂肪芽孢杆菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被吊销食品生产、流通或者餐饮服务许可证的单位，其直接负责的主管人员自处罚决定作出之日起多少年内不得从事食品生产经营管理工作 A. 4 B. 5 C. 3 D. 10",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被吊销食品生产、流通或者餐饮服务许可证的单位，其直接负责的主管人员自处罚决定作出之日起多少年内不得从事食品生产经营管理工作 A. 4 B. 5 C. 3 D. 10",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品生物技术是现代生物技术在食品领域中的应用，它是以现代生命科学为基础，用全新的技术来 A. 创造新个体 B. 设计新型的食品和食品原料 C. 改变食品的形态 D. 改变食品状态",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品生物技术是现代生物技术在食品领域中的应用，它是以现代生命科学为基础，用全新的技术来 A. 创造新个体 B. 设计新型的食品和食品原料 C. 改变食品的形态 D. 改变食品状态",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流化床冻结适用于 A. 颗粒形食品 B. 片状食品 C. 以上全部 D. 条装食品",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流化床冻结适用于 A. 颗粒形食品 B. 片状食品 C. 以上全部 D. 条装食品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项不属于辐射应用领域的是 A. 贮藏 B. 抑制食源性疾病 C. 杀菌 D. 浓缩乳清",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项不属于辐射应用领域的是 A. 贮藏 B. 抑制食源性疾病 C. 杀菌 D. 浓缩乳清",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "苹果、山楂制品中可能含有的特征生物毒素是 A. 展青霉素 B. 桔青霉素 C. 黄曲霉毒素 D. 肉毒毒素",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "苹果、山楂制品中可能含有的特征生物毒素是 A. 展青霉素 B. 桔青霉素 C. 黄曲霉毒素 D. 肉毒毒素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "菜篮子工程解决什么问题 A. 解决健康安全问题 B. 主食供应和温饱问题 C. 副食供应和食物丰富问题 D. 解决食品方便营养问题",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "菜篮子工程解决什么问题 A. 解决健康安全问题 B. 主食供应和温饱问题 C. 副食供应和食物丰富问题 D. 解决食品方便营养问题",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "金色葡萄球菌所引起的食品安全问题在美国所在的比例是 A. 0.3 B. 0.33 C. 0.4 D. 0.2",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "金色葡萄球菌所引起的食品安全问题在美国所在的比例是 A. 0.3 B. 0.33 C. 0.4 D. 0.2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了能均匀地蒸煮淀粉，以下的哪个因素不须要标准化和控制 A. 加热时间 B. 搅拌强度 C. 浓度 D. 加热温度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了能均匀地蒸煮淀粉，以下的哪个因素不须要标准化和控制 A. 加热时间 B. 搅拌强度 C. 浓度 D. 加热温度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肉类最主要的色素是一种称为（）的蛋白质，其功能是在肌肉组织中储存氧气 A. 球蛋白 B. 乳状蛋白 C. 血红蛋白 D. 肌红蛋白",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肉类最主要的色素是一种称为（）的蛋白质，其功能是在肌肉组织中储存氧气 A. 球蛋白 B. 乳状蛋白 C. 血红蛋白 D. 肌红蛋白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（）是视色素的组成成份，与维持正常视觉功能有着极其密切的关系。如果肌体缺乏此种维生素，对光暗适应能力将降低，最终导致夜盲症 A. 维生素A B. 维生素D C. 维生素B D. 维生素C",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）是视色素的组成成份，与维持正常视觉功能有着极其密切的关系。如果肌体缺乏此种维生素，对光暗适应能力将降低，最终导致夜盲症 A. 维生素A B. 维生素D C. 维生素B D. 维生素C",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面关于食品安全的表述，正确的是 A. 经过高温灭菌过程，食品中不含有任何致病微生物 B. 原料天然，食品中不含有任何人工合成物质 C. 虽然过了保质期，但外观、口感正常 D. 食品无毒、无害，符合应当有的营养要求，对人体健康不造成任何急性、亚急性或者慢性危害",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面关于食品安全的表述，正确的是 A. 经过高温灭菌过程，食品中不含有任何致病微生物 B. 原料天然，食品中不含有任何人工合成物质 C. 虽然过了保质期，但外观、口感正常 D. 食品无毒、无害，符合应当有的营养要求，对人体健康不造成任何急性、亚急性或者慢性危害",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "生产不符合食品安全标准的食品或者销售明知是不符合食品安全标准的食品，消费者除要求赔偿损失外，还可以向生产者或者销售者要求支付价款多少倍的赔偿金 A. 5 B. 2 C. 4 D. 10",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "生产不符合食品安全标准的食品或者销售明知是不符合食品安全标准的食品，消费者除要求赔偿损失外，还可以向生产者或者销售者要求支付价款多少倍的赔偿金 A. 5 B. 2 C. 4 D. 10",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品盐渍和糖渍在保藏原理上属于 A. 有生机原理 B. 无菌原理 C. 假死原理 D. 有菌原理",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品盐渍和糖渍在保藏原理上属于 A. 有生机原理 B. 无菌原理 C. 假死原理 D. 有菌原理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "高温快速干燥时食品出现的变化有 A. 表面干燥 B. 多孔性形成 C. 密度降低 D. 以上全部",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "高温快速干燥时食品出现的变化有 A. 表面干燥 B. 多孔性形成 C. 密度降低 D. 以上全部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不能食用的水产品为 A. 因化学物质中毒致死的水产品 B. 含有自然毒素的水产品 C. 以上都是 D. 致死原因不明的水产品",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不能食用的水产品为 A. 因化学物质中毒致死的水产品 B. 含有自然毒素的水产品 C. 以上都是 D. 致死原因不明的水产品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "苯甲酸和山梨酸均属于 A. 中性防腐剂 B. 碱性防腐剂 C. 酸性防腐剂 D. 低剂量防腐剂",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "苯甲酸和山梨酸均属于 A. 中性防腐剂 B. 碱性防腐剂 C. 酸性防腐剂 D. 低剂量防腐剂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "工业发酵中一般都采用哪种灭菌方法杀灭培养基中的有机物 A. 高压蒸汽灭菌 B. 干热灭菌 C. 火焰灭菌 D. 常压灭菌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "工业发酵中一般都采用哪种灭菌方法杀灭培养基中的有机物 A. 高压蒸汽灭菌 B. 干热灭菌 C. 火焰灭菌 D. 常压灭菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "适用于流化床干燥的食品类型是 A. 片状食品 B. 条装食品 C. 以上全部 D. 颗粒形食品",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "适用于流化床干燥的食品类型是 A. 片状食品 B. 条装食品 C. 以上全部 D. 颗粒形食品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品在高温快速干燥时易出现 A. 以上全部 B. 多孔性形成 C. 表面干燥 D. 密度降低",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品在高温快速干燥时易出现 A. 以上全部 B. 多孔性形成 C. 表面干燥 D. 密度降低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项不是脂溶性维生素的是 A. 维生素D B. 维生素A C. 维生素C D. 维生素K",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项不是脂溶性维生素的是 A. 维生素D B. 维生素A C. 维生素C D. 维生素K",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "火腿肠的包装材料用的是 A. PET/PA/PE B. PVDC C. PET/PP D. PET/Al/PP",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "火腿肠的包装材料用的是 A. PET/PA/PE B. PVDC C. PET/PP D. PET/Al/PP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种发酵方法是目前最主要的发酵方式 A. 液体发酵 B. 固体发酵 C. 乳液发酵 D. 凝胶发酵",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种发酵方法是目前最主要的发酵方式 A. 液体发酵 B. 固体发酵 C. 乳液发酵 D. 凝胶发酵",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "过量食用后中毒症状先兴奋后抑制的是 A. 荔枝 B. 桑葚 C. 银杏 D. 菜豆",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "过量食用后中毒症状先兴奋后抑制的是 A. 荔枝 B. 桑葚 C. 银杏 D. 菜豆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列矿物质中属于微量矿物质的是 A. 铜 B. 钙 C. 磷 D. 硫",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列矿物质中属于微量矿物质的是 A. 铜 B. 钙 C. 磷 D. 硫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对过氧化氢忍受力最强的腐败菌是 A. 大肠杆菌 B. 嗜热脂肪芽孢杆菌 C. 枯草杆菌 D. 肉毒杆菌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对过氧化氢忍受力最强的腐败菌是 A. 大肠杆菌 B. 嗜热脂肪芽孢杆菌 C. 枯草杆菌 D. 肉毒杆菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品科学依托的三大基础学科是 A. 物理学科、化学学科、工程科学 B. 生物学科、物理学科、社会科学 C. 生物学科、化学学科、社会科学 D. 生物学科、化学学科、工程学科",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品科学依托的三大基础学科是 A. 物理学科、化学学科、工程科学 B. 生物学科、物理学科、社会科学 C. 生物学科、化学学科、社会科学 D. 生物学科、化学学科、工程学科",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食物中的营养素在消化道内并非100%吸收，一般混合膳食中的碳水化合物、脂肪、蛋白质的吸收率依次为 A. 96%，92%，98% B. 98%，92%，95% C. 98%，95%，92% D. 95%，98%，92%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食物中的营养素在消化道内并非100%吸收，一般混合膳食中的碳水化合物、脂肪、蛋白质的吸收率依次为 A. 96%，92%，98% B. 98%，92%，95% C. 98%，95%，92% D. 95%，98%，92%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品的贮存包括冷藏和冷冻两种方式，那么食品冷藏贮存温度是指多少度 A. 4-10°C B. 0-29°C C. 0-10°C D. 0-18°C",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品的贮存包括冷藏和冷冻两种方式，那么食品冷藏贮存温度是指多少度 A. 4-10°C B. 0-29°C C. 0-10°C D. 0-18°C",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "二重卷边结构共有 A. 2层 B. 3层 C. 5层 D. 7层",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "二重卷边结构共有 A. 2层 B. 3层 C. 5层 D. 7层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "速冻蔬菜在解冻时宜采用 A. 微波 B. 热油 C. 以上全部 D. 热水",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "速冻蔬菜在解冻时宜采用 A. 微波 B. 热油 C. 以上全部 D. 热水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第一次绿色革命，解决了人类社会因人口增加造成的食物短缺，哪种学科的产生和发展为此做出了巨大贡献 A. 纯种培养技术 B. 基因学说 C. 乳糖操纵子学说 D. 遗传育种学",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第一次绿色革命，解决了人类社会因人口增加造成的食物短缺，哪种学科的产生和发展为此做出了巨大贡献 A. 纯种培养技术 B. 基因学说 C. 乳糖操纵子学说 D. 遗传育种学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项不属于6大营养素的是 A. 矿物质 B. 脂质 C. 水 D. 膳食纤维",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项不属于6大营养素的是 A. 矿物质 B. 脂质 C. 水 D. 膳食纤维",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面与苹果有关的是 A. 展青霉素 B. 橘青霉素 C. 赭曲霉毒素 D. 黄曲霉素",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面与苹果有关的是 A. 展青霉素 B. 橘青霉素 C. 赭曲霉毒素 D. 黄曲霉素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品在冷却过程中的热交换量为 A. Q=GWwr B. A+B+C C. Q=GC0(T初-T终) D. Q=GβF(P物-P空)",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品在冷却过程中的热交换量为 A. Q=GWwr B. A+B+C C. Q=GC0(T初-T终) D. Q=GβF(P物-P空)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "同一食品仅是冻结速度不同，快速冻结的带菌量比缓慢冻结的带菌量 A. 多 B. 不一定 C. 一样多 D. 少",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "同一食品仅是冻结速度不同，快速冻结的带菌量比缓慢冻结的带菌量 A. 多 B. 不一定 C. 一样多 D. 少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品生产经营人员应当进行健康检查的频率是 A. 一年2次 B. 一年1次 C. 两年1次 D. 三年1次",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品生产经营人员应当进行健康检查的频率是 A. 一年2次 B. 一年1次 C. 两年1次 D. 三年1次",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品在冻结过程中的热交换量为 A. 以上全部 B. Q=GβF(P物－P空) C. Q=GC0(T初-T终) D. Q=GWwr",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品在冻结过程中的热交换量为 A. 以上全部 B. Q=GβF(P物－P空) C. Q=GC0(T初-T终) D. Q=GWwr",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国使用的农药里头，占绝大多数的是 A. 无机农药 B. 植物性农药 C. 微生物农药 D. 有机农药",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国使用的农药里头，占绝大多数的是 A. 无机农药 B. 植物性农药 C. 微生物农药 D. 有机农药",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品变劣的三种常见类型不包括 A. 物理性 B. 化学性 C. 生物性 D. 微生物性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品变劣的三种常见类型不包括 A. 物理性 B. 化学性 C. 生物性 D. 微生物性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列食品不需要贴QS标签的是（西餐厅自制糕点） A. 冷冻饮品、速冻米面制品 B. 西餐厅自制糕点 C. 酱油、食醋 D. 小麦粉、大米",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列食品不需要贴QS标签的是（西餐厅自制糕点） A. 冷冻饮品、速冻米面制品 B. 西餐厅自制糕点 C. 酱油、食醋 D. 小麦粉、大米",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "锌在人体内的主要生理功能是 A. 参与骨骼和牙齿的组成 B. 参与甲状腺激素的代谢 C. 参与多种酶的组成 D. 参与血红蛋白的组成",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "锌在人体内的主要生理功能是 A. 参与骨骼和牙齿的组成 B. 参与甲状腺激素的代谢 C. 参与多种酶的组成 D. 参与血红蛋白的组成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于食品生产经营者在食品加工制作中，下列哪一种行为是允许的 A. 加入药物（包括滋补类中药） B. 加入非食用物质 C. 滥用食品添加剂 D. 加入按照传统既是食品又是中药材料的物质",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于食品生产经营者在食品加工制作中，下列哪一种行为是允许的 A. 加入药物（包括滋补类中药） B. 加入非食用物质 C. 滥用食品添加剂 D. 加入按照传统既是食品又是中药材料的物质",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据国家有关规定，下列哪种业态不属于餐饮服务许可的范围 A. 学校食堂 B. 集体用餐配送单位 C. 食品摊贩 D. 小吃店",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据国家有关规定，下列哪种业态不属于餐饮服务许可的范围 A. 学校食堂 B. 集体用餐配送单位 C. 食品摊贩 D. 小吃店",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在加热情况下最容易发生氧化聚合的油脂种类是 A. 大豆油 B. 花生油 C. 橄榄油 D. 亚麻油",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在加热情况下最容易发生氧化聚合的油脂种类是 A. 大豆油 B. 花生油 C. 橄榄油 D. 亚麻油",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食盐的防腐作用有 A. 降低水分活度 B. 脱水 C. 以上全部 D. 生理毒害",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食盐的防腐作用有 A. 降低水分活度 B. 脱水 C. 以上全部 D. 生理毒害",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列食品属于防腐剂的是 A. 丁羟基甲苯 B. 亚硝酸盐和亚硝酸钠、亚硝酸钾 C. 硅酸钙 D. 碳酸镁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列食品属于防腐剂的是 A. 丁羟基甲苯 B. 亚硝酸盐和亚硝酸钠、亚硝酸钾 C. 硅酸钙 D. 碳酸镁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "日本雪印牌牛奶在2000年，使14500人患病是食品生产中哪个环节出现的问题 A. 产品没有保存好 B. 生产过程中没有杀菌 C. 原料采购 D. 输送牛奶的管道",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "日本雪印牌牛奶在2000年，使14500人患病是食品生产中哪个环节出现的问题 A. 产品没有保存好 B. 生产过程中没有杀菌 C. 原料采购 D. 输送牛奶的管道",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "冷水冷却的效果最关键的是 A. 用喷淋水 B. 保持水温0°C C. 加快水的流动 D. 以上全部",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "冷水冷却的效果最关键的是 A. 用喷淋水 B. 保持水温0°C C. 加快水的流动 D. 以上全部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于减少微生物的加工方法有 A. 均质 B. 巴氏杀菌 C. 膜过滤 D. 清洗和消毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于减少微生物的加工方法有 A. 均质 B. 巴氏杀菌 C. 膜过滤 D. 清洗和消毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品经营场所距离垃圾场、公用旱厕、粪池等污染源应在（）米以上 A. 25 B. 10 C. 20 D. 15",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品经营场所距离垃圾场、公用旱厕、粪池等污染源应在（）米以上 A. 25 B. 10 C. 20 D. 15",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "危害分析关键控制点的缩写词是 A. GMP B. GRAS C. TQM D. HACCP",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "危害分析关键控制点的缩写词是 A. GMP B. GRAS C. TQM D. HACCP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "杨梅含有丰富的植物色素，将其与以下哪一个一起食用，经胃肠道的消化分解，可产生抑制甲状腺功能的物质，诱发甲状腺肿 A. 黄瓜 B. 红薯 C. 萝卜 D. 白薯",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "杨梅含有丰富的植物色素，将其与以下哪一个一起食用，经胃肠道的消化分解，可产生抑制甲状腺功能的物质，诱发甲状腺肿 A. 黄瓜 B. 红薯 C. 萝卜 D. 白薯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "便秘患者应该不食或少食 A. 糖类食物 B. 豆类食物 C. 水产品 D. 谷类食品",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "便秘患者应该不食或少食 A. 糖类食物 B. 豆类食物 C. 水产品 D. 谷类食品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食品干制脱水最常用的方法是 A. 空气对流干燥 B. 晒干 C. 真空干燥 D. 滚筒干燥",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食品干制脱水最常用的方法是 A. 空气对流干燥 B. 晒干 C. 真空干燥 D. 滚筒干燥",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脂肪的功能性和性质表现在很多用途中，除了以下哪个用途外 A. 转运 B. 乳状液 C. 通风和发酵 D. 起酥和嫩化",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脂肪的功能性和性质表现在很多用途中，除了以下哪个用途外 A. 转运 B. 乳状液 C. 通风和发酵 D. 起酥和嫩化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "水果和蔬菜的风味和香味归因于各种化合物的相互作用，从而产生独特和与众不同的特征，这些化合物不包括 A. 乙醛 B. 有机酸 C. 乙醇 D. 磷化物",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "水果和蔬菜的风味和香味归因于各种化合物的相互作用，从而产生独特和与众不同的特征，这些化合物不包括 A. 乙醛 B. 有机酸 C. 乙醇 D. 磷化物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胰腺淀粉酶将淀粉分解成 A. 糊精 B. 半乳糖 C. 麦芽二糖 D. 葡萄糖",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胰腺淀粉酶将淀粉分解成 A. 糊精 B. 半乳糖 C. 麦芽二糖 D. 葡萄糖",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "谷类蛋白质中的限制氨基酸是 A. 酪氨酸 B. 精氨酸 C. 色氨酸 D. 赖氨酸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "谷类蛋白质中的限制氨基酸是 A. 酪氨酸 B. 精氨酸 C. 色氨酸 D. 赖氨酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "超高温瞬时杀菌技术适用于 A. 液态食品 B. 以上全部 C. 固态食品 D. 半固态食品",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "超高温瞬时杀菌技术适用于 A. 液态食品 B. 以上全部 C. 固态食品 D. 半固态食品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "煮沸灭菌法是将要消毒的物品放在水中煮沸 A. 5—50分钟 B. 15—30分钟 C. 10—20分钟 D. 10—30分钟",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "煮沸灭菌法是将要消毒的物品放在水中煮沸 A. 5—50分钟 B. 15—30分钟 C. 10—20分钟 D. 10—30分钟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于防腐剂的有 A. 杀菌剂 B. 着色剂 C. 抗氧化剂 D. 螯合剂",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于防腐剂的有 A. 杀菌剂 B. 着色剂 C. 抗氧化剂 D. 螯合剂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

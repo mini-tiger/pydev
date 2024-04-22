@@ -1,0 +1,2302 @@
+[
+  {
+    "question_std": "在某校班际篮球联赛中，每场⽐赛都要分出胜负，每队胜⼀场得3分，负⼀场得1分，如果某班要在第⼀轮的28场⽐赛中⾄少得43分，那么这个班⾄少要胜多少场 A. 6 B. 5 C. 7 D. 8",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在某校班际篮球联赛中，每场⽐赛都要分出胜负，每队胜⼀场得3分，负⼀场得1分，如果某班要在第⼀轮的28场⽐赛中⾄少得43分，那么这个班⾄少要胜多少场 A. 6 B. 5 C. 7 D. 8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三洋电视机⼚为了能清楚地表示出上半年⽉产量的多少与增减变化的情况，应绘制 A. 不确定 B. 扇形统计图 C. 条形统计图  D. 折线统计图 ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三洋电视机⼚为了能清楚地表示出上半年⽉产量的多少与增减变化的情况，应绘制 A. 不确定 B. 扇形统计图 C. 条形统计图  D. 折线统计图 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "明明今年⼏岁? 爸爸今年39岁。您的年龄⽐我的2倍多11岁 A. 13 B. 15 C. 12 D. 14",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "明明今年⼏岁? 爸爸今年39岁。您的年龄⽐我的2倍多11岁 A. 13 B. 15 C. 12 D. 14",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "$\\frac{2}{5}$的分⺟增加15，要使分数⼤⼩不变，分⼦应扩⼤ A. 6倍 B. 15倍 C. 3倍 D. 4倍",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "$\\frac{2}{5}$的分⺟增加15，要使分数⼤⼩不变，分⼦应扩⼤ A. 6倍 B. 15倍 C. 3倍 D. 4倍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽤⼀块⻓28.26厘⽶、宽15.7厘⽶的⻓⽅形铁⽪，应该配上直径（ ）厘⽶的圆形铁⽪就可以做成⼀个容积最⼤的容器 A. 2.5 B. 5 C. 9 D. 4.5",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽤⼀块⻓28.26厘⽶、宽15.7厘⽶的⻓⽅形铁⽪，应该配上直径（ ）厘⽶的圆形铁⽪就可以做成⼀个容积最⼤的容器 A. 2.5 B. 5 C. 9 D. 4.5",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国股市交易中，每买、卖一次都要交7.5%的各种费用，某投资者以每股10元的价格买入上海某股1000股，当该股涨到12元时，他全部卖出后盈利为 A. 1910元 B. 1925元 C. 2000元 D. 1835元",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国股市交易中，每买、卖一次都要交7.5%的各种费用，某投资者以每股10元的价格买入上海某股1000股，当该股涨到12元时，他全部卖出后盈利为 A. 1910元 B. 1925元 C. 2000元 D. 1835元",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某公司今年4⽉的营业额为2500万元，按计划第⼆季度的总营业额要达到9100万元，设该公司5、6 两⽉的营业额的⽉平均增⻓率为 x，根据题意列⽅程，则下列⽅程正确的是 A. $2500(1+x)^{2}=9100$ B. $2500(1+x)+2500(1+x)^{2}=9100$ C. $2500+2500(1+x)+2500(1+x)^{2}=9100$ D. $2500(1+x\\%)^{2}=9100$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某公司今年4⽉的营业额为2500万元，按计划第⼆季度的总营业额要达到9100万元，设该公司5、6 两⽉的营业额的⽉平均增⻓率为 x，根据题意列⽅程，则下列⽅程正确的是 A. $2500(1+x)^{2}=9100$ B. $2500(1+x)+2500(1+x)^{2}=9100$ C. $2500+2500(1+x)+2500(1+x)^{2}=9100$ D. $2500(1+x\\%)^{2}=9100$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个商⼈把⼀件连⾐裙标价为640元，经⼯商⼈员核价，降⾄60元出售，仍可获利20%，如按原标价出售则⼀条裙⼦可获暴利（ ）元 A. 610 B. 600 C. 590 D. 620",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个商⼈把⼀件连⾐裙标价为640元，经⼯商⼈员核价，降⾄60元出售，仍可获利20%，如按原标价出售则⼀条裙⼦可获暴利（ ）元 A. 610 B. 600 C. 590 D. 620",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀元⼆次⽅程$x^{2}-8x=48$可表示成 $(x-a)^{2}=48+b$形式，其中a，b为整数，求a+b之值为 A. -20 B. 12 C. -12 D. 20",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀元⼆次⽅程$x^{2}-8x=48$可表示成 $(x-a)^{2}=48+b$形式，其中a，b为整数，求a+b之值为 A. -20 B. 12 C. -12 D. 20",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "－3.782 A. 不是分数，是有理数 B. 是分数，不是有理数  C. 是负数，也是分数  D. 是负数，不是分数",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "－3.782 A. 不是分数，是有理数 B. 是分数，不是有理数  C. 是负数，也是分数  D. 是负数，不是分数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知圆的半径为$\\sqrt{2}cm$，圆心到直线l的距离为1.4cm，则直线与圆的公共点数为 A. 2个 B. 1个  C. 0个 D. 不确定",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知圆的半径为$\\sqrt{2}cm$，圆心到直线l的距离为1.4cm，则直线与圆的公共点数为 A. 2个 B. 1个  C. 0个 D. 不确定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在边⻓为a的正⽅形内部，以⼀个顶点为圆⼼，a为半径画弧经过与圆⼼相邻的两个顶点，那么阴影部分的⾯积为 A. $a-\\frac{1}{2}\\pi a^{2}$ B. $\\pi a^{2}-a$ C. $\\frac{1}{4}\\pi a^{2}$ D. $a-\\pi a^{2}$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在边⻓为a的正⽅形内部，以⼀个顶点为圆⼼，a为半径画弧经过与圆⼼相邻的两个顶点，那么阴影部分的⾯积为 A. $a-\\frac{1}{2}\\pi a^{2}$ B. $\\pi a^{2}-a$ C. $\\frac{1}{4}\\pi a^{2}$ D. $a-\\pi a^{2}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某⼯⼚的⼀个⽣产⼩组，⽣产⼀批零件，当每个⼯⼈在⾃⼰原岗位⼯作时，9⼩时可完成这项⽣产任务。如果交换⼯⼈A和B的⼯作岗位，其它⼯⼈⽣产效率不变时，可提前⼀⼩时完成这项⽣产任务；如果交换⼯⼈C和D的⼯作岗位，其它⼯⼈⽣产效率不变时，也可以提前⼀⼩时完成这项⽣产任务。问： 如果同时交换A与B，C与D的⼯作岗位，其它⼯⼈⽣产效率不变，可以提前⼏分割完成这项⽣产任务 A. 108 B. 111 C. 110 D. 105",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某⼯⼚的⼀个⽣产⼩组，⽣产⼀批零件，当每个⼯⼈在⾃⼰原岗位⼯作时，9⼩时可完成这项⽣产任务。如果交换⼯⼈A和B的⼯作岗位，其它⼯⼈⽣产效率不变时，可提前⼀⼩时完成这项⽣产任务；如果交换⼯⼈C和D的⼯作岗位，其它⼯⼈⽣产效率不变时，也可以提前⼀⼩时完成这项⽣产任务。问： 如果同时交换A与B，C与D的⼯作岗位，其它⼯⼈⽣产效率不变，可以提前⼏分割完成这项⽣产任务 A. 108 B. 111 C. 110 D. 105",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列元素中属于集合{x|x=2k k是⾃然数}的是 A. -2 B. 10 C. 7 D. 3",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列元素中属于集合{x|x=2k k是⾃然数}的是 A. -2 B. 10 C. 7 D. 3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "横坐标、纵坐标都是整数的点叫做整点，函数$y=\\frac{6x+3}{2x-1}$的图象上整点的个数是 A. 5个 B. 6个 C. 3个 D. 4个",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "横坐标、纵坐标都是整数的点叫做整点，函数$y=\\frac{6x+3}{2x-1}$的图象上整点的个数是 A. 5个 B. 6个 C. 3个 D. 4个",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "王先⽣到银⾏存了⼀笔三年期的定期存款，年利率是4.25%．若到期后取出得到本息（本⾦+利息）33825元．设王先⽣存⼊的本⾦为x元，则下⾯所列⽅程正确的是 A. 3×4.25%x=33825  B. 3(x+4.25x)=33825  C. x+3×4.25%x=33825  D. x+4.25%x=33825 ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "王先⽣到银⾏存了⼀笔三年期的定期存款，年利率是4.25%．若到期后取出得到本息（本⾦+利息）33825元．设王先⽣存⼊的本⾦为x元，则下⾯所列⽅程正确的是 A. 3×4.25%x=33825  B. 3(x+4.25x)=33825  C. x+3×4.25%x=33825  D. x+4.25%x=33825 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "等腰三⻆形的⼀个内⻆是50°，则另外两个⻆的度数分别是 A. 65°，65°或50°，80° B. 50°,80° C. 50°,50° D. 65°，65° ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "等腰三⻆形的⼀个内⻆是50°，则另外两个⻆的度数分别是 A. 65°，65°或50°，80° B. 50°,80° C. 50°,50° D. 65°，65° ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果a：b=c：d，那么不成⽴的等式有 A. a：d=c：b B. b：a=d：c C. a: c=b: d  D. ad=bc",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果a：b=c：d，那么不成⽴的等式有 A. a：d=c：b B. b：a=d：c C. a: c=b: d  D. ad=bc",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果m是任意实数，则点P（m-4，m+1）⼀定不在 A. 第⼀象限 B. 第⼆象限  C. 第四象限  D. 第三象限 ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果m是任意实数，则点P（m-4，m+1）⼀定不在 A. 第⼀象限 B. 第⼆象限  C. 第四象限  D. 第三象限 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀件上⾐打⼋折出售 就是按照原价的 A. 百分之80 B. 百分之120  C. 百分之100 D. 百分之20 ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀件上⾐打⼋折出售 就是按照原价的 A. 百分之80 B. 百分之120  C. 百分之100 D. 百分之20 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在菱形ABCD中，对角线AC=4，$\\angle BAD=120^{\\circ }$，则菱形ABCD的周长为 A. 16 B. 20 C. 15 D. 18",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在菱形ABCD中，对角线AC=4，$\\angle BAD=120^{\\circ }$，则菱形ABCD的周长为 A. 16 B. 20 C. 15 D. 18",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某集合有5个元素，它的⼦集数为 A. 24 B. 27 C. 25 D. 26",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某集合有5个元素，它的⼦集数为 A. 24 B. 27 C. 25 D. 26",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "福源鞋店进了25双⼉童鞋，每双进价20.2元，售货员阿姨以每双25元的价格售出，全部卖完这些鞋⼀共能赚多少钱 A. 135 B. 100 C. 120 D. 125",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "福源鞋店进了25双⼉童鞋，每双进价20.2元，售货员阿姨以每双25元的价格售出，全部卖完这些鞋⼀共能赚多少钱 A. 135 B. 100 C. 120 D. 125",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若多项式$x^{2}+mx+4$可以用完全平方公式分解因式，则m的值可以是 A. 4 B. 4或-4 C. -4 D. 2或-2",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若多项式$x^{2}+mx+4$可以用完全平方公式分解因式，则m的值可以是 A. 4 B. 4或-4 C. -4 D. 2或-2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知∠A=65°，则∠A的补⻆等于 A. 95° B. 135° C. 105° D. 115°",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知∠A=65°，则∠A的补⻆等于 A. 95° B. 135° C. 105° D. 115°",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽤性质描述法表示第⼀象限的所有点的集合 A. {(x,y)|x<0.y<0}  B. {(x,y)|x>0,Y<0} C. {(x,y)|x>0,y>0} D. {(x,y)|x<0,y>0}",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽤性质描述法表示第⼀象限的所有点的集合 A. {(x,y)|x<0.y<0}  B. {(x,y)|x>0,Y<0} C. {(x,y)|x>0,y>0} D. {(x,y)|x<0,y>0}",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某市⼀⽉份的平均⽓温是﹣2℃，⼆⽉份的平均⽓温⽐⼀⽉份的升⾼了5℃，该市⼆⽉份的平均⽓温是 A. 7℃  B. ﹣5℃  C. 5℃ D. 3℃ ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某市⼀⽉份的平均⽓温是﹣2℃，⼆⽉份的平均⽓温⽐⼀⽉份的升⾼了5℃，该市⼆⽉份的平均⽓温是 A. 7℃  B. ﹣5℃  C. 5℃ D. 3℃ ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宝康⻝品⼚运回⼀批煤，原计划每天烧0.72吨，可以烧14天/改进炉灶后，世界每天少烧0.16吨，这批煤实际烧了多少天 A. 16 B. 20 C. 14 D. 18",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宝康⻝品⼚运回⼀批煤，原计划每天烧0.72吨，可以烧14天/改进炉灶后，世界每天少烧0.16吨，这批煤实际烧了多少天 A. 16 B. 20 C. 14 D. 18",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知关于x的分式⽅程$\\frac{x}{x-1}-2=\\frac{k}{1-x}$的解为正数，则k的取值范围为  A. k＞-2  B. k＞-2且k≠-1 C. -2＜k＜0 D. k＜2且k≠1",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知关于x的分式⽅程$\\frac{x}{x-1}-2=\\frac{k}{1-x}$的解为正数，则k的取值范围为  A. k＞-2  B. k＞-2且k≠-1 C. -2＜k＜0 D. k＜2且k≠1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "化简$\\sqrt{3}-\\sqrt{3}(1-\\sqrt{3})$的结果是 A. 3 B. -3 C. $\\sqrt{3}$ D. $-\\sqrt{3}$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "化简$\\sqrt{3}-\\sqrt{3}(1-\\sqrt{3})$的结果是 A. 3 B. -3 C. $\\sqrt{3}$ D. $-\\sqrt{3}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知a、b均a >b,则下列结论不正确的是  A. 3a>3b B. a+3>b+3 C. a-3>b-3 D. -3a>-3b",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知a、b均a >b,则下列结论不正确的是  A. 3a>3b B. a+3>b+3 C. a-3>b-3 D. -3a>-3b",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下⾯的物体中，⽆论从什么⽅向观察，看到的图形都是圆形的是 A. 旗袍 B. ⾜球 C. ⽛膏 D. 易拉罐",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下⾯的物体中，⽆论从什么⽅向观察，看到的图形都是圆形的是 A. 旗袍 B. ⾜球 C. ⽛膏 D. 易拉罐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算3.2*9.9的简便算法是 A. 3.2*10-3.2*0.1 B. 3.2*9*0.9 C. 3.2*20-0.1 D. 3.2*10/3.2",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算3.2*9.9的简便算法是 A. 3.2*10-3.2*0.1 B. 3.2*9*0.9 C. 3.2*20-0.1 D. 3.2*10/3.2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "[3.4+3.6]*[4.5+4.5]= A. 16 B. 36 C. 42 D. 63",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "[3.4+3.6]*[4.5+4.5]= A. 16 B. 36 C. 42 D. 63",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "农村常搭建横截⾯为半圆形的全封闭塑料薄膜蔬菜⼤棚。如果不考虑塑料薄膜埋在⼟⾥的部分，那么搭建⼀个长32m，宽4米的蔬菜⼤棚需要⽤塑料薄膜的⾯积是 A. $72\\pi $ B. $68\\pi $ C. $64\\pi $ D. $69\\pi $",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "农村常搭建横截⾯为半圆形的全封闭塑料薄膜蔬菜⼤棚。如果不考虑塑料薄膜埋在⼟⾥的部分，那么搭建⼀个长32m，宽4米的蔬菜⼤棚需要⽤塑料薄膜的⾯积是 A. $72\\pi $ B. $68\\pi $ C. $64\\pi $ D. $69\\pi $",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知A在双曲线$y=-\\frac{2}{x}$上，点B在直线y=x-4，且A，B关于y轴对称，设A的坐标为(m, n)，则$\\frac{m}{n}+\\frac{n}{m}$的值是 A. -10 B. 6 C. 4 D. -8",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知A在双曲线$y=-\\frac{2}{x}$上，点B在直线y=x-4，且A，B关于y轴对称，设A的坐标为(m, n)，则$\\frac{m}{n}+\\frac{n}{m}$的值是 A. -10 B. 6 C. 4 D. -8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在-2，-1，0，1这四个数中，最⼩的数是 A. 0 B. -2 C. -1 D. 1",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在-2，-1，0，1这四个数中，最⼩的数是 A. 0 B. -2 C. -1 D. 1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在直⻆坐标系中，已知A（3，3），在x轴、y轴上确定⼀点P，使△AOP为等腰三⻆形，则符合条件的点P共有 A. 6个  B. 8个  C. 10个  D. 4个",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在直⻆坐标系中，已知A（3，3），在x轴、y轴上确定⼀点P，使△AOP为等腰三⻆形，则符合条件的点P共有 A. 6个  B. 8个  C. 10个  D. 4个",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼩慧去花店购买鲜花，若买5⽀玫瑰和3⽀百合，则她所带的钱还剩下10元；若买3⽀玫瑰和5⽀百合，则她所带的钱还缺4元.若只买8⽀玫瑰，则她所带的钱还剩下 A. 31元 B. 30元 C. 19元  D. 25元 ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼩慧去花店购买鲜花，若买5⽀玫瑰和3⽀百合，则她所带的钱还剩下10元；若买3⽀玫瑰和5⽀百合，则她所带的钱还缺4元.若只买8⽀玫瑰，则她所带的钱还剩下 A. 31元 B. 30元 C. 19元  D. 25元 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知实数x、y满⾜$\\sqrt{2x+y-1}+|x-2|=0$则x+y= A. 7 B. 0 C. 3 D. 10",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知实数x、y满⾜$\\sqrt{2x+y-1}+|x-2|=0$则x+y= A. 7 B. 0 C. 3 D. 10",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀根绳⼦剪成两段，第⼀段⻓4/9⽶，第⼆段占全⻓的4/9。，那么 A. ⽆法确定  B. 两段⼀样⻓  C. 第⼆段⻓  D. 第⼀段⻓",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀根绳⼦剪成两段，第⼀段⻓4/9⽶，第⼆段占全⻓的4/9。，那么 A. ⽆法确定  B. 两段⼀样⻓  C. 第⼆段⻓  D. 第⼀段⻓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知一个多边形内角和是外角和的四倍，则这个多边形是 A. 十边形 B. 九边形 C. 十二边形 D. 八边形",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知一个多边形内角和是外角和的四倍，则这个多边形是 A. 十边形 B. 九边形 C. 十二边形 D. 八边形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "光速为$3\\times10^{8}$米每秒，太阳与地球之间的距离为$1.5\\times10^{11}$米，则太阳光到地球需要（）秒 A. $5\\times10^{3}$ B. $5\\times10^{4}$ C. $5\\times10^{2}$ D. $2\\times10^{2}$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "光速为$3\\times10^{8}$米每秒，太阳与地球之间的距离为$1.5\\times10^{11}$米，则太阳光到地球需要（）秒 A. $5\\times10^{3}$ B. $5\\times10^{4}$ C. $5\\times10^{2}$ D. $2\\times10^{2}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在平⾯直⻆坐标系中，若点M（1，3）与点N（x，3）之间的距离是5，则x的值是  A. 不确定 B. 6或－4 C. 6或4 D. 6",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在平⾯直⻆坐标系中，若点M（1，3）与点N（x，3）之间的距离是5，则x的值是  A. 不确定 B. 6或－4 C. 6或4 D. 6",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "把20克糖溶解在80克开⽔中，这时糖⽔中含糖 A. $\\frac{1}{5}$ B. 20% C. 20克  D. $\\frac{1}{4}$",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "把20克糖溶解在80克开⽔中，这时糖⽔中含糖 A. $\\frac{1}{5}$ B. 20% C. 20克  D. $\\frac{1}{4}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀块正⽅形钢板上截去3cm宽的⻓⽅形钢条，剩下的⾯积是$54cm^{2}$，则原来这块钢板的⾯积是 A. $81cm^{2}$ B. $72cm^{2}$ C. $54cm^{2}$ D. $90cm^{2}$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀块正⽅形钢板上截去3cm宽的⻓⽅形钢条，剩下的⾯积是$54cm^{2}$，则原来这块钢板的⾯积是 A. $81cm^{2}$ B. $72cm^{2}$ C. $54cm^{2}$ D. $90cm^{2}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽅程$x^{2}+2x-8=0$的解集⽤列举法表示为 A. {2,-4} B. {4,-2}  C. -4 ,2  D. 4,-2 ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽅程$x^{2}+2x-8=0$的解集⽤列举法表示为 A. {2,-4} B. {4,-2}  C. -4 ,2  D. 4,-2 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "王⽼师准备⽤80元钱为年级获奖运动员买奖品，他先花48.6元买了9本笔记本，并准备⽤余下的钱买⼀些钢笔，钢笔每枝3.2元。王⽼师还可以买⼏枝钢笔 A. 9 B. 10 C. 8 D. 11",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "王⽼师准备⽤80元钱为年级获奖运动员买奖品，他先花48.6元买了9本笔记本，并准备⽤余下的钱买⼀些钢笔，钢笔每枝3.2元。王⽼师还可以买⼏枝钢笔 A. 9 B. 10 C. 8 D. 11",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "互为反序的两个⾃然数的积是92565，求这两个互为反序的⾃然数 A. 155和551 B. 135和531 C. 167和761 D. 165和651 ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "互为反序的两个⾃然数的积是92565，求这两个互为反序的⾃然数 A. 155和551 B. 135和531 C. 167和761 D. 165和651 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列计算正确的是 A. $-\\sqrt{0.36}=-0.6$ B. $\\sqrt{36}=\\pm 6$ C. $\\sqrt{(-3)^{2}}=-2$ D. $\\sqrt[3]{-5}=\\sqrt[3]{5}$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列计算正确的是 A. $-\\sqrt{0.36}=-0.6$ B. $\\sqrt{36}=\\pm 6$ C. $\\sqrt{(-3)^{2}}=-2$ D. $\\sqrt[3]{-5}=\\sqrt[3]{5}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": " 1/3的相反数是 A. 1/3 B. 3 C. -1/3 D. -3",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": " 1/3的相反数是 A. 1/3 B. 3 C. -1/3 D. -3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知实数满足$(x^{2}-x)^{2}-4(x^{2}-x)-12=0$，则代数式$x^{2}-x+1$的值为 A. 6 B. 4 C. 7 D. 11",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知实数满足$(x^{2}-x)^{2}-4(x^{2}-x)-12=0$，则代数式$x^{2}-x+1$的值为 A. 6 B. 4 C. 7 D. 11",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个圆柱和⼀个圆锥的底⾯积相等，体积也相等。如果圆柱的⾼是6厘⽶，圆锥的⾼是（ ）厘⽶ A. 18 B. 6 C. 2 D. 36",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个圆柱和⼀个圆锥的底⾯积相等，体积也相等。如果圆柱的⾼是6厘⽶，圆锥的⾼是（ ）厘⽶ A. 18 B. 6 C. 2 D. 36",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若关于x的⼀元⼆次⽅程$ax^{2}+bx+5=0 (a\\neq 0)$ 的解是x=1，则2015-a-b的值是 A. 2021 B. 2020 C. 2023 D. 2022",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若关于x的⼀元⼆次⽅程$ax^{2}+bx+5=0 (a\\neq 0)$ 的解是x=1，则2015-a-b的值是 A. 2021 B. 2020 C. 2023 D. 2022",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各式中，等号不成⽴的是 A. -|8=-|-8| B. -|-8|=8 C. |-8|=|8| D. |-8|=8",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各式中，等号不成⽴的是 A. -|8=-|-8| B. -|-8|=8 C. |-8|=|8| D. |-8|=8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "4.803保留两位⼩数，约等于 A. 4.81 B. 4.80 C. 5.0 D. 4.8",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "4.803保留两位⼩数，约等于 A. 4.81 B. 4.80 C. 5.0 D. 4.8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知：$x=-6,y=-\\frac{1}{6}$，n为自然数，则$x^{4n}y^{4n+2}$的值是 A. $\\frac{1}{36}$ B. $-\\frac{1}{12}$ C. $-\\frac{1}{36}$ D. $\\frac{1}{12}$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知：$x=-6,y=-\\frac{1}{6}$，n为自然数，则$x^{4n}y^{4n+2}$的值是 A. $\\frac{1}{36}$ B. $-\\frac{1}{12}$ C. $-\\frac{1}{36}$ D. $\\frac{1}{12}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "锐⻆△ABC的三条⾼AD、BE、CF交于H，在A、B、C、D、E、F、H七个点中.能组成四点共圆的组数是 A. 6组 B. 5组 C. 7组 D. 4组",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "锐⻆△ABC的三条⾼AD、BE、CF交于H，在A、B、C、D、E、F、H七个点中.能组成四点共圆的组数是 A. 6组 B. 5组 C. 7组 D. 4组",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若(2,k)是双曲线$y=\\frac{1}{x}$上的一点，则函数y=(k-1)x的图像经过 A. 一、三象限 B. 三、四象限 C. 二、四象限 D. 一、二象限",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若(2,k)是双曲线$y=\\frac{1}{x}$上的一点，则函数y=(k-1)x的图像经过 A. 一、三象限 B. 三、四象限 C. 二、四象限 D. 一、二象限",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "x=1 是关于 x 的⽅程 2x-a=0 的解，则 a 的值是 A. -2 B. 1 C. 2 D. -1",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "x=1 是关于 x 的⽅程 2x-a=0 的解，则 a 的值是 A. -2 B. 1 C. 2 D. -1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当1999≤x≤2000时，函数$y=x^{2}+x+12$的函数值中是整数值的个数是 A. 4000 B. 3998 C. 3999 D. 4001",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当1999≤x≤2000时，函数$y=x^{2}+x+12$的函数值中是整数值的个数是 A. 4000 B. 3998 C. 3999 D. 4001",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列运⽤等式性质进⾏的变形，正确的是 A. 若2x=3y，则x/2 = y/3  B. 如果am=bm，那么a=b  C. 若10x=5，则x=2 D. 如果 a/m=b/m，那么a=b ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列运⽤等式性质进⾏的变形，正确的是 A. 若2x=3y，则x/2 = y/3  B. 如果am=bm，那么a=b  C. 若10x=5，则x=2 D. 如果 a/m=b/m，那么a=b ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "16汽修（2）班总⼈数是50，其中喜欢蓝球的有21⼈，喜欢⽻⽑球的有19⼈，既不喜欢篮球⼜不喜欢⽻⽑球的有15⼈，那么既喜欢篮球⼜喜欢⽻⽑球的有⼏⼈ A. 5⼈ B. 7⼈ C. 6⼈ D. 4⼈",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "16汽修（2）班总⼈数是50，其中喜欢蓝球的有21⼈，喜欢⽻⽑球的有19⼈，既不喜欢篮球⼜不喜欢⽻⽑球的有15⼈，那么既喜欢篮球⼜喜欢⽻⽑球的有⼏⼈ A. 5⼈ B. 7⼈ C. 6⼈ D. 4⼈",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若(x+t)(x+1)的积中不含有x的一次项，则t为 A. 1 B. -1 C. 0 D. $\\pm 1$",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若(x+t)(x+1)的积中不含有x的一次项，则t为 A. 1 B. -1 C. 0 D. $\\pm 1$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知$\\frac{a}{|a|}+\\frac{b}{|b|}$，则$\\frac{ab}{|ab|}$的值为 A. 0 B. 不确定 C. -1 D. 1",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知$\\frac{a}{|a|}+\\frac{b}{|b|}$，则$\\frac{ab}{|ab|}$的值为 A. 0 B. 不确定 C. -1 D. 1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀元⼆次⽅程(x+1)(x–1)=2x+3的根的情况是 A. 有两个不相等的实数根  B. 有两个相等的实数根  C. 没有实数根  D. 只有⼀个实数根 ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀元⼆次⽅程(x+1)(x–1)=2x+3的根的情况是 A. 有两个不相等的实数根  B. 有两个相等的实数根  C. 没有实数根  D. 只有⼀个实数根 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在$\\triangle ABC$和$\\triangle A'B'C'$中，已知$\\angle A=\\angle A'$，AB=A'B'，添加下列条件中的⼀个，不能使$\\triangle ABC\\cong \\triangle A'B'C'$⼀定成⽴的是 A. BC=B'C' B. AC=A'C' C. $\\angle C=\\angle C'$ D. $\\angle B=\\angle B'$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在$\\triangle ABC$和$\\triangle A'B'C'$中，已知$\\angle A=\\angle A'$，AB=A'B'，添加下列条件中的⼀个，不能使$\\triangle ABC\\cong \\triangle A'B'C'$⼀定成⽴的是 A. BC=B'C' B. AC=A'C' C. $\\angle C=\\angle C'$ D. $\\angle B=\\angle B'$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“五⼀”假⽇期间，某省银联⽹络交易总⾦额接近161亿元，其中161亿⽤科学记数法表示为 A. $1.61\\times 10^{12}$ B. $1.61\\times 10^{10}$ C. $1.61\\times 10^{9}$ D. $1.61\\times 10^{11}$",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“五⼀”假⽇期间，某省银联⽹络交易总⾦额接近161亿元，其中161亿⽤科学记数法表示为 A. $1.61\\times 10^{12}$ B. $1.61\\times 10^{10}$ C. $1.61\\times 10^{9}$ D. $1.61\\times 10^{11}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列多项式在实数范围内能因式分解的是 A. $x^{2}+x+1$ B. $x^{2}-y$ C. $x^{2}-2x+1$ D. $x^{2}+y$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列多项式在实数范围内能因式分解的是 A. $x^{2}+x+1$ B. $x^{2}-y$ C. $x^{2}-2x+1$ D. $x^{2}+y$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法中，正确的是 A. -9的平⽅根是-3 B. 9的⽴⽅根是3  C. $\\sqrt{25}$的算术平⽅根是5 D. 6是36的算术平⽅根",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法中，正确的是 A. -9的平⽅根是-3 B. 9的⽴⽅根是3  C. $\\sqrt{25}$的算术平⽅根是5 D. 6是36的算术平⽅根",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法不正确的是 A. 一组邻边相等的矩形是正方形 B. 对角线相等的菱形是正方形 C. 对角线互相垂直的矩形是正方形 D. 有一个角是直角的平行四边形是正方形",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法不正确的是 A. 一组邻边相等的矩形是正方形 B. 对角线相等的菱形是正方形 C. 对角线互相垂直的矩形是正方形 D. 有一个角是直角的平行四边形是正方形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各式中，积最⼩的算式是 A. 16.5*0.24 B. 1.65*24.8 C. 16.5*0.024  D. 16.5*24.8",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各式中，积最⼩的算式是 A. 16.5*0.24 B. 1.65*24.8 C. 16.5*0.024  D. 16.5*24.8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果$x^{2}+2xy+y^{2}-2x-2y+1=0$,则x+y= A. 0 B. 1 C. -1 D. $\\pm 1$",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果$x^{2}+2xy+y^{2}-2x-2y+1=0$,则x+y= A. 0 B. 1 C. -1 D. $\\pm 1$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个整数精确到万位是30万，这个数精确前可能是 A.  309111  B. 294999 C.  295786  D. 305997",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个整数精确到万位是30万，这个数精确前可能是 A.  309111  B. 294999 C.  295786  D. 305997",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "养禽场养鹅600只，养鸭的只数⽐鹅多50%，养禽场养鸭多少只？ A. 800 B. 600 C. 900 D. 700",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "养禽场养鹅600只，养鸭的只数⽐鹅多50%，养禽场养鸭多少只？ A. 800 B. 600 C. 900 D. 700",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知关于x的⽅程2x+4=m-x的解为负数，则m的取值范围是 A. $m\\lt 4$ B. $m\\gt \\frac{3}{4}$ C. $m\\lt \\frac{3}{4}$ D. $m\\gt 4$",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知关于x的⽅程2x+4=m-x的解为负数，则m的取值范围是 A. $m\\lt 4$ B. $m\\gt \\frac{3}{4}$ C. $m\\lt \\frac{3}{4}$ D. $m\\gt 4$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知⼀个实数的两个不同平⽅根是a＋3和2a－3，则该实数是 A. 10 B. 15 C. 12 D. 9",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知⼀个实数的两个不同平⽅根是a＋3和2a－3，则该实数是 A. 10 B. 15 C. 12 D. 9",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽼王 a 岁，⼩李（ a -18）岁，过 c 年后，他们相差（ ）岁 A. c-18 B. 18 C. c D. c+18",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽼王 a 岁，⼩李（ a -18）岁，过 c 年后，他们相差（ ）岁 A. c-18 B. 18 C. c D. c+18",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果两个有理数的商等于0，则 A. 被除数不为0除数为0 B. 两个数中有一个为0 C. 被除数为0除数不为0 D. 两个数都为0",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果两个有理数的商等于0，则 A. 被除数不为0除数为0 B. 两个数中有一个为0 C. 被除数为0除数不为0 D. 两个数都为0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个长方形的长宽高分别是3x+6，4x，3x，则它的体积为 A. $36x^{2}+72x$ B. $15x^{3}+18x^{2}$ C. $36x^{3}+72x^{2}$ D. $21x^{3}+42x^{2}$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个长方形的长宽高分别是3x+6，4x，3x，则它的体积为 A. $36x^{2}+72x$ B. $15x^{3}+18x^{2}$ C. $36x^{3}+72x^{2}$ D. $21x^{3}+42x^{2}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "等底等⾼的⻓⽅体 正⽅体 圆柱的体积相⽐较  A. 圆柱体积⼤  B. 正⽅体体积⼤  C. ⼀样⼤  D. ⻓⽅体体积⼤ ",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "等底等⾼的⻓⽅体 正⽅体 圆柱的体积相⽐较  A. 圆柱体积⼤  B. 正⽅体体积⼤  C. ⼀样⼤  D. ⻓⽅体体积⼤ ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀件商品先涨价10%，后再降价10%，现价和原价相⽐ A. 现价⾼ B. 原价⾼ C. ⼀样⾼ D. ⽆法判断",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀件商品先涨价10%，后再降价10%，现价和原价相⽐ A. 现价⾼ B. 原价⾼ C. ⼀样⾼ D. ⽆法判断",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有6个棱⻓分别是3cm，4cm，5cm，的相同的⻓⽅体，把它们的某些⾯染上红⾊，使得有的⻓⽅体只有⼀个⾯是红⾊的，有的⻓⽅体恰有两个⾯是红⾊的，有的⻓⽅体恰有三个⾯是红⾊的，有的⻓⽅体恰有四个⾯是红⾊的，有的⻓⽅体恰有五个⾯是红⾊的，还有⼀个⻓⽅体六个⾯都是红⾊的，染⾊后把所有 的⻓⽅体分割成棱⻓为1cm的⼩正⽅体，分割完毕后，恰有⼀⾯是红⾊的⼩正⽅体最多有⼏个 A. 199 B. 177 C. 166 D. 188",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有6个棱⻓分别是3cm，4cm，5cm，的相同的⻓⽅体，把它们的某些⾯染上红⾊，使得有的⻓⽅体只有⼀个⾯是红⾊的，有的⻓⽅体恰有两个⾯是红⾊的，有的⻓⽅体恰有三个⾯是红⾊的，有的⻓⽅体恰有四个⾯是红⾊的，有的⻓⽅体恰有五个⾯是红⾊的，还有⼀个⻓⽅体六个⾯都是红⾊的，染⾊后把所有 的⻓⽅体分割成棱⻓为1cm的⼩正⽅体，分割完毕后，恰有⼀⾯是红⾊的⼩正⽅体最多有⼏个 A. 199 B. 177 C. 166 D. 188",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列计算正确的是 A. $3\\sqrt{2}-\\sqrt{2}=2\\sqrt{2}$ B. 2a+3a=6a C. $(-3a)^{2}=6a^{2}$ D. $(x-y)^{2}=x^{2}-y^{2}$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列计算正确的是 A. $3\\sqrt{2}-\\sqrt{2}=2\\sqrt{2}$ B. 2a+3a=6a C. $(-3a)^{2}=6a^{2}$ D. $(x-y)^{2}=x^{2}-y^{2}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有⼀块梯形菜地，上底⻓4.5⽶，下底⻓7.5⽶，⾼10⽶，平均每平⽅⽶能收6棵⽩菜，这块地共可以收多少棵⽩菜 A. 300 B. 500 C. 720 D. 360",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有⼀块梯形菜地，上底⻓4.5⽶，下底⻓7.5⽶，⾼10⽶，平均每平⽅⽶能收6棵⽩菜，这块地共可以收多少棵⽩菜 A. 300 B. 500 C. 720 D. 360",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个圆柱的侧⾯积是12.56dm2，⾼是0.5dm，它的底⾯直径是（ ）dm A. 8 B. 4 C. 16 D. 12",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个圆柱的侧⾯积是12.56dm2，⾼是0.5dm，它的底⾯直径是（ ）dm A. 8 B. 4 C. 16 D. 12",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "和三⻆形三个顶点的距离相等的点是 A. 三边中线的交点 B. 三边上⾼所在直线的交点  C. 三条⻆平分线的交点 D. 三边的垂直平分线的交点 ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "和三⻆形三个顶点的距离相等的点是 A. 三边中线的交点 B. 三边上⾼所在直线的交点  C. 三条⻆平分线的交点 D. 三边的垂直平分线的交点 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "骰⼦是⼀个质量均匀的⼩正⽅体，它的六个⾯上分别刻有1~6个点，⼩明仔细观察骰⼦，发现任意相对两⾯的点数和都相等。这枚骰⼦向上的⼀⾯的点数是5，它的对⾯ 的点数是 A. 1 B. 3 C. 6 D. 2",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "骰⼦是⼀个质量均匀的⼩正⽅体，它的六个⾯上分别刻有1~6个点，⼩明仔细观察骰⼦，发现任意相对两⾯的点数和都相等。这枚骰⼦向上的⼀⾯的点数是5，它的对⾯ 的点数是 A. 1 B. 3 C. 6 D. 2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "mn为相反数，下列错误的是 A. $\\frac{m}{n}=-1$ B. $|m|=|n|$ C. $mn=-m^{2}$ D. $2m+2n=0$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "mn为相反数，下列错误的是 A. $\\frac{m}{n}=-1$ B. $|m|=|n|$ C. $mn=-m^{2}$ D. $2m+2n=0$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀张纸围成⼀个圆柱形，它的⾼是3.14分⽶，底⾯直径1分⽶，这张纸⼀定是 A. ⻓⽅形  B. 圆形  C. 圆锥形  D. 正⽅形",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀张纸围成⼀个圆柱形，它的⾼是3.14分⽶，底⾯直径1分⽶，这张纸⼀定是 A. ⻓⽅形  B. 圆形  C. 圆锥形  D. 正⽅形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "买1.5千克藕和4千克南⽠应付多钱？藕4.2元/千克。南⽠1.4元/千克。 A. 11 B. 11.9 C. 12 D. 11.7",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "买1.5千克藕和4千克南⽠应付多钱？藕4.2元/千克。南⽠1.4元/千克。 A. 11 B. 11.9 C. 12 D. 11.7",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "内⻆的度数为整数的正 边形的个数是 A. 24 B. 22 C. 18 D. 20",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "内⻆的度数为整数的正 边形的个数是 A. 24 B. 22 C. 18 D. 20",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法正确的是 A. $-\\frac{x+y}{3}-2x$不是整式 B. $5a^{2}b^{2}$的次数是5 C. x是单项式 D. $4xy^{3}+3x^{2}y$的次数是7",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法正确的是 A. $-\\frac{x+y}{3}-2x$不是整式 B. $5a^{2}b^{2}$的次数是5 C. x是单项式 D. $4xy^{3}+3x^{2}y$的次数是7",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "化简$\\frac{x^{2}}{x-1}+\\frac{x}{1-x}$的结果是 A. x+1 B. -x C. x D. x-1",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "化简$\\frac{x^{2}}{x-1}+\\frac{x}{1-x}$的结果是 A. x+1 B. -x C. x D. x-1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下⾯说法中正确的是 A. 0是最⼩的有理数 B. 0是整数，但不是正数，也不是负数 C. 0是最⼩的正数 D. 0是最⼩的整数",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下⾯说法中正确的是 A. 0是最⼩的有理数 B. 0是整数，但不是正数，也不是负数 C. 0是最⼩的正数 D. 0是最⼩的整数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若$x=1-\\frac{1}{m}$是方程mx-2m+2=0的根，则x-m的值为 A. 0 B. -1 C. 2 D. 1",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若$x=1-\\frac{1}{m}$是方程mx-2m+2=0的根，则x-m的值为 A. 0 B. -1 C. 2 D. 1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽐例尺⼀定，图上距离与实际距离 A. 成正⽐例 B. 成反⽐例 C. 不成⽐例 D. 不确定",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽐例尺⼀定，图上距离与实际距离 A. 成正⽐例 B. 成反⽐例 C. 不成⽐例 D. 不确定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某学校计划⽤34件同样的奖品全部⽤于奖励在“经典诵读”活动中表现突出的班级，⼀等奖奖励6件，⼆等奖奖励4件，则分配⼀、⼆等奖个数的⽅案有  A. 1种 B. 4种 C. 3种 D. 2种",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某学校计划⽤34件同样的奖品全部⽤于奖励在“经典诵读”活动中表现突出的班级，⼀等奖奖励6件，⼆等奖奖励4件，则分配⼀、⼆等奖个数的⽅案有  A. 1种 B. 4种 C. 3种 D. 2种",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各式中[ ]是⽅程 A. X B. 4.7+5.2=9.9  C. 3X+6 D. 3X+6=27",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各式中[ ]是⽅程 A. X B. 4.7+5.2=9.9  C. 3X+6 D. 3X+6=27",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列现象是数学中的平移的是 A. DVD⽚在光驱中运⾏  B. 电梯由⼀楼升到顶楼  C. 秋天的树叶从树上随⻛飘落  D. “神⾈”六号宇宙⻜船绕地球运动 ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列现象是数学中的平移的是 A. DVD⽚在光驱中运⾏  B. 电梯由⼀楼升到顶楼  C. 秋天的树叶从树上随⻛飘落  D. “神⾈”六号宇宙⻜船绕地球运动 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知a+b=2000+2001，a-b=2001−2000.则$s^{4}$-b^{4}等于 A. 2003 B. 2001 C. 2000 D. 2002",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知a+b=2000+2001，a-b=2001−2000.则$s^{4}$-b^{4}等于 A. 2003 B. 2001 C. 2000 D. 2002",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知⼀个⻆的补⻆是这个⻆余⻆的8.5倍，这个⻆的⼤⼩为 A. 65° B. 68° C. 72° D. 78°",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知⼀个⻆的补⻆是这个⻆余⻆的8.5倍，这个⻆的⼤⼩为 A. 65° B. 68° C. 72° D. 78°",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某商场五⼀期间举⾏优惠销售活动，采取“满⼀百元送⼆⼗元，并且连环赠送”的酬宾⽅式，即顾客每消费满100元（100元可以是现⾦，也可以是购物券，或⼆者合计）就送20元购物券，满200元就送40元购 物券，依次类推，现有⼀位顾客第⼀次就⽤了16000元购物，并⽤所得购物券继续购物，那么他购回的 商品⼤约相当于它们原价的 A. 90% B. 75% C. 80% D. 85%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某商场五⼀期间举⾏优惠销售活动，采取“满⼀百元送⼆⼗元，并且连环赠送”的酬宾⽅式，即顾客每消费满100元（100元可以是现⾦，也可以是购物券，或⼆者合计）就送20元购物券，满200元就送40元购 物券，依次类推，现有⼀位顾客第⼀次就⽤了16000元购物，并⽤所得购物券继续购物，那么他购回的 商品⼤约相当于它们原价的 A. 90% B. 75% C. 80% D. 85%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽤性质描述法表示全体偶数 A. {x|x=2k+1}  B. {x|x=2K,K是正整数}  C. {x|x=2k}  D. {x|x=2k， K是⾃然数} ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽤性质描述法表示全体偶数 A. {x|x=2k+1}  B. {x|x=2K,K是正整数}  C. {x|x=2k}  D. {x|x=2k， K是⾃然数} ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼩华玩某种游戏，每局可随意玩若⼲次，每次得分是8，a（⾃然数），0这三个数中的⼀个，每局各次得分的总和叫做这⼀局的总积分，⼩华曾得到过这样的总积分：103，104，105，106，107，108， 109，110，⼜知道他不可能得到“83分”这个总积分。问：a是多少 A. 12 B. 13 C. 14 D. 11",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼩华玩某种游戏，每局可随意玩若⼲次，每次得分是8，a（⾃然数），0这三个数中的⼀个，每局各次得分的总和叫做这⼀局的总积分，⼩华曾得到过这样的总积分：103，104，105，106，107，108， 109，110，⼜知道他不可能得到“83分”这个总积分。问：a是多少 A. 12 B. 13 C. 14 D. 11",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列判断中，错误的是 A. ⼀个负数的绝对值⼀定是正数 B. ⼀个正数的绝对值⼀定是正数 C. 任何数的绝对值都是正数 D. 任何数的绝对值都不是负数",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列判断中，错误的是 A. ⼀个负数的绝对值⼀定是正数 B. ⼀个正数的绝对值⼀定是正数 C. 任何数的绝对值都是正数 D. 任何数的绝对值都不是负数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果把学校的位置记作0m，从学校出发向东⾛300m有⼀个书店，书店的位置记作+300m，从书店出发向⻄⾛600m有⼀个报亭，报亭的位置记作（ ）m  A.  +900  B. -600 C. -300 D. -900",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果把学校的位置记作0m，从学校出发向东⾛300m有⼀个书店，书店的位置记作+300m，从书店出发向⻄⾛600m有⼀个报亭，报亭的位置记作（ ）m  A.  +900  B. -600 C. -300 D. -900",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在数轴上，0左边的数 A. 是负数 B. 是正数 C. 既不是正数，也不是负数  D. 既是正数，也是负数",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在数轴上，0左边的数 A. 是负数 B. 是正数 C. 既不是正数，也不是负数  D. 既是正数，也是负数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "抛物线$y=(x-2)^{2}+3$的顶点坐标为 A. (-2,3) B. (-2,-3) C. (2,-3) D. (2,3)",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "抛物线$y=(x-2)^{2}+3$的顶点坐标为 A. (-2,3) B. (-2,-3) C. (2,-3) D. (2,3)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个正⽅体的⽔晶砖，体积为$100cm^{2}$它的棱⻓⼤约在 A. 7cm~8cm之间 B. 4cm~5cm之间 C. 5cm~6cm之间 D. 6cm~7cm之间",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个正⽅体的⽔晶砖，体积为$100cm^{2}$它的棱⻓⼤约在 A. 7cm~8cm之间 B. 4cm~5cm之间 C. 5cm~6cm之间 D. 6cm~7cm之间",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列对象不能组成集合的是 A. 直线y=2x-1上所有的点  B. 本班数学成绩较好的同学  C. 不等式x+2>0的解集全体  D. 不⼩于0的所有偶数 ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列对象不能组成集合的是 A. 直线y=2x-1上所有的点  B. 本班数学成绩较好的同学  C. 不等式x+2>0的解集全体  D. 不⼩于0的所有偶数 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀根体积为120⽴⽅分⽶的圆柱体⽊料，要把它削成最⼤的圆锥，需要削去（ ）⽴⽅分⽶的⽊料 A. 80 B. 100 C. 40 D. 60",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀根体积为120⽴⽅分⽶的圆柱体⽊料，要把它削成最⼤的圆锥，需要削去（ ）⽴⽅分⽶的⽊料 A. 80 B. 100 C. 40 D. 60",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代互联⽹技术的⼴泛应⽤，催⽣了快递⾏业的⾼速发展.某家快递公司的分拣⼯⼩李和⼩江在分拣同⼀类物件时，⼩李分拣120个物件所⽤的时间与⼩江分拣 90 个物件所⽤的时间相同，已知⼩李每⼩时⽐ ⼩江多分拣20个物件.若设⼩江每⼩时分拣x个物件，则可列⽅程为 A. 120/(x+20)=90/x  B. 120/x=90/(x-20)  C. 120/x=90/(x+20)  D. 120/(x-20)=90/x",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代互联⽹技术的⼴泛应⽤，催⽣了快递⾏业的⾼速发展.某家快递公司的分拣⼯⼩李和⼩江在分拣同⼀类物件时，⼩李分拣120个物件所⽤的时间与⼩江分拣 90 个物件所⽤的时间相同，已知⼩李每⼩时⽐ ⼩江多分拣20个物件.若设⼩江每⼩时分拣x个物件，则可列⽅程为 A. 120/(x+20)=90/x  B. 120/x=90/(x-20)  C. 120/x=90/(x+20)  D. 120/(x-20)=90/x",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列计算中，正确的是 A. $a^{3}+a^{3}=a^{6}$ B. $a^{2}\\cdot a^{4}=a^{8}$ C. $(a^{2})^{3}=a^{5}$ D. $a^{4}/a^{3}=a $",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列计算中，正确的是 A. $a^{3}+a^{3}=a^{6}$ B. $a^{2}\\cdot a^{4}=a^{8}$ C. $(a^{2})^{3}=a^{5}$ D. $a^{4}/a^{3}=a $",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知“甲⽐⼄多50%°则下⾯叙述中正确的是 A. 甲与⼄的⽐是3：2  B. ⼄是甲的3倍  C. 甲与⼄的⽐是2：3  D. ⼄⽐甲少50% ",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知“甲⽐⼄多50%°则下⾯叙述中正确的是 A. 甲与⼄的⽐是3：2  B. ⼄是甲的3倍  C. 甲与⼄的⽐是2：3  D. ⼄⽐甲少50% ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在平⾯直⻆坐标系中，抛物线y=(x+5)(x-3) 经过变换后得到抛物线y=(x+3)(x-5)，则这个变换可以是 A. 向左平移8个单位  B. 向右平移2个单位 C. 向左平移2个单位 D. 向右平移8个单位 ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在平⾯直⻆坐标系中，抛物线y=(x+5)(x-3) 经过变换后得到抛物线y=(x+3)(x-5)，则这个变换可以是 A. 向左平移8个单位  B. 向右平移2个单位 C. 向左平移2个单位 D. 向右平移8个单位 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在平⾯直⻆坐标系xOy中，点A(a, b)(a＞0, b＞0)在双曲线$y=\\frac{k_{1}}{x}$上，点A关于x轴的对称点B在双曲线上$y=\\frac{k_{2}}{x}$，则k1+k2的值为 0 前面下划线位置应该填入哪个选项,只输出选项字母 A. -1 B. 1 C. 2 D. 0",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在平⾯直⻆坐标系xOy中，点A(a, b)(a＞0, b＞0)在双曲线$y=\\frac{k_{1}}{x}$上，点A关于x轴的对称点B在双曲线上$y=\\frac{k_{2}}{x}$，则k1+k2的值为 0 前面下划线位置应该填入哪个选项,只输出选项字母 A. -1 B. 1 C. 2 D. 0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在60后⾯添上百分号，这个数就 A. ⼤⼩不变  B. 扩⼤100倍  C. 缩⼩10倍  D. 缩⼩为原来的1% ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在60后⾯添上百分号，这个数就 A. ⼤⼩不变  B. 扩⼤100倍  C. 缩⼩10倍  D. 缩⼩为原来的1% ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个菱形的边⻓是⽅程$x^{2}-8x+15=0$的⼀个根，其中⼀条对⻆线⻓为8，则该菱形的⾯积为 A. 24或40 B. 24 C. 48 D. 48或80",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个菱形的边⻓是⽅程$x^{2}-8x+15=0$的⼀个根，其中⼀条对⻆线⻓为8，则该菱形的⾯积为 A. 24或40 B. 24 C. 48 D. 48或80",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "(-2,6)关于x轴对称点的坐标为 A. (2,-6) B. (2,6)  C. (-2,-6)  D. (-2,6)",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "(-2,6)关于x轴对称点的坐标为 A. (2,-6) B. (2,6)  C. (-2,-6)  D. (-2,6)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在4.3的末尾添上一个零后，小数的计数单位是 A. 百分位 B. 0.01  C. 0.1  D. 十分位 ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在4.3的末尾添上一个零后，小数的计数单位是 A. 百分位 B. 0.01  C. 0.1  D. 十分位 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个三角形的底边和高都增加10%，那么，新三角形的面积比原三角形的面积 A. 增加20% B. 增加10% C. 增加21% D. 增加100%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个三角形的底边和高都增加10%，那么，新三角形的面积比原三角形的面积 A. 增加20% B. 增加10% C. 增加21% D. 增加100%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一件工作，甲做1/3小时完成，乙做0.4小时完成，两人合作()小时完成 A. 0.7 B. 不能计算 C. 15/11/2023 D. 11/02/2023",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一件工作，甲做1/3小时完成，乙做0.4小时完成，两人合作()小时完成 A. 0.7 B. 不能计算 C. 15/11/2023 D. 11/02/2023",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "0.375的计数单位是 A. 0.01 B. 无法确定 C. 0.1 D. 0.001",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "0.375的计数单位是 A. 0.01 B. 无法确定 C. 0.1 D. 0.001",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知A=1+1/2+1/3+1/4+...+1/11+1/12，则A的整数部分是 A. 3 B. 1 C. 2 D. 4",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知A=1+1/2+1/3+1/4+...+1/11+1/12，则A的整数部分是 A. 3 B. 1 C. 2 D. 4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“太白酒”酒瓶上的商标纸上标有酒精度58%，这里的58%是指 A. 酒精的体积是整瓶酒的质量的58% B. 酒精的质量是整瓶酒的质量的58% C. 酒精的质量是整瓶酒的体积的58% D. 酒精的体积是整瓶酒的体积的58%",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“太白酒”酒瓶上的商标纸上标有酒精度58%，这里的58%是指 A. 酒精的体积是整瓶酒的质量的58% B. 酒精的质量是整瓶酒的质量的58% C. 酒精的质量是整瓶酒的体积的58% D. 酒精的体积是整瓶酒的体积的58%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "把20升的纯牛奶喝掉2升，用水添至和原来一样多，则牛奶浓度为 A. 95% B. 85% C. 90% D. 10%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "把20升的纯牛奶喝掉2升，用水添至和原来一样多，则牛奶浓度为 A. 95% B. 85% C. 90% D. 10%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在100千克的水中加10千克食盐，盐水的浓度是 A. 10/100-10*100% B. 10/100+10*100% C. 90% D. 10%",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在100千克的水中加10千克食盐，盐水的浓度是 A. 10/100-10*100% B. 10/100+10*100% C. 90% D. 10%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲轮滚动2周的距离，乙轮要滚动3周，甲轮与乙轮的直径比是 A. 3：2  B. 9：4  C. 9：1  D. 2：3",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲轮滚动2周的距离，乙轮要滚动3周，甲轮与乙轮的直径比是 A. 3：2  B. 9：4  C. 9：1  D. 2：3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "算式603-[124*3+137-(69+68)]的正确答案是 A. 231 B. 233 C. 230 D. 232",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "算式603-[124*3+137-(69+68)]的正确答案是 A. 231 B. 233 C. 230 D. 232",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果一个三角形的两个内角度数的和等于第三个内角的度数，那么这个三角形是 A. 锐角三角形 B. 无法判断 C. 直角三角形 D. 钝角三角形",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果一个三角形的两个内角度数的和等于第三个内角的度数，那么这个三角形是 A. 锐角三角形 B. 无法判断 C. 直角三角形 D. 钝角三角形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1.9965四舍五入到千分位是 A. 1.99  B. 1.996 C. 1.997 D. 2.00",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1.9965四舍五入到千分位是 A. 1.99  B. 1.996 C. 1.997 D. 2.00",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "30比()少1/5 A. 25 B. 36 C. 37.5 D. 28",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "30比()少1/5 A. 25 B. 36 C. 37.5 D. 28",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "14/42的分子减少7，要使这个分数的大小不变，分母应该减少 A. 28 B. 7 C. 14 D. 21",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "14/42的分子减少7，要使这个分数的大小不变，分母应该减少 A. 28 B. 7 C. 14 D. 21",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在估算8.8*6.92时，误差最小的是 A. 8*7 B. 9*6 C. 9*7 D. 8*6",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在估算8.8*6.92时，误差最小的是 A. 8*7 B. 9*6 C. 9*7 D. 8*6",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有一堆糖，吃了3/4，还剩1.2千克，这堆糖原来有 A. 1.2*(1—3/4) B. 1.2/(1-3/4) C. 1.2*(3/4) D. 1.2/(3/4)",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有一堆糖，吃了3/4，还剩1.2千克，这堆糖原来有 A. 1.2*(1—3/4) B. 1.2/(1-3/4) C. 1.2*(3/4) D. 1.2/(3/4)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲乙两书架，把甲书架上的书的1/4放到乙书架上，这时，两书架上的书正好相等，原来甲书架上的书比乙书架上多 A. 75% B. 100% C. 50% D. 25%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲乙两书架，把甲书架上的书的1/4放到乙书架上，这时，两书架上的书正好相等，原来甲书架上的书比乙书架上多 A. 75% B. 100% C. 50% D. 25%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "100增加1/10后，又减少了1/10，结果是 A. 100 B. 110 C. 90 D. 99",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "100增加1/10后，又减少了1/10，结果是 A. 100 B. 110 C. 90 D. 99",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一艘轮船从甲港开往乙港，逆流用了15小时，返回时顺流速度加快了1/4，这艘轮船返回时用了 A. 19小时 B. 10小时 C. 12小时 D. 20小时",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一艘轮船从甲港开往乙港，逆流用了15小时，返回时顺流速度加快了1/4，这艘轮船返回时用了 A. 19小时 B. 10小时 C. 12小时 D. 20小时",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲数的305与乙数的40%相等，那么甲数()乙数 A. 等于 B. 小于 C. 大于 D. 不一定",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲数的305与乙数的40%相等，那么甲数()乙数 A. 等于 B. 小于 C. 大于 D. 不一定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知3个数的和是470，第一个数比第二个数多160，第三个数比第一个数少180，这三个数的最大公因数是 A. 10 B. 20 C. 12 D. 2",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知3个数的和是470，第一个数比第二个数多160，第三个数比第一个数少180，这三个数的最大公因数是 A. 10 B. 20 C. 12 D. 2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一段绳子，第一次用去全长的2/5，第二次用去全长的1/4，剩下的比第二次用去的长20米，这根绳子原来有 A. 150米 B. 180米 C. 200米 D. 60米",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一段绳子，第一次用去全长的2/5，第二次用去全长的1/4，剩下的比第二次用去的长20米，这根绳子原来有 A. 150米 B. 180米 C. 200米 D. 60米",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在一个棱长为1分米的正方体的8个角上，各锯下一个棱长为1厘米的正方体，现在它的表面积和原来比 A. 不变 B. 增加 C. 减少  D. 无法确定",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在一个棱长为1分米的正方体的8个角上，各锯下一个棱长为1厘米的正方体，现在它的表面积和原来比 A. 不变 B. 增加 C. 减少  D. 无法确定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用()可以估算7.9804*3.025的积大约是多少 A. 7*4 B. 8*4 C. 7*3 D. 8*3",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用()可以估算7.9804*3.025的积大约是多少 A. 7*4 B. 8*4 C. 7*3 D. 8*3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "自然数中，能被2整除的数都是 A. 偶数 B. 奇数 C. 质数 D. 合数",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "自然数中，能被2整除的数都是 A. 偶数 B. 奇数 C. 质数 D. 合数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "修路队修一段路，第一周修了全的1/6，第二周修了全长的1/4，第一周比第二周少修20千米，这段路全长有 A. 240 B. 120 C. 48 D. 80",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "修路队修一段路，第一周修了全的1/6，第二周修了全长的1/4，第一周比第二周少修20千米，这段路全长有 A. 240 B. 120 C. 48 D. 80",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果0<a<1，b=1/(a*a*a)，c=1/(a+a+a)，那么b和c的值相比 A. 值可能相等 B. c的值大 C. 不确定 D. b的值大",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果0<a<1，b=1/(a*a*a)，c=1/(a+a+a)，那么b和c的值相比 A. 值可能相等 B. c的值大 C. 不确定 D. b的值大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果a-6=8，那么(a*2)—(6*2)= A. 8 B. 32 C. 4 D. 16",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果a-6=8，那么(a*2)—(6*2)= A. 8 B. 32 C. 4 D. 16",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "把分数a的分子扩大到原来的11倍，分母扩大到原来的13倍，得到的一个新分数b，把分数a的分子扩大到原来的8倍，分母扩大到原来的9倍，得到一个新分数c。那么b和c比较 A. b>c B. 比不清楚 C. b<c D. b=c",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "把分数a的分子扩大到原来的11倍，分母扩大到原来的13倍，得到的一个新分数b，把分数a的分子扩大到原来的8倍，分母扩大到原来的9倍，得到一个新分数c。那么b和c比较 A. b>c B. 比不清楚 C. b<c D. b=c",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一根绳子长5米，第一次用去1/5，第二次用去1/5米，还剩下 A. 4米 B. 12/5米 C. 3米 D. 2/5米",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一根绳子长5米，第一次用去1/5，第二次用去1/5米，还剩下 A. 4米 B. 12/5米 C. 3米 D. 2/5米",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某专业户去年每公顷产粮食9400千克，比前年增产二成，前年每公顷产粮食()千克 A. 9400*(1-20%) B. 9400/(1-20%) C. 9400*(1+20%) D. 9400/(1+20%)",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某专业户去年每公顷产粮食9400千克，比前年增产二成，前年每公顷产粮食()千克 A. 9400*(1-20%) B. 9400/(1-20%) C. 9400*(1+20%) D. 9400/(1+20%)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲数比乙数少甲数的1/4，也就是乙数是甲数的 A. 1/4 B. 1.25 C. 4倍 D. 0.25",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲数比乙数少甲数的1/4，也就是乙数是甲数的 A. 1/4 B. 1.25 C. 4倍 D. 0.25",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小圆直径为a厘米，大圆的半径为a厘米，则小圆面积与大圆面积的比是 A. 2:1 B. 1:4 C. 3.14 D. 4:1",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小圆直径为a厘米，大圆的半径为a厘米，则小圆面积与大圆面积的比是 A. 2:1 B. 1:4 C. 3.14 D. 4:1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "10千克的盐溶解在100千克的水中，盐的重量占盐水重量的 A. 1/10 B. 1/12 C. 1/9 D. 1/11",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "10千克的盐溶解在100千克的水中，盐的重量占盐水重量的 A. 1/10 B. 1/12 C. 1/9 D. 1/11",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲、乙、丙三个不为0的自然数，满足条件甲*5/4=乙*3/4=丙*3/2，则甲、乙、丙三个数从大到小的排列顺序是 A. 丙>乙>甲 B. 丙>甲>乙 C. 乙>甲>丙 D. 甲>乙>丙",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲、乙、丙三个不为0的自然数，满足条件甲*5/4=乙*3/4=丙*3/2，则甲、乙、丙三个数从大到小的排列顺序是 A. 丙>乙>甲 B. 丙>甲>乙 C. 乙>甲>丙 D. 甲>乙>丙",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "爸爸去年买了一种股票，该股票去年跌了20%，今年应上涨()才能保持原值 A. 30% B. 40% C. 20% D. 25%",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "爸爸去年买了一种股票，该股票去年跌了20%，今年应上涨()才能保持原值 A. 30% B. 40% C. 20% D. 25%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个大于0的数除以真分数，商()被除数 A. 小于或等于 B. 小于 C. 大于 D. 等于",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个大于0的数除以真分数，商()被除数 A. 小于或等于 B. 小于 C. 大于 D. 等于",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个分数的分子减少它的4/5，要使分数的大小不变，分母应 A. 除以5 B. 除以4/5 C. 乘以5 D. 减去4/5",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个分数的分子减少它的4/5，要使分数的大小不变，分母应 A. 除以5 B. 除以4/5 C. 乘以5 D. 减去4/5",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "今年的柑橘产量比去年成长一成半，今年产量是去年的 A. 85% B. 115% C. 105% D. 15%",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "今年的柑橘产量比去年成长一成半，今年产量是去年的 A. 85% B. 115% C. 105% D. 15%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知a是一个真分数，b是一个假分数，在下列算式中答案一定大于1的算式是 A. a+b B. a*b C. a/b D. a-b",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知a是一个真分数，b是一个假分数，在下列算式中答案一定大于1的算式是 A. a+b B. a*b C. a/b D. a-b",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "()统计图既表示数量的多少，又表示数量之间的增减变化 A. 扇形 B. 折线  C. 百分比 D. 条列",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "()统计图既表示数量的多少，又表示数量之间的增减变化 A. 扇形 B. 折线  C. 百分比 D. 条列",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个因数扩大到原来的10倍，另一个因数缩小的原来的1/20，它们的积 A. 缩小到原来的1/2 B. 缩小到原来的1/10 C. 扩大到原来的10倍 D. 扩大到原来的2倍",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个因数扩大到原来的10倍，另一个因数缩小的原来的1/20，它们的积 A. 缩小到原来的1/2 B. 缩小到原来的1/10 C. 扩大到原来的10倍 D. 扩大到原来的2倍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在70克的水中放入10克糖，配成糖水，含糖率为 A. 12.50% B. 1.25% C. 87.55 D. 14.30%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在70克的水中放入10克糖，配成糖水，含糖率为 A. 12.50% B. 1.25% C. 87.55 D. 14.30%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知除数是132，商是0.001，余数是0.1，被除数是 A. 0.133 B. 1.33 C. 0.232 D. 1.3",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知除数是132，商是0.001，余数是0.1，被除数是 A. 0.133 B. 1.33 C. 0.232 D. 1.3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "刘叔叔看病花了280元，报销时，个人要负担四成，能报销多少元钱，算式是 A. 280÷40% B. 80*(1-40%) C. 280/(1-40%) D. 280*40%",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "刘叔叔看病花了280元，报销时，个人要负担四成，能报销多少元钱，算式是 A. 280÷40% B. 80*(1-40%) C. 280/(1-40%) D. 280*40%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲三角形与乙三角形的底边长的比是2：1，高的比是1：2，那么甲三角形与乙三角形面积的比是 A. 2：1 B. 1：2 C. 3：2  D. 1：1",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲三角形与乙三角形的底边长的比是2：1，高的比是1：2，那么甲三角形与乙三角形面积的比是 A. 2：1 B. 1：2 C. 3：2  D. 1：1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "修路队修一段路，第一天修了全程的2/5，第二天修了240米，完成了全部修路任务，第一天修了多少米，正确的算式是 A. 240/(1-2/5) B. 240/(1-2/5)*(2/5) C. 240/(1+2/5) D. 240*(1+2/5)",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "修路队修一段路，第一天修了全程的2/5，第二天修了240米，完成了全部修路任务，第一天修了多少米，正确的算式是 A. 240/(1-2/5) B. 240/(1-2/5)*(2/5) C. 240/(1+2/5) D. 240*(1+2/5)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一段绳子，第一次剪去全长的1/5，第二次剪去全长的1/2，还剩30米，这根绳子全长 A. 90 B. 100 C. 80 D. 160",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一段绳子，第一次剪去全长的1/5，第二次剪去全长的1/2，还剩30米，这根绳子全长 A. 90 B. 100 C. 80 D. 160",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "修路队修一段路，第一天修了全程的1/4，第二天修了全程的1/5，已知第一天与第二天一共修了1800米，这段路的全长是()米 A. 1800/(1/4+1/5) B. 1800/(1/4—1/5) C. 1800*(1/4+1/5) D. 1800/(1—1/4—1/5)",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "修路队修一段路，第一天修了全程的1/4，第二天修了全程的1/5，已知第一天与第二天一共修了1800米，这段路的全长是()米 A. 1800/(1/4+1/5) B. 1800/(1/4—1/5) C. 1800*(1/4+1/5) D. 1800/(1—1/4—1/5)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一辆汽车从甲地开往乙地，已经行驶了160千米，余下的占全长的3/8，甲乙两地相距 A. 160(1+3)*8 B. 160/(1-3/8) C. 160*(1-3/8) D. 160/(1+3/8)",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一辆汽车从甲地开往乙地，已经行驶了160千米，余下的占全长的3/8，甲乙两地相距 A. 160(1+3)*8 B. 160/(1-3/8) C. 160*(1-3/8) D. 160/(1+3/8)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小圆的直径为a厘米，大圆的半径为a厘米，则小圆面积是大圆面积的 A. 25% B. 20% C. 80% D. 50%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小圆的直径为a厘米，大圆的半径为a厘米，则小圆面积是大圆面积的 A. 25% B. 20% C. 80% D. 50%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一座粮食仓库的容积为约1500 A. 平方米 B. 立方米 C. 升 D. 米",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一座粮食仓库的容积为约1500 A. 平方米 B. 立方米 C. 升 D. 米",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "同学们参加合唱队，男生人数的1/3等于女生人数的3/8，女生有128，参加合唱队的男生比女生多 A. 18 B. 16 C. 24 D. 12",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "同学们参加合唱队，男生人数的1/3等于女生人数的3/8，女生有128，参加合唱队的男生比女生多 A. 18 B. 16 C. 24 D. 12",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个两位数，个位上的数字和十位上的数字都是合数，并且是互质数，这个数最大是 A. 96 B. 98 C. 94 D. 99",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个两位数，个位上的数字和十位上的数字都是合数，并且是互质数，这个数最大是 A. 96 B. 98 C. 94 D. 99",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果甲数的2/3等于乙数的3/5，那么甲数：乙数等于 A. 10：9  B. 15：6 C. 6：15 D. 9：10 ",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果甲数的2/3等于乙数的3/5，那么甲数：乙数等于 A. 10：9  B. 15：6 C. 6：15 D. 9：10 ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲数是7777776/7777777，乙数是9999998/9999999，那么甲乙两数的关系是 A. 甲<乙 B. 甲>乙 C. 不确定 D. 甲=乙",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲数是7777776/7777777，乙数是9999998/9999999，那么甲乙两数的关系是 A. 甲<乙 B. 甲>乙 C. 不确定 D. 甲=乙",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "绘制统计图时，要能清楚地表示数量增减变化的情况，应选用 A. AB B. 扇形统计图 C. 折线统计图 D. 条形统计图",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "绘制统计图时，要能清楚地表示数量增减变化的情况，应选用 A. AB B. 扇形统计图 C. 折线统计图 D. 条形统计图",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "40-[12+(10-3)*4]的得数是 A. 0 B. 2 C. 10 D. 1",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "40-[12+(10-3)*4]的得数是 A. 0 B. 2 C. 10 D. 1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "商店运来一批水果，第一天卖出总量的1/6是240千克，第二天卖出总量的2/5，商店里还有()千克水水果 A. 624 B. 720 C. 864 D. 780",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "商店运来一批水果，第一天卖出总量的1/6是240千克，第二天卖出总量的2/5，商店里还有()千克水水果 A. 624 B. 720 C. 864 D. 780",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1-1*(0/1)+1/1的的数是 A. 2 B. 3 C. 0 D. 1",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1-1*(0/1)+1/1的的数是 A. 2 B. 3 C. 0 D. 1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有两堆砂石，第一堆比第二堆中60%，那么第二堆比第一堆轻 A. 37.50% B. 40% C. 60.50% D. 62.50%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有两堆砂石，第一堆比第二堆中60%，那么第二堆比第一堆轻 A. 37.50% B. 40% C. 60.50% D. 62.50%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有两根同样长的绳子，从第一根中先用去1/3，再用去1/3米，从第二根中先用去1/3米，再用去余下长度的1/3，仍都有剩余。第一根所剩部分与第二根所剩部分相比较 A. 两根剩的同样长 B. 第二根剩的长 C. 无法确定 D. 第一根剩的长",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有两根同样长的绳子，从第一根中先用去1/3，再用去1/3米，从第二根中先用去1/3米，再用去余下长度的1/3，仍都有剩余。第一根所剩部分与第二根所剩部分相比较 A. 两根剩的同样长 B. 第二根剩的长 C. 无法确定 D. 第一根剩的长",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知a+b=4，c+b=3，b=1/2，那么c比1少 A. 1/4 B. 1 C. 1/3 D. 3/4",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知a+b=4，c+b=3，b=1/2，那么c比1少 A. 1/4 B. 1 C. 1/3 D. 3/4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲乙两袋米，由甲袋倒出1/10到乙袋后，两袋米的重量相等，原来甲戴米比乙袋多 A. 10% B. 25% C. 80% D. 20%",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲乙两袋米，由甲袋倒出1/10到乙袋后，两袋米的重量相等，原来甲戴米比乙袋多 A. 10% B. 25% C. 80% D. 20%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "文具店今天卖出120支圆珠笔，比昨天多卖出1/5，昨天卖出()支圆珠笔 A. 120/(1—1/5) B. 120*(1—1/5) C. 120/(1+1/5) D. 120*1+1/5)",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "文具店今天卖出120支圆珠笔，比昨天多卖出1/5，昨天卖出()支圆珠笔 A. 120/(1—1/5) B. 120*(1—1/5) C. 120/(1+1/5) D. 120*1+1/5)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个数的3/14是5，那这个数的3/7是 A. 10 B. 7 C. 9 D. 8",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个数的3/14是5，那这个数的3/7是 A. 10 B. 7 C. 9 D. 8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "把0.8亿改写成用“万”作单位的数是 A. 80000万 B. 8000万 C. 80000000万 D. 0.8万",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "把0.8亿改写成用“万”作单位的数是 A. 80000万 B. 8000万 C. 80000000万 D. 0.8万",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有一堆煤，增加1/7后，又减少1/7，这堆煤的重量 A. 与原来重量相等 B. 比原来多 C. 不确定 D. 比原来少",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有一堆煤，增加1/7后，又减少1/7，这堆煤的重量 A. 与原来重量相等 B. 比原来多 C. 不确定 D. 比原来少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个正方体的棱长扩大2倍，表面积就扩大 A. 8倍 B. 2倍 C. 4倍 D. 12倍",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个正方体的棱长扩大2倍，表面积就扩大 A. 8倍 B. 2倍 C. 4倍 D. 12倍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一本故事书共有240页，如果第一天看了全部的1/8，第二天看了全部的1/6，第三天应该从第()页开始看 A. 75 B. 76 C. 70 D. 71",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一本故事书共有240页，如果第一天看了全部的1/8，第二天看了全部的1/6，第三天应该从第()页开始看 A. 75 B. 76 C. 70 D. 71",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "A、B两只青蛙进行跳跃比赛，A每次跳10厘米，B每次跳15厘米，他们每秒都只跳1次，且一起从起点开始向同一方向跳跃。在比赛途中，每隔12厘米有一陷阱，当它们中第一只掉进陷阱时，另一只距离它最近的陷阱有()厘米 A. 6 B. 2 C. 4 D. 无法确定",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "A、B两只青蛙进行跳跃比赛，A每次跳10厘米，B每次跳15厘米，他们每秒都只跳1次，且一起从起点开始向同一方向跳跃。在比赛途中，每隔12厘米有一陷阱，当它们中第一只掉进陷阱时，另一只距离它最近的陷阱有()厘米 A. 6 B. 2 C. 4 D. 无法确定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "修一段路，已经修了它的5/6，剩下没修的比已经修了的少 A. 80% B. 66.70% C. 16.70% D. 20%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "修一段路，已经修了它的5/6，剩下没修的比已经修了的少 A. 80% B. 66.70% C. 16.70% D. 20%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个两位数，各位数字的和的5倍比原数打6，则这个两位数是 A. 74 B. 24或69 C. 24 D. 69",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个两位数，各位数字的和的5倍比原数打6，则这个两位数是 A. 74 B. 24或69 C. 24 D. 69",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "30以内的质数加上2还是质数的有()个 A. 4 B. 7 C. 6 D. 5",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "30以内的质数加上2还是质数的有()个 A. 4 B. 7 C. 6 D. 5",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列算式()的积与5.555*6.666的结果最接近 A. 5*7 B. 6*6 C. 6*7 D. 5*6",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列算式()的积与5.555*6.666的结果最接近 A. 5*7 B. 6*6 C. 6*7 D. 5*6",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一本故事书共有240页，如果第一天看了全部的1/8，第二天看了剩下的1/6，第三天应该从第()页开始看 A. 70 B. 66 C. 141 D. 71",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一本故事书共有240页，如果第一天看了全部的1/8，第二天看了剩下的1/6，第三天应该从第()页开始看 A. 70 B. 66 C. 141 D. 71",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "24/36的分子减少16，要使这个分数的大小不变，分母应该变成 A. 2 B. 6 C. 24 D. 12",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "24/36的分子减少16，要使这个分数的大小不变，分母应该变成 A. 2 B. 6 C. 24 D. 12",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一次打靶，命中了100发，没命中是25发，命中率是 A. 80% B. 75% C. 25% D. 50%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一次打靶，命中了100发，没命中是25发，命中率是 A. 80% B. 75% C. 25% D. 50%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "5米长的铁丝平均分成8份，每份是1米的 A. 5/8  B. 1/8  C. 5/8米 D. 8/5",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "5米长的铁丝平均分成8份，每份是1米的 A. 5/8  B. 1/8  C. 5/8米 D. 8/5",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "钝角三角形的内角和()锐角三角形的内角和 A. 小于 B. 无法确定 C. 大于 D. 等于",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "钝角三角形的内角和()锐角三角形的内角和 A. 小于 B. 无法确定 C. 大于 D. 等于",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "数a分解质因数是a=2*2*3，数b分解质因数是b=2*2*5，数a和数b的最大公因数是解质因数是a=2*2*3，数b分解质因数是b=2*2*5，数a和数b的最大公因数是 A. 4 B. 6 C. 2 D. 60",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "数a分解质因数是a=2*2*3，数b分解质因数是b=2*2*5，数a和数b的最大公因数是解质因数是a=2*2*3，数b分解质因数是b=2*2*5，数a和数b的最大公因数是 A. 4 B. 6 C. 2 D. 60",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列图形中，对称轴只有一条的是 A. 等腰三角形 B. 圆 C. 等边三角形 D. 长方形",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列图形中，对称轴只有一条的是 A. 等腰三角形 B. 圆 C. 等边三角形 D. 长方形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一根木料用去全长的40%，还剩5.4米，这根木料原来的长是多少米，列式是 A. 5.4/40% B. 5.4/(1+40%) C. 5.4/(1-40%) D. 5.4*40%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一根木料用去全长的40%，还剩5.4米，这根木料原来的长是多少米，列式是 A. 5.4/40% B. 5.4/(1+40%) C. 5.4/(1-40%) D. 5.4*40%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中的数是序数的是 A. 第2节课 B. 5支铅笔 C. 2栋楼房 D. 6只鸡",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中的数是序数的是 A. 第2节课 B. 5支铅笔 C. 2栋楼房 D. 6只鸡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "要使x/8是最简真分数，8/x是假分数，x应该是 A. 9 B. 7 C. 6 D. 8",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "要使x/8是最简真分数，8/x是假分数，x应该是 A. 9 B. 7 C. 6 D. 8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在一个减法算式里，被减数、减数与差的和是120，且差是减数的3倍，差是 A. 45 B. 40 C. 20 D. 60",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在一个减法算式里，被减数、减数与差的和是120，且差是减数的3倍，差是 A. 45 B. 40 C. 20 D. 60",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一种商品先涨价20%，又降价20%，这种商品现在的价格是原价的 A. 80% B. 88% C. 不变 D. 96%",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一种商品先涨价20%，又降价20%，这种商品现在的价格是原价的 A. 80% B. 88% C. 不变 D. 96%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "两个自然数的倒数和是11/24，这两个自然数是 A. 2和9 B. 5和6 C. 1和10 D. 3和8",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "两个自然数的倒数和是11/24，这两个自然数是 A. 2和9 B. 5和6 C. 1和10 D. 3和8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲每秒跑3米，乙每秒跑2米，丙每秒跑4米，三人沿600米的环形跑道从同一点同时同向跑步，经过()秒三人又同时从出发点出发 A. 300 B. 12 C. 无法确定 D. 600",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲每秒跑3米，乙每秒跑2米，丙每秒跑4米，三人沿600米的环形跑道从同一点同时同向跑步，经过()秒三人又同时从出发点出发 A. 300 B. 12 C. 无法确定 D. 600",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某地区的电话号码是一个八位数，已知其前四位数是一个固定数6869，那么该地区最多可安装()部电话 A. 9999 B. 6869 C. 10001 D. 10000",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某地区的电话号码是一个八位数，已知其前四位数是一个固定数6869，那么该地区最多可安装()部电话 A. 9999 B. 6869 C. 10001 D. 10000",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个数增加15%后得到一个新数，再从新数中减少15%，结果比原数相比 A. 结果比原数小 B. 结果比原数大 C. 不确定 D. 结果与原数相等",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个数增加15%后得到一个新数，再从新数中减少15%，结果比原数相比 A. 结果比原数小 B. 结果比原数大 C. 不确定 D. 结果与原数相等",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小丽和贝贝在玩游戏，小丽报的数a在25至50之间，贝贝报的数b在10至20之间，那么a+b的结果在()之间 A. 45至60 B. 35至70 C. 15至30 D. 5至40",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小丽和贝贝在玩游戏，小丽报的数a在25至50之间，贝贝报的数b在10至20之间，那么a+b的结果在()之间 A. 45至60 B. 35至70 C. 15至30 D. 5至40",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法正确的是 A. 如果甲数比乙数多1/4，乙数就比甲数少1/4 B. (a+b)/c=a+b/c C. 4/7*6表示求6个4/7的和 D. (a+b)*c=a+b*c",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法正确的是 A. 如果甲数比乙数多1/4，乙数就比甲数少1/4 B. (a+b)/c=a+b/c C. 4/7*6表示求6个4/7的和 D. (a+b)*c=a+b*c",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "6/39的分子减去4，要使分数大小不变，分母应减去 A. 6 B. 13 C. 2 D. 26",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "6/39的分子减去4，要使分数大小不变，分母应减去 A. 6 B. 13 C. 2 D. 26",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算(8.2+6.21+6.21)*3.5，下面几种计算方法中最简便的方法是 A. 6.21*(2+1+1)*3.5 B. 6.21*(2+1+1*3.5) C. 8.2*3.5+6.21*3.5+6.21*3.5 D. (8.2+6.21*2)*3.5",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算(8.2+6.21+6.21)*3.5，下面几种计算方法中最简便的方法是 A. 6.21*(2+1+1)*3.5 B. 6.21*(2+1+1*3.5) C. 8.2*3.5+6.21*3.5+6.21*3.5 D. (8.2+6.21*2)*3.5",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小华养了98只蚕，全部成活，成活率是 A. 100% B. 不确定 C. 80% D. 98%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小华养了98只蚕，全部成活，成活率是 A. 100% B. 不确定 C. 80% D. 98%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "65*4+4*35=(65+35)*4，应用的是 A. 加法结合率 B. 乘法分配律 C. 加法交换律 D. 乘法交换律",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "65*4+4*35=(65+35)*4，应用的是 A. 加法结合率 B. 乘法分配律 C. 加法交换律 D. 乘法交换律",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个三角形，三个内角度数比是2：5：2，这个三角形是 A. 直角三角形 B. 等边三角形 C. 锐角三角形 D. 钝角三角形",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个三角形，三个内角度数比是2：5：2，这个三角形是 A. 直角三角形 B. 等边三角形 C. 锐角三角形 D. 钝角三角形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一堆煤重2500吨，烧锅炉每天要用120吨，每天需用 A. 48% B. 12% C. 4.80% D. 2.40%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一堆煤重2500吨，烧锅炉每天要用120吨，每天需用 A. 48% B. 12% C. 4.80% D. 2.40%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有两块面积相等的白铁皮和黑铁皮，白铁皮用去了4/5，黑铁皮用去4/5平方米，剩下的白铁皮比黑铁皮面积小，原来这两块铁皮的面积 A. 正好都是1平方米 B. 小于1平方米 C. 都大于1平方米 D. 无法确定",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有两块面积相等的白铁皮和黑铁皮，白铁皮用去了4/5，黑铁皮用去4/5平方米，剩下的白铁皮比黑铁皮面积小，原来这两块铁皮的面积 A. 正好都是1平方米 B. 小于1平方米 C. 都大于1平方米 D. 无法确定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某商店清仓处理一批袜子，按六五折出售，则售价是原价的 A. 1/35 B. 30% C. 1/65 D. 65%",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某商店清仓处理一批袜子，按六五折出售，则售价是原价的 A. 1/35 B. 30% C. 1/65 D. 65%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "a和b都是整数，且a*b=36，则a和b的和最大可能是 A. 20 B. 13 C. 12 D. 37",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "a和b都是整数，且a*b=36，则a和b的和最大可能是 A. 20 B. 13 C. 12 D. 37",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一袋糖的5/7比他的2/3多1.6千克，这代糖重 A. 1.6*(5/7+2/3) B. 1.6/(5/7+2/3) C. 1.6*(5/7—2/3) D. 1.6/(5/7—2/3)",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一袋糖的5/7比他的2/3多1.6千克，这代糖重 A. 1.6*(5/7+2/3) B. 1.6/(5/7+2/3) C. 1.6*(5/7—2/3) D. 1.6/(5/7—2/3)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲数的3/4相当于乙数的2/5，甲数()乙数 A. 等于 B. 不确定 C. 大于 D. 小于",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲数的3/4相当于乙数的2/5，甲数()乙数 A. 等于 B. 不确定 C. 大于 D. 小于",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知300/13商为23余数为1，那么3除以0.13商23时，余数是 A. 0.01 B. 1 C. 0.05 D. 500",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知300/13商为23余数为1，那么3除以0.13商23时，余数是 A. 0.01 B. 1 C. 0.05 D. 500",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲数的2/3等于乙数的3/4，则甲数（）乙数 A. 小于 B. 大于 C. 等于 D. 无法确定",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲数的2/3等于乙数的3/4，则甲数（）乙数 A. 小于 B. 大于 C. 等于 D. 无法确定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某厂计划加工200套服装，实际多加工50套，实际比计划超产 A. 255 B. 80% C. 335 D. 20%",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某厂计划加工200套服装，实际多加工50套，实际比计划超产 A. 255 B. 80% C. 335 D. 20%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "检查4.2-2.65=1.65对不对，可以用()验算 A. 2.65+1.65 B. 2.65—1.65 C. 4.2-1.65 D. 4.2+1.65",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "检查4.2-2.65=1.65对不对，可以用()验算 A. 2.65+1.65 B. 2.65—1.65 C. 4.2-1.65 D. 4.2+1.65",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大小两个正方形的边长比是5：3，这大小两个正方形的面积比是 A. 10：6  B. 20：12 C. 25：9  D. 5：3",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大小两个正方形的边长比是5：3，这大小两个正方形的面积比是 A. 10：6  B. 20：12 C. 25：9  D. 5：3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "0.04*0.04是 A. 0.0016 B. 0.00016 C. 0.16 D. 0.016",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "0.04*0.04是 A. 0.0016 B. 0.00016 C. 0.16 D. 0.016",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

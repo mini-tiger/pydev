@@ -1,0 +1,1602 @@
+[
+  {
+    "question_std": "日耳曼人开始了日耳曼蛮族大入侵是在什么时期。 A. 2世纪 B. 4世纪 C. 3世纪 D. 1世纪",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "日耳曼人开始了日耳曼蛮族大入侵是在什么时期。 A. 2世纪 B. 4世纪 C. 3世纪 D. 1世纪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宗教信仰自由受（）保护，公民有信仰宗教的自由。 A. 国家 B. 政府 C. 条例 D. 宪法",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宗教信仰自由受（）保护，公民有信仰宗教的自由。 A. 国家 B. 政府 C. 条例 D. 宪法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以佛教为国教的国家是 A. 马来西亚 B. 新加坡 C. 日本 D. 泰国",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以佛教为国教的国家是 A. 马来西亚 B. 新加坡 C. 日本 D. 泰国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "早期基督教的赎罪方式是 A. 向教会购买赎罪券 B. 祈求教会处死 C. 内心真诚忏悔和肉体自我折磨 D. 体罚和流放",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "早期基督教的赎罪方式是 A. 向教会购买赎罪券 B. 祈求教会处死 C. 内心真诚忏悔和肉体自我折磨 D. 体罚和流放",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“特兰托会议”是哪个教派所召开的改革会议？ A. 天主教 B. 东正教 C. 基督教 D. 新教",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“特兰托会议”是哪个教派所召开的改革会议？ A. 天主教 B. 东正教 C. 基督教 D. 新教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第一个带领法兰克人皈依正统基督教信仰的人是 A. 克洛维 B. 路易 C. 查理曼 D. 丕平",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第一个带领法兰克人皈依正统基督教信仰的人是 A. 克洛维 B. 路易 C. 查理曼 D. 丕平",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在佛教传入中原之后，修筑的第一座寺庙是 A. 桑耶寺 B. 白马寺 C. 潭柘寺 D. 少林寺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在佛教传入中原之后，修筑的第一座寺庙是 A. 桑耶寺 B. 白马寺 C. 潭柘寺 D. 少林寺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《心经》中的观自在菩萨是指 A. 文殊菩萨 B. 地藏菩萨  C. 观音菩萨 D. 弥勒菩萨",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《心经》中的观自在菩萨是指 A. 文殊菩萨 B. 地藏菩萨  C. 观音菩萨 D. 弥勒菩萨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "君士坦丁皇帝于公元325年主持召开了第一次基督教世界大会，即 A. 罗马会议 B. 尼西亚公会议 C. 君士坦丁会议 D. 米兰公会议",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "君士坦丁皇帝于公元325年主持召开了第一次基督教世界大会，即 A. 罗马会议 B. 尼西亚公会议 C. 君士坦丁会议 D. 米兰公会议",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "早期的北传佛教的经典多用什么语言所写 A. 藏文 B. 汉文 C. 梵文 D. 僧伽罗文",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "早期的北传佛教的经典多用什么语言所写 A. 藏文 B. 汉文 C. 梵文 D. 僧伽罗文",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "云南地区傣族、德昂族、阿昌族、布朗族、佤族的信徒，信仰的宗教主要是 A. 大乘佛教 B. 伊斯兰教 C. 小乘佛教 D. 藏传佛教",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "云南地区傣族、德昂族、阿昌族、布朗族、佤族的信徒，信仰的宗教主要是 A. 大乘佛教 B. 伊斯兰教 C. 小乘佛教 D. 藏传佛教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "希腊神话最初是由什么开始的。 A. 乌兰诺斯 B. 赫拉 C. 宙斯 D. 混沌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "希腊神话最初是由什么开始的。 A. 乌兰诺斯 B. 赫拉 C. 宙斯 D. 混沌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《坛经》，是历史上除佛经外，唯一被尊称为“经”的佛教典籍。此书作者是 A. 六祖慧能 B. 南天竺菩提达摩 C. 释迦牟尼 D. 五祖宏忍",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《坛经》，是历史上除佛经外，唯一被尊称为“经”的佛教典籍。此书作者是 A. 六祖慧能 B. 南天竺菩提达摩 C. 释迦牟尼 D. 五祖宏忍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最早到中国传教的耶稣教会人员是 A. 沙勿略 B. 罗耀拉 C. 利玛窦 D. 罗明坚",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最早到中国传教的耶稣教会人员是 A. 沙勿略 B. 罗耀拉 C. 利玛窦 D. 罗明坚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界最大的佛学院五明佛学院位于哪里？ A. 道孚 B. 喇荣 C. 炉霍 D. 德格",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界最大的佛学院五明佛学院位于哪里？ A. 道孚 B. 喇荣 C. 炉霍 D. 德格",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "天台宗以哪部经为依据 A. 华严经 B. 圆觉经 C. 楞严经 D. 法华经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "天台宗以哪部经为依据 A. 华严经 B. 圆觉经 C. 楞严经 D. 法华经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "藏传佛教四大教派是指 A. 宁玛、萨迦、噶举、觉囊 B. 宁玛、萨玛、噶举、觉囊 C. 宁玛、萨玛、噶举、格鲁 D. 宁玛、萨迦、噶举、格鲁",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "藏传佛教四大教派是指 A. 宁玛、萨迦、噶举、觉囊 B. 宁玛、萨玛、噶举、觉囊 C. 宁玛、萨玛、噶举、格鲁 D. 宁玛、萨迦、噶举、格鲁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界三大宗教中，佛教创立时间相当于 A. 西周时期 B. 春秋战国时期 C. 秦朝 D. 汉朝",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界三大宗教中，佛教创立时间相当于 A. 西周时期 B. 春秋战国时期 C. 秦朝 D. 汉朝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "黄心川岩翻出，偿拜道捏出三教合一虽则部是立足于本软而融据其他两者，但归视结底实行的迁得是()的组合影式 A. 以上都不对 B. 以来为主，儒、道携手为辅 C. 以道为主，儒，偶携手为辅 D. 以便为主，佛，造拂手为辅",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "黄心川岩翻出，偿拜道捏出三教合一虽则部是立足于本软而融据其他两者，但归视结底实行的迁得是()的组合影式 A. 以上都不对 B. 以来为主，儒、道携手为辅 C. 以道为主，儒，偶携手为辅 D. 以便为主，佛，造拂手为辅",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "瑞士宗教改革家领袖是 A. 马丁·路德 B. 乌利斯·茨温利 C. 亨利八世 D. 加尔文",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "瑞士宗教改革家领袖是 A. 马丁·路德 B. 乌利斯·茨温利 C. 亨利八世 D. 加尔文",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被中国佛教尊为“八宗之祖”的是 A. 观音菩萨 B. 马明菩萨 C. 龙树菩萨 D. 准提菩萨",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被中国佛教尊为“八宗之祖”的是 A. 观音菩萨 B. 马明菩萨 C. 龙树菩萨 D. 准提菩萨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "东方三圣是指 A. 药师如来，弥勒菩萨，地藏菩萨 B. 药师如来，观音菩萨，地藏菩萨 C. 药师如来，日光菩萨，月光菩萨 D. 药师如来，普贤菩萨，文殊菩萨",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "东方三圣是指 A. 药师如来，弥勒菩萨，地藏菩萨 B. 药师如来，观音菩萨，地藏菩萨 C. 药师如来，日光菩萨，月光菩萨 D. 药师如来，普贤菩萨，文殊菩萨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我们所居的娑婆世界，经中称为 A. 七浊恶世 B. 三浊恶世 C. 十浊恶世 D. 五浊恶世",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我们所居的娑婆世界，经中称为 A. 七浊恶世 B. 三浊恶世 C. 十浊恶世 D. 五浊恶世",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对中国文化思想和知识分子影响最大的宗派是 A. 华严宗 B. 禅宗 C. 三论宗 D. 法相宗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对中国文化思想和知识分子影响最大的宗派是 A. 华严宗 B. 禅宗 C. 三论宗 D. 法相宗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列事件发生的先后顺序是①穆罕默德兵临麦加城下②穆罕默德病逝③穆罕默德出走麦地那④穆罕默德出家隐修 A. ④③①② B. ①②③④ C. ③①②④ D. ④③②①",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列事件发生的先后顺序是①穆罕默德兵临麦加城下②穆罕默德病逝③穆罕默德出走麦地那④穆罕默德出家隐修 A. ④③①② B. ①②③④ C. ③①②④ D. ④③②①",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "保镇认为其实在六道之中，虽然每一道修具有平等的意义，但具有殊胜性的是。 A. 天 B. 人 C. 阿修罗 D. 地狱",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "保镇认为其实在六道之中，虽然每一道修具有平等的意义，但具有殊胜性的是。 A. 天 B. 人 C. 阿修罗 D. 地狱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三界是指欲界、色界和 A. 无欲生 B. 天界 C. 无色界 D. 空界",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三界是指欲界、色界和 A. 无欲生 B. 天界 C. 无色界 D. 空界",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在犹太教中，把它们所期盼的救主称作 A. 上帝 B. “受膏者”，即（弥赛亚） C. 耶和华 D. 摩西",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在犹太教中，把它们所期盼的救主称作 A. 上帝 B. “受膏者”，即（弥赛亚） C. 耶和华 D. 摩西",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "将真理告知大众在佛语中称作 A. 心施 B. 行施 C. 财施 D. 法施",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "将真理告知大众在佛语中称作 A. 心施 B. 行施 C. 财施 D. 法施",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "供养父母是属于哪种福田 A. 悲田 B. 敬田 C. 恩田 D. 孝田",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "供养父母是属于哪种福田 A. 悲田 B. 敬田 C. 恩田 D. 孝田",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教的精神本质是将人提到光明圣洁的神性生活，而中世纪教会的实践活动却把基督徒们引向了 A. 犬儒主义之中 B. 唯灵主义之中 C. 最粗鄙野蛮的肉欲放纵之中 D. 神秘主义之中",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教的精神本质是将人提到光明圣洁的神性生活，而中世纪教会的实践活动却把基督徒们引向了 A. 犬儒主义之中 B. 唯灵主义之中 C. 最粗鄙野蛮的肉欲放纵之中 D. 神秘主义之中",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下谁是古希腊神秘主义思想的集大成者，他所创立的理念世界与感觉世界、灵魂与肉体向对立的二元论哲学，后来成为（基督神学）的主要思想来源。 A. 柏拉图 B. 苏格拉底 C. 斐洛 D. 亚里士多德",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下谁是古希腊神秘主义思想的集大成者，他所创立的理念世界与感觉世界、灵魂与肉体向对立的二元论哲学，后来成为（基督神学）的主要思想来源。 A. 柏拉图 B. 苏格拉底 C. 斐洛 D. 亚里士多德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "印度中观理论的创始人是 A. 莲池大师 B. 龙树大师 C. 道信大师 D. 鸠摩罗什",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "印度中观理论的创始人是 A. 莲池大师 B. 龙树大师 C. 道信大师 D. 鸠摩罗什",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罗马帝国早期的基督教曾以()而著称。 A. 内心忏悔和救赎 B. 信仰强化和排除异己 C. 信仰坚定和道德高尚 D. 原罪与忏悔",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罗马帝国早期的基督教曾以()而著称。 A. 内心忏悔和救赎 B. 信仰强化和排除异己 C. 信仰坚定和道德高尚 D. 原罪与忏悔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "学佛应以什么为首要？ A. 正定 B. 持戒 C. 布施 D. 正见",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "学佛应以什么为首要？ A. 正定 B. 持戒 C. 布施 D. 正见",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "东正教最高首领被称为 A. 枢机主教 B. 大主教 C. 都主教 D. 牧首",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "东正教最高首领被称为 A. 枢机主教 B. 大主教 C. 都主教 D. 牧首",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据犹太人的叙述，早在公元前13世纪末，在犹太人中间就出现了一位先知是 A. 基督 B. 摩西 C. 保罗 D. 彼得",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据犹太人的叙述，早在公元前13世纪末，在犹太人中间就出现了一位先知是 A. 基督 B. 摩西 C. 保罗 D. 彼得",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三宝是指 A. 天地人 B. 戒定慧 C. 佛法僧 D. 断舍离",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三宝是指 A. 天地人 B. 戒定慧 C. 佛法僧 D. 断舍离",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教哲学的发展科分为两个阶段，即早期的教父哲学和后期的 A. 神秘主义哲学 B. 经院哲学 C. 怀疑主义哲学 D. 唯灵主义哲学",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教哲学的发展科分为两个阶段，即早期的教父哲学和后期的 A. 神秘主义哲学 B. 经院哲学 C. 怀疑主义哲学 D. 唯灵主义哲学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "菩萨教化众生必须博学多闻，要具备五明，其中内明是指 A. 逻辑学 B. 工艺学 C. 语言学 D:医学 D. 佛学",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "菩萨教化众生必须博学多闻，要具备五明，其中内明是指 A. 逻辑学 B. 工艺学 C. 语言学 D:医学 D. 佛学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一切有为法，如梦幻泡影，如露亦如电，应作如是观。此段经文出自 A. 地藏经 B. 六祖坛经 C. 金刚经 D. 华严经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一切有为法，如梦幻泡影，如露亦如电，应作如是观。此段经文出自 A. 地藏经 B. 六祖坛经 C. 金刚经 D. 华严经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛经有云“人有三事胜过诸天”，即 A. 戒定慧 B. 断舍离 C. 贪瞋痴 D. 忆念梵行勤勇",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛经有云“人有三事胜过诸天”，即 A. 戒定慧 B. 断舍离 C. 贪瞋痴 D. 忆念梵行勤勇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "分达赖和班禅两大系的是 A. 新黄教 B. 红教 C. 老黄教 D. 白教",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "分达赖和班禅两大系的是 A. 新黄教 B. 红教 C. 老黄教 D. 白教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "犹太人的祖先()人大约在（公元前14世纪上半叶）由沙漠侵入巴勒斯坦，与当地的迦南人逐渐融合，形成农耕的以色列部落。 A. 希伯来人 B. 腓尼基 C. 亚述 D. 迦太基",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "犹太人的祖先()人大约在（公元前14世纪上半叶）由沙漠侵入巴勒斯坦，与当地的迦南人逐渐融合，形成农耕的以色列部落。 A. 希伯来人 B. 腓尼基 C. 亚述 D. 迦太基",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "断除三界烦恼的圣人是 A. 阿罗汉 B. 菩萨 C. 佛 D. 神明",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "断除三界烦恼的圣人是 A. 阿罗汉 B. 菩萨 C. 佛 D. 神明",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罗素把谁称为“古代伟大哲学家中的最后一个人”。 A. 普罗提诺 B. 柏拉图 C. 斐洛 D. 亚里士多德",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罗素把谁称为“古代伟大哲学家中的最后一个人”。 A. 普罗提诺 B. 柏拉图 C. 斐洛 D. 亚里士多德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1073年，教会的强硬派人物希尔德布兰登上了教皇宝座，此人即是 A. 卜尼法斯 B. 格里高利七世 C. 克雷芒七世 D. 英诺森三世",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1073年，教会的强硬派人物希尔德布兰登上了教皇宝座，此人即是 A. 卜尼法斯 B. 格里高利七世 C. 克雷芒七世 D. 英诺森三世",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罗马帝国对基督徒进行的最后一次大规模镇压发生在谁的执政时期。 A. 戴克里先 B. 图拉真 C. 尼禄 D. 狄奥多西",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罗马帝国对基督徒进行的最后一次大规模镇压发生在谁的执政时期。 A. 戴克里先 B. 图拉真 C. 尼禄 D. 狄奥多西",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "城邦时期的宗教文化生活主要是 A. 祭神 B. 竞技会 C. 祭天 D. 庙会",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "城邦时期的宗教文化生活主要是 A. 祭神 B. 竞技会 C. 祭天 D. 庙会",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教最初是从什么发展而来的。 A. 伊斯兰教 B. 犹太教 C. 太阳神教 D. 万神教",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教最初是从什么发展而来的。 A. 伊斯兰教 B. 犹太教 C. 太阳神教 D. 万神教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "希腊神话中的是（雷电）之神，也是奥林匹斯众神之首。 A. 宙斯 B. 阿波罗 C. 该亚 D. 乌兰诺斯",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "希腊神话中的是（雷电）之神，也是奥林匹斯众神之首。 A. 宙斯 B. 阿波罗 C. 该亚 D. 乌兰诺斯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教的出家人姓“释”是由谁所提出？ A. 弘忍大师 B. 玄奘大师 C. 六祖大师 D. 道安大师",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教的出家人姓“释”是由谁所提出？ A. 弘忍大师 B. 玄奘大师 C. 六祖大师 D. 道安大师",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "净土三经是指 A. 阿弥陀经、无量寿经、观无量寿经 B. 楞严经、圆觉经、法华经 C. 般若经、华严经、法华经 D. 金刚经、心经、坛经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "净土三经是指 A. 阿弥陀经、无量寿经、观无量寿经 B. 楞严经、圆觉经、法华经 C. 般若经、华严经、法华经 D. 金刚经、心经、坛经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下那一位赞普在自己登位后开始实行大规模灭佛运动 A. 朗达玛 B. 赤松德赞 C. 赤德祖赞 D. 赤祖德赞",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下那一位赞普在自己登位后开始实行大规模灭佛运动 A. 朗达玛 B. 赤松德赞 C. 赤德祖赞 D. 赤祖德赞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个不是中世纪宗教裁判所迫害的所谓“异端” A. 信奉他教之人 B. “巫士”和犹太人 C. 具有新思想的科学先驱 D. 持不同宗教见解者",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个不是中世纪宗教裁判所迫害的所谓“异端” A. 信奉他教之人 B. “巫士”和犹太人 C. 具有新思想的科学先驱 D. 持不同宗教见解者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "圣经四部福音书指的是马太福音、马可福音、路加福音和 A. 彼得福音 B. 保罗福音 C. 约翰福音 D. 基督福音",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "圣经四部福音书指的是马太福音、马可福音、路加福音和 A. 彼得福音 B. 保罗福音 C. 约翰福音 D. 基督福音",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教史上第一座精舍为 A. 祇园精舍 B. 竹林精舍 C. 鹿野苑 D. 山谷精舍",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教史上第一座精舍为 A. 祇园精舍 B. 竹林精舍 C. 鹿野苑 D. 山谷精舍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按产生时间的先后顺序排列世界三大宗教，应该是①基督教②佛教③伊斯兰教 A. ②①③ B. ②③① C. ③②① D. ①②③",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按产生时间的先后顺序排列世界三大宗教，应该是①基督教②佛教③伊斯兰教 A. ②①③ B. ②③① C. ③②① D. ①②③",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "哪一部经是佛无问自说 A. 圆觉经 B. 阿弥陀经 C. 坛经 D. 金刚经",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "哪一部经是佛无问自说 A. 圆觉经 B. 阿弥陀经 C. 坛经 D. 金刚经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教最早传入中国的经典是 A. 般若经 B. 法句经 C. 阿含经 D. 四十二章经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教最早传入中国的经典是 A. 般若经 B. 法句经 C. 阿含经 D. 四十二章经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一个不是希腊宗教敬拜活动 A. 奈美竞技会和伊斯米竞技会 B. 雅典娜节和酒神节 C. 奥林匹亚竞技会和毕提竞技会 D. 牧神节与角斗",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一个不是希腊宗教敬拜活动 A. 奈美竞技会和伊斯米竞技会 B. 雅典娜节和酒神节 C. 奥林匹亚竞技会和毕提竞技会 D. 牧神节与角斗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教的本质就是 A. 物质主义 B. 犬儒主义 C. 唯灵主义 D. 禁欲主义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教的本质就是 A. 物质主义 B. 犬儒主义 C. 唯灵主义 D. 禁欲主义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教四大天王中，西方广目天王手持的兵器是 A. 琵琶 B. 宝剑 C. 雨伞 D. 绳索或龙蛇",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教四大天王中，西方广目天王手持的兵器是 A. 琵琶 B. 宝剑 C. 雨伞 D. 绳索或龙蛇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公元前11—前10世纪，以色列部落在以下几位国王的统治下曾建立过统一的以色列王朝，以下哪个错误 A. 大卫 B. 所罗门 C. 扫罗 D. 约伯",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公元前11—前10世纪，以色列部落在以下几位国王的统治下曾建立过统一的以色列王朝，以下哪个错误 A. 大卫 B. 所罗门 C. 扫罗 D. 约伯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "早期教会大学的授课内容主要是（文法、修辞、逻辑、数学、几何、音乐和天文），合称 A. 艺术 B. 文艺 C. 文学 D. “七艺”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "早期教会大学的授课内容主要是（文法、修辞、逻辑、数学、几何、音乐和天文），合称 A. 艺术 B. 文艺 C. 文学 D. “七艺”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教所讲“色受想行识”是指 A. 五蕴 B. 五明 C. 五常 D. 五处",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教所讲“色受想行识”是指 A. 五蕴 B. 五明 C. 五常 D. 五处",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人是众因缘和合而生，故名 A. 人生 B. 旁生 C. 众生 D. 化生",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人是众因缘和合而生，故名 A. 人生 B. 旁生 C. 众生 D. 化生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下不是西方教会最杰出的三位教父，修道主义的推动者的是 A. 安东尼 B. 奥古斯丁 C. 杰罗姆 D. 安布罗斯",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下不是西方教会最杰出的三位教父，修道主义的推动者的是 A. 安东尼 B. 奥古斯丁 C. 杰罗姆 D. 安布罗斯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面不属于天主教阵营的国家是 A. 意大利 B. 西班牙 C. 德国 D. 法国",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面不属于天主教阵营的国家是 A. 意大利 B. 西班牙 C. 德国 D. 法国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教修行的基本内容是 A. “戒、定、慧”三学 B. 四圣谛 C. 三法印 D. “身、语、意”三业",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教修行的基本内容是 A. “戒、定、慧”三学 B. 四圣谛 C. 三法印 D. “身、语、意”三业",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“诸行无常、诸法无我、涅盘寂静”称为 A. 三皈依 B. 三乘道 C. 三法界 D. 三法印",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“诸行无常、诸法无我、涅盘寂静”称为 A. 三皈依 B. 三乘道 C. 三法界 D. 三法印",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面犹太教派别中哪个教派信奉耶稣就是拯救他们的弥赛亚。 A. 法利赛人 B. 吉伦特派 C. 加利利派 D. 撒都该人",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面犹太教派别中哪个教派信奉耶稣就是拯救他们的弥赛亚。 A. 法利赛人 B. 吉伦特派 C. 加利利派 D. 撒都该人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中世纪西欧的封建制的层层分封的（金字塔）形结构是由什么组成的。 A. 封臣-贫民 B. 领主-贫民 C. 领主-封臣-贫民 D. 领主-封臣",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中世纪西欧的封建制的层层分封的（金字塔）形结构是由什么组成的。 A. 封臣-贫民 B. 领主-贫民 C. 领主-封臣-贫民 D. 领主-封臣",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界三大主要建筑体系不包含哪个 A. 欧洲建筑 B. 伊斯兰建筑 C. 美洲建筑 D. 中国建筑",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界三大主要建筑体系不包含哪个 A. 欧洲建筑 B. 伊斯兰建筑 C. 美洲建筑 D. 中国建筑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "内心起瞋恚，要以（）对治? A. 自在观 B. 因缘观 C. 不净观 D. 慈悲观",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "内心起瞋恚，要以（）对治? A. 自在观 B. 因缘观 C. 不净观 D. 慈悲观",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "早期基督教的使徒和教父的神学思想大部分来源于 A. 亚里士多德 B. 苏格拉底 C. 柏拉图 D. 斐洛",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "早期基督教的使徒和教父的神学思想大部分来源于 A. 亚里士多德 B. 苏格拉底 C. 柏拉图 D. 斐洛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公元313年，君士坦丁在米兰与东罗马帝国利西尼乌斯共同颁布了一条敕令，宣布“绝对的信仰自由，将基督教与罗马帝国的其他宗教置于完全同等的法律保护之下”。这个敕令是 A. 《尼西亚信经》 B. 《米兰敕令》 C. 《本尼狄克教规》 D. 《狄奥多西赦令》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公元313年，君士坦丁在米兰与东罗马帝国利西尼乌斯共同颁布了一条敕令，宣布“绝对的信仰自由，将基督教与罗马帝国的其他宗教置于完全同等的法律保护之下”。这个敕令是 A. 《尼西亚信经》 B. 《米兰敕令》 C. 《本尼狄克教规》 D. 《狄奥多西赦令》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个地方的佛教属于汉语系 A. 印度 B. 日本 C. 蒙古 D. 泰国",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个地方的佛教属于汉语系 A. 印度 B. 日本 C. 蒙古 D. 泰国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛陀初转法轮之地是 A. 蓝毗尼园 B. 鹿野苑 C. 祇园精舍 D. 拘尸那罗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛陀初转法轮之地是 A. 蓝毗尼园 B. 鹿野苑 C. 祇园精舍 D. 拘尸那罗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "称为妙吉祥的菩萨是 A. 观音 B. 普贤 C. 准提 D. 文殊",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "称为妙吉祥的菩萨是 A. 观音 B. 普贤 C. 准提 D. 文殊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "八苦中因身的不协调所引起的是 A. 求不得 B. 生老病死 C. 怨憎会 D. 爱别离",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "八苦中因身的不协调所引起的是 A. 求不得 B. 生老病死 C. 怨憎会 D. 爱别离",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "菩萨修行的位次初地是指 A. 离垢地 B. 远行地 C. 欢喜地 D. 发光地",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "菩萨修行的位次初地是指 A. 离垢地 B. 远行地 C. 欢喜地 D. 发光地",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罗马教会对于神圣罗马帝国的胜利的重要原因是 A. 平民拥护 B. 教皇掌权 C. 法国国王们对于教会的支持 D. 国王信教",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罗马教会对于神圣罗马帝国的胜利的重要原因是 A. 平民拥护 B. 教皇掌权 C. 法国国王们对于教会的支持 D. 国王信教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": " 四大菩萨中，观音菩萨代表 A. 大行 B. 大愿 C. 大悲 D. 大智",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": " 四大菩萨中，观音菩萨代表 A. 大行 B. 大愿 C. 大悲 D. 大智",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "马丁·路德宗教改革理论根基的核心是 A. 因信称义 B. 人人皆僧侣 C. 十字架神学 D. 善功称义",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "马丁·路德宗教改革理论根基的核心是 A. 因信称义 B. 人人皆僧侣 C. 十字架神学 D. 善功称义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在17世纪，首先实行宗教宽容的国家是 A. 荷兰 B. 西班牙 C. 英国 D. 法国",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在17世纪，首先实行宗教宽容的国家是 A. 荷兰 B. 西班牙 C. 英国 D. 法国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "手握利剑，骑狮子座上的菩萨是 A. 地藏菩萨 B. 文殊菩萨 C. 观音菩萨 D. 普贤菩萨",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "手握利剑，骑狮子座上的菩萨是 A. 地藏菩萨 B. 文殊菩萨 C. 观音菩萨 D. 普贤菩萨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在中国信徒最多的宗教是 A. 佛教 B. 基督教 C. 伊斯兰教 D. 道教",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在中国信徒最多的宗教是 A. 佛教 B. 基督教 C. 伊斯兰教 D. 道教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从“末世论”到（）的发展是基督教最终摆脱犹太教而成为一种独立的世界性宗教的重大标志。 A. 无神论 B. 万神论 C. 福音说 D. “救赎说”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从“末世论”到（）的发展是基督教最终摆脱犹太教而成为一种独立的世界性宗教的重大标志。 A. 无神论 B. 万神论 C. 福音说 D. “救赎说”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "藏地境内被称作圣母之水的山峰是哪一座 A. 贡嘎山 B. 冈仁波齐 C. 南迦巴瓦 D. 珠穆朗玛",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "藏地境内被称作圣母之水的山峰是哪一座 A. 贡嘎山 B. 冈仁波齐 C. 南迦巴瓦 D. 珠穆朗玛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教的标志是 A. 万字符 B. 十字架 C. 太板八卦 D. 新月",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教的标志是 A. 万字符 B. 十字架 C. 太板八卦 D. 新月",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教最短的经是 A. 普门品 B. 弥陀经 C. 金刚经 D. 心经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教最短的经是 A. 普门品 B. 弥陀经 C. 金刚经 D. 心经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伊斯兰教历的元年是 A. 622年 B. 620年 C. 632年 D. 630年",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伊斯兰教历的元年是 A. 622年 B. 620年 C. 632年 D. 630年",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个不是教父哲学所主要探讨的问题 A. 一神论 B. 上帝论 C. 基督论 D. 人性论",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个不是教父哲学所主要探讨的问题 A. 一神论 B. 上帝论 C. 基督论 D. 人性论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《维摩经》的理想世界是 A. 人间净土 B. 东方净土 C. 十方净土 D. 西方净土",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《维摩经》的理想世界是 A. 人间净土 B. 东方净土 C. 十方净土 D. 西方净土",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世俗贵族和教会贵族的领地不受国王代理人的管辖，这种权力是。 A. 归属权 B. 统辖权 C. 豁免权 D. 生命权",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世俗贵族和教会贵族的领地不受国王代理人的管辖，这种权力是。 A. 归属权 B. 统辖权 C. 豁免权 D. 生命权",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个不是基督教的三大信誓 A. 自由 B. 贞洁 C. 顺从 D. 贫穷",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个不是基督教的三大信誓 A. 自由 B. 贞洁 C. 顺从 D. 贫穷",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "声闻是听闻到什么而悟道？ A. 八正道 B. 十二因缘 C. 四圣谛 D. 三法印",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "声闻是听闻到什么而悟道？ A. 八正道 B. 十二因缘 C. 四圣谛 D. 三法印",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教提出不净观、布施对治 A. 贪 B. 掉悔 C. 睡 D. 嗔",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教提出不净观、布施对治 A. 贪 B. 掉悔 C. 睡 D. 嗔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教最早传入中国的经典是 A. 四十二经 B. 法句经 C. 般若经 D. 心经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教最早传入中国的经典是 A. 四十二经 B. 法句经 C. 般若经 D. 心经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教的基本思想是 A. 神秘主义 B. 灵与肉的合二为一 C. 灵与肉的二元对立 D. 禁欲主义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教的基本思想是 A. 神秘主义 B. 灵与肉的合二为一 C. 灵与肉的二元对立 D. 禁欲主义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "何谓三藏 A. 佛、法、僧 B. 戒、定、慧 C. 断、舍、离 D. 经、律、论",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "何谓三藏 A. 佛、法、僧 B. 戒、定、慧 C. 断、舍、离 D. 经、律、论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛祖释迦牟尼的诞生日是农历哪一天 A. 十二月初八 B. 二月十五 C. 二月初八 D. 四月初八",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛祖释迦牟尼的诞生日是农历哪一天 A. 十二月初八 B. 二月十五 C. 二月初八 D. 四月初八",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "希腊神话中的该亚是 A. 天后 B. 海神 C. 天神 D. 大地之母",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "希腊神话中的该亚是 A. 天后 B. 海神 C. 天神 D. 大地之母",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛诞日又叫浴佛节，其时间是 A. 四月初八 B. 三月十二 C. 腊月初八 D. 十二月十日",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛诞日又叫浴佛节，其时间是 A. 四月初八 B. 三月十二 C. 腊月初八 D. 十二月十日",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第几次十字军东征进一步加深了西方天主教徒与东方东正教徒之间的矛盾。 A. 二 B. 四 C. 三 D. 五",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第几次十字军东征进一步加深了西方天主教徒与东方东正教徒之间的矛盾。 A. 二 B. 四 C. 三 D. 五",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为纪念尺尊公主入藏而修建的寺庙是 A. 小昭寺 B. 哲蚌寺 C. 大昭寺 D. 布达拉宫",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为纪念尺尊公主入藏而修建的寺庙是 A. 小昭寺 B. 哲蚌寺 C. 大昭寺 D. 布达拉宫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在家居士菩萨戒是受 A. 十重四十八轻戒 B. 五戒 C. 六重二十八轻戒 D. 十戒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在家居士菩萨戒是受 A. 十重四十八轻戒 B. 五戒 C. 六重二十八轻戒 D. 十戒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第一位来到中国的大译经家是 A. 不空 B. 真谛 C. 鸠摩罗什 D. 玄奘",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第一位来到中国的大译经家是 A. 不空 B. 真谛 C. 鸠摩罗什 D. 玄奘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教得以在罗马帝国时期中发展壮大并且最终取得全面胜利的重要原因是文化上的 A. 兼收并蓄，多元混合 B. 教义深邃 C. 独树一帜 D. 政教合一",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教得以在罗马帝国时期中发展壮大并且最终取得全面胜利的重要原因是文化上的 A. 兼收并蓄，多元混合 B. 教义深邃 C. 独树一帜 D. 政教合一",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "六度中的禅定是用来对治 A. 贪婪 B. 愚痴 C. 散乱 D. 瞋恨",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "六度中的禅定是用来对治 A. 贪婪 B. 愚痴 C. 散乱 D. 瞋恨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "英格兰的宗教改革没有涉及到的是 A. 教会行政体系 B. 基督教教义 C. 教会组织 D. 教会权力",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "英格兰的宗教改革没有涉及到的是 A. 教会行政体系 B. 基督教教义 C. 教会组织 D. 教会权力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "确立基督教为罗马帝国的国教，是在哪位皇帝执政期间发生的。 A. 狄奥多西 B. 戴克里先 C. 君士坦丁 D. 尼禄",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "确立基督教为罗马帝国的国教，是在哪位皇帝执政期间发生的。 A. 狄奥多西 B. 戴克里先 C. 君士坦丁 D. 尼禄",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛陀弟子中，多闻第一的是 A. 罗睺罗 B. 阿难陀 C. 富楼那 D. 阿难",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛陀弟子中，多闻第一的是 A. 罗睺罗 B. 阿难陀 C. 富楼那 D. 阿难",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国四大宗教中，创立时间最早的是 A. 佛教 B. 基督教 C. 伊斯兰教 D. 道教",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国四大宗教中，创立时间最早的是 A. 佛教 B. 基督教 C. 伊斯兰教 D. 道教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公元l世纪中叶至公元7世纪，为佛教发展的 A. 部派佛教阶段 B. 原始佛教阶段 C. 密教阶段 D. 大乘佛教阶段",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公元l世纪中叶至公元7世纪，为佛教发展的 A. 部派佛教阶段 B. 原始佛教阶段 C. 密教阶段 D. 大乘佛教阶段",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在公元500-800年间，教会对蛮族进行教化的工作主要是 A. 灌输基督教信仰 B. 恩典教区的教民 C. 政教合一 D. 兴办教育",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在公元500-800年间，教会对蛮族进行教化的工作主要是 A. 灌输基督教信仰 B. 恩典教区的教民 C. 政教合一 D. 兴办教育",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教以莲花代表 A. 慈悲 B. 清净 C. 智慧 D. 不贪着",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教以莲花代表 A. 慈悲 B. 清净 C. 智慧 D. 不贪着",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "希腊化时期的人们的宗教生活转向了 A. 唯灵主义 B. 物质主义 C. 神秘主义 D. 纵欲主义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "希腊化时期的人们的宗教生活转向了 A. 唯灵主义 B. 物质主义 C. 神秘主义 D. 纵欲主义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛陀宣说了断善根的阐提也可成佛，是在 A. 涅槃经 B. 般若经 C. 地藏经 D. 法华经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛陀宣说了断善根的阐提也可成佛，是在 A. 涅槃经 B. 般若经 C. 地藏经 D. 法华经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "唐代传入中国的基督教派 A. 苏菲派 B. 天主教 C. 景教 D. 什叶派",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "唐代传入中国的基督教派 A. 苏菲派 B. 天主教 C. 景教 D. 什叶派",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最先将基督教的福音传播到罗马城的是耶稣的门徒 A. 约翰 B. 彼得 C. 路加 D. 保罗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最先将基督教的福音传播到罗马城的是耶稣的门徒 A. 约翰 B. 彼得 C. 路加 D. 保罗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "释迦牟尼悟道地和初转法轮地分别是 A. 鹿野苑、拘尸那迦城 B. 菩提伽耶、蓝毗尼花园 C. 菩提伽耶、鹿野苑 D. 蓝毗尼花园、鹿野苑",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "释迦牟尼悟道地和初转法轮地分别是 A. 鹿野苑、拘尸那迦城 B. 菩提伽耶、蓝毗尼花园 C. 菩提伽耶、鹿野苑 D. 蓝毗尼花园、鹿野苑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面将宗教宽容原则写进去的条约是 A. 《奥格斯堡和约》 B. 《威斯特伐利亚和约》 C. 《权利法案》 D. 《至尊法案》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面将宗教宽容原则写进去的条约是 A. 《奥格斯堡和约》 B. 《威斯特伐利亚和约》 C. 《权利法案》 D. 《至尊法案》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教会根据《圣经》中关于农牧产品的十分之一“属于上帝”的说法向信教的民众收取 A. 供税 B. 附加税 C. 什一税 D. 农产品税",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教会根据《圣经》中关于农牧产品的十分之一“属于上帝”的说法向信教的民众收取 A. 供税 B. 附加税 C. 什一税 D. 农产品税",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一位佛不属于三世佛 A. 燃灯佛 B. 阿弥陀佛 C. 弥勒佛 D. 释迦牟尼佛",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一位佛不属于三世佛 A. 燃灯佛 B. 阿弥陀佛 C. 弥勒佛 D. 释迦牟尼佛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "摩西与上帝的立约被称作 A. 福音书 B. 上帝的羔羊 C. 弥赛亚 D. “摩西十戒”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "摩西与上帝的立约被称作 A. 福音书 B. 上帝的羔羊 C. 弥赛亚 D. “摩西十戒”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国禅宗真正创始人是指 A. 六祖慧能 B. 菩提达摩 C. 释迦牟尼 D. 五祖宏忍",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国禅宗真正创始人是指 A. 六祖慧能 B. 菩提达摩 C. 释迦牟尼 D. 五祖宏忍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教产生于公元前 A. 2世纪 B. 1世纪 C. 3世纪 D. 4世纪",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教产生于公元前 A. 2世纪 B. 1世纪 C. 3世纪 D. 4世纪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教的目中有“人”意味着它的所有教法必须是从三个角度来实现的。这样才能真正称为一种教法，这三个角度不包括 A. 契机 B. 成就 C. 契理 D. 觉悟",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教的目中有“人”意味着它的所有教法必须是从三个角度来实现的。这样才能真正称为一种教法，这三个角度不包括 A. 契机 B. 成就 C. 契理 D. 觉悟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "六度的正确次序是 A. 持戒，布施，忍辱，精进，禅定，般若 B. 布施，持戒，忍辱，精进，禅定，般若 C. 精进，忍辱、禅定，布施，持戒，般若 D. 忍辱，持戒，布施，精进，禅定，般若",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "六度的正确次序是 A. 持戒，布施，忍辱，精进，禅定，般若 B. 布施，持戒，忍辱，精进，禅定，般若 C. 精进，忍辱、禅定，布施，持戒，般若 D. 忍辱，持戒，布施，精进，禅定，般若",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教最初传到罗马帝国时，只被什么人接受。 A. 皇族 B. 贵族 C. 下层人民 D. 公民",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教最初传到罗马帝国时，只被什么人接受。 A. 皇族 B. 贵族 C. 下层人民 D. 公民",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教于什么时候被罗马帝国承认是合法宗教。 A. 公元42年 B. 公元64年 C. 公元250年 D. 公元313年",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教于什么时候被罗马帝国承认是合法宗教。 A. 公元42年 B. 公元64年 C. 公元250年 D. 公元313年",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "修学佛教五乘共法，其中“乘”的本意是 A. 乘坐 B. 车子 C. 上乘 D. 道路",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "修学佛教五乘共法，其中“乘”的本意是 A. 乘坐 B. 车子 C. 上乘 D. 道路",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世间一切有为法皆无独立性、恒常性，必须靠“因”、“缘”和合才有“果”，这是佛教的 A. 业报论 B. 缘起论 C. 无常论 D. 因缘论",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世间一切有为法皆无独立性、恒常性，必须靠“因”、“缘”和合才有“果”，这是佛教的 A. 业报论 B. 缘起论 C. 无常论 D. 因缘论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛陀入涅槃前所度的最后一位弟子是 A. 舍利佛 B. 阿难陀 C. 富楼那 D. 须跋陀罗",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛陀入涅槃前所度的最后一位弟子是 A. 舍利佛 B. 阿难陀 C. 富楼那 D. 须跋陀罗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一个主张从（纯粹的哲学思辨中）而不是从癫狂的祭祀仪式中来实现灵魂对肉体的超越。 A. 奥尔弗斯教 B. 犹太教 C. 毕达哥拉斯主义 D. 基督教",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一个主张从（纯粹的哲学思辨中）而不是从癫狂的祭祀仪式中来实现灵魂对肉体的超越。 A. 奥尔弗斯教 B. 犹太教 C. 毕达哥拉斯主义 D. 基督教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最早创立活佛转世制度的是()的黑帽系。 A. 噶举派 B. 萨迦派 C. 宁玛派 D. 格鲁派",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最早创立活佛转世制度的是()的黑帽系。 A. 噶举派 B. 萨迦派 C. 宁玛派 D. 格鲁派",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "谁奠定了基督教教义和教规的理论基础，使基督教超过了犹太教的社会解放理想而成为一种灵魂得救的福音。 A. 路加 B. 约翰 C. 保罗 D. 彼得",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "谁奠定了基督教教义和教规的理论基础，使基督教超过了犹太教的社会解放理想而成为一种灵魂得救的福音。 A. 路加 B. 约翰 C. 保罗 D. 彼得",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教教旗，是根据佛陀成道时圣体所放出的色光制成的，有 A. 六七色 B. 五色 C. 六色 D. 四色",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教教旗，是根据佛陀成道时圣体所放出的色光制成的，有 A. 六七色 B. 五色 C. 六色 D. 四色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "希腊建筑最辉煌的杰作是（帕台农神庙、德尔菲神庙，狄奥尼索斯剧场）。在希腊宗教和希腊文化中，构成了最基本的特征的是。 A. 自然崇拜和感觉主义 B. 自然崇拜和神秘主义 C. 敬神和感觉主义 D. 敬神和神秘主义",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "希腊建筑最辉煌的杰作是（帕台农神庙、德尔菲神庙，狄奥尼索斯剧场）。在希腊宗教和希腊文化中，构成了最基本的特征的是。 A. 自然崇拜和感觉主义 B. 自然崇拜和神秘主义 C. 敬神和感觉主义 D. 敬神和神秘主义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "苦、乐、不苦不乐是属于()的范围？ A. 取 B. 想 C. 触 D. 受",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "苦、乐、不苦不乐是属于()的范围？ A. 取 B. 想 C. 触 D. 受",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "修道运动的创始人是埃及的 A. 安东尼 B. 杰罗姆 C. 本尼狄克 D. 安布罗斯",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "修道运动的创始人是埃及的 A. 安东尼 B. 杰罗姆 C. 本尼狄克 D. 安布罗斯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛陀十大弟子中，智慧第一的是 A. 舍利弗 B. 须菩提 C. 目犍连 D. 大迦叶",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛陀十大弟子中，智慧第一的是 A. 舍利弗 B. 须菩提 C. 目犍连 D. 大迦叶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罗马帝国对基督教徒的第一次大规模的迫害发生在谁当政时期。 A. 哈德良 B. 图拉真 C. 屋大维 D. 尼禄",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罗马帝国对基督教徒的第一次大规模的迫害发生在谁当政时期。 A. 哈德良 B. 图拉真 C. 屋大维 D. 尼禄",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从理论上确认了宗教事务的独立性和罗马教会对原罗马帝国西部的统治权，成为后来教会与世俗王权斗争的重要理论根据的是 A. 《神圣一体敕谕》 B. “君士坦丁赠礼” C. 《沃尔姆斯宗教合约》 D. 《教皇赦令》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从理论上确认了宗教事务的独立性和罗马教会对原罗马帝国西部的统治权，成为后来教会与世俗王权斗争的重要理论根据的是 A. 《神圣一体敕谕》 B. “君士坦丁赠礼” C. 《沃尔姆斯宗教合约》 D. 《教皇赦令》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "改庆友与宾头卢为降龙、伏虎，钦定十八罗汉的皇帝是 A. 元世祖忽必烈 B. 雍正 C. 康熙 D. 乾隆",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "改庆友与宾头卢为降龙、伏虎，钦定十八罗汉的皇帝是 A. 元世祖忽必烈 B. 雍正 C. 康熙 D. 乾隆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "西方三圣是指 A. 阿弥陀佛，大势至菩萨，地藏菩萨 B. 阿弥陀佛，观音菩萨，大势至菩萨 C. 阿弥陀佛，普贤菩萨，观音菩萨 D. 阿弥陀佛，观音菩萨，文殊菩萨",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "西方三圣是指 A. 阿弥陀佛，大势至菩萨，地藏菩萨 B. 阿弥陀佛，观音菩萨，大势至菩萨 C. 阿弥陀佛，普贤菩萨，观音菩萨 D. 阿弥陀佛，观音菩萨，文殊菩萨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“色受想行识”中的“想”是指： A. 意念 B. 物质 C. 感受 D. 造作",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“色受想行识”中的“想”是指： A. 意念 B. 物质 C. 感受 D. 造作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "是谁通过把希腊哲学中的“逻各斯”概念和“理念论引入旧约，是犹太教的上帝、先祖、先知具有了形而上学的性质。 A. 柏拉图 B. 斐洛 C. 苏格拉底 D. 亚里士多德",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "是谁通过把希腊哲学中的“逻各斯”概念和“理念论引入旧约，是犹太教的上帝、先祖、先知具有了形而上学的性质。 A. 柏拉图 B. 斐洛 C. 苏格拉底 D. 亚里士多德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教四大天王中，手持宝剑的是 A. 北方多闻天王 B. 东方持国天王 C. 西方广目天王 D. 南方增长天王",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教四大天王中，手持宝剑的是 A. 北方多闻天王 B. 东方持国天王 C. 西方广目天王 D. 南方增长天王",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个不是封臣对领主所尽的义务。 A. 为领主提供军事上的援助 B. 奉献所封的领土 C. 经济上的捐助 D. 道义上的忠诚",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个不是封臣对领主所尽的义务。 A. 为领主提供军事上的援助 B. 奉献所封的领土 C. 经济上的捐助 D. 道义上的忠诚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个不是中国伊斯兰教的三大教派之一 A. 黄教 B. 伊赫瓦尼 C. 格迪目 D. 西道堂",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个不是中国伊斯兰教的三大教派之一 A. 黄教 B. 伊赫瓦尼 C. 格迪目 D. 西道堂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "犹太教的中心是 A. 割礼制度 B. 信仰上帝 C. 律法和祭祀 D. 信仰和道德",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "犹太教的中心是 A. 割礼制度 B. 信仰上帝 C. 律法和祭祀 D. 信仰和道德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "()中所记载的犹太人的圣教历史是一部充满了罪孽意识的苦难史，这种沉重的罪孽意识同时极大地激起犹太民族的选民意识。 A. 《旧约》 B. 《犹太教》 C. 福音书 D. 《新约》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "()中所记载的犹太人的圣教历史是一部充满了罪孽意识的苦难史，这种沉重的罪孽意识同时极大地激起犹太民族的选民意识。 A. 《旧约》 B. 《犹太教》 C. 福音书 D. 《新约》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国佛教四大名山中，观音菩萨的道场是 A. 浙江普陀山 B. 安徽九华山 C. 四川峨嵋山 D. 山西五台山",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国佛教四大名山中，观音菩萨的道场是 A. 浙江普陀山 B. 安徽九华山 C. 四川峨嵋山 D. 山西五台山",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "基督教和犹太教彻底分道扬镳的最重要的思想原因是 A. 道德信仰的差异 B. 犹太教有强烈的复仇心理，基督教主张宽容 C. 新约的出现 D. 犹太教是朴素的律法主义，基督教是形而上学的唯灵主义",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "基督教和犹太教彻底分道扬镳的最重要的思想原因是 A. 道德信仰的差异 B. 犹太教有强烈的复仇心理，基督教主张宽容 C. 新约的出现 D. 犹太教是朴素的律法主义，基督教是形而上学的唯灵主义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "每年因去麦加朝圣，会出现惨烈的踩踏事故。但还有许多虔诚的信徒，不惜一切代价前往。他们信奉的宗教是 A. 基督教 B. 伊斯兰教 C. 道教 D. 佛教",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "每年因去麦加朝圣，会出现惨烈的踩踏事故。但还有许多虔诚的信徒，不惜一切代价前往。他们信奉的宗教是 A. 基督教 B. 伊斯兰教 C. 道教 D. 佛教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "割礼制度是以下哪个宗教的祖传礼仪。 A. 万神教 B. 伊斯兰教 C. 犹太教 D. 太阳神教",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "割礼制度是以下哪个宗教的祖传礼仪。 A. 万神教 B. 伊斯兰教 C. 犹太教 D. 太阳神教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在罗马宗教生活和文化生活什么紧密联系在一起。 A. 个人生活 B. 日常生活 C. 祭祀活动 D. 政治生活",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在罗马宗教生活和文化生活什么紧密联系在一起。 A. 个人生活 B. 日常生活 C. 祭祀活动 D. 政治生活",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

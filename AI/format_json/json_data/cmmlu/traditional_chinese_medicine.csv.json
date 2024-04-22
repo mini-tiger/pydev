@@ -1,0 +1,1852 @@
+[
+  {
+    "question_std": "“泻南补北”法适用于 A. 肾阴虚而肝阳亢 B. 肾阴虚而相火动 C. 心阴虚而心阳亢 D. 肾阴虚而心火旺",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“泻南补北”法适用于 A. 肾阴虚而肝阳亢 B. 肾阴虚而相火动 C. 心阴虚而心阳亢 D. 肾阴虚而心火旺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "由于暑性升散，故致病可见 A. 易耗气伤津 B. 易为阳热症状 C. 易生风动血 D. 易伤人体上部及肌表",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "由于暑性升散，故致病可见 A. 易耗气伤津 B. 易为阳热症状 C. 易生风动血 D. 易伤人体上部及肌表",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“血之府”是指 A. 肝 B. 脉 C. 冲脉 D. 心",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“血之府”是指 A. 肝 B. 脉 C. 冲脉 D. 心",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“大实有羸状”的病机应属于 A. 真虚假实 B. 虚实夹杂 C. 真实假虚 D. 虚中夹实",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“大实有羸状”的病机应属于 A. 真虚假实 B. 虚实夹杂 C. 真实假虚 D. 虚中夹实",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在五行生克关系中，下列哪项是错误的？ A. 木克土 B. 火生土 C. 水克木 D. 金生水",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在五行生克关系中，下列哪项是错误的？ A. 木克土 B. 火生土 C. 水克木 D. 金生水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者身热，手足心热，微恶风寒，少汗，头昏心烦，口干，干咳少痰，鼻塞流涕，舌红少苔，脉细数。其治法为 A. 益气解表 B. 助阳解表 C. 滋阴解表 D. 养血解表",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者身热，手足心热，微恶风寒，少汗，头昏心烦，口干，干咳少痰，鼻塞流涕，舌红少苔，脉细数。其治法为 A. 益气解表 B. 助阳解表 C. 滋阴解表 D. 养血解表",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于“阴盛则内寒“机理的是 A. 寒气积于胸中 B. 血凝泣 C. 卫气不得泄越 D. 脉不通",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于“阴盛则内寒“机理的是 A. 寒气积于胸中 B. 血凝泣 C. 卫气不得泄越 D. 脉不通",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "内湿的产生与哪一脏的关系最为密切 A. 肺 B. 肝 C. 肾 D. 脾",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "内湿的产生与哪一脏的关系最为密切 A. 肺 B. 肝 C. 肾 D. 脾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "罂粟壳每张处方用量规定为 A. 15～18g B. 3～6g C. 5～8g D. 8～15g",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "罂粟壳每张处方用量规定为 A. 15～18g B. 3～6g C. 5～8g D. 8～15g",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对机体各脏腑组织起着推动温煦作用的主要是 A. 脾气 B. 肾阳 C. 心阳 D. 肺气",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对机体各脏腑组织起着推动温煦作用的主要是 A. 脾气 B. 肾阳 C. 心阳 D. 肺气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "眩晕，失眠，健忘，心悸，面唇紫暗，耳鸣耳聋，舌有瘀点，脉弦涩。此眩晕证属 A. 肾精不足 B. 肝阳上亢 C. 痰浊中阻 D. 瘀血阻络",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "眩晕，失眠，健忘，心悸，面唇紫暗，耳鸣耳聋，舌有瘀点，脉弦涩。此眩晕证属 A. 肾精不足 B. 肝阳上亢 C. 痰浊中阻 D. 瘀血阻络",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病人肢体软弱，行动不便属 A. 瘫痪 B. 痿病 C. 痹病 D. 痫病",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病人肢体软弱，行动不便属 A. 瘫痪 B. 痿病 C. 痹病 D. 痫病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在温病学方面，创立以“三焦为核心”的辨证论治方法的医家是 A. 朱丹溪 B. 吴又可 C. 吴鞠通 D. 刘完素",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在温病学方面，创立以“三焦为核心”的辨证论治方法的医家是 A. 朱丹溪 B. 吴又可 C. 吴鞠通 D. 刘完素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《素问·脉要精微论》，“五脏者，中之守也”是指 A. 五脏内藏气血 B. 五脏内舍五志 C. 五脏内藏精气 D. 五脏内守中气",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《素问·脉要精微论》，“五脏者，中之守也”是指 A. 五脏内藏气血 B. 五脏内舍五志 C. 五脏内藏精气 D. 五脏内守中气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《素问·举痛论》，惊则 A. 气缓 B. 气上 C. 气结 D. 气乱",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《素问·举痛论》，惊则 A. 气缓 B. 气上 C. 气结 D. 气乱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "导致人体生命死亡的根本病机是 A. 阴阳失调 B. 阴阳偏盛 C. 阴阳离决 D. 阴阳偏衰",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "导致人体生命死亡的根本病机是 A. 阴阳失调 B. 阴阳偏盛 C. 阴阳离决 D. 阴阳偏衰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，23岁。面目一身俱黄，色鲜如橘色，纳呆、恶心，脘胀、胁痛、胁下有痞块，小便黄少，大便溏薄，舌红苔黄腻，脉弦数。临床诊断最可能是 A. 湿热蕴脾证 B. 寒湿困脾证 C. 大肠湿热证 D. 肝胆湿热证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，23岁。面目一身俱黄，色鲜如橘色，纳呆、恶心，脘胀、胁痛、胁下有痞块，小便黄少，大便溏薄，舌红苔黄腻，脉弦数。临床诊断最可能是 A. 湿热蕴脾证 B. 寒湿困脾证 C. 大肠湿热证 D. 肝胆湿热证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "循行于下肢内侧前缘内踝上八寸以下的经脉是 A. 足阳明胃经 B. 足厥阴肝经 C. 足少阴肾经 D. 足太阴脾经",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "循行于下肢内侧前缘内踝上八寸以下的经脉是 A. 足阳明胃经 B. 足厥阴肝经 C. 足少阴肾经 D. 足太阴脾经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，42岁。干咳1年，未认真治疗，近因参加劳动，咳嗽加剧，并咳血数口，现痰中带血丝，心烦，自感手足心热，睡时常出汗，小便少，大便干，舌红苔少而干，脉细数。临床诊断最可能是 A. 热邪壅肺证 B. 燥邪犯肺证 C. 肝火犯肺证 D. 肺阴虚证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，42岁。干咳1年，未认真治疗，近因参加劳动，咳嗽加剧，并咳血数口，现痰中带血丝，心烦，自感手足心热，睡时常出汗，小便少，大便干，舌红苔少而干，脉细数。临床诊断最可能是 A. 热邪壅肺证 B. 燥邪犯肺证 C. 肝火犯肺证 D. 肺阴虚证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“主液”的腑是 A. 胆 B. 小肠 C. 胃 D. 大肠",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“主液”的腑是 A. 胆 B. 小肠 C. 胃 D. 大肠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胃与小肠上口相接处为 A. 魄门 B. 幽门 C. 贲门 D. 阑门",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胃与小肠上口相接处为 A. 魄门 B. 幽门 C. 贲门 D. 阑门",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者精神抑郁，表情淡漠，沉默痴呆，语无伦次，静而多喜少动，当诊为 A. 狂证 B. 郁证 C. 痴呆 D. 癫证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者精神抑郁，表情淡漠，沉默痴呆，语无伦次，静而多喜少动，当诊为 A. 狂证 B. 郁证 C. 痴呆 D. 癫证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "半身不遂，口眼歪斜，舌强语蹇，偏身麻木，头晕目眩，舌质暗淡，舌苔白腻，脉弦滑。证属 A. 痰热腑实，风痰上扰 B. 肝阳暴亢，风火上扰 C. 元神败脱，神明散乱 D. 风痰瘀血，痹阻脉络",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "半身不遂，口眼歪斜，舌强语蹇，偏身麻木，头晕目眩，舌质暗淡，舌苔白腻，脉弦滑。证属 A. 痰热腑实，风痰上扰 B. 肝阳暴亢，风火上扰 C. 元神败脱，神明散乱 D. 风痰瘀血，痹阻脉络",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于“用寒远寒”治法的是 A. 阴盛慎用寒药 B. 假寒慎用寒药 C. 冬季慎用寒药 D. 阳虚慎用寒药",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于“用寒远寒”治法的是 A. 阴盛慎用寒药 B. 假寒慎用寒药 C. 冬季慎用寒药 D. 阳虚慎用寒药",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国古代收方最多，为研究复方用药提供珍贵资料的方书典籍是 A. 太平圣惠方 B. 本草纲目 C. 黄帝内经 D. 普济方",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国古代收方最多，为研究复方用药提供珍贵资料的方书典籍是 A. 太平圣惠方 B. 本草纲目 C. 黄帝内经 D. 普济方",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "益母草的功效是 A. 活血、利尿、清热、解毒 B. 活血、利尿、清热、通便 C. 活血、利尿、凉血、止血 D. 活血、利尿、消症、散结",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "益母草的功效是 A. 活血、利尿、清热、解毒 B. 活血、利尿、清热、通便 C. 活血、利尿、凉血、止血 D. 活血、利尿、消症、散结",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "喘息，呼吸气促，胸部胀闷，咳嗽，痰多稀薄色白，兼有头痛，鼻塞，恶寒无汗，舌苔薄白而滑，脉浮紧。其喘证证属 A. 痰浊阻肺 B. 风寒袭肺 C. 肺气郁痹 D. 表寒里热",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "喘息，呼吸气促，胸部胀闷，咳嗽，痰多稀薄色白，兼有头痛，鼻塞，恶寒无汗，舌苔薄白而滑，脉浮紧。其喘证证属 A. 痰浊阻肺 B. 风寒袭肺 C. 肺气郁痹 D. 表寒里热",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脾胃气虚的面色是 A. 面色萎黄 B. 面目一身俱黄 C. 面色青黄 D. 面黄虚浮",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脾胃气虚的面色是 A. 面色萎黄 B. 面目一身俱黄 C. 面色青黄 D. 面黄虚浮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三国演义有“望梅止渴”的典故，延伸至临床的情志护理是属于 A. 暗示疗法 B. 释疑解惑 C. 发泄解郁 D. 诱导疗法",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三国演义有“望梅止渴”的典故，延伸至临床的情志护理是属于 A. 暗示疗法 B. 释疑解惑 C. 发泄解郁 D. 诱导疗法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "劳力过度主要伤及 A. 精 B. 气 C. 神 D. 血",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "劳力过度主要伤及 A. 精 B. 气 C. 神 D. 血",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列除哪项外，均为风寒感冒与风热感冒的主要鉴别依据 A. 流涕的清与浊 B. 头痛身疼与否 C. 恶寒发热的孰轻孰重 D. 渴与不渴",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列除哪项外，均为风寒感冒与风热感冒的主要鉴别依据 A. 流涕的清与浊 B. 头痛身疼与否 C. 恶寒发热的孰轻孰重 D. 渴与不渴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，45岁。2天前食后受凉，腹泻不止，日行六七次，水样便，腹微痛，纳呆恶心，小便短少，舌苔白厚腻，脉缓。临床诊断最可能是 A. 胃寒证 B. 脾阳虚证 C. 外感寒湿证 D. 寒湿困脾证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，45岁。2天前食后受凉，腹泻不止，日行六七次，水样便，腹微痛，纳呆恶心，小便短少，舌苔白厚腻，脉缓。临床诊断最可能是 A. 胃寒证 B. 脾阳虚证 C. 外感寒湿证 D. 寒湿困脾证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，58岁。近半月因工作劳累过度，时感气短乏力，与别人争执后心前区胀痛，且放射到左肩背部，伴心悸失眠，舌淡红苔薄白，脉沉弦。临床诊断最可能是 A. 气滞血瘀证 B. 心气虚证 C. 气滞心脉证 D. 肝气郁结证",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，58岁。近半月因工作劳累过度，时感气短乏力，与别人争执后心前区胀痛，且放射到左肩背部，伴心悸失眠，舌淡红苔薄白，脉沉弦。临床诊断最可能是 A. 气滞血瘀证 B. 心气虚证 C. 气滞心脉证 D. 肝气郁结证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者胸闷如窒而痛，痛引肩背，气短喘息，形体较胖，肢体困重，痰多，苔浊腻，脉滑。此胸痹证属 A. 阴寒凝滞 B. 心血瘀阻 C. 痰浊壅塞 D. 阳气虚衰",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者胸闷如窒而痛，痛引肩背，气短喘息，形体较胖，肢体困重，痰多，苔浊腻，脉滑。此胸痹证属 A. 阴寒凝滞 B. 心血瘀阻 C. 痰浊壅塞 D. 阳气虚衰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胃的生理功能是 A. 主持诸气 B. 受纳腐熟 C. 传化糟粕 D. 受盛化物",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胃的生理功能是 A. 主持诸气 B. 受纳腐熟 C. 传化糟粕 D. 受盛化物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与甘草联用能增强抗炎、抗变态反应的西药是 A. 氢化可的松 B. 氯氮平 C. 呋喃唑酮 D. 碳酸锂",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与甘草联用能增强抗炎、抗变态反应的西药是 A. 氢化可的松 B. 氯氮平 C. 呋喃唑酮 D. 碳酸锂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·至真要大论》对“诸寒之而热者”宜采用的治法为 A. 取之寒 B. 取之热 C. 取之阳 D. 取之阴",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·至真要大论》对“诸寒之而热者”宜采用的治法为 A. 取之寒 B. 取之热 C. 取之阳 D. 取之阴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不宜用阴阳的基本概念来概括的是 A. 动与静 B. 邪与正 C. 上与下 D. 寒与热",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不宜用阴阳的基本概念来概括的是 A. 动与静 B. 邪与正 C. 上与下 D. 寒与热",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，42岁。胸中烦热，口苦咽干，腹痛喜暖，大便稀溏。临床诊断最可能是 A. 真寒假热证 B. 真热假寒证 C. 表实里虚证 D. 上热下寒证",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，42岁。胸中烦热，口苦咽干，腹痛喜暖，大便稀溏。临床诊断最可能是 A. 真寒假热证 B. 真热假寒证 C. 表实里虚证 D. 上热下寒证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被称为“水谷之海”的是 A. 小肠 B. 脾 C. 大肠 D. 胃",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被称为“水谷之海”的是 A. 小肠 B. 脾 C. 大肠 D. 胃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中医学整体观念的内涵是 A. 时令晨昏对人体有影响 B. 人体是一个整体，人和自然界相互统一 C. 五脏与六腑是一个整体 D. 自然界是一个整体",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中医学整体观念的内涵是 A. 时令晨昏对人体有影响 B. 人体是一个整体，人和自然界相互统一 C. 五脏与六腑是一个整体 D. 自然界是一个整体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "长期使用会造成肾衰的成分是 A. 甘草酸 B. 甘草甜素 C. 马兜铃酸 D. 鞣酸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "长期使用会造成肾衰的成分是 A. 甘草酸 B. 甘草甜素 C. 马兜铃酸 D. 鞣酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "香加皮的主要不良反应是 A. 心律失常，如心率减慢、早搏、房室传导阻滞 B. 直接作用于中枢神经系统，甚或因呼吸中枢完全麻痹而致死 C. 恶心呕吐，腹痛腹泻，重者可见黄疸、肝肿大、消化道出血 D. 血小板、白细胞、血红蛋白减少，并可发生急性粒细胞减少",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "香加皮的主要不良反应是 A. 心律失常，如心率减慢、早搏、房室传导阻滞 B. 直接作用于中枢神经系统，甚或因呼吸中枢完全麻痹而致死 C. 恶心呕吐，腹痛腹泻，重者可见黄疸、肝肿大、消化道出血 D. 血小板、白细胞、血红蛋白减少，并可发生急性粒细胞减少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以根、茎、种子类为主的汤剂，煎煮前需浸泡 A. 10-15分钟 B. 60分钟 C. 20-30分钟 D. 30-45分钟",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以根、茎、种子类为主的汤剂，煎煮前需浸泡 A. 10-15分钟 B. 60分钟 C. 20-30分钟 D. 30-45分钟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列中成药联合用药合理的是 A. 珍菊降压片与复方枇杷糖浆 B. 天麻丸与川贝枇杷胶囊 C. 苏合香丸与胆宁片 D. 二陈丸与平胃散",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列中成药联合用药合理的是 A. 珍菊降压片与复方枇杷糖浆 B. 天麻丸与川贝枇杷胶囊 C. 苏合香丸与胆宁片 D. 二陈丸与平胃散",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "言人身脏腑之阴阳，则脾为 A. 阴中之至阴 B. 阴中之阳 C. 阴中之阴 D. 阳中之阴",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "言人身脏腑之阴阳，则脾为 A. 阴中之至阴 B. 阴中之阳 C. 阴中之阴 D. 阳中之阴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据病情和药效，健胃药宜 A. 早餐后服 B. 饭后服 C. 睡前服 D. 空腹服",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据病情和药效，健胃药宜 A. 早餐后服 B. 饭后服 C. 睡前服 D. 空腹服",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与语言、声音、呼吸的强弱有关的是 A. 宗气 B. 营气 C. 卫气 D. 元气",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与语言、声音、呼吸的强弱有关的是 A. 宗气 B. 营气 C. 卫气 D. 元气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对虚实错杂证运用先攻后补治则的主要根据是 A. 正气虽虚尚可耐攻 B. 先扶正可致留邪 C. 先祛邪不会伤正 D. 标症紧急先治其标",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对虚实错杂证运用先攻后补治则的主要根据是 A. 正气虽虚尚可耐攻 B. 先扶正可致留邪 C. 先祛邪不会伤正 D. 标症紧急先治其标",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按五行相生相克的规律，以下哪一条是错误的? A. 木为水之子 B. 水为火之所不胜 C. 火为土之母 D. 金为木之所胜",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按五行相生相克的规律，以下哪一条是错误的? A. 木为水之子 B. 水为火之所不胜 C. 火为土之母 D. 金为木之所胜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在服用补益药期间偶遇外感，为防“闭门留寇”，最好 A. 增加服药次数 B. 停服 C. 减轻药量 D. 减少服药次数",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在服用补益药期间偶遇外感，为防“闭门留寇”，最好 A. 增加服药次数 B. 停服 C. 减轻药量 D. 减少服药次数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于养生基本原则的是 A. 辨证论治 B. “节阴阳而调刚柔“的守中思想 C. “治未病“的预防思想 D. 突出精神心理健康",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于养生基本原则的是 A. 辨证论治 B. “节阴阳而调刚柔“的守中思想 C. “治未病“的预防思想 D. 突出精神心理健康",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心悸不安，精神涣散，多由下列何种因素引起? A. 悲伤肺 B. 怒伤肝 C. 喜伤心 D. 思伤脾",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心悸不安，精神涣散，多由下列何种因素引起? A. 悲伤肺 B. 怒伤肝 C. 喜伤心 D. 思伤脾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "酸痛的常见病因是 A. 湿侵肌肉关节 B. 火邪窜至经络 C. 寒邪阻滞经络 D. 气血亏虚",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "酸痛的常见病因是 A. 湿侵肌肉关节 B. 火邪窜至经络 C. 寒邪阻滞经络 D. 气血亏虚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，29岁。2年来月经量多色淡，近半年失眠心悸，头晕眼花，纳少，腹胀，面唇淡白，舌淡苔少，脉弱。临床诊断最可能是 A. 心血虚证 B. 肝血虚证 C. 心肝血虚证 D. 心脾两虚证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，29岁。2年来月经量多色淡，近半年失眠心悸，头晕眼花，纳少，腹胀，面唇淡白，舌淡苔少，脉弱。临床诊断最可能是 A. 心血虚证 B. 肝血虚证 C. 心肝血虚证 D. 心脾两虚证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，42岁。患“慢性胃炎“3年，胃脘隐痛，食后胀满，嗳气呃逆，虽饥而不欲多食，大便干，舌红无苔，脉细无力。临床诊断最可能是 A. 胃阴虚证 B. 脾胃气虚证 C. 脾阴虚证 D. 脾气虚证",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，42岁。患“慢性胃炎“3年，胃脘隐痛，食后胀满，嗳气呃逆，虽饥而不欲多食，大便干，舌红无苔，脉细无力。临床诊断最可能是 A. 胃阴虚证 B. 脾胃气虚证 C. 脾阴虚证 D. 脾气虚证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "处方名益智仁，调剂时应付 A. 蜜炙品 B. 醋制品 C. 煅制品 D. 盐炙品",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "处方名益智仁，调剂时应付 A. 蜜炙品 B. 醋制品 C. 煅制品 D. 盐炙品",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "痰与饮的主要区别是 A. 色黄者为痰，色白者为饮 B. 得阳气煎熬而成者为痰，受阴气凝聚而成者为饮。 C. 浓度较大，较粘稠者为痰；浓度较小，较清稀者为饮。 D. 热者为痰，寒者为饮。",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "痰与饮的主要区别是 A. 色黄者为痰，色白者为饮 B. 得阳气煎熬而成者为痰，受阴气凝聚而成者为饮。 C. 浓度较大，较粘稠者为痰；浓度较小，较清稀者为饮。 D. 热者为痰，寒者为饮。",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "形成阴疽流注的病因多为 A. 暑邪 B. 瘀血 C. 痰饮 D. 热邪",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "形成阴疽流注的病因多为 A. 暑邪 B. 瘀血 C. 痰饮 D. 热邪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者喘促日久，呼多吸少，气不得续，动则喘甚，小便常因咳甚而失禁，形瘦神疲，汗出肢冷，面唇青紫，宜选用的方剂是 A. 百合固金汤 B. 金匮肾气丸 C. 麻黄汤 D. 桑白皮汤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者喘促日久，呼多吸少，气不得续，动则喘甚，小便常因咳甚而失禁，形瘦神疲，汗出肢冷，面唇青紫，宜选用的方剂是 A. 百合固金汤 B. 金匮肾气丸 C. 麻黄汤 D. 桑白皮汤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“益火之源，以消阴翳”的治法适用于 A. 实热证 B. 实寒证 C. 虚热证 D. 虚寒证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“益火之源，以消阴翳”的治法适用于 A. 实热证 B. 实寒证 C. 虚热证 D. 虚寒证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "具有行气血作用的气是 A. 营气 B. 元气 C. 宗气 D. 卫气",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "具有行气血作用的气是 A. 营气 B. 元气 C. 宗气 D. 卫气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《素问·五常政大论》，能毒者当以 A. 薄药 B. 无毒药 C. 厚药 D. 针石",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《素问·五常政大论》，能毒者当以 A. 薄药 B. 无毒药 C. 厚药 D. 针石",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，40岁。长期胃部胀痛，近半年脘胀痞满益甚，胸闷气塞，纳差，大便3日一行，但不干燥，伴气短乏力，检查腹部按之软。舌淡，苔少，脉弱。临床诊断最可能是 A. 里实证 B. 真虚假实证 C. 里虚证 D. 真实假虚证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，40岁。长期胃部胀痛，近半年脘胀痞满益甚，胸闷气塞，纳差，大便3日一行，但不干燥，伴气短乏力，检查腹部按之软。舌淡，苔少，脉弱。临床诊断最可能是 A. 里实证 B. 真虚假实证 C. 里虚证 D. 真实假虚证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脾之华在 A. 毛 B. 发 C. 面 D. 唇",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脾之华在 A. 毛 B. 发 C. 面 D. 唇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "机体精神活动的物质基础是 A. 津 B. 血 C. 精 D. 气",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "机体精神活动的物质基础是 A. 津 B. 血 C. 精 D. 气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于谷食精气输布运行过程的是 A. 通调水道，下输膀胱 B. 脾气散精，上归于肺 C. 浊阴归六腑 D. 精气上输于脾",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于谷食精气输布运行过程的是 A. 通调水道，下输膀胱 B. 脾气散精，上归于肺 C. 浊阴归六腑 D. 精气上输于脾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“用热远热，用寒远寒”是指治疗用药应注意 A. 因时制宜 B. 因地制宜 C. 因人制宜 D. 治标",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“用热远热，用寒远寒”是指治疗用药应注意 A. 因时制宜 B. 因地制宜 C. 因人制宜 D. 治标",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列除哪项外，均为饮食停滞型腹痛的主症 A. 嗳腐吞酸 B. 脘腹胀满 C. 疼痛拒按 D. 舌红少苔，脉细数",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列除哪项外，均为饮食停滞型腹痛的主症 A. 嗳腐吞酸 B. 脘腹胀满 C. 疼痛拒按 D. 舌红少苔，脉细数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脾病面色黄，见何种脉时为逆 A. 洪脉 B. 弦脉 C. 浮脉 D. 缓脉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脾病面色黄，见何种脉时为逆 A. 洪脉 B. 弦脉 C. 浮脉 D. 缓脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，25岁。因腹泻就诊。症见腹痛肠鸣，泻下粪便臭如败卵，伴有未消化食物，泻后痛减，嗳腐吞酸，不思饮食。舌苔厚腻，脉滑。宜选用的中成药是 A. 四神丸 B. 参苓白术散 C. 保和丸 D. 葛根芩连丸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，25岁。因腹泻就诊。症见腹痛肠鸣，泻下粪便臭如败卵，伴有未消化食物，泻后痛减，嗳腐吞酸，不思饮食。舌苔厚腻，脉滑。宜选用的中成药是 A. 四神丸 B. 参苓白术散 C. 保和丸 D. 葛根芩连丸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "苍耳子的主要不良反应是 A. 血小板、白细胞、血红蛋白减少，并可发生急性粒细胞减少 B. 恶心呕吐，腹痛腹泻，重者可见黄疸、肝肿大、消化道出血 C. 直接作用于中枢神经系统，甚或因呼吸中枢完全麻痹而致死 D. 导致精子产生和成熟发生障碍，抑制女性患者的卵巢功能",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "苍耳子的主要不良反应是 A. 血小板、白细胞、血红蛋白减少，并可发生急性粒细胞减少 B. 恶心呕吐，腹痛腹泻，重者可见黄疸、肝肿大、消化道出血 C. 直接作用于中枢神经系统，甚或因呼吸中枢完全麻痹而致死 D. 导致精子产生和成熟发生障碍，抑制女性患者的卵巢功能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《素问·脉要精微论》，“梦哭”是由于 A. 肾气盛 B. 肺气盛 C. 肾气虚 D. 肺气虚",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《素问·脉要精微论》，“梦哭”是由于 A. 肾气盛 B. 肺气盛 C. 肾气虚 D. 肺气虚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "服用银翘解毒丸宜用的“药引”是 A. 盐水 B. 焦三仙煎汤 C. 芦根煎汤 D. 黄酒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "服用银翘解毒丸宜用的“药引”是 A. 盐水 B. 焦三仙煎汤 C. 芦根煎汤 D. 黄酒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "六腑共同的生理特点是 A. 化生精气 B. 实而不满 C. 储藏精气 D. 藏而不泻",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "六腑共同的生理特点是 A. 化生精气 B. 实而不满 C. 储藏精气 D. 藏而不泻",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《素问·五藏别论》六腑的功能是 A. 传化物而不藏 B. 满而不能实 C. 泻而不藏 D. 藏精气而不泻也",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《素问·五藏别论》六腑的功能是 A. 传化物而不藏 B. 满而不能实 C. 泻而不藏 D. 藏精气而不泻也",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "乳食内积导致的食积，治宜选用的方剂是 A. 消乳丸 B. 保和丸 C. 消积理脾汤 D. 枳术丸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "乳食内积导致的食积，治宜选用的方剂是 A. 消乳丸 B. 保和丸 C. 消积理脾汤 D. 枳术丸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于六腑生理功能特点的是 A. 其气象天 B. 泻而不藏 C. 天气之所生 D. 象于地",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于六腑生理功能特点的是 A. 其气象天 B. 泻而不藏 C. 天气之所生 D. 象于地",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列无收涩敛疮功效的药物是 A. 乌贼骨 B. 乳香 C. 孩儿茶 D. 炉甘石",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列无收涩敛疮功效的药物是 A. 乌贼骨 B. 乳香 C. 孩儿茶 D. 炉甘石",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "干咳少痰，或痰液胶粘难咯，多因感受哪种病邪? A. 寒邪 B. 燥邪 C. 风邪 D. 暑邪",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "干咳少痰，或痰液胶粘难咯，多因感受哪种病邪? A. 寒邪 B. 燥邪 C. 风邪 D. 暑邪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者咳逆阵作，痰中带血，时时汗出，胸胁胀痛，口苦咽干，尿黄便秘，舌红苔薄黄，脉弦数。其诊断是 A. 肺痨，阴虚火旺 B. 肺痈，成痈期 C. 咳嗽，肝火犯肺 D. 咯血，肝火犯肺",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者咳逆阵作，痰中带血，时时汗出，胸胁胀痛，口苦咽干，尿黄便秘，舌红苔薄黄，脉弦数。其诊断是 A. 肺痨，阴虚火旺 B. 肺痈，成痈期 C. 咳嗽，肝火犯肺 D. 咯血，肝火犯肺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·上古天真论》认为男子衰老始于 A. 四八 B. 四七 C. 五八 D. 五七",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·上古天真论》认为男子衰老始于 A. 四八 B. 四七 C. 五八 D. 五七",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·五脏别论》称为“满而不能实”者是指 A. 六腑 B. 奇恒之腑 C. 五脏 D. 脏腑",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·五脏别论》称为“满而不能实”者是指 A. 六腑 B. 奇恒之腑 C. 五脏 D. 脏腑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "灌注于骨节、脏腑、脑髓的是 A. 气 B. 血 C. 液 D. 津",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "灌注于骨节、脏腑、脑髓的是 A. 气 B. 血 C. 液 D. 津",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "偏阴质在用药上的使用注意是 A. 宜用温性药，忌用苦寒药 B. 宜用凉润药，忌用辛香燥热药 C. 宜用凉润药，忌用温热药 D. 宜用寒性药，忌用温热药",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "偏阴质在用药上的使用注意是 A. 宜用温性药，忌用苦寒药 B. 宜用凉润药，忌用辛香燥热药 C. 宜用凉润药，忌用温热药 D. 宜用寒性药，忌用温热药",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中医养生的三个层次包括 A. 养身、养病、养心 B. 养身、养性、养心 C. 养身、养性、养神 D. 养病、养性、养心",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中医养生的三个层次包括 A. 养身、养病、养心 B. 养身、养性、养心 C. 养身、养性、养神 D. 养病、养性、养心",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·六节藏象论》所论的五脏的“其华”中，心其华在 A. 骨 B. 筋 C. 面 D. 血",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·六节藏象论》所论的五脏的“其华”中，心其华在 A. 骨 B. 筋 C. 面 D. 血",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宜与土鳖虫对抗贮存的是 A. 黑豆 B. 花椒 C. 大蒜 D. 冰片",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宜与土鳖虫对抗贮存的是 A. 黑豆 B. 花椒 C. 大蒜 D. 冰片",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "春季人体肝气、脾气相对不足，易精神倦怠，嗜睡，应适当控制睡眠时间，起居方面应遵循 A. 夜卧晚起 B. 早卧晚起 C. 夜卧早起 D. 早卧早起",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "春季人体肝气、脾气相对不足，易精神倦怠，嗜睡，应适当控制睡眠时间，起居方面应遵循 A. 夜卧晚起 B. 早卧晚起 C. 夜卧早起 D. 早卧早起",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《素问·热论》，其满三日者当用 A. 泄热之法 B. 泻下之法 C. 涌吐之法 D. 发汗之法",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《素问·热论》，其满三日者当用 A. 泄热之法 B. 泻下之法 C. 涌吐之法 D. 发汗之法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·至真要大论》中对“留者”病证的治疗宜采用 A. 攻之 B. 散之 C. 削之 D. 除之",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·至真要大论》中对“留者”病证的治疗宜采用 A. 攻之 B. 散之 C. 削之 D. 除之",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，35岁。舌左侧长一个黄豆大小的溃疡已一周，局部灼痛难耐，烦躁易怒，失眠多梦，溲赤便干，舌红苔黄干，脉滑数。临床诊断最可能是 A. 肝胆湿热证 B. 胃火亢盛证 C. 心火亢盛证 D. 肝火上炎证",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，35岁。舌左侧长一个黄豆大小的溃疡已一周，局部灼痛难耐，烦躁易怒，失眠多梦，溲赤便干，舌红苔黄干，脉滑数。临床诊断最可能是 A. 肝胆湿热证 B. 胃火亢盛证 C. 心火亢盛证 D. 肝火上炎证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于“阳盛则外热“机理的是 A. 热气熏胸中 B. 上焦不通利 C. 腠理闭塞 D. 皮肤致密",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于“阳盛则外热“机理的是 A. 热气熏胸中 B. 上焦不通利 C. 腠理闭塞 D. 皮肤致密",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中医治疗疾病的基本原则是 A. 调整阴阳 B. 治病求本 C. 扶正祛邪 D. 因地制宜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中医治疗疾病的基本原则是 A. 调整阴阳 B. 治病求本 C. 扶正祛邪 D. 因地制宜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，26岁。新婚第3天，即发热，腰痛，尿频尿急，尿道灼痛，小便黄少，舌红苔黄，脉数。临床诊断最可能是 A. 小肠实热证 B. 湿热下注证 C. 膀胱湿热证 D. 热结膀胱证",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，26岁。新婚第3天，即发热，腰痛，尿频尿急，尿道灼痛，小便黄少，舌红苔黄，脉数。临床诊断最可能是 A. 小肠实热证 B. 湿热下注证 C. 膀胱湿热证 D. 热结膀胱证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "功能活血止痛，行气解郁，凉血清心，利胆退黄的药是 A. 郁金 B. 栀子 C. 大黄 D. 虎杖",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "功能活血止痛，行气解郁，凉血清心，利胆退黄的药是 A. 郁金 B. 栀子 C. 大黄 D. 虎杖",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《素问·六节藏象论》，五脏中其华在发的是 A. 肺 B. 肝 C. 心 D. 肾",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《素问·六节藏象论》，五脏中其华在发的是 A. 肺 B. 肝 C. 心 D. 肾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "分布于面颊部的经脉是 A. 足少阳胆经 B. 手太阳小肠经 C. 足阳明胃经 D. 手少阳三焦经",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "分布于面颊部的经脉是 A. 足少阳胆经 B. 手太阳小肠经 C. 足阳明胃经 D. 手少阳三焦经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“动极者镇之以静，阴亢者胜之以阳”说明了阴阳之间的何种关系 A. 阴阳对立制约 B. 阴阳相互消长 C. 阴阳相互转化 D. 阴阳互根互用",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“动极者镇之以静，阴亢者胜之以阳”说明了阴阳之间的何种关系 A. 阴阳对立制约 B. 阴阳相互消长 C. 阴阳相互转化 D. 阴阳互根互用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "久病畏寒的主要病因是 A. 风邪袭表 B. 寒邪内侵 C. 阳气虚衰 D. 湿邪外袭",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "久病畏寒的主要病因是 A. 风邪袭表 B. 寒邪内侵 C. 阳气虚衰 D. 湿邪外袭",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脾统血的含义是 A. 脾有贮藏血液的作用 B. 脾有调节经脉中血流量的作用 C. 脾有统摄血液在经脉中运行的作用 D. 脾有推动血液在经脉中流行的作用",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脾统血的含义是 A. 脾有贮藏血液的作用 B. 脾有调节经脉中血流量的作用 C. 脾有统摄血液在经脉中运行的作用 D. 脾有推动血液在经脉中流行的作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "膀胱贮存和排泄小便，主要依赖于 A. 肝的疏泄作用 B. 膀胱的气化作用 C. 肾的气化作用 D. 肺的宣发肃降作用",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "膀胱贮存和排泄小便，主要依赖于 A. 肝的疏泄作用 B. 膀胱的气化作用 C. 肾的气化作用 D. 肺的宣发肃降作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项不是四逆汤中配伍炙甘草的用意 A. 调和诸药 B. 解生附子之毒 C. 缓干姜之峻 D. 缓生附子之峻",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项不是四逆汤中配伍炙甘草的用意 A. 调和诸药 B. 解生附子之毒 C. 缓干姜之峻 D. 缓生附子之峻",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在《素问·脉要精微论》中，精明之府是指 A. 髓 B. 耳 C. 头 D. 目",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在《素问·脉要精微论》中，精明之府是指 A. 髓 B. 耳 C. 头 D. 目",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于阴中之阳的时间是 A. 上午 B. 前半夜 C. 后半夜 D. 下午",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于阴中之阳的时间是 A. 上午 B. 前半夜 C. 后半夜 D. 下午",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "面色发黑的主病是 A. 血虚 B. 寒症 C. 气虚 D. 惊风",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "面色发黑的主病是 A. 血虚 B. 寒症 C. 气虚 D. 惊风",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，3岁。患“乙脑“病8天，低热不退，颧红盗汗，失语，手足蠕动，舌红绛苔无，脉细数。临床诊断最可能是 A. 肝肾阴虚 B. 肾阴虚 C. 肝阴虚 D. 阴虚动风",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，3岁。患“乙脑“病8天，低热不退，颧红盗汗，失语，手足蠕动，舌红绛苔无，脉细数。临床诊断最可能是 A. 肝肾阴虚 B. 肾阴虚 C. 肝阴虚 D. 阴虚动风",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发热，口渴，胸痛，咯痰黄稠不爽，舌红，苔黄，脉滑数。风温证属 A. 邪犯肺卫 B. 热入心营 C. 邪热壅肺 D. 热郁阳明",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发热，口渴，胸痛，咯痰黄稠不爽，舌红，苔黄，脉滑数。风温证属 A. 邪犯肺卫 B. 热入心营 C. 邪热壅肺 D. 热郁阳明",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "五行中土的特性是 A. 阳热、上炎 B. 长养、化育 C. 清静、收杀 D. 生发、柔和",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "五行中土的特性是 A. 阳热、上炎 B. 长养、化育 C. 清静、收杀 D. 生发、柔和",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "导致泄泻的关键病机是 A. 脾虚湿盛 B. 脾胃虚弱 C. 食滞胃肠 D. 脾肾阳虚",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "导致泄泻的关键病机是 A. 脾虚湿盛 B. 脾胃虚弱 C. 食滞胃肠 D. 脾肾阳虚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "阴偏胜所致证候是：参考答案 A. 虚寒证 B. 实热证 C. 虚热证 D. 实寒证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "阴偏胜所致证候是：参考答案 A. 虚寒证 B. 实热证 C. 虚热证 D. 实寒证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "囟填的原因是 A. 邪热亢盛 B. 肾精亏损 C. 津液亏损 D. 外感风邪",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "囟填的原因是 A. 邪热亢盛 B. 肾精亏损 C. 津液亏损 D. 外感风邪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者，女，25岁，妊娠8周。下列各项，可以服用的药组是 A. 三棱、莪术、水蛭 B. 当归、阿胶、丹参 C. 巴豆、牵牛子、商陆 D. 斑蝥、麝香、虻虫",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者，女，25岁，妊娠8周。下列各项，可以服用的药组是 A. 三棱、莪术、水蛭 B. 当归、阿胶、丹参 C. 巴豆、牵牛子、商陆 D. 斑蝥、麝香、虻虫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·五常政大论》认为，治温病用凉药，服药宜 A. 凉而行之 B. 冷而行之 C. 温而行之 D. 热而行之",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·五常政大论》认为，治温病用凉药，服药宜 A. 凉而行之 B. 冷而行之 C. 温而行之 D. 热而行之",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中医学“证”的概念是 A. 对疾病症状与体征的分析过程 B. 对疾病症状与体征的调查过程 C. 疾病的症状与体征 D. 疾病发展过程中某一阶段的病理概括",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中医学“证”的概念是 A. 对疾病症状与体征的分析过程 B. 对疾病症状与体征的调查过程 C. 疾病的症状与体征 D. 疾病发展过程中某一阶段的病理概括",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列除哪项外，均为狂证的特征 A. 动而多怒 B. 精神亢奋 C. 狂燥不安 D. 表情淡漠",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列除哪项外，均为狂证的特征 A. 动而多怒 B. 精神亢奋 C. 狂燥不安 D. 表情淡漠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在中医观察舌象的目的中哪项不对 A. 了解病位深浅 B. 判断正气盛衰 C. 辨别病位深浅 D. 区别病邪性质",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在中医观察舌象的目的中哪项不对 A. 了解病位深浅 B. 判断正气盛衰 C. 辨别病位深浅 D. 区别病邪性质",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "因情志刺激，突然出现下焦胀满，甚至小便失禁。此因 A. 喜则气缓 B. 恐则气下 C. 惊则气乱 D. 悲则气消",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "因情志刺激，突然出现下焦胀满，甚至小便失禁。此因 A. 喜则气缓 B. 恐则气下 C. 惊则气乱 D. 悲则气消",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于中医治则的是 A. 扶正 B. 催吐 C. 发汗 D. 调和",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于中医治则的是 A. 扶正 B. 催吐 C. 发汗 D. 调和",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "治疗阴暑，宜选用的方剂是 A. 四物汤 B. 香薷饮 C. 左归丸 D. 白虎汤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "治疗阴暑，宜选用的方剂是 A. 四物汤 B. 香薷饮 C. 左归丸 D. 白虎汤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与情志抑郁最为关联的是 A. 肝失疏泄 B. 心神不足 C. 肝升太过 D. 髓海空虚",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与情志抑郁最为关联的是 A. 肝失疏泄 B. 心神不足 C. 肝升太过 D. 髓海空虚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于调养正气的方法是 A. 加强锻炼 B. 外避病邪 C. 调摄精神 D. 起居有常",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于调养正气的方法是 A. 加强锻炼 B. 外避病邪 C. 调摄精神 D. 起居有常",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "质地沉重的矿石、化石、贝壳类药物，多放在斗架的 A. 较下层 B. 中上层 C. 中下层 D. 高层",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "质地沉重的矿石、化石、贝壳类药物，多放在斗架的 A. 较下层 B. 中上层 C. 中下层 D. 高层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面既是病理产物，又是致病因素的是 A. 六淫 B. 饮食 C. 七情 D. 瘀血",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面既是病理产物，又是致病因素的是 A. 六淫 B. 饮食 C. 七情 D. 瘀血",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某患者，于夏日感受暑湿，身热烦渴，小便不利，大便泄泻。治疗宜首选的方剂是 A. 香薷散 B. 参苓白术散 C. 六一散 D. 藿香正气散",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某患者，于夏日感受暑湿，身热烦渴，小便不利，大便泄泻。治疗宜首选的方剂是 A. 香薷散 B. 参苓白术散 C. 六一散 D. 藿香正气散",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "少阳经在头部经过的部位是 A. 侧头部 B. 头后部 C. 头顶部 D. 前额部",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "少阳经在头部经过的部位是 A. 侧头部 B. 头后部 C. 头顶部 D. 前额部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者阳痿不举，面白神疲，腰膝酸软，形寒肢冷，舌迟沉。诊断为 A. 脾虚气陷证 B. 气不摄津证 C. 肾气不固证 D. 肾阳虚证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者阳痿不举，面白神疲，腰膝酸软，形寒肢冷，舌迟沉。诊断为 A. 脾虚气陷证 B. 气不摄津证 C. 肾气不固证 D. 肾阳虚证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "痫证小发作时不发生 A. 突然仆地 B. 动作中断 C. 头向前倾 D. 持物落地",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "痫证小发作时不发生 A. 突然仆地 B. 动作中断 C. 头向前倾 D. 持物落地",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者，男，65岁。近期表现肢体关节疼痛，游走不定，屈伸不利，伴恶风发热，苔薄白，脉浮等症状。根据六淫致病特点，上述病证体现了该邪气什么致病特点 A. 善行 B. 开泄 C. 干涩 D. 凝滞",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者，男，65岁。近期表现肢体关节疼痛，游走不定，屈伸不利，伴恶风发热，苔薄白，脉浮等症状。根据六淫致病特点，上述病证体现了该邪气什么致病特点 A. 善行 B. 开泄 C. 干涩 D. 凝滞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《金匮要略》所说：“见肝之病，知肝传脾”，是指 A. 土侮木 B. 子病犯母 C. 木乘土 D. 母病及子",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《金匮要略》所说：“见肝之病，知肝传脾”，是指 A. 土侮木 B. 子病犯母 C. 木乘土 D. 母病及子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，25岁。前日开始，右胸胁部泛起疱疹，灼热疼痛，口苦咽干，烦躁不安、溲赤便干，舌边红苔黄腻，脉弦数。临床诊断最可能是 A. 肝胆湿热证 B. 血热证 C. 湿热蕴脾证 D. 血热生风证",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，25岁。前日开始，右胸胁部泛起疱疹，灼热疼痛，口苦咽干，烦躁不安、溲赤便干，舌边红苔黄腻，脉弦数。临床诊断最可能是 A. 肝胆湿热证 B. 血热证 C. 湿热蕴脾证 D. 血热生风证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，32岁。下岗后心情不好，近半月自感胃脘痞满，嗳气时作，纳谷不香，胸闷喜叹息，舌正常，脉弦。临床诊断最可能是 A. 肝气郁结证 B. 肝胃不和证 C. 肝郁脾虚证 D. 肝气横逆证",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，32岁。下岗后心情不好，近半月自感胃脘痞满，嗳气时作，纳谷不香，胸闷喜叹息，舌正常，脉弦。临床诊断最可能是 A. 肝气郁结证 B. 肝胃不和证 C. 肝郁脾虚证 D. 肝气横逆证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "满面通红的病机是 A. 真寒假热 B. 邪热亢盛 C. 虚阳上越 D. 阴虚火旺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "满面通红的病机是 A. 真寒假热 B. 邪热亢盛 C. 虚阳上越 D. 阴虚火旺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肿的基本病理是 A. 筋络阻塞气滞血瘀 B. 血瘀痰阻 C. 毒邪滞留 D. 痰湿内蕴",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肿的基本病理是 A. 筋络阻塞气滞血瘀 B. 血瘀痰阻 C. 毒邪滞留 D. 痰湿内蕴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者咳嗽剧烈，气粗，喉燥咽痛，咯痰不爽，痰粘色黄，常伴鼻塞流黄涕，口渴，头痛，发热恶风，舌苔薄黄，脉浮数。其证属 A. 痰湿犯肺 B. 风热犯肺 C. 风寒袭肺 D. 痰热郁肺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者咳嗽剧烈，气粗，喉燥咽痛，咯痰不爽，痰粘色黄，常伴鼻塞流黄涕，口渴，头痛，发热恶风，舌苔薄黄，脉浮数。其证属 A. 痰湿犯肺 B. 风热犯肺 C. 风寒袭肺 D. 痰热郁肺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肾所藏之精是指 A. 先天之精 B. 包括先天之精和后天之精 C. 生殖之精 D. 后天之精",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肾所藏之精是指 A. 先天之精 B. 包括先天之精和后天之精 C. 生殖之精 D. 后天之精",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某女，65岁。咳喘15年，每至冬季加重，面色淡白，咳声无力，动则气喘，痰清稀色白，四肢轻度浮肿，舌淡苔白，脉弱。临床诊断最可能是 A. 肾不纳气证 B. 心肺气虚证 C. 肺气虚证 D. 肺肾气虚证",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某女，65岁。咳喘15年，每至冬季加重，面色淡白，咳声无力，动则气喘，痰清稀色白，四肢轻度浮肿，舌淡苔白，脉弱。临床诊断最可能是 A. 肾不纳气证 B. 心肺气虚证 C. 肺气虚证 D. 肺肾气虚证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者，男，48岁，胃脘胀痛2周，连及胁肋，嗳气后疼痛减轻，每于情志刺激时胃痛加重，食欲不振，嘈杂吞酸，舌红，苔薄白，脉弦。该患者辨证为 A. 肝胃不和 B. 寒凝气滞 C. 肝胃郁热 D. 饮食停滞",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者，男，48岁，胃脘胀痛2周，连及胁肋，嗳气后疼痛减轻，每于情志刺激时胃痛加重，食欲不振，嘈杂吞酸，舌红，苔薄白，脉弦。该患者辨证为 A. 肝胃不和 B. 寒凝气滞 C. 肝胃郁热 D. 饮食停滞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血瘀致痛的特点是 A. 空痛 B. 胀痛 C. 刺痛 D. 重痛",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血瘀致痛的特点是 A. 空痛 B. 胀痛 C. 刺痛 D. 重痛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能产生天癸的物质是 A. 水谷精微 B. 命门之火 C. 冲任气血 D. 肾精",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能产生天癸的物质是 A. 水谷精微 B. 命门之火 C. 冲任气血 D. 肾精",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "实喘的主要病变脏腑是 A. 心 B. 肾 C. 肺 D. 肝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "实喘的主要病变脏腑是 A. 心 B. 肾 C. 肺 D. 肝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孙络是指 A. 十二皮部的络脉 B. 络脉中最细小的分支 C. 十五别络 D. 行于浅表部位的络脉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孙络是指 A. 十二皮部的络脉 B. 络脉中最细小的分支 C. 十五别络 D. 行于浅表部位的络脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在阴阳失调病机中，阳偏衰以哪脏为根本 A. 脾 B. 心 C. 肾 D. 肝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在阴阳失调病机中，阳偏衰以哪脏为根本 A. 脾 B. 心 C. 肾 D. 肝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不为郁证特征的是： A. 胁肋胀痛 B. 易怒善哭 C. 潮热盗汗 D. 精神抑郁",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不为郁证特征的是： A. 胁肋胀痛 B. 易怒善哭 C. 潮热盗汗 D. 精神抑郁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "因含砷类对肾有影响的中药是 A. 细辛 B. 鱼胆 C. 雄黄 D. 朱砂",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "因含砷类对肾有影响的中药是 A. 细辛 B. 鱼胆 C. 雄黄 D. 朱砂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对津液不具有直接固摄作用的是 A. 肝 B. 肺 C. 肾 D. 脾",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对津液不具有直接固摄作用的是 A. 肝 B. 肺 C. 肾 D. 脾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“一源三歧”的三条经脉是 A. 督、冲、带 B. 任、督、带 C. 冲、任、带 D. 冲、任、督",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“一源三歧”的三条经脉是 A. 督、冲、带 B. 任、督、带 C. 冲、任、带 D. 冲、任、督",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "气的上升运动太过，称为 A. 气逆 B. 气脱 C. 气滞 D. 气不降",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "气的上升运动太过，称为 A. 气逆 B. 气脱 C. 气滞 D. 气不降",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "水肿在什么情况下使用攻下逐水药最适宜？ A. 病久体虚肿甚，日久不消 B. 颜面浮肿，兼有表症 C. 病初体实肿甚，正气已虚 D. 病初体实肿甚，正气尚旺",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "水肿在什么情况下使用攻下逐水药最适宜？ A. 病久体虚肿甚，日久不消 B. 颜面浮肿，兼有表症 C. 病初体实肿甚，正气已虚 D. 病初体实肿甚，正气尚旺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据十二经脉流注次序，手少阳经应流注至 A. 足少阳经 B. 足厥阴经 C. 手厥阴经 D. 手少阴经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据十二经脉流注次序，手少阳经应流注至 A. 足少阳经 B. 足厥阴经 C. 手厥阴经 D. 手少阴经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者气粗息涌，喉中痰鸣如吼，胸高胁胀，呛咳阵阵，咯痰色黄粘稠，心烦，汗出，面赤，口渴喜饮，不恶寒，舌质红，舌苔黄腻，脉滑数。此哮证的护治原则为 A. 清热宣肺，化痰平喘 B. 温肺散寒，化痰平喘 C. 开郁降气平喘 D. 补肾纳气平喘",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者气粗息涌，喉中痰鸣如吼，胸高胁胀，呛咳阵阵，咯痰色黄粘稠，心烦，汗出，面赤，口渴喜饮，不恶寒，舌质红，舌苔黄腻，脉滑数。此哮证的护治原则为 A. 清热宣肺，化痰平喘 B. 温肺散寒，化痰平喘 C. 开郁降气平喘 D. 补肾纳气平喘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "老年人用药时，不宜与麝香保心丸同时服用的药物是 A. 阿卡波糖 B. 地高辛 C. 复方维生素 D. 阿司匹林",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "老年人用药时，不宜与麝香保心丸同时服用的药物是 A. 阿卡波糖 B. 地高辛 C. 复方维生素 D. 阿司匹林",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肺的生理特性是 A. 喜燥恶湿 B. 不耐寒热 C. 喜润恶燥 D. 体阴用阳",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肺的生理特性是 A. 喜燥恶湿 B. 不耐寒热 C. 喜润恶燥 D. 体阴用阳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不是脾胃虚寒型胃痛主症的是 A. 神疲纳呆，四肢倦怠 B. 空腹痛甚，得食则缓 C. 胃痛隐隐，绵绵不休 D. 口干思饮，大便秘结",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不是脾胃虚寒型胃痛主症的是 A. 神疲纳呆，四肢倦怠 B. 空腹痛甚，得食则缓 C. 胃痛隐隐，绵绵不休 D. 口干思饮，大便秘结",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于奇恒之腑的是 A. 筋 B. 脉 C. 髓 D. 骨",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于奇恒之腑的是 A. 筋 B. 脉 C. 髓 D. 骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古代哲学精气概念的产生是源于 A. 水地说 B. 元气说 C. 五方说 D. 五材说",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古代哲学精气概念的产生是源于 A. 水地说 B. 元气说 C. 五方说 D. 五材说",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，60岁。心悸、胸闷、气短已3年。近日加剧，面色淡白，神疲乏力，心悸时作，入夜不能安睡，舌淡苔白，脉弱。临床诊断最可能是 A. 心阳虚证 B. 血虚证 C. 气虚证 D. 心气虚证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，60岁。心悸、胸闷、气短已3年。近日加剧，面色淡白，神疲乏力，心悸时作，入夜不能安睡，舌淡苔白，脉弱。临床诊断最可能是 A. 心阳虚证 B. 血虚证 C. 气虚证 D. 心气虚证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·水热穴论》称“胃之关”是 A. 肺 B. 肾 C. 膀胱 D. 脾",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·水热穴论》称“胃之关”是 A. 肺 B. 肾 C. 膀胱 D. 脾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "川乌类有毒饮片宜先煎 A. 2.5～3h B. 1～2h C. 0.5～1h D. 1.5～2.5h",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "川乌类有毒饮片宜先煎 A. 2.5～3h B. 1～2h C. 0.5～1h D. 1.5～2.5h",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不是津所布散的主要部位的是 A. 皮肤 B. 孔窍 C. 肌肉 D. 关节",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不是津所布散的主要部位的是 A. 皮肤 B. 孔窍 C. 肌肉 D. 关节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "湿邪致病往往缠绵难愈，是由于 A. 湿性趋下 B. 湿性重浊 C. 湿性粘滞 D. 湿为阴邪",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "湿邪致病往往缠绵难愈，是由于 A. 湿性趋下 B. 湿性重浊 C. 湿性粘滞 D. 湿为阴邪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与呼吸关系最密切的两脏是 A. 肺与肾 B. 肺与心 C. 肺与肝 D. 脾与肺",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与呼吸关系最密切的两脏是 A. 肺与肾 B. 肺与心 C. 肺与肝 D. 脾与肺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "易使人出现各种血证的是 A. 火邪 B. 暑邪 C. 燥邪 D. 风邪",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "易使人出现各种血证的是 A. 火邪 B. 暑邪 C. 燥邪 D. 风邪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小肠的功能是 A. 运行水液 B. 受纳腐熟 C. 排泄糟粕 D. 受盛化物",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小肠的功能是 A. 运行水液 B. 受纳腐熟 C. 排泄糟粕 D. 受盛化物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "十二经中具有两条别络的经脉是 A. 足太阴脾经 B. 足少阴肾经 C. 手少阴心经 D. 手太阴肺经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "十二经中具有两条别络的经脉是 A. 足太阴脾经 B. 足少阴肾经 C. 手少阴心经 D. 手太阴肺经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某男，38岁。口苦，胸胁痛而不能转侧，时欲太息、头痛。临床诊断最可能是 A. 手少阳三焦经病证 B. 足厥阴肝经病证 C. 手厥阴心包经病证 D. 足少阳胆经病证",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某男，38岁。口苦，胸胁痛而不能转侧，时欲太息、头痛。临床诊断最可能是 A. 手少阳三焦经病证 B. 足厥阴肝经病证 C. 手厥阴心包经病证 D. 足少阳胆经病证",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宜后下的饮片是 A. 西红花 B. 雷丸 C. 阿胶 D. 砂仁",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宜后下的饮片是 A. 西红花 B. 雷丸 C. 阿胶 D. 砂仁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于津液的排泄途径是 A. 尿 B. 粪 C. 汗 D. 呕吐物",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于津液的排泄途径是 A. 尿 B. 粪 C. 汗 D. 呕吐物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "既属腑，又归于奇恒之腑的是 A. 胆 B. 脉 C. 髓 D. 骨",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "既属腑，又归于奇恒之腑的是 A. 胆 B. 脉 C. 髓 D. 骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与血液生成关系最为密切的脏腑是 A. 肺 B. 心 C. 脾 D. 肝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与血液生成关系最为密切的脏腑是 A. 肺 B. 心 C. 脾 D. 肝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于奇恒之腑特点的是 A. 泻而不藏 B. 地气之所生 C. 藏而不泻 D. 藏于阴而象于地",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于奇恒之腑特点的是 A. 泻而不藏 B. 地气之所生 C. 藏而不泻 D. 藏于阴而象于地",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者，女，30岁。胃脘胀痛，牵连胁痛，嗳气频频，舌苔薄白，脉弦。用药宜首选 A. 陈皮、枳壳 B. 苍术、厚朴 C. 木香、砂仁 D. 柴胡、青皮",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者，女，30岁。胃脘胀痛，牵连胁痛，嗳气频频，舌苔薄白，脉弦。用药宜首选 A. 陈皮、枳壳 B. 苍术、厚朴 C. 木香、砂仁 D. 柴胡、青皮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "枢折挈见于《素问·痿论》中痿证的 A. 骨痿 B. 肉痿 C. 筋痿 D. 脉痿",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "枢折挈见于《素问·痿论》中痿证的 A. 骨痿 B. 肉痿 C. 筋痿 D. 脉痿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "阳虚寒凝所致的便秘，宜选用的中成药是 A. 桂附地黄丸与麻仁滋脾 B. 清宁丸 C. 槟榔四消丸 D. 麻仁润肠丸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "阳虚寒凝所致的便秘，宜选用的中成药是 A. 桂附地黄丸与麻仁滋脾 B. 清宁丸 C. 槟榔四消丸 D. 麻仁润肠丸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "呕吐吞酸，嗳气频作，胸胁胀满，脉弦。证属 A. 肝郁化火 B. 饮食停滞 C. 胃阴不足 D. 肝气犯胃",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "呕吐吞酸，嗳气频作，胸胁胀满，脉弦。证属 A. 肝郁化火 B. 饮食停滞 C. 胃阴不足 D. 肝气犯胃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能调节十二经气血，主生殖功能的经脉是 A. 任脉 B. 带脉 C. 冲脉 D. 督脉",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能调节十二经气血，主生殖功能的经脉是 A. 任脉 B. 带脉 C. 冲脉 D. 督脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据病情和药效，驱虫药宜 A. 睡前服 B. 饭后服 C. 早餐后服 D. 空腹服",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据病情和药效，驱虫药宜 A. 睡前服 B. 饭后服 C. 早餐后服 D. 空腹服",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心虚的老年人宜选用的补益药为 A. 天王补心丹 B. 六味地黄丸 C. 龟龄集 D. 人参归脾丸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心虚的老年人宜选用的补益药为 A. 天王补心丹 B. 六味地黄丸 C. 龟龄集 D. 人参归脾丸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列活血药中，哪一味不兼有行气作用 A. 郁金 B. 五灵脂 C. 玄胡 D. 三棱",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列活血药中，哪一味不兼有行气作用 A. 郁金 B. 五灵脂 C. 玄胡 D. 三棱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《素问·太阴阳明论》认为“伤于风者” A. 腑先受之 B. 脏先受之 C. 上先受之 D. 下先受之",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《素问·太阴阳明论》认为“伤于风者” A. 腑先受之 B. 脏先受之 C. 上先受之 D. 下先受之",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "痰、饮、水、湿同源而异流，其中最清稀的是 A. 水 B. 湿 C. 饮 D. 痰",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "痰、饮、水、湿同源而异流，其中最清稀的是 A. 水 B. 湿 C. 饮 D. 痰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列药物其性属阳的是 A. 生姜 B. 黄芩 C. 麦冬 D. 黄柏",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列药物其性属阳的是 A. 生姜 B. 黄芩 C. 麦冬 D. 黄柏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者，男，48岁，胃脘胀痛2周，连及胁肋，嗳气后疼痛减轻，每于情志刺激时胃痛加重，食欲不振，嘈杂吞酸，舌红，苔薄白，脉弦。针对此证应采用的治法是 A. 疏肝理气，和胃止痛 B. 导滞和胃 C. 疏肝泄热，和胃止痛 D. 温中散寒，和胃止痛",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者，男，48岁，胃脘胀痛2周，连及胁肋，嗳气后疼痛减轻，每于情志刺激时胃痛加重，食欲不振，嘈杂吞酸，舌红，苔薄白，脉弦。针对此证应采用的治法是 A. 疏肝理气，和胃止痛 B. 导滞和胃 C. 疏肝泄热，和胃止痛 D. 温中散寒，和胃止痛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“虚则补之，实则泻之”属于 A. 反治 B. 标本兼顾 C. 治标 D. 正治",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“虚则补之，实则泻之”属于 A. 反治 B. 标本兼顾 C. 治标 D. 正治",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪种说法是错误的? A. 肺主气，司呼吸 B. 肺主升清 C. 肺主通调水道 D. 肺主治节",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪种说法是错误的? A. 肺主气，司呼吸 B. 肺主升清 C. 肺主通调水道 D. 肺主治节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

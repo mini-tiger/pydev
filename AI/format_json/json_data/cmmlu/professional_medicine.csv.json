@@ -1,0 +1,3762 @@
+[
+  {
+    "question_std": "导致支气管扩张症的主要病变基础是 A. 支气管壁的黏液腺大量增生 B. 支气管纤毛柱状上皮的鳞状上皮化生 C. 肺组织纤维化 D. 支气管壁结构破坏",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "导致支气管扩张症的主要病变基础是 A. 支气管壁的黏液腺大量增生 B. 支气管纤毛柱状上皮的鳞状上皮化生 C. 肺组织纤维化 D. 支气管壁结构破坏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "髋内翻颈干角 A. 大于110度 B. 小于等于110度 C. 大于等于140度 D. 小于140度",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "髋内翻颈干角 A. 大于110度 B. 小于等于110度 C. 大于等于140度 D. 小于140度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血管性血友病的发生机制是 A. Vit．K缺乏 B. FⅧ缺陷 C. vWF缺陷 D. PF4缺乏",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血管性血友病的发生机制是 A. Vit．K缺乏 B. FⅧ缺陷 C. vWF缺陷 D. PF4缺乏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "股疝的特点是 A. 多见于老年男性 B. 咳嗽冲击感明显 C. 一旦嵌顿可迅速发展为绞窄性疝 D. 常在腹股沟韧带上方呈半球形突起",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "股疝的特点是 A. 多见于老年男性 B. 咳嗽冲击感明显 C. 一旦嵌顿可迅速发展为绞窄性疝 D. 常在腹股沟韧带上方呈半球形突起",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "符合肝细胞性黄疸检验特点的是 A. 尿胆红素阳性 B. 血非结合胆红素显著减少 C. 尿胆原降低 D. 血结合胆红素显著减少",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "符合肝细胞性黄疸检验特点的是 A. 尿胆红素阳性 B. 血非结合胆红素显著减少 C. 尿胆原降低 D. 血结合胆红素显著减少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "继发型肺结核后期最有可能并发肺源性心脏病的是 A. 慢性纤维空洞性肺结核 B. 增生性结核性胸膜炎 C. 干酪性肺炎 D. 浸润性肺结核",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "继发型肺结核后期最有可能并发肺源性心脏病的是 A. 慢性纤维空洞性肺结核 B. 增生性结核性胸膜炎 C. 干酪性肺炎 D. 浸润性肺结核",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "全腺泡型肺气肿主要见于 A. 吸烟 B. 瘢痕附近区 C. 慢性支气管炎 D. α1-抗胰蛋白酶缺乏",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "全腺泡型肺气肿主要见于 A. 吸烟 B. 瘢痕附近区 C. 慢性支气管炎 D. α1-抗胰蛋白酶缺乏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "慢性乙型肝炎时出现的毛玻璃样肝细胞，在电镜下的主要变化是 A. 滑面内质网增生 B. 线粒体数目增多 C. 粗面内质网增生 D. 溶酶体数目增多",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "慢性乙型肝炎时出现的毛玻璃样肝细胞，在电镜下的主要变化是 A. 滑面内质网增生 B. 线粒体数目增多 C. 粗面内质网增生 D. 溶酶体数目增多",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于化脓性关节炎，正确的是 A. 关节液培养多为白色葡球菌 B. 多见于老年女性，可早期关节腔内注射抗生素 C. 关节液外观可呈透明或浑浊黄白色 D. 关节镜可见大量革兰阴性菌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于化脓性关节炎，正确的是 A. 关节液培养多为白色葡球菌 B. 多见于老年女性，可早期关节腔内注射抗生素 C. 关节液外观可呈透明或浑浊黄白色 D. 关节镜可见大量革兰阴性菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "右心功能不全时，引起的肝细胞萎缩属于 A. 营养不良性萎缩 B. 失用性萎缩 C. 压迫性萎缩 D. 老化和损伤性萎缩",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "右心功能不全时，引起的肝细胞萎缩属于 A. 营养不良性萎缩 B. 失用性萎缩 C. 压迫性萎缩 D. 老化和损伤性萎缩",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "临床试验的目的是 A. 使受试者获得健康上的好处 B. 使受试者获得经济上的好处 C. 发展和促进可被普遍化的知识 D. 使研究者获得学术发展上的好处",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "临床试验的目的是 A. 使受试者获得健康上的好处 B. 使受试者获得经济上的好处 C. 发展和促进可被普遍化的知识 D. 使研究者获得学术发展上的好处",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能反映肿瘤细胞增殖活性的标记是 A. EMA B. Ki-67 C. Syn D. Keratin",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能反映肿瘤细胞增殖活性的标记是 A. EMA B. Ki-67 C. Syn D. Keratin",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于肌牵张反射的叙述，错误的是 A. 是维持姿势的基本反射 B. 肌梭是肌牵张反射的感受器 C. 脊髓横断后，肌牵张反射永久消失 D. 反射的基本中枢位于脊髓",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于肌牵张反射的叙述，错误的是 A. 是维持姿势的基本反射 B. 肌梭是肌牵张反射的感受器 C. 脊髓横断后，肌牵张反射永久消失 D. 反射的基本中枢位于脊髓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关节检查结果与疾病的关系，错误的是 A. 麦氏试验（+）：半月板损伤 B. 浮髌试验（+）：膝关节积液 C. 前抽屉试验（+）：后交叉韧带断裂 D. 研磨试验（+）：半月板损伤",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关节检查结果与疾病的关系，错误的是 A. 麦氏试验（+）：半月板损伤 B. 浮髌试验（+）：膝关节积液 C. 前抽屉试验（+）：后交叉韧带断裂 D. 研磨试验（+）：半月板损伤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在胃黏膜壁细胞完全缺乏时，病人不会出现的表现是 A. 维生素 B₁₂吸收障碍 B. 肠道内细菌加速生长 C. 胰腺分泌 HCO₃⁻减少 D. 食物蛋白质消化不良",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在胃黏膜壁细胞完全缺乏时，病人不会出现的表现是 A. 维生素 B₁₂吸收障碍 B. 肠道内细菌加速生长 C. 胰腺分泌 HCO₃⁻减少 D. 食物蛋白质消化不良",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当平均动脉压在60～140mmHg波动时，维持脑血流量恒定的调节属于 A. 自身调节 B. 体液调节 C. 神经‐体液调节 D. 神经调节",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当平均动脉压在60～140mmHg波动时，维持脑血流量恒定的调节属于 A. 自身调节 B. 体液调节 C. 神经‐体液调节 D. 神经调节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在急性肾小管坏死的下列指标中，不出现降低的是 A. 肾小球滤过率 B. 尿钠 C. 尿比重 D. 血尿素氮/血肌酐",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在急性肾小管坏死的下列指标中，不出现降低的是 A. 肾小球滤过率 B. 尿钠 C. 尿比重 D. 血尿素氮/血肌酐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "乳头浆液性无色溢液可见于 A. 导管内乳头状瘤 B. 正常月经期，早期妊娠或囊性增生病 C. 乳管阻塞的导管内乳头状瘤 D. 终止哺乳后",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "乳头浆液性无色溢液可见于 A. 导管内乳头状瘤 B. 正常月经期，早期妊娠或囊性增生病 C. 乳管阻塞的导管内乳头状瘤 D. 终止哺乳后",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "DNA 受热变性时出现的现象是 A. 最大光吸收峰波长发生转移 B. 多聚核苷酸链变为单核苷酸 C. 溶液黏度增加 D. 260nm 波长处的吸光度增高",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "DNA 受热变性时出现的现象是 A. 最大光吸收峰波长发生转移 B. 多聚核苷酸链变为单核苷酸 C. 溶液黏度增加 D. 260nm 波长处的吸光度增高",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "起着始动生精作用的激素是 A. 卵泡刺激素 B. 黄体生成素 C. 雌激素 D. 孕激素",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "起着始动生精作用的激素是 A. 卵泡刺激素 B. 黄体生成素 C. 雌激素 D. 孕激素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "透明血栓的主要成分是 A. 纤维蛋白 B. 红细胞 C. 白细胞 D. 血小板",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "透明血栓的主要成分是 A. 纤维蛋白 B. 红细胞 C. 白细胞 D. 血小板",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Liddle 综合征不适合的治疗药物是 A. 阿米洛利 B. 螺内酯 C. 氯化钾 D. 氨苯蝶啶",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Liddle 综合征不适合的治疗药物是 A. 阿米洛利 B. 螺内酯 C. 氯化钾 D. 氨苯蝶啶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不．需．要．使用全胃肠外营养的情况是 A. 重症急性胰腺炎 B. 胆囊造瘘术后 C. 短肠综合征 D. 溃疡性结肠炎长期腹泻",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不．需．要．使用全胃肠外营养的情况是 A. 重症急性胰腺炎 B. 胆囊造瘘术后 C. 短肠综合征 D. 溃疡性结肠炎长期腹泻",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "手部开放性损伤后，早期清创缝合不应超过的时间是 A. 8 小时 B. 12 小时 C. 16 小时 D. 4 小时",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "手部开放性损伤后，早期清创缝合不应超过的时间是 A. 8 小时 B. 12 小时 C. 16 小时 D. 4 小时",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "禁用 2%碳酸氢钠溶液洗胃的有机磷农药是 A. 敌百虫 B. 马拉硫磷 C. 乐果 D. 对硫磷",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "禁用 2%碳酸氢钠溶液洗胃的有机磷农药是 A. 敌百虫 B. 马拉硫磷 C. 乐果 D. 对硫磷",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "酶活性中心的某些基团可以参与质子的转移，这种催化作用称为 A. 酸碱催化 B. 亲核催化 C. 多元催化 D. 共价催化",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "酶活性中心的某些基团可以参与质子的转移，这种催化作用称为 A. 酸碱催化 B. 亲核催化 C. 多元催化 D. 共价催化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "燕麦细胞癌是指 A. 肺类癌 B. 肺腺癌 C. 肺鳞癌 D. 肺小细胞癌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "燕麦细胞癌是指 A. 肺类癌 B. 肺腺癌 C. 肺鳞癌 D. 肺小细胞癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列最不稳定的骨折是 A. 股骨干螺旋形骨折 B. 胫骨上端横形骨折 C. L2 椎体压缩性骨折 D. 颅骨裂缝骨折",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列最不稳定的骨折是 A. 股骨干螺旋形骨折 B. 胫骨上端横形骨折 C. L2 椎体压缩性骨折 D. 颅骨裂缝骨折",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列呼吸系统疾病中主要表现为呼气性呼吸困难的是 A. 肺气肿 B. 肺纤维化 C. 肺炎 D. 肺水肿",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列呼吸系统疾病中主要表现为呼气性呼吸困难的是 A. 肺气肿 B. 肺纤维化 C. 肺炎 D. 肺水肿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "出现反常呼吸运动的胸部损伤是 A. 张力性气胸 B. 开放性气胸 C. 闭合性气胸 D. 多根多处肋骨骨折",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "出现反常呼吸运动的胸部损伤是 A. 张力性气胸 B. 开放性气胸 C. 闭合性气胸 D. 多根多处肋骨骨折",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "产生生物电的物质跨膜移动主要是 A. 通道介导的易化扩散 B. 单纯扩散 C. 入胞 D. 载体介导的易化扩散",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "产生生物电的物质跨膜移动主要是 A. 通道介导的易化扩散 B. 单纯扩散 C. 入胞 D. 载体介导的易化扩散",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关胰岛素瘤的描述，不正确的是 A. 单发肿瘤占 90%以上 B. 细胞形态是决定其良恶性的主要依据 C. 手术是唯一根治性治疗手段 D. 90%以上为良性肿瘤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关胰岛素瘤的描述，不正确的是 A. 单发肿瘤占 90%以上 B. 细胞形态是决定其良恶性的主要依据 C. 手术是唯一根治性治疗手段 D. 90%以上为良性肿瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于促胃液素瘤的说法，错误的是 A. 溃疡部位不典型 B. 需进行手术切除 C. 肿瘤主要位于胃 D. 50%以上为恶性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于促胃液素瘤的说法，错误的是 A. 溃疡部位不典型 B. 需进行手术切除 C. 肿瘤主要位于胃 D. 50%以上为恶性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“三偏综合征”中，患者出现了对侧半身感觉障碍的原因 A. 丘脑前辐射 B. 视辐射 C. 丘脑中央辐射 D. 皮质脊髓束",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“三偏综合征”中，患者出现了对侧半身感觉障碍的原因 A. 丘脑前辐射 B. 视辐射 C. 丘脑中央辐射 D. 皮质脊髓束",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肝硬化病人易发生凝血障碍的主要原因是 A. 维生素K相对不足 B. 血小板功能减退 C. 凝血因子合成减少 D. Ca2+缺乏",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肝硬化病人易发生凝血障碍的主要原因是 A. 维生素K相对不足 B. 血小板功能减退 C. 凝血因子合成减少 D. Ca2+缺乏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "合成胆固醇的重要中间产物是 A. 丙二酰 CoA B. 脂肪酰 CoA C. 乙酰乙酰 CoA D. 琥珀酰 CoA",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "合成胆固醇的重要中间产物是 A. 丙二酰 CoA B. 脂肪酰 CoA C. 乙酰乙酰 CoA D. 琥珀酰 CoA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "椎管内阻滞麻醉时，最先受到阻滞的神经是 A. 交感神经 B. 感觉神经 C. 副交感神经 D. 运动神经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "椎管内阻滞麻醉时，最先受到阻滞的神经是 A. 交感神经 B. 感觉神经 C. 副交感神经 D. 运动神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不是引起血管扩张的炎症介质主要有 A. 前列腺素 B. 5-羟色胺 C. 一氧化氮 D. 组胺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不是引起血管扩张的炎症介质主要有 A. 前列腺素 B. 5-羟色胺 C. 一氧化氮 D. 组胺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于甲状旁腺功能亢进的叙述，错误的是 A. 甲状旁腺素（PTH）的分泌受垂体控制 B. 甲状旁腺癌也可引起甲状旁腺功能亢进 C. 原发性甲状旁腺功能亢进中，80%是由单发甲状旁腺腺瘤引起 D. 慢性肾衰竭可引起甲状旁腺功能亢进",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于甲状旁腺功能亢进的叙述，错误的是 A. 甲状旁腺素（PTH）的分泌受垂体控制 B. 甲状旁腺癌也可引起甲状旁腺功能亢进 C. 原发性甲状旁腺功能亢进中，80%是由单发甲状旁腺腺瘤引起 D. 慢性肾衰竭可引起甲状旁腺功能亢进",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "慢性骨髓炎的治疗，不适当的处理是 A. 病程久不愈，可考虑施行截肢术 B. 可将不重要部位的病骨整段切除 C. 急性发作时，抗生素治疗、清除病灶 D. 清除病灶、消灭死腔、伤口闭合",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "慢性骨髓炎的治疗，不适当的处理是 A. 病程久不愈，可考虑施行截肢术 B. 可将不重要部位的病骨整段切除 C. 急性发作时，抗生素治疗、清除病灶 D. 清除病灶、消灭死腔、伤口闭合",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于早期胃癌的是 A. 癌组织侵出浆膜无淋巴结转移 B. 皮革胃 C. 癌组织侵入胃壁肌层有淋巴结转移 D. 癌组织侵入黏膜下层并有淋巴结转移",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于早期胃癌的是 A. 癌组织侵出浆膜无淋巴结转移 B. 皮革胃 C. 癌组织侵入胃壁肌层有淋巴结转移 D. 癌组织侵入黏膜下层并有淋巴结转移",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不符合肝硬化并发肝肾综合征描述的是 A. 尿蛋白常＞500mg/d B. 出现在合并腹水的患者 C. 血钠和尿钠均降低 D. 扩血管物质不能被灭活",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不符合肝硬化并发肝肾综合征描述的是 A. 尿蛋白常＞500mg/d B. 出现在合并腹水的患者 C. 血钠和尿钠均降低 D. 扩血管物质不能被灭活",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于恶性肿瘤的是 A. 创伤性神经瘤 B. 脊膜瘤 C. 黄色瘤 D. 弥漫型星形细胞瘤",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于恶性肿瘤的是 A. 创伤性神经瘤 B. 脊膜瘤 C. 黄色瘤 D. 弥漫型星形细胞瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "贝赫切特病的特异性临床表现是 A. 腮腺肿大 B. 腹部血管杂音 C. 针刺反应 D. 颊部蝶形红斑",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "贝赫切特病的特异性临床表现是 A. 腮腺肿大 B. 腹部血管杂音 C. 针刺反应 D. 颊部蝶形红斑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "支气管肺泡灌洗液呈奶白色、PAS(+)，主要提示 A. 特发性肺纤维化 B. 嗜酸性粒细胞肺炎 C. 肺泡蛋白沉着症 D. 结节病",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "支气管肺泡灌洗液呈奶白色、PAS(+)，主要提示 A. 特发性肺纤维化 B. 嗜酸性粒细胞肺炎 C. 肺泡蛋白沉着症 D. 结节病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "确定早期胃癌最主要的指标是 A. 是否淋巴转移 B. 侵犯深度 C. 肿瘤直径 D. 生长方式",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "确定早期胃癌最主要的指标是 A. 是否淋巴转移 B. 侵犯深度 C. 肿瘤直径 D. 生长方式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列疾病中可引起纵隔扑动的是 A. 张力性气胸 B. 闭合性气胸 C. 开放性气胸 D. 进行性血气胸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列疾病中可引起纵隔扑动的是 A. 张力性气胸 B. 闭合性气胸 C. 开放性气胸 D. 进行性血气胸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某患者心脏突然停止跳动，医生决定做心内注射以抢救病人，为避免损伤胸膜，正确的进针部位是 A. 胸骨左缘第四肋间隙 B. 胸骨右缘第五肋间隙 C. 胸骨右缘第四肋间隙 D. 胸骨左缘第五肋间隙",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某患者心脏突然停止跳动，医生决定做心内注射以抢救病人，为避免损伤胸膜，正确的进针部位是 A. 胸骨左缘第四肋间隙 B. 胸骨右缘第五肋间隙 C. 胸骨右缘第四肋间隙 D. 胸骨左缘第五肋间隙",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "影响神经纤维动作电位幅度的因素是 A. 阈电位水平 B. 刺激的时间 C. 刺激的强度 D. 细胞外液 Na+浓度",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "影响神经纤维动作电位幅度的因素是 A. 阈电位水平 B. 刺激的时间 C. 刺激的强度 D. 细胞外液 Na+浓度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鉴别滤泡型淋巴瘤与反应性滤泡增生最有价值的标记物是 A. Bcl-6 B. Bcl-2 C. TdT D. CD117",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鉴别滤泡型淋巴瘤与反应性滤泡增生最有价值的标记物是 A. Bcl-6 B. Bcl-2 C. TdT D. CD117",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不会降低食管下括约肌压力的药物是 A. 硝酸甘油 B. 莫沙必利 C. 阿托品 D. 硝苯地平",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不会降低食管下括约肌压力的药物是 A. 硝酸甘油 B. 莫沙必利 C. 阿托品 D. 硝苯地平",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "骨肉瘤最佳的治疗方法是 A. 化疗+手术+化疗 B. 放疗+手术+放疗 C. 放疗+化疗 D. 放疗+化疗+手术",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "骨肉瘤最佳的治疗方法是 A. 化疗+手术+化疗 B. 放疗+手术+放疗 C. 放疗+化疗 D. 放疗+化疗+手术",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "并发大出血的胃十二指肠溃疡所在部位一般多见于 A. 胃底部或十二指肠球后部 B. 胃小弯或十二指肠球后壁 C. 胃大弯或十二指肠外侧壁 D. 幽门或十二指肠球前壁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "并发大出血的胃十二指肠溃疡所在部位一般多见于 A. 胃底部或十二指肠球后部 B. 胃小弯或十二指肠球后壁 C. 胃大弯或十二指肠外侧壁 D. 幽门或十二指肠球前壁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "急性心包炎最常见的病因是 A. 结核杆菌感染 B. 病毒感染 C. 急性心肌梗死 D. 尿毒症",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "急性心包炎最常见的病因是 A. 结核杆菌感染 B. 病毒感染 C. 急性心肌梗死 D. 尿毒症",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血栓闭塞性脉管炎的诊断要点不包括 A. 患肢足背动脉搏动减弱 B. 游走性浅静脉炎 C. 吸烟、高血压、糖尿病病史 D. 间歇性跛行",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血栓闭塞性脉管炎的诊断要点不包括 A. 患肢足背动脉搏动减弱 B. 游走性浅静脉炎 C. 吸烟、高血压、糖尿病病史 D. 间歇性跛行",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在糖酵解和糖异生中均起作用的酶是 A. 丙酮酸激酶 B. 磷酸甘油酸激酶 C. 果糖二磷酸酶 D. 丙酮酸羧化酶",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在糖酵解和糖异生中均起作用的酶是 A. 丙酮酸激酶 B. 磷酸甘油酸激酶 C. 果糖二磷酸酶 D. 丙酮酸羧化酶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于体温正常变动的叙述，正确的是 A. 育龄期女性基础体温以排卵日为最高 B. 成年女性的体温平均高于男性 0.3℃ C. 体温的昼夜变化可超过 1℃ D. 通常成年人体温高于儿童",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于体温正常变动的叙述，正确的是 A. 育龄期女性基础体温以排卵日为最高 B. 成年女性的体温平均高于男性 0.3℃ C. 体温的昼夜变化可超过 1℃ D. 通常成年人体温高于儿童",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "高血压病并发痛风患者首选的药物是 A. 氢氯噻嗪 B. 美托洛尔 C. 福辛普利 D. 缬沙坦",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "高血压病并发痛风患者首选的药物是 A. 氢氯噻嗪 B. 美托洛尔 C. 福辛普利 D. 缬沙坦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "单纯腰椎间盘突出症行经皮腰椎间盘切除术的适应证是 A. 膨出型 B. 经骨突出型 C. 脱出型 D. Schmorl结节",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "单纯腰椎间盘突出症行经皮腰椎间盘切除术的适应证是 A. 膨出型 B. 经骨突出型 C. 脱出型 D. Schmorl结节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于预防心肌梗死，改善预后的药物是 A. 依折麦布 B. 吲哚布芬 C. 硝酸异山梨酯 D. 美托洛尔",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于预防心肌梗死，改善预后的药物是 A. 依折麦布 B. 吲哚布芬 C. 硝酸异山梨酯 D. 美托洛尔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列指标升高常提示系统性红斑狼疮病情活动，但除外 A. 抗dsDNA 抗体 B. C反应蛋白 C. 血沉 D. 补体",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列指标升高常提示系统性红斑狼疮病情活动，但除外 A. 抗dsDNA 抗体 B. C反应蛋白 C. 血沉 D. 补体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "膀胱结核的血尿特点 A. 疼痛伴血尿 B. 终末血尿伴膀胱刺激征 C. 初始血尿 D. 无痛性全程肉眼血尿",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "膀胱结核的血尿特点 A. 疼痛伴血尿 B. 终末血尿伴膀胱刺激征 C. 初始血尿 D. 无痛性全程肉眼血尿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "HIV 的“储备池”是 A. CD4+T 细胞 B. CD8+T 细胞 C. B淋巴细胞 D. 滤泡树突状细胞",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "HIV 的“储备池”是 A. CD4+T 细胞 B. CD8+T 细胞 C. B淋巴细胞 D. 滤泡树突状细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "判断 Graves 病患者可否停用甲巯咪唑的最佳指标是 A. TSAb B. 基础代谢率 C. T3、T4、TSH D. 摄碘率",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "判断 Graves 病患者可否停用甲巯咪唑的最佳指标是 A. TSAb B. 基础代谢率 C. T3、T4、TSH D. 摄碘率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "骨髓瘤 Durie-Salmon 临床分期为Ⅲ期是指 A. IgG＞50g/L B. X 线出现溶骨性病灶 C. 血钙＞2.65mmol/L D. 血红蛋白＜90g/L",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "骨髓瘤 Durie-Salmon 临床分期为Ⅲ期是指 A. IgG＞50g/L B. X 线出现溶骨性病灶 C. 血钙＞2.65mmol/L D. 血红蛋白＜90g/L",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前单独应用化疗治疗效果最佳的肿瘤是 A. 儿童急性淋巴细胞白血病 B. 霍奇金淋巴癌 C. 粒细胞白血病 D. 乳腺癌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前单独应用化疗治疗效果最佳的肿瘤是 A. 儿童急性淋巴细胞白血病 B. 霍奇金淋巴癌 C. 粒细胞白血病 D. 乳腺癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "X 线表现为骨破坏和椎间隙狭窄，常见于 A. 脊柱结核 B. 退行性脊柱骨关节病 C. 强直性脊柱炎 D. 脊柱恶性肿瘤",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "X 线表现为骨破坏和椎间隙狭窄，常见于 A. 脊柱结核 B. 退行性脊柱骨关节病 C. 强直性脊柱炎 D. 脊柱恶性肿瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于胃食管反流病并发症的是 A. 食管狭窄 B. 食管憩室 C. 上消化道出血 D. Barrett食管",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于胃食管反流病并发症的是 A. 食管狭窄 B. 食管憩室 C. 上消化道出血 D. Barrett食管",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最常见的原发性恶性骨肿瘤是 A. 骨肉瘤 B. 骨纤维肉瘤 C. 尤文肉瘤 D. 软骨肉瘤",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最常见的原发性恶性骨肿瘤是 A. 骨肉瘤 B. 骨纤维肉瘤 C. 尤文肉瘤 D. 软骨肉瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "动脉收缩压主要反映 A. 循环血量 B. 大动脉顺应性 C. 外周阻力 D. 心搏出量",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "动脉收缩压主要反映 A. 循环血量 B. 大动脉顺应性 C. 外周阻力 D. 心搏出量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于腹膜粘连的叙述中，错误的是 A. 粘连越广，肠梗阻越重 B. 目前尚无有效的预防粘连的方法 C. 粘连可引起肠梗阻 D. 多为腹腔手术或炎症的后果",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于腹膜粘连的叙述中，错误的是 A. 粘连越广，肠梗阻越重 B. 目前尚无有效的预防粘连的方法 C. 粘连可引起肠梗阻 D. 多为腹腔手术或炎症的后果",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "高血压患者与正常人相比，明显升高的指标是 A. 心输出量 B. 心脏做功量 C. 心指数 D. 射血分数",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "高血压患者与正常人相比，明显升高的指标是 A. 心输出量 B. 心脏做功量 C. 心指数 D. 射血分数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "急性血吸虫虫卵结节的特点不包括 A. 异物巨细胞 B. Charcot-Leyden 结晶 C. 虫卵表面有放射状火焰样抗原-抗体复合物 D. 虫卵周围的肉芽组织层以嗜酸性粒细胞为主",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "急性血吸虫虫卵结节的特点不包括 A. 异物巨细胞 B. Charcot-Leyden 结晶 C. 虫卵表面有放射状火焰样抗原-抗体复合物 D. 虫卵周围的肉芽组织层以嗜酸性粒细胞为主",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "亚急性感染性心内膜炎少见于 A. 心力衰竭 B. 二尖瓣关闭不全 C. 主动脉缩窄 D. 室间隔缺损",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "亚急性感染性心内膜炎少见于 A. 心力衰竭 B. 二尖瓣关闭不全 C. 主动脉缩窄 D. 室间隔缺损",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "膀胱癌 T3 期最佳的治疗方法是 A. 膀胱部分切除术 B. 膀胱全切除术 C. TURBT D. 化疗、放疗、免疫治疗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "膀胱癌 T3 期最佳的治疗方法是 A. 膀胱部分切除术 B. 膀胱全切除术 C. TURBT D. 化疗、放疗、免疫治疗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列乳腺癌的病理类型中，预后较好的是 A. 硬癌 B. 浸润性小叶癌 C. 浸润性导管癌 D. 粘液腺癌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列乳腺癌的病理类型中，预后较好的是 A. 硬癌 B. 浸润性小叶癌 C. 浸润性导管癌 D. 粘液腺癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鉴别缺铁性贫血和慢性病性贫血的检查是 A. MCV、MCHC B. 环形铁粒幼细胞 C. 血清铁 D. 血清铁蛋白",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鉴别缺铁性贫血和慢性病性贫血的检查是 A. MCV、MCHC B. 环形铁粒幼细胞 C. 血清铁 D. 血清铁蛋白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血凝块回缩的原因是 A. 红细胞叠连而压缩 B. 血凝块中纤维蛋白收缩 C. 血小板收缩蛋白收缩 D. 白细胞发生变形运动",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血凝块回缩的原因是 A. 红细胞叠连而压缩 B. 血凝块中纤维蛋白收缩 C. 血小板收缩蛋白收缩 D. 白细胞发生变形运动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "高位单纯性肛瘘的治疗方法是 A. 切开联合挂线 B. 瘘管切开 C. 挂线疗法 D. 肛瘘切除",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "高位单纯性肛瘘的治疗方法是 A. 切开联合挂线 B. 瘘管切开 C. 挂线疗法 D. 肛瘘切除",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有一患者足呈背屈、外翻畸形，可能是下列哪个肌损伤： A. 腓骨长肌 B. 趾长屈肌 C. 胫骨后肌 D. 胫骨前肌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有一患者足呈背屈、外翻畸形，可能是下列哪个肌损伤： A. 腓骨长肌 B. 趾长屈肌 C. 胫骨后肌 D. 胫骨前肌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血源性肺脓肿最常见的致病菌是 A. 军团菌 B. 铜绿假单胞菌 C. 金黄色葡萄球菌 D. 厌氧菌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血源性肺脓肿最常见的致病菌是 A. 军团菌 B. 铜绿假单胞菌 C. 金黄色葡萄球菌 D. 厌氧菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于眼球前后径正常的人，眼的近点越近说明 A. 缩瞳能力越强 B. 双眼球会聚能力越强 C. 晶状体弹性越好 D. 对光反应能力越强",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于眼球前后径正常的人，眼的近点越近说明 A. 缩瞳能力越强 B. 双眼球会聚能力越强 C. 晶状体弹性越好 D. 对光反应能力越强",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "光镜下区分癌与肉瘤的主要依据是 A. 组织来源的不同 B. 实质与间质是否分界清楚 C. 细胞异型性的大小 D. 病理性核分裂象的多少",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "光镜下区分癌与肉瘤的主要依据是 A. 组织来源的不同 B. 实质与间质是否分界清楚 C. 细胞异型性的大小 D. 病理性核分裂象的多少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列疾病中一般无转氨酶升高的是 A. 肝脓肿 B. 肝内胆管结石 C. 急性胆囊炎 D. 胆囊癌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列疾病中一般无转氨酶升高的是 A. 肝脓肿 B. 肝内胆管结石 C. 急性胆囊炎 D. 胆囊癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "查体巴宾斯基征阳性提示皮层脊髓侧束损伤的条件是 A. 成人在熟睡状态下 B. 成人在清醒状态下 C. 婴儿在清醒状态下 D. 成人在麻醉状态下",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "查体巴宾斯基征阳性提示皮层脊髓侧束损伤的条件是 A. 成人在熟睡状态下 B. 成人在清醒状态下 C. 婴儿在清醒状态下 D. 成人在麻醉状态下",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "DNA 复制需要①DNA 聚合酶Ⅰ、②DNA 聚合酶Ⅲ、③DNA 指导的 RNA 聚合酶、④DNA 连接酶，⑤DnaB 蛋白等，其作用的顺序是 A. ①③⑤②④ B. ③②①④⑤ C. ③⑤①②④ D. ⑤③②①④",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "DNA 复制需要①DNA 聚合酶Ⅰ、②DNA 聚合酶Ⅲ、③DNA 指导的 RNA 聚合酶、④DNA 连接酶，⑤DnaB 蛋白等，其作用的顺序是 A. ①③⑤②④ B. ③②①④⑤ C. ③⑤①②④ D. ⑤③②①④",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胆总管泥沙样结石伴远端狭窄的治疗方法是 A. 胆总管切开取石，T 管引流术 B. Whipple术 C. 胆总管-空肠 Y 型吻合术 D. EST+取石+ENBD术",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胆总管泥沙样结石伴远端狭窄的治疗方法是 A. 胆总管切开取石，T 管引流术 B. Whipple术 C. 胆总管-空肠 Y 型吻合术 D. EST+取石+ENBD术",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列措施中，属于癌症二级预防的是 A. 改善生存质量，对症性治疗 B. 改进烟草质量使之无害化 C. 减少职业性致癌物的暴露 D. 对高发区及高危人群定期检查",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列措施中，属于癌症二级预防的是 A. 改善生存质量，对症性治疗 B. 改进烟草质量使之无害化 C. 减少职业性致癌物的暴露 D. 对高发区及高危人群定期检查",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "提示阻塞性通气功能障碍的肺功能变化是 A. RV 增加，RV/TLC 明显增加 B. FEV1 正常，FEV1/ FVC 下降 C. TLC 和 FVC 明显下降 D. MMFR 和 FVC 明显增加",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "提示阻塞性通气功能障碍的肺功能变化是 A. RV 增加，RV/TLC 明显增加 B. FEV1 正常，FEV1/ FVC 下降 C. TLC 和 FVC 明显下降 D. MMFR 和 FVC 明显增加",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行性脑脊髓膜炎的病理特点是 A. 形成筛状软化灶 B. 蛛网膜下腔大量中性粒细胞渗出 C. 血管周围淋巴细胞套状浸润 D. 脑底部病变最显著",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行性脑脊髓膜炎的病理特点是 A. 形成筛状软化灶 B. 蛛网膜下腔大量中性粒细胞渗出 C. 血管周围淋巴细胞套状浸润 D. 脑底部病变最显著",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于促胃液素生理作用的是 A. 促进胰酶分泌 B. 促进胃运动 C. 促进唾液分泌 D. 促进胆汁分泌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于促胃液素生理作用的是 A. 促进胰酶分泌 B. 促进胃运动 C. 促进唾液分泌 D. 促进胆汁分泌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不支持活动性消化道出血的临床表现是 A. 白细胞增高 B. 肠鸣音减弱 C. 血尿素氮增高 D. 贫血",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不支持活动性消化道出血的临床表现是 A. 白细胞增高 B. 肠鸣音减弱 C. 血尿素氮增高 D. 贫血",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可能发生纵膈扑动的胸部损伤是 A. 开放性气胸 B. 闭合性气胸 C. 张力性气胸 D. 进行性血胸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可能发生纵膈扑动的胸部损伤是 A. 开放性气胸 B. 闭合性气胸 C. 张力性气胸 D. 进行性血胸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某高血压患者，昏迷数小时后清醒，检查发现：右侧上、下肢痉孪性瘫痪，腱反射亢进， Babinski征阳性，伸舌舌尖偏向左侧，左侧舌肌萎缩，右侧躯干、上、下肢振动觉、精细触觉丧失，但全身痛、温觉正常。试分析可能损伤的结构是 A. 左侧锥体束、左侧内侧丘系，左侧舌下神经 B. 左侧锥体束，右侧内侧丘系，左侧舌下神经 C. 右侧锥体束，左侧内侧丘系，右侧舌下神经 D. 右侧皮质脊髓束，左侧内侧丘系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某高血压患者，昏迷数小时后清醒，检查发现：右侧上、下肢痉孪性瘫痪，腱反射亢进， Babinski征阳性，伸舌舌尖偏向左侧，左侧舌肌萎缩，右侧躯干、上、下肢振动觉、精细触觉丧失，但全身痛、温觉正常。试分析可能损伤的结构是 A. 左侧锥体束、左侧内侧丘系，左侧舌下神经 B. 左侧锥体束，右侧内侧丘系，左侧舌下神经 C. 右侧锥体束，左侧内侧丘系，右侧舌下神经 D. 右侧皮质脊髓束，左侧内侧丘系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通气／血流比值异常通常表现为缺氧，与其发生原因无关的叙述是 A. CO2的扩散系数远大于O2的扩散系数 B. 氧解离曲线上段平坦，增加通气量无助于摄O2 C. 动脉血与静脉血间PO2差远高于PCO2差 D. 外周化学感受器对缺氧敏感，对CO2潴留易适应",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通气／血流比值异常通常表现为缺氧，与其发生原因无关的叙述是 A. CO2的扩散系数远大于O2的扩散系数 B. 氧解离曲线上段平坦，增加通气量无助于摄O2 C. 动脉血与静脉血间PO2差远高于PCO2差 D. 外周化学感受器对缺氧敏感，对CO2潴留易适应",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Call-Exner 小体见于卵巢 A. 内胚窦瘤 B. 颗粒细胞瘤 C. 浆液性囊腺癌 D. 间质细胞瘤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Call-Exner 小体见于卵巢 A. 内胚窦瘤 B. 颗粒细胞瘤 C. 浆液性囊腺癌 D. 间质细胞瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "重症肌无力的发病机制是 A. 递质与终板膜受体结合受阻 B. 终板膜上膜受体数目减少 C. 胆碱酯酶活性增高 D. 胆碱酯酶活性受抑制",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "重症肌无力的发病机制是 A. 递质与终板膜受体结合受阻 B. 终板膜上膜受体数目减少 C. 胆碱酯酶活性增高 D. 胆碱酯酶活性受抑制",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中，最能提示化脓性腹膜炎病情加重的临床指标是 A. 腹痛加重 B. 腹胀加重 C. 腹肌紧张加重 D. 腹式呼吸消失",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中，最能提示化脓性腹膜炎病情加重的临床指标是 A. 腹痛加重 B. 腹胀加重 C. 腹肌紧张加重 D. 腹式呼吸消失",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "右心衰竭时组织液生成增加而致水肿的主要机制是 A. 血管通透性增加 B. 毛细血管血压增高 C. 组织液胶体渗透压增高 D. 组织液静水压降低",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "右心衰竭时组织液生成增加而致水肿的主要机制是 A. 血管通透性增加 B. 毛细血管血压增高 C. 组织液胶体渗透压增高 D. 组织液静水压降低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "视近物时下列眼的调节不正确的是 A. 晶状体变凸 B. 双眼球会聚 C. 瞳孔缩小 D. 睫状肌舒张",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "视近物时下列眼的调节不正确的是 A. 晶状体变凸 B. 双眼球会聚 C. 瞳孔缩小 D. 睫状肌舒张",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "降结肠外伤后主要的处理措施是 A. 肠外置，3-4 周后处理 B. 一期肠修补 C. 肠造口，1-2 周后处理 D. 一期肠切除吻合",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "降结肠外伤后主要的处理措施是 A. 肠外置，3-4 周后处理 B. 一期肠修补 C. 肠造口，1-2 周后处理 D. 一期肠切除吻合",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲状腺手术不慎将甲状旁腺切除会引起 A. 甲状腺肿大 B. 肾上腺功能衰竭 C. 手足抽搐 D. 低血糖",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲状腺手术不慎将甲状旁腺切除会引起 A. 甲状腺肿大 B. 肾上腺功能衰竭 C. 手足抽搐 D. 低血糖",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "腰麻的绝对禁忌症是 A. 慢性肝炎 B. 有普鲁卡因过敏史 C. 休克 D. 肾脏疾病",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "腰麻的绝对禁忌症是 A. 慢性肝炎 B. 有普鲁卡因过敏史 C. 休克 D. 肾脏疾病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于股骨颈骨折的叙述，错误的是 A. 头下型骨折易出现缺血坏死 B. 基底型骨折不易出现缺血坏死 C. 老年股骨颈骨折不易发生缺血死 D. 缺血坏死可发生在骨折数年后",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于股骨颈骨折的叙述，错误的是 A. 头下型骨折易出现缺血坏死 B. 基底型骨折不易出现缺血坏死 C. 老年股骨颈骨折不易发生缺血死 D. 缺血坏死可发生在骨折数年后",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列情况中，能够使肺通气/血流比值增高最明显的是 A. 支气管哮喘发作 B. 肺栓塞 C. 肺水肿 D. 肺纤维化形成",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列情况中，能够使肺通气/血流比值增高最明显的是 A. 支气管哮喘发作 B. 肺栓塞 C. 肺水肿 D. 肺纤维化形成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "作为心力衰竭改善症状的基石，在患者伴低钠血症时选用的治疗药物是 A. 氢氯噻嗪 B. 依普利酮 C. 卡维地洛 D. 托伐普坦",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "作为心力衰竭改善症状的基石，在患者伴低钠血症时选用的治疗药物是 A. 氢氯噻嗪 B. 依普利酮 C. 卡维地洛 D. 托伐普坦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "支气管哮喘急性发作首选的治疗方法是 A. 雾化吸入沙丁胺醇 B. 静脉使用糖皮质激素 C. 雾化吸入异丙托溴铵 D. 静脉注射氨茶碱",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "支气管哮喘急性发作首选的治疗方法是 A. 雾化吸入沙丁胺醇 B. 静脉使用糖皮质激素 C. 雾化吸入异丙托溴铵 D. 静脉注射氨茶碱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "金黄色葡萄球菌所致尿路感染的主要途径是 A. 淋巴道感染 B. 上行感染 C. 血行感染 D. 直接感染",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "金黄色葡萄球菌所致尿路感染的主要途径是 A. 淋巴道感染 B. 上行感染 C. 血行感染 D. 直接感染",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "糖尿病酮症酸中毒患者不恰当补碱的危害不包括 A. 脑脊液碱中毒 B. 血红蛋白和氧亲合力增高 C. 继发性脑水肿 D. 低钾血症",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "糖尿病酮症酸中毒患者不恰当补碱的危害不包括 A. 脑脊液碱中毒 B. 血红蛋白和氧亲合力增高 C. 继发性脑水肿 D. 低钾血症",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列疾病中急需手术探查的是 A. 张力性气胸 B. 闭合性气胸 C. 进行性血气胸 D. 开放性气胸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列疾病中急需手术探查的是 A. 张力性气胸 B. 闭合性气胸 C. 进行性血气胸 D. 开放性气胸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "针对右侧输尿管上段 1.0×0.8cm 的结石，选择的治疗方法是 A. 腹腔镜输尿管切开取石 B. 药物排石 C. ESWL D. 输尿管镜碎石取石",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "针对右侧输尿管上段 1.0×0.8cm 的结石，选择的治疗方法是 A. 腹腔镜输尿管切开取石 B. 药物排石 C. ESWL D. 输尿管镜碎石取石",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "判断大转子上移的测量参数是 A. Cobb角 B. Bryant三角 C. Pauwels角 D. Codman三角",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "判断大转子上移的测量参数是 A. Cobb角 B. Bryant三角 C. Pauwels角 D. Codman三角",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "正常月经期时，常出现的乳头溢液是 A. 浆液性无色溢液 B. 黄色或黄绿色溢液 C. 棕褐色溢液 D. 血性溢液",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "正常月经期时，常出现的乳头溢液是 A. 浆液性无色溢液 B. 黄色或黄绿色溢液 C. 棕褐色溢液 D. 血性溢液",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "生长激素对物质代谢的调节作用是 A. 促进脂肪合成 B. 促进外周组织利用葡萄糖 C. 促进肝糖原生成 D. 促进肝外组织蛋白质合成",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "生长激素对物质代谢的调节作用是 A. 促进脂肪合成 B. 促进外周组织利用葡萄糖 C. 促进肝糖原生成 D. 促进肝外组织蛋白质合成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "腹部闭合性损伤手术探查时发现横结肠系膜根部有很多气泡，应高度怀疑的创伤是 A. 横结肠破裂 B. 十二指肠破裂 C. 空肠破裂 D. 直肠破裂",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "腹部闭合性损伤手术探查时发现横结肠系膜根部有很多气泡，应高度怀疑的创伤是 A. 横结肠破裂 B. 十二指肠破裂 C. 空肠破裂 D. 直肠破裂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "进食引起胃容受性舒张的支配神经是 A. 迷走神经胆碱能纤维 B. 迷走神经肽能纤维 C. 交感神经胆碱能纤维 D. 交感神经肾上腺素能纤维",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "进食引起胃容受性舒张的支配神经是 A. 迷走神经胆碱能纤维 B. 迷走神经肽能纤维 C. 交感神经胆碱能纤维 D. 交感神经肾上腺素能纤维",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于柱状上皮化生的有 A. 慢性宫颈炎形成的子宫颈糜烂 B. Barrett 食管 C. 胃黏膜上皮转变为肠黏膜上皮 D. 肝胆结石时发生的化生",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于柱状上皮化生的有 A. 慢性宫颈炎形成的子宫颈糜烂 B. Barrett 食管 C. 胃黏膜上皮转变为肠黏膜上皮 D. 肝胆结石时发生的化生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "未损伤生发层的皮肤烧伤是 A. III度烧伤 B. 浅II度烧伤 C. 深II度烧伤 D. I度烧伤",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "未损伤生发层的皮肤烧伤是 A. III度烧伤 B. 浅II度烧伤 C. 深II度烧伤 D. I度烧伤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大肠癌预后较差的大体形态是 A. 溃疡型 B. 隆起型 C. 浸润型 D. 胶样型",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大肠癌预后较差的大体形态是 A. 溃疡型 B. 隆起型 C. 浸润型 D. 胶样型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有助于鉴别脊髓型颈椎病与脊髓空洞症的检查方法是 A. 疼温觉与触觉分离 B. X线颈椎平片 C. 肌电图 D. MRI",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有助于鉴别脊髓型颈椎病与脊髓空洞症的检查方法是 A. 疼温觉与触觉分离 B. X线颈椎平片 C. 肌电图 D. MRI",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "白喉毒素对蛋白质生物合成的抑制作用是 A. 对eIF2进行共价修饰 B. 对eIF1 进行共价修饰 C. 对eEF1进行共价修饰 D. 对eEF2进行共价修饰",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "白喉毒素对蛋白质生物合成的抑制作用是 A. 对eIF2进行共价修饰 B. 对eIF1 进行共价修饰 C. 对eEF1进行共价修饰 D. 对eEF2进行共价修饰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "稳定型心绞痛的发病机制不包括 A. 冠状循环小动脉病变 B. 冠状动脉内血栓形成 C. 冠状动脉痉挛 D. 冠状动脉内斑块形成",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "稳定型心绞痛的发病机制不包括 A. 冠状循环小动脉病变 B. 冠状动脉内血栓形成 C. 冠状动脉痉挛 D. 冠状动脉内斑块形成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "老年男性吸烟易患 A. 大细胞癌 B. 小细胞癌 C. 腺癌 D. 鳞状细胞癌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "老年男性吸烟易患 A. 大细胞癌 B. 小细胞癌 C. 腺癌 D. 鳞状细胞癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于梅毒特征病变树胶样肿的叙述，错误的是 A. 仅见于第三期梅毒 B. 朗汉斯巨细胞较少见 C. 必有闭塞性动脉内膜炎 D. 常见原有血管壁轮廓和钙化",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于梅毒特征病变树胶样肿的叙述，错误的是 A. 仅见于第三期梅毒 B. 朗汉斯巨细胞较少见 C. 必有闭塞性动脉内膜炎 D. 常见原有血管壁轮廓和钙化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "因受体体内存在针对供者特异性抗原的预存抗体所引起的排斥反应是 A. 慢性排斥反应 B. 急性排斥反应 C. 超急性排斥反应 D. 加速性排斥反应",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "因受体体内存在针对供者特异性抗原的预存抗体所引起的排斥反应是 A. 慢性排斥反应 B. 急性排斥反应 C. 超急性排斥反应 D. 加速性排斥反应",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于稳定细胞的是 A. 心肌细胞 B. 肾小管上皮细胞 C. 神经细胞 D. 小肠黏膜被覆细胞",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于稳定细胞的是 A. 心肌细胞 B. 肾小管上皮细胞 C. 神经细胞 D. 小肠黏膜被覆细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最容易并发骨筋膜室综合征的部位是 A. 膝关节 B. 肘关节 C. 大腿 D. 前臂",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最容易并发骨筋膜室综合征的部位是 A. 膝关节 B. 肘关节 C. 大腿 D. 前臂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在病理性色素沉着中，有消耗性色素之称的是 A. 脂褐素 B. 含铁血黄素 C. 胆色素 D. 黑色素",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在病理性色素沉着中，有消耗性色素之称的是 A. 脂褐素 B. 含铁血黄素 C. 胆色素 D. 黑色素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列物质中，不属于高能化合物的是 A. 乙酰 CoA B. 二磷酸胞苷 C. 磷酸肌酸 D. 2，3-二磷酸甘油酸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列物质中，不属于高能化合物的是 A. 乙酰 CoA B. 二磷酸胞苷 C. 磷酸肌酸 D. 2，3-二磷酸甘油酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能分泌 5-HT 致面部潮红、腹泻、多汗的甲状腺癌类型是 A. 滤泡癌 B. 未分化癌 C. 乳头状癌 D. 髓样癌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能分泌 5-HT 致面部潮红、腹泻、多汗的甲状腺癌类型是 A. 滤泡癌 B. 未分化癌 C. 乳头状癌 D. 髓样癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肺手术切断肺韧带时，须注意保护的结构是 A. 迷走神经 B. 肺动脉 C. 左、右肺下静脉 D. 下叶支气管",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肺手术切断肺韧带时，须注意保护的结构是 A. 迷走神经 B. 肺动脉 C. 左、右肺下静脉 D. 下叶支气管",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者除听不懂别人说话外，其他语言认知功能均正常，听力无障碍，其皮层损伤部位是 A. Wernick区 B. 颞上回后部 C. Broca区 D. 顶下小叶角回",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者除听不懂别人说话外，其他语言认知功能均正常，听力无障碍，其皮层损伤部位是 A. Wernick区 B. 颞上回后部 C. Broca区 D. 顶下小叶角回",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "阿司匹林通过减少TXA₂合成而抗血小板聚集的作用环节是 A. 抑制 PGI₂合成酶 B. 抑制 TXA₂合成酶 C. 抑制 PLA₂ D. 抑制 COX",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "阿司匹林通过减少TXA₂合成而抗血小板聚集的作用环节是 A. 抑制 PGI₂合成酶 B. 抑制 TXA₂合成酶 C. 抑制 PLA₂ D. 抑制 COX",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "慢性肾衰竭继发甲状旁腺功能亢进时应给予 A. 糖皮质激素 B. 司维拉姆 C. rHuEPO D. 血管紧张素转换酶抑制剂",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "慢性肾衰竭继发甲状旁腺功能亢进时应给予 A. 糖皮质激素 B. 司维拉姆 C. rHuEPO D. 血管紧张素转换酶抑制剂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胎盘部位滋养细胞肿瘤区别于绒毛膜癌的病理特点错误的是 A. 常有绒毛结构 B. 一般无明显出血、坏死 C. 免疫组化 hCG 常为阴性 D. 由单一中间滋养叶细胞构成",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胎盘部位滋养细胞肿瘤区别于绒毛膜癌的病理特点错误的是 A. 常有绒毛结构 B. 一般无明显出血、坏死 C. 免疫组化 hCG 常为阴性 D. 由单一中间滋养叶细胞构成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "出现砂粒体结构的甲状腺癌类型是 A. 乳头状癌 B. 滤泡癌 C. 梭形细胞癌 D. 髓样癌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "出现砂粒体结构的甲状腺癌类型是 A. 乳头状癌 B. 滤泡癌 C. 梭形细胞癌 D. 髓样癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脊髓灰质炎患者病愈后常有肢体肌萎缩后遗症，其主要原因是 A. 神经的兴奋性支配作用减弱 B. 神经支配由兴奋转为抑制 C. 病毒对肌肉的直接侵害作用 D. 肌肉失去神经的营养性作用",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脊髓灰质炎患者病愈后常有肢体肌萎缩后遗症，其主要原因是 A. 神经的兴奋性支配作用减弱 B. 神经支配由兴奋转为抑制 C. 病毒对肌肉的直接侵害作用 D. 肌肉失去神经的营养性作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "符合急性坏死性胰腺炎检查结果的是 A. 血清蛋白升高 B. 血钙升高 C. 血糖升高 D. 血脂肪酶早期升高",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "符合急性坏死性胰腺炎检查结果的是 A. 血清蛋白升高 B. 血钙升高 C. 血糖升高 D. 血脂肪酶早期升高",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列贫血首选糖皮质激素治疗的是 A. 珠蛋白生成障碍性贫血 B. 阵发性睡眠性血红蛋白尿 C. 自身免疫性溶血性贫血 D. 遗传性球形红细胞增多症",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列贫血首选糖皮质激素治疗的是 A. 珠蛋白生成障碍性贫血 B. 阵发性睡眠性血红蛋白尿 C. 自身免疫性溶血性贫血 D. 遗传性球形红细胞增多症",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "ITP 最常用的免疫抑制剂是 A. 硫唑嘌呤 B. 长春新碱 C. 甲氨喋呤 D. 环磷酰胺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "ITP 最常用的免疫抑制剂是 A. 硫唑嘌呤 B. 长春新碱 C. 甲氨喋呤 D. 环磷酰胺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "运动员骤然跨步由于肌肉突然猛烈收缩最不能的损伤是 A. 跟腱骨折 B. 髂前上棘撕脱骨折 C. 胫骨骨折 D. 髌骨骨折",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "运动员骤然跨步由于肌肉突然猛烈收缩最不能的损伤是 A. 跟腱骨折 B. 髂前上棘撕脱骨折 C. 胫骨骨折 D. 髌骨骨折",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主要症状为黏液脓血便的疾病是 A. 肠结核 B. 肠易激综合征 C. 克罗恩病 D. 溃疡性结肠炎",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主要症状为黏液脓血便的疾病是 A. 肠结核 B. 肠易激综合征 C. 克罗恩病 D. 溃疡性结肠炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于腓总神经损伤的临床表现 A. 马蹄内翻足 B. 小腿前内侧区感觉障碍 C. 行走困难，呈“跨域步态” D. 足不能背屈、外翻、伸趾",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于腓总神经损伤的临床表现 A. 马蹄内翻足 B. 小腿前内侧区感觉障碍 C. 行走困难，呈“跨域步态” D. 足不能背屈、外翻、伸趾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Goodpasture 综合征首选的治疗方法是 A. 糖皮质激素+环磷酰胺+血液透析 B. 糖皮质激素 C. 糖皮质激素+环磷酰胺+血浆置换 D. 糖皮质激素+环磷酰胺",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Goodpasture 综合征首选的治疗方法是 A. 糖皮质激素+环磷酰胺+血液透析 B. 糖皮质激素 C. 糖皮质激素+环磷酰胺+血浆置换 D. 糖皮质激素+环磷酰胺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于美国风湿病学会推荐的 SLE 分类标准的是 A. 雷诺现象 B. 盘状红斑 C. 浆膜炎 D. 口腔溃疡",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于美国风湿病学会推荐的 SLE 分类标准的是 A. 雷诺现象 B. 盘状红斑 C. 浆膜炎 D. 口腔溃疡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "会阴部骑跨伤后出现排尿困难，尿道滴血的泌尿系损伤的常见部位是 A. 腹膜外膀胱 B. 腹膜内膀胱 C. 后尿道 D. 尿道球部",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "会阴部骑跨伤后出现排尿困难，尿道滴血的泌尿系损伤的常见部位是 A. 腹膜外膀胱 B. 腹膜内膀胱 C. 后尿道 D. 尿道球部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "炎症时经被动过程从血管内到血管外的细胞是 A. 红细胞 B. 嗜碱性粒细胞 C. 淋巴细胞 D. 单核细胞",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "炎症时经被动过程从血管内到血管外的细胞是 A. 红细胞 B. 嗜碱性粒细胞 C. 淋巴细胞 D. 单核细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肺褐色硬化主要见于 A. 特发性肺纤维化 B. 小叶性肺炎 C. 大叶性肺炎 D. 慢性肺淤血",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肺褐色硬化主要见于 A. 特发性肺纤维化 B. 小叶性肺炎 C. 大叶性肺炎 D. 慢性肺淤血",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肝脏 Couinaud 分段法的主要依据是 A. 肝动脉和门静脉的分布 B. 肝静脉和肝动脉的分布 C. 肝内胆管的分布 D. 肝静脉和门静脉的分布",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肝脏 Couinaud 分段法的主要依据是 A. 肝动脉和门静脉的分布 B. 肝静脉和肝动脉的分布 C. 肝内胆管的分布 D. 肝静脉和门静脉的分布",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不符合醛固酮瘤检查结果的是 A. 尿呈酸性 B. 糖耐量减低 C. 血 HCO3-增高 D. 血肾素减低",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不符合醛固酮瘤检查结果的是 A. 尿呈酸性 B. 糖耐量减低 C. 血 HCO3-增高 D. 血肾素减低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当小肠被食糜充盈时，小肠反复进行分节运动的主要作用是 A. 将食糜不断向前推进 B. 充分混合食糜和消化液 C. 促进消化液继续分泌 D. 刺激胃肠激素的释放",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当小肠被食糜充盈时，小肠反复进行分节运动的主要作用是 A. 将食糜不断向前推进 B. 充分混合食糜和消化液 C. 促进消化液继续分泌 D. 刺激胃肠激素的释放",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主要在回肠末段被重吸收的是 A. 胆盐 B. 葡萄糖 C. 铁 D. 钙",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主要在回肠末段被重吸收的是 A. 胆盐 B. 葡萄糖 C. 铁 D. 钙",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胚胎时肾小管与集合管不交通，致使肾小管分泌物排出困难所引致的肾的畸形和异常是 A. 马蹄肾 B. 双肾孟 C. 低位肾 D. 多囊肾",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胚胎时肾小管与集合管不交通，致使肾小管分泌物排出困难所引致的肾的畸形和异常是 A. 马蹄肾 B. 双肾孟 C. 低位肾 D. 多囊肾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心房颤动患者于 3 天前发作后持续不缓解，血压 120/70mmHg，心率 90 次/分，需要立即 A. 采取直流电复律 B. 静脉输注胺碘酮 C. 华法林抗凝3周 D. CHA2DS2VASc 评分",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心房颤动患者于 3 天前发作后持续不缓解，血压 120/70mmHg，心率 90 次/分，需要立即 A. 采取直流电复律 B. 静脉输注胺碘酮 C. 华法林抗凝3周 D. CHA2DS2VASc 评分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "女性，19岁。海外留学回国休假，因月经不调就诊。患者诉出国后月经不正常，担心因不适应当地气候身体出现问题。此时最佳的沟通是 A. 关注月经异常情况并予以诊治 B. 关注月经情况，了解患者在国外的心理状况并予以诊治 C. 关注月经情况，了解患者在国外的社会适应性状况并予以诊治 D. 关注月经情况，了解患者在国外的心理和社会适应性状况并予以诊治和安慰",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "女性，19岁。海外留学回国休假，因月经不调就诊。患者诉出国后月经不正常，担心因不适应当地气候身体出现问题。此时最佳的沟通是 A. 关注月经异常情况并予以诊治 B. 关注月经情况，了解患者在国外的心理状况并予以诊治 C. 关注月经情况，了解患者在国外的社会适应性状况并予以诊治 D. 关注月经情况，了解患者在国外的心理和社会适应性状况并予以诊治和安慰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "妊娠期妇女由胎盘合成和分泌的主要雌激素成分是 A. 己烯雌酚 B. 雌二醇 C. 雌酮 D. 雌三醇",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "妊娠期妇女由胎盘合成和分泌的主要雌激素成分是 A. 己烯雌酚 B. 雌二醇 C. 雌酮 D. 雌三醇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最容易发生嵌顿的腹外疝是 A. 腹股沟直疝 B. 股疝 C. 腹股沟斜疝 D. 脐疝",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最容易发生嵌顿的腹外疝是 A. 腹股沟直疝 B. 股疝 C. 腹股沟斜疝 D. 脐疝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "活体内异常物质沿血流运行阻塞相应血管称为 A. 梗死 B. 血栓形成 C. 血小板凝块 D. 栓塞",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "活体内异常物质沿血流运行阻塞相应血管称为 A. 梗死 B. 血栓形成 C. 血小板凝块 D. 栓塞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "去除水疱后创面湿润，但感觉迟钝的皮肤烧伤是 A. I度烧伤 B. III度烧伤 C. 浅II度烧伤 D. 深II度烧伤",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "去除水疱后创面湿润，但感觉迟钝的皮肤烧伤是 A. I度烧伤 B. III度烧伤 C. 浅II度烧伤 D. 深II度烧伤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胆汁促进脂肪消化和吸收的主要原因是 A. 含有大量的HCO₃⁻ B. 胆盐对脂肪的乳化作用 C. 含有丰富的脂肪酶 D. 胆盐的肠‐肝循环",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胆汁促进脂肪消化和吸收的主要原因是 A. 含有大量的HCO₃⁻ B. 胆盐对脂肪的乳化作用 C. 含有丰富的脂肪酶 D. 胆盐的肠‐肝循环",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于胰腺假性囊肿的叙述中，正确的是 A. 囊壁上皮可分泌粘液 B. 主要体征是上腹包块 C. 诊断后尽早手术切除 D. 多继发于腹部外伤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于胰腺假性囊肿的叙述中，正确的是 A. 囊壁上皮可分泌粘液 B. 主要体征是上腹包块 C. 诊断后尽早手术切除 D. 多继发于腹部外伤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某中年女性下肢静脉曲张需行静脉剥脱术，请问不能结扎的属支是 A. 腹壁下静脉 B. 腹壁浅静脉 C. 股外侧浅静脉 D. 旋髂浅静脉",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某中年女性下肢静脉曲张需行静脉剥脱术，请问不能结扎的属支是 A. 腹壁下静脉 B. 腹壁浅静脉 C. 股外侧浅静脉 D. 旋髂浅静脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "耳蜗顶部基底膜受损可能出现感音障碍的是 A. 低频音 B. 高频音 C. 各种频率的声音 D. 中频音",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "耳蜗顶部基底膜受损可能出现感音障碍的是 A. 低频音 B. 高频音 C. 各种频率的声音 D. 中频音",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "食物在胃中排空速度由快到慢的排列顺序为 A. 糖、蛋白质、脂肪 B. 糖、脂肪、蛋白质 C. 蛋白质、脂肪、糖 D. 蛋白质、糖、脂肪",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "食物在胃中排空速度由快到慢的排列顺序为 A. 糖、蛋白质、脂肪 B. 糖、脂肪、蛋白质 C. 蛋白质、脂肪、糖 D. 蛋白质、糖、脂肪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "骨盆骨折最常见的并发症是 A. 尿道损伤 B. 直肠损伤 C. 肾脏损伤 D. 膀胱损伤",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "骨盆骨折最常见的并发症是 A. 尿道损伤 B. 直肠损伤 C. 肾脏损伤 D. 膀胱损伤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "急性重型肝炎中残留有少量肝细胞，其多见的部位是 A. 残留的网状支架旁 B. 全小叶随机分布 C. 中央静脉周围 D. 肝小叶周边",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "急性重型肝炎中残留有少量肝细胞，其多见的部位是 A. 残留的网状支架旁 B. 全小叶随机分布 C. 中央静脉周围 D. 肝小叶周边",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列 DNA 中 Tm 值最低的是 A. A-T占15% B. G-C占25% C. A-T占80% D. G-C占55%",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列 DNA 中 Tm 值最低的是 A. A-T占15% B. G-C占25% C. A-T占80% D. G-C占55%",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于尿毒症高转化性骨病的是 A. 纤维囊性骨炎 B. 骨再生不良 C. 骨质疏松 D. 甲状旁腺激素增高",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于尿毒症高转化性骨病的是 A. 纤维囊性骨炎 B. 骨再生不良 C. 骨质疏松 D. 甲状旁腺激素增高",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人体发热初期，出现畏寒、寒战的原因是 A. 产热过程增强 B. 体温调节中枢功能异常 C. 散热过程受阻 D. 体温调定点上移",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人体发热初期，出现畏寒、寒战的原因是 A. 产热过程增强 B. 体温调节中枢功能异常 C. 散热过程受阻 D. 体温调定点上移",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "慢性萎缩性胃炎与胃腺癌关系最密切的病变是 A. 不完全型胃型肠上皮化生 B. 完全型肠上皮化生 C. 假幽门腺化生 D. 不完全型结肠型肠上皮化生",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "慢性萎缩性胃炎与胃腺癌关系最密切的病变是 A. 不完全型胃型肠上皮化生 B. 完全型肠上皮化生 C. 假幽门腺化生 D. 不完全型结肠型肠上皮化生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "嗜铬细胞瘤术前常规使用的药物是 A. 酚苄明 B. 阿替洛尔 C. 卡托普利 D. 硝普钠",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "嗜铬细胞瘤术前常规使用的药物是 A. 酚苄明 B. 阿替洛尔 C. 卡托普利 D. 硝普钠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新生儿棕色脂肪组织具有产热功能的关键性生物分子是 A. 脂联素 B. 解耦联蛋白 C. 增食因子 D. 瘦素",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新生儿棕色脂肪组织具有产热功能的关键性生物分子是 A. 脂联素 B. 解耦联蛋白 C. 增食因子 D. 瘦素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于ANCA相关血管炎的疾病是 A. 类风湿关节炎相关血管炎 B. IgA血管炎 C. 红斑狼疮相关血管炎 D. 显微镜下多血管炎",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于ANCA相关血管炎的疾病是 A. 类风湿关节炎相关血管炎 B. IgA血管炎 C. 红斑狼疮相关血管炎 D. 显微镜下多血管炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不可能出现乳头内陷的乳房疾病是 A. 乳管内乳头状瘤 B. 乳腺Paget病 C. 浆细胞性乳腺炎 D. 乳腺癌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不可能出现乳头内陷的乳房疾病是 A. 乳管内乳头状瘤 B. 乳腺Paget病 C. 浆细胞性乳腺炎 D. 乳腺癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "腕部正中神经损伤后出现 A. 猿手畸形 B. 伸指功能障碍 C. 手指内收外展障碍 D. 垂腕畸形",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "腕部正中神经损伤后出现 A. 猿手畸形 B. 伸指功能障碍 C. 手指内收外展障碍 D. 垂腕畸形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "乳腺癌的前哨淋巴结活检适合于 A. 临床腋窝淋巴结阴性者 B. 临床腋窝淋巴结阳性者 C. 癌块＜2cm D. 癌块＞2cm",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "乳腺癌的前哨淋巴结活检适合于 A. 临床腋窝淋巴结阴性者 B. 临床腋窝淋巴结阳性者 C. 癌块＜2cm D. 癌块＞2cm",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "HCC 的癌细胞极易播散的途径是 A. 肝动脉 B. 门静脉 C. 淋巴管 D. 肝静脉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "HCC 的癌细胞极易播散的途径是 A. 肝动脉 B. 门静脉 C. 淋巴管 D. 肝静脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列肿瘤标志物中，属于癌胚抗原的是 A. 波形蛋白 B. 甲胎蛋白 C. 角蛋白 D. 前列腺特异性蛋白",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列肿瘤标志物中，属于癌胚抗原的是 A. 波形蛋白 B. 甲胎蛋白 C. 角蛋白 D. 前列腺特异性蛋白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "氰化物中毒后的解毒剂是 A. 硫代硫酸钠 B. 奥曲肽 C. 甲吡唑 D. 二巯丙醇",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "氰化物中毒后的解毒剂是 A. 硫代硫酸钠 B. 奥曲肽 C. 甲吡唑 D. 二巯丙醇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胸腔积液为渗出液的特点有 A. 胸腔积液/血清 LDH 比例＜0.6 B. 外观清澈透明，浅黄色，不凝固 C. 血清-胸腔积液白蛋白梯度＜12g/L D. 胸腔积液/血清蛋白比例＜0.5",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胸腔积液为渗出液的特点有 A. 胸腔积液/血清 LDH 比例＜0.6 B. 外观清澈透明，浅黄色，不凝固 C. 血清-胸腔积液白蛋白梯度＜12g/L D. 胸腔积液/血清蛋白比例＜0.5",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某患者发烧、头痛一周后，右眼睑下垂，说话不清楚，逐渐出现吞咽困难及声音嘶哑，进而出现左侧上、下肢运动障碍，检查发现：右侧瞳孔散大，右眼不能外展，口角歪向左侧，伸舌时舌尖偏向右侧，左半身痛、温觉丧失，左侧上、下肢瘫痪，试问原因可能是 A. 右侧半脑干脑炎 B. 内囊出血 C. 小脑扁桃体疝 D. Horner综合征",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某患者发烧、头痛一周后，右眼睑下垂，说话不清楚，逐渐出现吞咽困难及声音嘶哑，进而出现左侧上、下肢运动障碍，检查发现：右侧瞳孔散大，右眼不能外展，口角歪向左侧，伸舌时舌尖偏向右侧，左半身痛、温觉丧失，左侧上、下肢瘫痪，试问原因可能是 A. 右侧半脑干脑炎 B. 内囊出血 C. 小脑扁桃体疝 D. Horner综合征",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于急性肉芽肿性炎的是 A. 肺结核 B. 肠伤寒 C. 急性弥漫性增生性肾小球肾炎 D. 急性蜂窝织性阑尾炎",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于急性肉芽肿性炎的是 A. 肺结核 B. 肠伤寒 C. 急性弥漫性增生性肾小球肾炎 D. 急性蜂窝织性阑尾炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "急性心包炎致大量心包积液不会出现的是 A. 心包摩擦音 B. Ewart征 C. 奇脉 D. 窦性心动过速",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "急性心包炎致大量心包积液不会出现的是 A. 心包摩擦音 B. Ewart征 C. 奇脉 D. 窦性心动过速",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血管损伤时，与血小板识别损伤部位有关的血小板生理是 A. 血小板释放 B. 血小板黏附 C. 血小板吸附 D. 血小板聚集",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血管损伤时，与血小板识别损伤部位有关的血小板生理是 A. 血小板释放 B. 血小板黏附 C. 血小板吸附 D. 血小板聚集",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "乳晕脓肿切开宜采用的切口是 A. 横切口 B. 以乳头为中心的放射状切口 C. 直切口 D. 弧形切口",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "乳晕脓肿切开宜采用的切口是 A. 横切口 B. 以乳头为中心的放射状切口 C. 直切口 D. 弧形切口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肱骨外上髁炎的主要体征是 A. Dugas 征 B. Spurling征 C. Thomas征 D. Mills 征",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肱骨外上髁炎的主要体征是 A. Dugas 征 B. Spurling征 C. Thomas征 D. Mills 征",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不是继发性肺结核的好发部位 A. 右中叶或左舌叶 B. 下叶后基底段 C. 上叶尖后段 D. 下叶背段",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不是继发性肺结核的好发部位 A. 右中叶或左舌叶 B. 下叶后基底段 C. 上叶尖后段 D. 下叶背段",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "将肌肉中的氨运送至肝脏代谢的是 A. 三羧酸循环 B. 乳酸循环 C. 丙氨酸-葡萄糖循环 D. 柠檬酸-丙酮酸循环",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "将肌肉中的氨运送至肝脏代谢的是 A. 三羧酸循环 B. 乳酸循环 C. 丙氨酸-葡萄糖循环 D. 柠檬酸-丙酮酸循环",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "腕舟状骨骨折后发生的并发症是 A. 关节僵硬 B. 缺血性骨坏死 C. 创伤性关节炎 D. 骨化性肌炎",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "腕舟状骨骨折后发生的并发症是 A. 关节僵硬 B. 缺血性骨坏死 C. 创伤性关节炎 D. 骨化性肌炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "动脉血氢离子浓度增加时，引起呼吸加强的主要机制是 A. 刺激主动脉体感受器 B. 直接刺激延髓呼吸中枢 C. 刺激颈动脉体感受器 D. 刺激中枢化学感受器",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "动脉血氢离子浓度增加时，引起呼吸加强的主要机制是 A. 刺激主动脉体感受器 B. 直接刺激延髓呼吸中枢 C. 刺激颈动脉体感受器 D. 刺激中枢化学感受器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "诊断高分化前列腺癌的主要依据是腺体外层缺失 A. 肌上皮细胞 B. 腺上皮细胞 C. 类上皮细胞 D. 基底细胞",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "诊断高分化前列腺癌的主要依据是腺体外层缺失 A. 肌上皮细胞 B. 腺上皮细胞 C. 类上皮细胞 D. 基底细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心室功能减退病人代偿期射血分数下降的原因是 A. 每分输出量减少 B. 心肌细胞增生肥大 C. 心室腔异常扩大 D. 每搏输出量减少",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心室功能减退病人代偿期射血分数下降的原因是 A. 每分输出量减少 B. 心肌细胞增生肥大 C. 心室腔异常扩大 D. 每搏输出量减少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有一患者股骨骨折，行动困难，靠拄拐杖行走，三个月后下肢完全恢复功能，但出现患侧肩关节外展功能障碍，体怔表现为“方肩”畸形，可能是下列哪个肌损伤： A. 三角肌 B. 冈上肌 C. 斜角肌 D. 斜方肌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有一患者股骨骨折，行动困难，靠拄拐杖行走，三个月后下肢完全恢复功能，但出现患侧肩关节外展功能障碍，体怔表现为“方肩”畸形，可能是下列哪个肌损伤： A. 三角肌 B. 冈上肌 C. 斜角肌 D. 斜方肌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "干性支气管扩张症的主要临床表现是 A. 反复咯血 B. 干咳 C. 杵状指 D. 大量咳痰",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "干性支气管扩张症的主要临床表现是 A. 反复咯血 B. 干咳 C. 杵状指 D. 大量咳痰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "假性肥大是指实质细胞 A. 萎缩 B. 化生 C. 增生 D. 肥大",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "假性肥大是指实质细胞 A. 萎缩 B. 化生 C. 增生 D. 肥大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "站立前期先天性髋关节脱位的典型体征是 A. 弹入试验(Ortolani)(+) B. 屈髋畸形 C. 摇摆式跛行 D. 骨盆挤压试验(+)",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "站立前期先天性髋关节脱位的典型体征是 A. 弹入试验(Ortolani)(+) B. 屈髋畸形 C. 摇摆式跛行 D. 骨盆挤压试验(+)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "生理情况下，人的中心静脉压升高可见于 A. 心脏射血能力加强 B. 由吸气相改为呼气相 C. 从行走改为站立 D. 体位由直立变为平卧",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "生理情况下，人的中心静脉压升高可见于 A. 心脏射血能力加强 B. 由吸气相改为呼气相 C. 从行走改为站立 D. 体位由直立变为平卧",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "假设肺通气量为 7000ml/min，呼吸频率为 20次/分无效腔容量为 100ml，每分心输出量为 5000ml时，其通气/血量比值为 A. 0.7 B. 0.9 C. 1 D. 0.8",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "假设肺通气量为 7000ml/min，呼吸频率为 20次/分无效腔容量为 100ml，每分心输出量为 5000ml时，其通气/血量比值为 A. 0.7 B. 0.9 C. 1 D. 0.8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中指脓性指头炎如治疗不及时，最易发生的并发症是 A. 败血症 B. 掌中间隙感染 C. 末节指骨缺血坏死 D. 化脓性腱鞘炎",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中指脓性指头炎如治疗不及时，最易发生的并发症是 A. 败血症 B. 掌中间隙感染 C. 末节指骨缺血坏死 D. 化脓性腱鞘炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "镜下特点为细胞微细结构消失，组织结构轮廓保存的坏死类型是 A. 凝固性坏死 B. 液化性坏死 C. 湿性坏疽 D. 纤维素样坏死",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "镜下特点为细胞微细结构消失，组织结构轮廓保存的坏死类型是 A. 凝固性坏死 B. 液化性坏死 C. 湿性坏疽 D. 纤维素样坏死",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "调节呼吸最重要的生理因素是 A. PCO2 B. PO2 C. [H+] D. 2，3-DPG",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "调节呼吸最重要的生理因素是 A. PCO2 B. PO2 C. [H+] D. 2，3-DPG",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "反应抗凝功能的指标是 A. CRT B. PS C. PIC D. FDP",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "反应抗凝功能的指标是 A. CRT B. PS C. PIC D. FDP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中毒后主要引起止凝血障碍和出血的是 A. 敌鼠钠 B. 东莨菪碱 C. 硝基苯 D. 甲醇",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中毒后主要引起止凝血障碍和出血的是 A. 敌鼠钠 B. 东莨菪碱 C. 硝基苯 D. 甲醇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有一患者，因转移性右下腹痛伴发热，以阑尾炎收住入院：检查发现：右下肢做后伸、外展和旋 内时明显加剧腹痛。手术证实阑尾炎症波及右骼窝软组织充血肿胀。试分析下列哪块肌与上述检查发 现有关： A. 髂腰肌 B. 梨状肌 C. 闭孔内肌 D. 闭孔外肌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有一患者，因转移性右下腹痛伴发热，以阑尾炎收住入院：检查发现：右下肢做后伸、外展和旋 内时明显加剧腹痛。手术证实阑尾炎症波及右骼窝软组织充血肿胀。试分析下列哪块肌与上述检查发 现有关： A. 髂腰肌 B. 梨状肌 C. 闭孔内肌 D. 闭孔外肌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "乳管内乳头状瘤最常出现的乳头溢液是 A. 血性溢液 B. 脓性溢液 C. 浆液性溢液 D. 黄绿色溢液",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "乳管内乳头状瘤最常出现的乳头溢液是 A. 血性溢液 B. 脓性溢液 C. 浆液性溢液 D. 黄绿色溢液",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与幽门螺杆菌感染关系不密切的疾病是 A. 十二指肠溃疡 B. 胃溃疡 C. A型胃炎 D. 胃癌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与幽门螺杆菌感染关系不密切的疾病是 A. 十二指肠溃疡 B. 胃溃疡 C. A型胃炎 D. 胃癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关乳腺癌血行转移的叙述，错误的是 A. 癌细胞可经淋巴途径进入静脉 B. 血行转移只发生在肿瘤晚期 C. 癌细胞直接侵入血循环 D. 常见远处转移部位依次为骨、肺、肝",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关乳腺癌血行转移的叙述，错误的是 A. 癌细胞可经淋巴途径进入静脉 B. 血行转移只发生在肿瘤晚期 C. 癌细胞直接侵入血循环 D. 常见远处转移部位依次为骨、肺、肝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "梗死灶的质地主要取决于 A. 血管的分布方式 B. 梗死灶的含血量 C. 坏死的类型 D. 梗死的原因",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "梗死灶的质地主要取决于 A. 血管的分布方式 B. 梗死灶的含血量 C. 坏死的类型 D. 梗死的原因",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "绒毛膜癌的组织学特点是 A. 肿瘤自身无间质血管 B. 癌细胞形成绒毛结构 C. 癌组织出血坏死不明显 D. 由分化不良的细胞滋养层细胞构成",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "绒毛膜癌的组织学特点是 A. 肿瘤自身无间质血管 B. 癌细胞形成绒毛结构 C. 癌组织出血坏死不明显 D. 由分化不良的细胞滋养层细胞构成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与动脉粥样硬化斑块形成无关的细胞是 A. 成纤维细胞 B. 内皮细胞 C. 平滑肌细胞 D. 单核细胞",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与动脉粥样硬化斑块形成无关的细胞是 A. 成纤维细胞 B. 内皮细胞 C. 平滑肌细胞 D. 单核细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "实验室检查：血浆 ACTH↑，血、尿皮质醇↑，小剂量及大剂量地塞米松抑制试验不能被抑制。考虑 A. 肾上腺皮质癌 B. 异位 ACTH 综合征 C. 库欣病 D. Meador 综合征",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "实验室检查：血浆 ACTH↑，血、尿皮质醇↑，小剂量及大剂量地塞米松抑制试验不能被抑制。考虑 A. 肾上腺皮质癌 B. 异位 ACTH 综合征 C. 库欣病 D. Meador 综合征",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "妊娠后期孕妇血中雌激素和孕激素处于高水平的原因是 A. 腺垂体分泌活动加强 B. 胎盘分泌活动加强 C. 卵巢分泌活动加强 D. 下丘脑促垂体区分泌活动加强",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "妊娠后期孕妇血中雌激素和孕激素处于高水平的原因是 A. 腺垂体分泌活动加强 B. 胎盘分泌活动加强 C. 卵巢分泌活动加强 D. 下丘脑促垂体区分泌活动加强",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "尿道膜部损伤后血肿最常见的部位是 A. 阴囊部 B. 尿生殖膈以上 C. 下腹壁 D. 会阴部",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "尿道膜部损伤后血肿最常见的部位是 A. 阴囊部 B. 尿生殖膈以上 C. 下腹壁 D. 会阴部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肝源性水肿的特点是 A. 常有踝部水肿 B. 常从颜面部开始 C. 常为非凹陷性水肿 D. 常伴颈静脉充盈",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肝源性水肿的特点是 A. 常有踝部水肿 B. 常从颜面部开始 C. 常为非凹陷性水肿 D. 常伴颈静脉充盈",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "累及血管大小可变的系统性血管炎是 A. 川崎病 B. 贝赫切特病 C. 肉芽肿性多血管炎 D. IgA血管炎",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "累及血管大小可变的系统性血管炎是 A. 川崎病 B. 贝赫切特病 C. 肉芽肿性多血管炎 D. IgA血管炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲状腺素在生理浓度范围内对物质代谢的影响是 A. 加强蛋白质分解，出现负氮平衡 B. 促进脂肪酸合成，并抑制其降解 C. 抑制组织利用糖，使血糖浓度升高 D. 促进胆固醇合成，更加速其转化",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲状腺素在生理浓度范围内对物质代谢的影响是 A. 加强蛋白质分解，出现负氮平衡 B. 促进脂肪酸合成，并抑制其降解 C. 抑制组织利用糖，使血糖浓度升高 D. 促进胆固醇合成，更加速其转化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "女性，22岁。因急性淋巴细胞性白血病恶化再次入院化疗。患者情绪低落，不愿配合治疗。此时不．恰．当．的医患沟通方式是 A. 同情支持，鼓励患者树立战胜疾病的信心 B. 耐心解释，帮助其克服对治疗的恐惧 C. 强调对治疗的依从性，否则就建议转院 D. 亲切诚恳，与患者建立良好的关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "女性，22岁。因急性淋巴细胞性白血病恶化再次入院化疗。患者情绪低落，不愿配合治疗。此时不．恰．当．的医患沟通方式是 A. 同情支持，鼓励患者树立战胜疾病的信心 B. 耐心解释，帮助其克服对治疗的恐惧 C. 强调对治疗的依从性，否则就建议转院 D. 亲切诚恳，与患者建立良好的关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列常发生转移性钙化的是 A. 心瓣膜 B. 肺间质 C. 动脉粥样硬化斑块 D. 静脉内形成的血栓",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列常发生转移性钙化的是 A. 心瓣膜 B. 肺间质 C. 动脉粥样硬化斑块 D. 静脉内形成的血栓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于颈椎病的叙述，不正确的是 A. 交感型颈椎病最多见 B. 神经根型表现为手部麻木无力 C. 骨赘压迫食管可引起吞咽困难 D. 可有心动过速等交感神经表现",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于颈椎病的叙述，不正确的是 A. 交感型颈椎病最多见 B. 神经根型表现为手部麻木无力 C. 骨赘压迫食管可引起吞咽困难 D. 可有心动过速等交感神经表现",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "骨与关节结核行病灶清除术的适应证为 A. 抗结核药物疗效不佳，全身中毒症状严重 B. 有其他脏器活动性结核 C. 窦道流脓经久不愈 D. 抗结核药物治疗在 2 周之内",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "骨与关节结核行病灶清除术的适应证为 A. 抗结核药物疗效不佳，全身中毒症状严重 B. 有其他脏器活动性结核 C. 窦道流脓经久不愈 D. 抗结核药物治疗在 2 周之内",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于结肠癌正确的是 A. 胃肠道肿瘤中预后最好 B. 右侧结肠癌多表现为肠梗阻 C. 左侧结肠癌多表现为贫血 D. 早期以血道转移为主",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于结肠癌正确的是 A. 胃肠道肿瘤中预后最好 B. 右侧结肠癌多表现为肠梗阻 C. 左侧结肠癌多表现为贫血 D. 早期以血道转移为主",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "急性血源性骨髓炎的好发部位是 A. 胫骨，股骨 B. 桡骨，尺骨 C. 肱骨，肩胛骨 D. 骨盆，脊椎",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "急性血源性骨髓炎的好发部位是 A. 胫骨，股骨 B. 桡骨，尺骨 C. 肱骨，肩胛骨 D. 骨盆，脊椎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "扩张型心肌病不具备的体征是 A. 双下肢凹陷性水肿 B. 心尖部收缩期杂音 C. 胸骨左缘 4-5 肋间收缩期杂音 D. 第二心音固定分裂",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "扩张型心肌病不具备的体征是 A. 双下肢凹陷性水肿 B. 心尖部收缩期杂音 C. 胸骨左缘 4-5 肋间收缩期杂音 D. 第二心音固定分裂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最不稳定的凝血因子是 A. 因子Ⅻ B. 因子Ⅴ C. 因子Ⅹ D. 因子Ⅶ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最不稳定的凝血因子是 A. 因子Ⅻ B. 因子Ⅴ C. 因子Ⅹ D. 因子Ⅶ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列疾病中一般无发热症状的是 A. 胆囊癌 B. 肝内胆管结石 C. 急性胆囊炎 D. 肝脓肿",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列疾病中一般无发热症状的是 A. 胆囊癌 B. 肝内胆管结石 C. 急性胆囊炎 D. 肝脓肿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在有机磷杀虫药中毒的解毒药中，主要用于对抗外周 N 胆碱受体活性的是 A. 山莨菪碱 B. 碘解磷定 C. 氯解磷定 D. 东莨菪碱",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在有机磷杀虫药中毒的解毒药中，主要用于对抗外周 N 胆碱受体活性的是 A. 山莨菪碱 B. 碘解磷定 C. 氯解磷定 D. 东莨菪碱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用新斯的明治疗重症肌无力的作用机制是 A. 激活ACh受体通道 B. 模拟乙酰胆碱 C. 抑制胆碱酯酶 D. 增大终板电位幅度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用新斯的明治疗重症肌无力的作用机制是 A. 激活ACh受体通道 B. 模拟乙酰胆碱 C. 抑制胆碱酯酶 D. 增大终板电位幅度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "长时间卧床者突然站起时感觉头晕、眼前发黑的主要原因是 A. 心泵功能减弱 B. 循环血量减少 C. 降压反射敏感性降低 D. 静脉回流减少",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "长时间卧床者突然站起时感觉头晕、眼前发黑的主要原因是 A. 心泵功能减弱 B. 循环血量减少 C. 降压反射敏感性降低 D. 静脉回流减少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列无症状的胆囊疾病中，应早做手术的是 A. 胆囊单发结石 1.5cm B. 胆囊单发息肉病变1.2cm C. 胆囊多发息肉样病变 D. 胆囊多发结石",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列无症状的胆囊疾病中，应早做手术的是 A. 胆囊单发结石 1.5cm B. 胆囊单发息肉病变1.2cm C. 胆囊多发息肉样病变 D. 胆囊多发结石",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不符合萎缩特点的是 A. 器官体积缩小 B. 器官功能低下 C. 细胞核固缩 D. 自噬小体增多",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不符合萎缩特点的是 A. 器官体积缩小 B. 器官功能低下 C. 细胞核固缩 D. 自噬小体增多",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脊髓型颈椎病早期出现的症状是 A. 四肢乏力，持物不稳 B. 头痛、心悸 C. 颈肩痛向上肢放射 D. 眩晕",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脊髓型颈椎病早期出现的症状是 A. 四肢乏力，持物不稳 B. 头痛、心悸 C. 颈肩痛向上肢放射 D. 眩晕",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心率过快时，心输出量减少的主要原因是 A. 等容舒张期缩短 B. 等容收缩期缩短 C. 心室充盈期缩短 D. 心房收缩期缩短",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心率过快时，心输出量减少的主要原因是 A. 等容舒张期缩短 B. 等容收缩期缩短 C. 心室充盈期缩短 D. 心房收缩期缩短",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肝硬化患者易发生凝血障碍和出血现象，其主要原因是 A. 维生素K缺乏 B. 血小板生成减少 C. 抗凝血酶灭活延缓 D. 凝血因子合成减少",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肝硬化患者易发生凝血障碍和出血现象，其主要原因是 A. 维生素K缺乏 B. 血小板生成减少 C. 抗凝血酶灭活延缓 D. 凝血因子合成减少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列幽门梗阻患者术前准备措施中，不合理的是 A. 纠正水电解质平衡 B. 禁食、胃肠减压 C. 温盐水洗胃 D. 应用广谱抗生素",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列幽门梗阻患者术前准备措施中，不合理的是 A. 纠正水电解质平衡 B. 禁食、胃肠减压 C. 温盐水洗胃 D. 应用广谱抗生素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列急性心肌梗死危害性最大的是 A. 下壁合并后壁心肌梗死 B. 前壁合并高侧壁心肌梗死 C. 下壁心肌梗死并发三度房室传导阻滞 D. 前壁心肌梗死并发三度房室传导阻滞",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列急性心肌梗死危害性最大的是 A. 下壁合并后壁心肌梗死 B. 前壁合并高侧壁心肌梗死 C. 下壁心肌梗死并发三度房室传导阻滞 D. 前壁心肌梗死并发三度房室传导阻滞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能降低体重、血压和尿酸，并能保护肾脏的降糖药物是 A. 瑞格列奈 B. 西格列汀 C. 阿卡波糖 D. 达格列净",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能降低体重、血压和尿酸，并能保护肾脏的降糖药物是 A. 瑞格列奈 B. 西格列汀 C. 阿卡波糖 D. 达格列净",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "特发性肺纤维化的典型肺容量和通气功能的特征性变化是 A. FEV1/FVC 减低 B. TLC 减低 C. RV/TLC 升高 D. FEV1 占预计值百分比减低",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "特发性肺纤维化的典型肺容量和通气功能的特征性变化是 A. FEV1/FVC 减低 B. TLC 减低 C. RV/TLC 升高 D. FEV1 占预计值百分比减低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肾慢性排斥反应的突出病变是 A. 血管壁纤维素样坏死 B. 血管内膜增厚 C. 血管内膜纤维化 D. 血管壁玻璃样变性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肾慢性排斥反应的突出病变是 A. 血管壁纤维素样坏死 B. 血管内膜增厚 C. 血管内膜纤维化 D. 血管壁玻璃样变性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "动脉舒张压主要反映 A. 大动脉顺应性 B. 循环血量 C. 外周阻力 D. 心搏出量",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "动脉舒张压主要反映 A. 大动脉顺应性 B. 循环血量 C. 外周阻力 D. 心搏出量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "合成嘌呤、嘧啶碱基的共同原料有 A. 天冬氨酸 B. N10-甲酰四氢叶酸 C. 甘氨酸 D. 磷酸核糖焦磷酸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "合成嘌呤、嘧啶碱基的共同原料有 A. 天冬氨酸 B. N10-甲酰四氢叶酸 C. 甘氨酸 D. 磷酸核糖焦磷酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "诊断贝赫切特病最基本的是 A. 反复口腔溃疡 B. 结节性红斑 C. 针刺反应 D. 反复外阴溃疡",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "诊断贝赫切特病最基本的是 A. 反复口腔溃疡 B. 结节性红斑 C. 针刺反应 D. 反复外阴溃疡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不减慢动作电位 0 相上升速度，缩短动作电位时程的抗心律失常药是 A. 利多卡因 B. 比索洛尔 C. 索他洛尔 D. 胺碘酮",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不减慢动作电位 0 相上升速度，缩短动作电位时程的抗心律失常药是 A. 利多卡因 B. 比索洛尔 C. 索他洛尔 D. 胺碘酮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于蛋白质构象疾病的是 A. 亨廷顿病 B. 疯牛病 C. 阿尔茨海默病 D. 肌营养不良症",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于蛋白质构象疾病的是 A. 亨廷顿病 B. 疯牛病 C. 阿尔茨海默病 D. 肌营养不良症",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中毒后主要引起溶血性贫血和黄疸的是 A. 甲醇 B. 氨基甲酸酯 C. 溴敌隆 D. 砷化氢",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中毒后主要引起溶血性贫血和黄疸的是 A. 甲醇 B. 氨基甲酸酯 C. 溴敌隆 D. 砷化氢",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心肌细胞不发生完全强直收缩的原因是 A. 房室延搁 B. “全或无”式收缩 C. 肌质网 Ca2+储存少 D. 有效不应期特别长",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心肌细胞不发生完全强直收缩的原因是 A. 房室延搁 B. “全或无”式收缩 C. 肌质网 Ca2+储存少 D. 有效不应期特别长",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "生理情况下，能代表心室肌前负荷的指标是 A. WE等容舒张期容积或压力 B. 舒张末期容积或压力 C. 等容收缩期容积或压力 D. 收缩末期容积或压力",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "生理情况下，能代表心室肌前负荷的指标是 A. WE等容舒张期容积或压力 B. 舒张末期容积或压力 C. 等容收缩期容积或压力 D. 收缩末期容积或压力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "判断大隐静脉曲张能否手术的关键检查是 A. Trendelenburg试验 B. Pratt试验 C. Perthes试验 D. Buerger试验",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "判断大隐静脉曲张能否手术的关键检查是 A. Trendelenburg试验 B. Pratt试验 C. Perthes试验 D. Buerger试验",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "McCallum 斑主要见于 A. 风湿性心外膜炎 B. 风湿性心内膜炎 C. 风湿性动脉炎 D. 风湿性心肌炎",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "McCallum 斑主要见于 A. 风湿性心外膜炎 B. 风湿性心内膜炎 C. 风湿性动脉炎 D. 风湿性心肌炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "临床上长期大剂量使用呋塞米而引起感音性耳聋的原因是 A. 损伤外毛细胞 B. 阻碍听神经冲动传导 C. 阻碍内淋巴中高钾形成 D. 损伤内毛细胞",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "临床上长期大剂量使用呋塞米而引起感音性耳聋的原因是 A. 损伤外毛细胞 B. 阻碍听神经冲动传导 C. 阻碍内淋巴中高钾形成 D. 损伤内毛细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "癌细胞环形排列在导管周围呈牛眼样，提示乳腺癌的类型是 A. 小管癌 B. 浸润性导管癌 C. 髓样癌 D. 浸润性小叶癌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "癌细胞环形排列在导管周围呈牛眼样，提示乳腺癌的类型是 A. 小管癌 B. 浸润性导管癌 C. 髓样癌 D. 浸润性小叶癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "核分裂象常见，管腔内常有粉刺样坏死的乳腺癌类型主要是 A. 富于脂质性癌 B. 多中心性小叶原位癌 C. 高级别导管原位癌 D. 髓样癌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "核分裂象常见，管腔内常有粉刺样坏死的乳腺癌类型主要是 A. 富于脂质性癌 B. 多中心性小叶原位癌 C. 高级别导管原位癌 D. 髓样癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不支持急性早幼粒细胞白血病的是 A. 易并发弥散性血管内凝血 B. 采用全反式维甲酸治疗 C. 常表达 CD13、CD34 D. 髓过氧化物酶强阳性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不支持急性早幼粒细胞白血病的是 A. 易并发弥散性血管内凝血 B. 采用全反式维甲酸治疗 C. 常表达 CD13、CD34 D. 髓过氧化物酶强阳性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肾小球毛细血管壁弥漫增厚，上皮细胞足突消失，并可见钉状突起、虫蚀状空隙的是 A. 微小病变性肾小球病 B. 膜性肾小球病 C. 系膜毛细血管性肾小球肾炎 D. 局灶性节段性肾小球硬化",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肾小球毛细血管壁弥漫增厚，上皮细胞足突消失，并可见钉状突起、虫蚀状空隙的是 A. 微小病变性肾小球病 B. 膜性肾小球病 C. 系膜毛细血管性肾小球肾炎 D. 局灶性节段性肾小球硬化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人体内生物活性最强的雄激素是 A. 双氢睾酮 B. 雄烯二酮 C. 睾酮 D. 雄酮",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人体内生物活性最强的雄激素是 A. 双氢睾酮 B. 雄烯二酮 C. 睾酮 D. 雄酮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "泌尿系草酸钙结石的特点是 A. 光滑、淡黄至黄棕色、蜡样外观 B. X线不被显示 C. 质硬粗糙、不规则、常呈桑椹样，棕褐色 D. 易碎粗糙、不规则，呈灰白色、黄色或棕色",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "泌尿系草酸钙结石的特点是 A. 光滑、淡黄至黄棕色、蜡样外观 B. X线不被显示 C. 质硬粗糙、不规则、常呈桑椹样，棕褐色 D. 易碎粗糙、不规则，呈灰白色、黄色或棕色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "男性，55 岁，2 天前饮酒后出现上腹痛，进行性加重，向腰背部放射，曾呕吐 1 次，为胃内容物，呕吐后腹痛未减轻，稀便 2 次。查体：T37.3 度，P80 次/分，R20 次/分，BP 120/80mmHg，上腹部轻压痛，肝脾肋下未触及。确诊首选的检查是 A. 大便常规和隐血 B. 腹部影像学检查 C. 胃镜 D. 血、尿淀粉酶",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "男性，55 岁，2 天前饮酒后出现上腹痛，进行性加重，向腰背部放射，曾呕吐 1 次，为胃内容物，呕吐后腹痛未减轻，稀便 2 次。查体：T37.3 度，P80 次/分，R20 次/分，BP 120/80mmHg，上腹部轻压痛，肝脾肋下未触及。确诊首选的检查是 A. 大便常规和隐血 B. 腹部影像学检查 C. 胃镜 D. 血、尿淀粉酶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于迟发型超敏反应的是 A. 支气管哮喘 B. 类风湿性关节炎 C. 系统性红斑狼疮 D. 急性排斥反应细胞型",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于迟发型超敏反应的是 A. 支气管哮喘 B. 类风湿性关节炎 C. 系统性红斑狼疮 D. 急性排斥反应细胞型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "门静脉高压症择期手术的最主要目的是 A. 预防肝功能衰竭 B. 预防上消化道出血 C. 预防肝细胞癌 D. 减少腹水",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "门静脉高压症择期手术的最主要目的是 A. 预防肝功能衰竭 B. 预防上消化道出血 C. 预防肝细胞癌 D. 减少腹水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "引起呼吸商增大的是 A. 代谢性碱中毒 B. 肺通气过度 C. 长期饥饿 D. 糖尿病",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "引起呼吸商增大的是 A. 代谢性碱中毒 B. 肺通气过度 C. 长期饥饿 D. 糖尿病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "急性血源性骨髓炎症多见的部位是 A. 髂骨 B. 股骨下段 C. 掌骨 D. 胫骨下端",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "急性血源性骨髓炎症多见的部位是 A. 髂骨 B. 股骨下段 C. 掌骨 D. 胫骨下端",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "因Cushing综合征单侧肾上腺皮质腺瘤行患侧肾上腺切除术，术后糖皮质激素替代治疗一般需要维持的时间是 A. 2个月左右 B. 1周左右 C. 1个月左右 D. 6个月至1年或以上",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "因Cushing综合征单侧肾上腺皮质腺瘤行患侧肾上腺切除术，术后糖皮质激素替代治疗一般需要维持的时间是 A. 2个月左右 B. 1周左右 C. 1个月左右 D. 6个月至1年或以上",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电镜下，驼峰状沉积物位于肾小球毛细血管基膜表面的疾病是 A. 膜增生性肾小球肾炎 B. 急进性肾小球肾炎 C. 系膜增生性肾小球肾炎 D. 急性弥漫性增生性肾小球肾炎",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电镜下，驼峰状沉积物位于肾小球毛细血管基膜表面的疾病是 A. 膜增生性肾小球肾炎 B. 急进性肾小球肾炎 C. 系膜增生性肾小球肾炎 D. 急性弥漫性增生性肾小球肾炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颈椎压缩性骨折合并脱位，首选的治疗方法是 A. 颅骨牵引 B. 颈枕带牵引 C. 切开复位 D. 手法复位，石膏固定",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颈椎压缩性骨折合并脱位，首选的治疗方法是 A. 颅骨牵引 B. 颈枕带牵引 C. 切开复位 D. 手法复位，石膏固定",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "间质内常有淀粉样物质沉着的甲状腺肿瘤是 A. 髓样癌 B. 未分化癌 C. 乳头状癌 D. 滤泡癌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "间质内常有淀粉样物质沉着的甲状腺肿瘤是 A. 髓样癌 B. 未分化癌 C. 乳头状癌 D. 滤泡癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "诊断高渗高血糖综合征最重要的检查是 A. 血糖 B. 血和尿酮体 C. 血电解质 D. 血浆渗透压",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "诊断高渗高血糖综合征最重要的检查是 A. 血糖 B. 血和尿酮体 C. 血电解质 D. 血浆渗透压",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "出现在肉芽肿性炎的主要细胞是 A. 浆细胞 B. 巨噬细胞 C. 中性粒细胞 D. 淋巴细胞",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "出现在肉芽肿性炎的主要细胞是 A. 浆细胞 B. 巨噬细胞 C. 中性粒细胞 D. 淋巴细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与胃 MALT 淋巴瘤发病相关的是 A. 乙肝病毒 B. EB 病毒 C. 草绿色链球菌 D. 幽门螺杆菌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与胃 MALT 淋巴瘤发病相关的是 A. 乙肝病毒 B. EB 病毒 C. 草绿色链球菌 D. 幽门螺杆菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某患者因耳鸣、眩晕、耳聋到医院就诊，临床上诊断为膜迷路炎(美尼尔氏病)，其原因可能是刺激什么结构? A. 位觉感受器 B. 前庭神经 C. 蜗神经 D. 鼓膜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某患者因耳鸣、眩晕、耳聋到医院就诊，临床上诊断为膜迷路炎(美尼尔氏病)，其原因可能是刺激什么结构? A. 位觉感受器 B. 前庭神经 C. 蜗神经 D. 鼓膜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用左旋多巴治疗不能缓解的帕金森病临床表现是 A. 动作缓慢 B. 静止性震颤 C. 肌紧张增高 D. 面部表情呆板",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用左旋多巴治疗不能缓解的帕金森病临床表现是 A. 动作缓慢 B. 静止性震颤 C. 肌紧张增高 D. 面部表情呆板",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行性乙型脑炎的特征性病变是 A. 血管淋巴套 B. 镂空筛状软化灶 C. 卫星现象 D. 胶质细胞增生",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行性乙型脑炎的特征性病变是 A. 血管淋巴套 B. 镂空筛状软化灶 C. 卫星现象 D. 胶质细胞增生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "月经周期中雌激素分泌出现第二次高峰的直接原因是 A. 卵泡刺激素的作用 B. 雌激素的正反馈作用 C. 孕激素的正反馈作用 D. 黄体生成素的作用",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "月经周期中雌激素分泌出现第二次高峰的直接原因是 A. 卵泡刺激素的作用 B. 雌激素的正反馈作用 C. 孕激素的正反馈作用 D. 黄体生成素的作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于稳定细胞的是 A. 骨骼肌细胞 B. 骨细胞 C. 胸膜间皮细胞 D. 皮肤表皮细胞",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于稳定细胞的是 A. 骨骼肌细胞 B. 骨细胞 C. 胸膜间皮细胞 D. 皮肤表皮细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于骨巨细胞瘤的叙述，错误的是 A. 好发于膝关节上、下骨端 B. 好发于 20-40 岁 C. 多属恶性 D. 局部肿胀包块",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于骨巨细胞瘤的叙述，错误的是 A. 好发于膝关节上、下骨端 B. 好发于 20-40 岁 C. 多属恶性 D. 局部肿胀包块",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "尤文肉瘤的常见 X 线表现是 A. “溶冰征” B. “日光射线”形态 C. “葱皮状”的现象 D. “肥皂泡”样改变",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "尤文肉瘤的常见 X 线表现是 A. “溶冰征” B. “日光射线”形态 C. “葱皮状”的现象 D. “肥皂泡”样改变",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于胰腺假性囊肿的说法，错误的是 A. 常出现在病程 1 个月左右 B. ＜4cm 者几乎自行吸收 C. 多发者应先观察 6-8 周 D. 囊内含有胰酶和细菌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于胰腺假性囊肿的说法，错误的是 A. 常出现在病程 1 个月左右 B. ＜4cm 者几乎自行吸收 C. 多发者应先观察 6-8 周 D. 囊内含有胰酶和细菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小脑绒球小结叶损伤后将引起 A. 四肢乏力 B. 意向性震颤 C. 站立不稳 D. 静止性震颤",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小脑绒球小结叶损伤后将引起 A. 四肢乏力 B. 意向性震颤 C. 站立不稳 D. 静止性震颤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "十二指肠球后溃疡 A. 对药物治疗反应较好 B. 不易并发幽门梗阻 C. 疼痛常没有典型的节律性 D. 发生在十二指肠球部后壁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "十二指肠球后溃疡 A. 对药物治疗反应较好 B. 不易并发幽门梗阻 C. 疼痛常没有典型的节律性 D. 发生在十二指肠球部后壁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能使甲亢患者甲状腺体积增大，充血的药物是 A. 普奈洛尔 B. 醋酸泼尼松 C. 复方碘溶液 D. 丙硫氧嘧啶",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能使甲亢患者甲状腺体积增大，充血的药物是 A. 普奈洛尔 B. 醋酸泼尼松 C. 复方碘溶液 D. 丙硫氧嘧啶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "正常情况下，用手电筒灯光照射左眼时出现的反射性反应是 A. 右侧瞳孔缩小，左侧瞳孔不变 B. 左、右侧瞳孔同等程度缩小 C. 左侧瞳孔明显缩小，右侧瞳孔略有增大 D. 左侧瞳孔缩小，右侧瞳孔不变",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "正常情况下，用手电筒灯光照射左眼时出现的反射性反应是 A. 右侧瞳孔缩小，左侧瞳孔不变 B. 左、右侧瞳孔同等程度缩小 C. 左侧瞳孔明显缩小，右侧瞳孔略有增大 D. 左侧瞳孔缩小，右侧瞳孔不变",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肿瘤实质的作用不包括 A. 影响肿瘤的生物学行为 B. 对肿瘤进行组织学分类 C. 参与肿瘤的免疫反应 D. 判断肿瘤的分化方向",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肿瘤实质的作用不包括 A. 影响肿瘤的生物学行为 B. 对肿瘤进行组织学分类 C. 参与肿瘤的免疫反应 D. 判断肿瘤的分化方向",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "钩椎关节（Luschka 关节）所在部位是 A. 骶、尾椎 B. 腰椎 C. 颈椎 D. 胸椎",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "钩椎关节（Luschka 关节）所在部位是 A. 骶、尾椎 B. 腰椎 C. 颈椎 D. 胸椎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一般不．会．在急性心肌炎病人出现的临床表现是 A. 心脏压塞 B. 急性肺水肿 C. 猝死 D. 酷似急性心肌梗死",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一般不．会．在急性心肌炎病人出现的临床表现是 A. 心脏压塞 B. 急性肺水肿 C. 猝死 D. 酷似急性心肌梗死",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与月经周期相关的乳房疾病是 A. 乳腺囊性增生病 B. 乳管内乳头状瘤 C. 乳腺癌 D. 乳腺纤维腺瘤",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与月经周期相关的乳房疾病是 A. 乳腺囊性增生病 B. 乳管内乳头状瘤 C. 乳腺癌 D. 乳腺纤维腺瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于混合血栓的有 A. 延续性血栓的起始部 B. DIC 时毛细血管内的血栓 C. 动脉瘤内的附壁血栓 D. 风湿病二尖瓣上的赘生物",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于混合血栓的有 A. 延续性血栓的起始部 B. DIC 时毛细血管内的血栓 C. 动脉瘤内的附壁血栓 D. 风湿病二尖瓣上的赘生物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果某物质在肾动脉中有一定浓度，而在肾静脉中几乎为零，其清除率 A. 等于每分钟肾血流量 B. 等于每分钟肾血浆流量 C. 等于肾小球滤过率 D. 等于零",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果某物质在肾动脉中有一定浓度，而在肾静脉中几乎为零，其清除率 A. 等于每分钟肾血流量 B. 等于每分钟肾血浆流量 C. 等于肾小球滤过率 D. 等于零",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能使甲亢患者甲状腺体积缩小，质地变硬的药物是 A. 醋酸泼尼松 B. 丙硫氧嘧啶 C. 普奈洛尔 D. 复方碘溶液",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能使甲亢患者甲状腺体积缩小，质地变硬的药物是 A. 醋酸泼尼松 B. 丙硫氧嘧啶 C. 普奈洛尔 D. 复方碘溶液",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "衡量心肌自律性高低的主要指标是 A. 最大复极电位水平 B. 0期去极化速度 C. 动作电位的幅值 D. 4期膜电位自动去极化速率",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "衡量心肌自律性高低的主要指标是 A. 最大复极电位水平 B. 0期去极化速度 C. 动作电位的幅值 D. 4期膜电位自动去极化速率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "慢性阻塞性肺疾病的典型肺容量和通气功能的特征性变化是 A. RV/TLC 升高 B. FEV1 占预计值百分比减低 C. TLC 减低 D. FEV1/FVC 减低",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "慢性阻塞性肺疾病的典型肺容量和通气功能的特征性变化是 A. RV/TLC 升高 B. FEV1 占预计值百分比减低 C. TLC 减低 D. FEV1/FVC 减低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "遗传咨询医师面向患者进行遗传咨询，以减少遗传病带给患者及其家庭的痛苦，帮助他们做出符合其最佳利益的决定。从伦理学视角分析，下列描述正确的是 A. 咨询医师提出的意见应当是指令性的，因为咨询医师与患者的价值是一致的 B. 咨询医师提出的意见应当是指令性的，因为咨询医师的意见是专业意见 C. 咨询医师提出的意见应当是非指令性的，应该以咨询医师的价值为中心 D. 咨询医师提出的意见应当是非指令性的，应该以患者的价值为中心",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "遗传咨询医师面向患者进行遗传咨询，以减少遗传病带给患者及其家庭的痛苦，帮助他们做出符合其最佳利益的决定。从伦理学视角分析，下列描述正确的是 A. 咨询医师提出的意见应当是指令性的，因为咨询医师与患者的价值是一致的 B. 咨询医师提出的意见应当是指令性的，因为咨询医师的意见是专业意见 C. 咨询医师提出的意见应当是非指令性的，应该以咨询医师的价值为中心 D. 咨询医师提出的意见应当是非指令性的，应该以患者的价值为中心",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发生右心衰竭时，引起水肿的主要原因是 A. 血浆胶体渗透压降低 B. 毛细血管血压升高 C. 毛细血管壁通透性增大 D. 组织液静水压降低",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发生右心衰竭时，引起水肿的主要原因是 A. 血浆胶体渗透压降低 B. 毛细血管血压升高 C. 毛细血管壁通透性增大 D. 组织液静水压降低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "骨髓纤维化患者外周血涂片常见的红细胞形态异常是 A. 泪滴形细胞 B. 球形细胞 C. 靶形细胞 D. 口形细胞",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "骨髓纤维化患者外周血涂片常见的红细胞形态异常是 A. 泪滴形细胞 B. 球形细胞 C. 靶形细胞 D. 口形细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于体液的描述，正确的是 A. 分布在各部分的体液量大体相等 B. 各部分体液最活跃的是细胞内液 C. 各部分体液的成分几乎没有差别 D. 各部分体液彼此隔开又相互沟通",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于体液的描述，正确的是 A. 分布在各部分的体液量大体相等 B. 各部分体液最活跃的是细胞内液 C. 各部分体液的成分几乎没有差别 D. 各部分体液彼此隔开又相互沟通",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "淡漠型甲状腺功能亢进症的特点是 A. 不易并发心房颤动 B. 甲状腺弥漫肿大 C. 眼裂增宽，突眼 D. 明显消瘦",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "淡漠型甲状腺功能亢进症的特点是 A. 不易并发心房颤动 B. 甲状腺弥漫肿大 C. 眼裂增宽，突眼 D. 明显消瘦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不符合缺铁性贫血检查结果的是 A. 红细胞游离原卟啉下降 B. 总铁结合力升高 C. 血小板多正常或升高 D. 红细胞大小不等",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不符合缺铁性贫血检查结果的是 A. 红细胞游离原卟啉下降 B. 总铁结合力升高 C. 血小板多正常或升高 D. 红细胞大小不等",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列腹部切口中，切口疝发生率最高的是 A. 经腹直肌切口 B. 沿肋缘斜切口 C. 麦氏切口 D. 旁正中切口",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列腹部切口中，切口疝发生率最高的是 A. 经腹直肌切口 B. 沿肋缘斜切口 C. 麦氏切口 D. 旁正中切口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于机体在应激状态下代谢变化的叙述，错误的是 A. 脂肪动员加速 B. 代谢率增加 C. 葡萄糖的储存加速 D. 蛋白质分解加速",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于机体在应激状态下代谢变化的叙述，错误的是 A. 脂肪动员加速 B. 代谢率增加 C. 葡萄糖的储存加速 D. 蛋白质分解加速",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有机磷农药作为不可逆性抑制剂，因其能结合胆碱酯酶 A. 丝氨酸残基的羟基 B. 组氨酸残基的咪唑基 C. 半胱氨酸残基的巯基 D. 酸性氨基酸残基的羧基",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有机磷农药作为不可逆性抑制剂，因其能结合胆碱酯酶 A. 丝氨酸残基的羟基 B. 组氨酸残基的咪唑基 C. 半胱氨酸残基的巯基 D. 酸性氨基酸残基的羧基",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一般认为职业是人们常规谋生的手段，而专业是对公众所期待的责任有公开承诺的职业团体。下列对医学专业的描述不正确的是 A. 医学专业要求专业共同体自律 B. 医学专业需要通过系统的训练 C. 医学专业的定位高于利益需求 D. 医学专业没有既定的职业目标",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一般认为职业是人们常规谋生的手段，而专业是对公众所期待的责任有公开承诺的职业团体。下列对医学专业的描述不正确的是 A. 医学专业要求专业共同体自律 B. 医学专业需要通过系统的训练 C. 医学专业的定位高于利益需求 D. 医学专业没有既定的职业目标",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为机体合成脂肪酸提供 NADPH 的是 A. 柠檬酸-丙酮酸循环 B. 丙氨酸-葡萄糖循环 C. 三羧酸循环 D. 乳酸循环",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为机体合成脂肪酸提供 NADPH 的是 A. 柠檬酸-丙酮酸循环 B. 丙氨酸-葡萄糖循环 C. 三羧酸循环 D. 乳酸循环",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "进入集合管的小管液呈 A. 等渗 B. 低渗 C. 低渗或等渗 D. 高渗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "进入集合管的小管液呈 A. 等渗 B. 低渗 C. 低渗或等渗 D. 高渗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪项检查结果正常可基本除外肺血栓栓塞症 A. 动脉血气分析 B. 胸部 CT 平扫 C. D-二聚体含量 D. 心电图和超声心动图",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪项检查结果正常可基本除外肺血栓栓塞症 A. 动脉血气分析 B. 胸部 CT 平扫 C. D-二聚体含量 D. 心电图和超声心动图",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于改善病情的抗风湿药物是 A. 氯喹 B. 甲氨蝶呤 C. 柳氮磺吡啶 D. 萘普生",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于改善病情的抗风湿药物是 A. 氯喹 B. 甲氨蝶呤 C. 柳氮磺吡啶 D. 萘普生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脾切除、贲门周围血管离断术治疗肝硬化门静脉高压症食管静脉破裂出血的优点中，不被普遍认可的是 A. 术后肝功能改善 B. 止血效果较满意 C. 术后脑病发生率较低 D. 手术打击相对较小",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脾切除、贲门周围血管离断术治疗肝硬化门静脉高压症食管静脉破裂出血的优点中，不被普遍认可的是 A. 术后肝功能改善 B. 止血效果较满意 C. 术后脑病发生率较低 D. 手术打击相对较小",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某虹膜睫状体炎患者，近日来感头痛、视力模糊。检查后发现：虹膜充血水肿，房水流畅系数下降，眼内压升高。诊断为急性青光眼。请问：房水直接回流的途径是 A. 内眦静脉 B. 眼静脉 C. 面静脉 D. 巩膜静脉窦",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某虹膜睫状体炎患者，近日来感头痛、视力模糊。检查后发现：虹膜充血水肿，房水流畅系数下降，眼内压升高。诊断为急性青光眼。请问：房水直接回流的途径是 A. 内眦静脉 B. 眼静脉 C. 面静脉 D. 巩膜静脉窦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前诊断肾癌最可靠的影像学方法是 A. IVU B. CT C. 肾动脉造影 D. B超",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前诊断肾癌最可靠的影像学方法是 A. IVU B. CT C. 肾动脉造影 D. B超",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "判断急性心肌梗死面积最有价值的指标是 A. 心电图 Q 波 B. 疼痛持续的时间 C. 血清 CK-MB D. 血沉增快的程度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "判断急性心肌梗死面积最有价值的指标是 A. 心电图 Q 波 B. 疼痛持续的时间 C. 血清 CK-MB D. 血沉增快的程度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "临床上测定能量代谢时，为了简便，通常只需测定 A. 非蛋白氧热价 B. 一定时间内的 CO₂产生量 C. 一定时间内的氧耗量 D. 非蛋白呼吸商",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "临床上测定能量代谢时，为了简便，通常只需测定 A. 非蛋白氧热价 B. 一定时间内的 CO₂产生量 C. 一定时间内的氧耗量 D. 非蛋白呼吸商",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "促胃液素延缓胃排空的原因是 A. 增强肠‐胃反射 B. 增强幽门括约肌收缩 C. 抑制迷走‐迷走反射 D. 抑制壁内神经丛反射",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "促胃液素延缓胃排空的原因是 A. 增强肠‐胃反射 B. 增强幽门括约肌收缩 C. 抑制迷走‐迷走反射 D. 抑制壁内神经丛反射",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肠结核溃疡的形态特征取决于 A. 肠黏膜皱襞的形态 B. 肠黏膜血管的走向 C. 肠黏膜淋巴小结的形态 D. 肠黏膜淋巴管的走向",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肠结核溃疡的形态特征取决于 A. 肠黏膜皱襞的形态 B. 肠黏膜血管的走向 C. 肠黏膜淋巴小结的形态 D. 肠黏膜淋巴管的走向",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "补体 C3b 的炎症介质效应主要是 A. 增强细胞吞噬功能 B. 促进白细胞黏附于内皮细胞 C. 引起血管通透性增高 D. 趋化作用",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "补体 C3b 的炎症介质效应主要是 A. 增强细胞吞噬功能 B. 促进白细胞黏附于内皮细胞 C. 引起血管通透性增高 D. 趋化作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "周围血管征阳性多见于 A. 主动脉瓣关闭不全 B. 心力衰竭 C. 心包积液 D. 二尖瓣狭窄",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "周围血管征阳性多见于 A. 主动脉瓣关闭不全 B. 心力衰竭 C. 心包积液 D. 二尖瓣狭窄",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于绞窄性肠梗阻典型临床表现的是 A. 早期出现休克 B. 腹胀 C. 腹膜炎体征 D. 血便",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于绞窄性肠梗阻典型临床表现的是 A. 早期出现休克 B. 腹胀 C. 腹膜炎体征 D. 血便",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "射血分数保留性心力衰竭的治疗原则错误的是 A. 降低前负荷以减轻肺部淤血 B. 合用适量强心苷可提高疗效 C. 降低后负荷以改善心室肥厚 D. 减慢心率以增加左心室充盈",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "射血分数保留性心力衰竭的治疗原则错误的是 A. 降低前负荷以减轻肺部淤血 B. 合用适量强心苷可提高疗效 C. 降低后负荷以改善心室肥厚 D. 减慢心率以增加左心室充盈",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血浆中缺乏 vWF 主要影响血小板的 A. 吸附功能 B. 释放功能 C. 聚集功能 D. 黏附功能",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血浆中缺乏 vWF 主要影响血小板的 A. 吸附功能 B. 释放功能 C. 聚集功能 D. 黏附功能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列呼吸困难类型中，最可能是由左心功能衰竭所致的是 A. 夜间阵发性呼吸困难 B. 劳力性呼吸困难 C. 呼气性呼吸困难 D. 吸气性呼吸困难",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列呼吸困难类型中，最可能是由左心功能衰竭所致的是 A. 夜间阵发性呼吸困难 B. 劳力性呼吸困难 C. 呼气性呼吸困难 D. 吸气性呼吸困难",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与动脉粥样硬化斑块形成无关的细胞是 A. 平滑肌细胞 B. 单核细胞 C. 成纤维细胞 D. 内皮细胞",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与动脉粥样硬化斑块形成无关的细胞是 A. 平滑肌细胞 B. 单核细胞 C. 成纤维细胞 D. 内皮细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "毒性反应最小的局麻药是 A. 布比卡因 B. 普鲁卡因 C. 丁卡因 D. 利多卡因",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "毒性反应最小的局麻药是 A. 布比卡因 B. 普鲁卡因 C. 丁卡因 D. 利多卡因",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "易出现乳头血性溢液的乳房疾病是 A. 乳腺癌 B. 乳管内乳头状瘤 C. 乳腺纤维腺瘤 D. 乳腺囊性增生病",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "易出现乳头血性溢液的乳房疾病是 A. 乳腺癌 B. 乳管内乳头状瘤 C. 乳腺纤维腺瘤 D. 乳腺囊性增生病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者术后一般能存活 15 年以上的肿瘤是 A. 胃癌 B. 胰腺导管腺瘤 C. 甲状腺乳头状瘤 D. 结肠癌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者术后一般能存活 15 年以上的肿瘤是 A. 胃癌 B. 胰腺导管腺瘤 C. 甲状腺乳头状瘤 D. 结肠癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "腕管综合征损伤的神经是 A. 正中神经 B. 桡神经浅支 C. 桡神经深支 D. 尺神经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "腕管综合征损伤的神经是 A. 正中神经 B. 桡神经浅支 C. 桡神经深支 D. 尺神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列符合结核性胸膜炎伴右侧大量胸腔积液的是 A. 右上肺闻及管样呼吸音 B. 心界向右侧移位 C. 腺苷脱氨酶＜45U/L D. 右肺肝界下移",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列符合结核性胸膜炎伴右侧大量胸腔积液的是 A. 右上肺闻及管样呼吸音 B. 心界向右侧移位 C. 腺苷脱氨酶＜45U/L D. 右肺肝界下移",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "女性，34 岁，1 个月来发热，乏力，咳嗽，1 天来左眼突然失明。查体：T37.9 度，脉率 96次/分，血压 128/75mmHg，左眼视力消失，心尖部闻及 3/6 级收缩期杂音，脾肋下可及。化验：Hb 96g/L，WBC 10.1×109/L，尿蛋白(+)。确诊该患者疾病最重要的检查是 A. 肾活检 B. 抗 dsDNA 抗体 C. 血培养 D. 超声心动图",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "女性，34 岁，1 个月来发热，乏力，咳嗽，1 天来左眼突然失明。查体：T37.9 度，脉率 96次/分，血压 128/75mmHg，左眼视力消失，心尖部闻及 3/6 级收缩期杂音，脾肋下可及。化验：Hb 96g/L，WBC 10.1×109/L，尿蛋白(+)。确诊该患者疾病最重要的检查是 A. 肾活检 B. 抗 dsDNA 抗体 C. 血培养 D. 超声心动图",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列选项中，胃所具有的运动形式是 A. 分节运动 B. 蠕动冲 C. 容受性舒张 D. 袋状往返运动",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列选项中，胃所具有的运动形式是 A. 分节运动 B. 蠕动冲 C. 容受性舒张 D. 袋状往返运动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列符合蛋白酶体降解蛋白质特点的是 A. 是原核生物蛋白质降解的主要途径 B. 主要降解外来的蛋白质 C. 不需泛素参与 D. 需要消耗 ATP",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列符合蛋白酶体降解蛋白质特点的是 A. 是原核生物蛋白质降解的主要途径 B. 主要降解外来的蛋白质 C. 不需泛素参与 D. 需要消耗 ATP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "单纯镜下血尿的 IgA 肾病的主要治疗方法是 A. 控制感染 B. 糖皮质激素 C. 对症治疗 D. ACEI/ARB",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "单纯镜下血尿的 IgA 肾病的主要治疗方法是 A. 控制感染 B. 糖皮质激素 C. 对症治疗 D. ACEI/ARB",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列有关甲状腺乳头状癌的描述，错误的是 A. 部分病例肿瘤呈囊状 B. 局部淋巴结转移较早 C. 癌细胞核染色质增多 D. 检测 BRAF 突变可预测预后",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列有关甲状腺乳头状癌的描述，错误的是 A. 部分病例肿瘤呈囊状 B. 局部淋巴结转移较早 C. 癌细胞核染色质增多 D. 检测 BRAF 突变可预测预后",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者术后很少存活 5 年的肿瘤是 A. 胰腺导管腺瘤 B. 甲状腺乳头状瘤 C. 胃癌 D. 结肠癌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者术后很少存活 5 年的肿瘤是 A. 胰腺导管腺瘤 B. 甲状腺乳头状瘤 C. 胃癌 D. 结肠癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "女性患者最易发生的肺癌是 A. 小细胞癌 B. 鳞状细胞癌 C. 大细胞癌 D. 腺癌",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "女性患者最易发生的肺癌是 A. 小细胞癌 B. 鳞状细胞癌 C. 大细胞癌 D. 腺癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与黏膜相关淋巴组织淋巴瘤发生关系密切的细菌是 A. 大肠埃希菌 B. 草绿色链球菌 C. 幽门螺杆菌 D. 金黄色葡萄球菌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与黏膜相关淋巴组织淋巴瘤发生关系密切的细菌是 A. 大肠埃希菌 B. 草绿色链球菌 C. 幽门螺杆菌 D. 金黄色葡萄球菌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "膀胱癌血尿的典型特点 A. 终末血尿伴膀胱刺激征 B. 无痛性全程肉眼血尿 C. 疼痛伴血尿 D. 初始血尿",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "膀胱癌血尿的典型特点 A. 终末血尿伴膀胱刺激征 B. 无痛性全程肉眼血尿 C. 疼痛伴血尿 D. 初始血尿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列抗生素可作为妊娠期急性肾盂肾炎患者首选的是 A. 阿奇霉素 B. 庆大霉素 C. 氨苄西林 D. 氧氟沙星",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列抗生素可作为妊娠期急性肾盂肾炎患者首选的是 A. 阿奇霉素 B. 庆大霉素 C. 氨苄西林 D. 氧氟沙星",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列与眼视近物调节无关的反射活动是 A. 双眼会聚 B. 瞳孔调节反射 C. 瞳孔对光反射 D. 晶状体变凸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列与眼视近物调节无关的反射活动是 A. 双眼会聚 B. 瞳孔调节反射 C. 瞳孔对光反射 D. 晶状体变凸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不符合肾小球源性血尿的是 A. 红细胞管型 B. 尿红细胞对称容积分布曲线 C. 可伴大量蛋白尿 D. 相差显微镜见大量变形红细胞",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不符合肾小球源性血尿的是 A. 红细胞管型 B. 尿红细胞对称容积分布曲线 C. 可伴大量蛋白尿 D. 相差显微镜见大量变形红细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列胸部损伤终须考虑手术探查的是 A. 胸腹联合伤 B. 胸部爆震伤 C. 创伤性窒息 D. 胸骨损伤",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列胸部损伤终须考虑手术探查的是 A. 胸腹联合伤 B. 胸部爆震伤 C. 创伤性窒息 D. 胸骨损伤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "t(14;18)染色体易位主要见于 A. 套细胞淋巴瘤 B. Burkitt 淋巴瘤 C. 弥漫大B细胞淋巴瘤 D. 多发性骨髓瘤",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "t(14;18)染色体易位主要见于 A. 套细胞淋巴瘤 B. Burkitt 淋巴瘤 C. 弥漫大B细胞淋巴瘤 D. 多发性骨髓瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "常发生纤维蛋白样坏死的疾病不包括 A. 1型糖尿病 B. 超急性排斥反应 C. 肺源性心脏病 D. 新月体性肾小球肾炎",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "常发生纤维蛋白样坏死的疾病不包括 A. 1型糖尿病 B. 超急性排斥反应 C. 肺源性心脏病 D. 新月体性肾小球肾炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肝功能不全病人肠外营养时应选用的药物是 A. 谷氨酰胺 B. 精氨酸 C. 核苷酸 D. 支链氨基酸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肝功能不全病人肠外营养时应选用的药物是 A. 谷氨酰胺 B. 精氨酸 C. 核苷酸 D. 支链氨基酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主要用于高血压急症合并脑血管病的药物是 A. 尼卡地平 B. 硝酸甘油 C. 拉贝洛尔 D. 呋塞米",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主要用于高血压急症合并脑血管病的药物是 A. 尼卡地平 B. 硝酸甘油 C. 拉贝洛尔 D. 呋塞米",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前认为 DixoN 手术的远端切缘至肿瘤最短距离应是 A. 5cm B. 2cm C. 3cm D. 4cm",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前认为 DixoN 手术的远端切缘至肿瘤最短距离应是 A. 5cm B. 2cm C. 3cm D. 4cm",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在周围神经系统中，α1 肾上腺素能受体被阻断后，可出现的生理功能改变是 A. 瞳孔扩大 B. 气道阻力增加 C. 血压降低 D. 血糖降低",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在周围神经系统中，α1 肾上腺素能受体被阻断后，可出现的生理功能改变是 A. 瞳孔扩大 B. 气道阻力增加 C. 血压降低 D. 血糖降低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "降低慢性肺源性心脏病肺动脉高压的关键治疗是 A. 强心剂 B. 氧疗 C. 呼吸兴奋剂 D. 支气管扩张剂",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "降低慢性肺源性心脏病肺动脉高压的关键治疗是 A. 强心剂 B. 氧疗 C. 呼吸兴奋剂 D. 支气管扩张剂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "泌尿系胱氨酸结石的特点是 A. 易碎粗糙、不规则，呈灰白色、黄色或棕色 B. 光滑、淡黄至黄棕色、蜡样外观 C. 质硬粗糙、不规则、常呈桑椹样，棕褐色 D. X线不被显示",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "泌尿系胱氨酸结石的特点是 A. 易碎粗糙、不规则，呈灰白色、黄色或棕色 B. 光滑、淡黄至黄棕色、蜡样外观 C. 质硬粗糙、不规则、常呈桑椹样，棕褐色 D. X线不被显示",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病人在行远端回肠切除术后可发生的贫血是 A. 溶血性贫血 B. 再生障碍性贫血 C. 恶性贫血 D. 巨幼细胞贫血",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病人在行远端回肠切除术后可发生的贫血是 A. 溶血性贫血 B. 再生障碍性贫血 C. 恶性贫血 D. 巨幼细胞贫血",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "乳头鲜红色血性溢液多见于 A. 乳管阻塞的导管内乳头状瘤 B. 终止哺乳后 C. 导管内乳头状瘤 D. 正常月经期，早期妊娠或囊性增生病",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "乳头鲜红色血性溢液多见于 A. 乳管阻塞的导管内乳头状瘤 B. 终止哺乳后 C. 导管内乳头状瘤 D. 正常月经期，早期妊娠或囊性增生病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "口服葡萄糖比静脉注射等量葡萄糖引起更多的胰岛素分泌，其原因是 A. 流经胰岛的血流量很少 B. 小肠分泌抑胃肽刺激胰岛素分泌 C. 小肠吸收葡萄糖非常完全 D. 血流经胰岛时葡萄糖浓度已很低",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "口服葡萄糖比静脉注射等量葡萄糖引起更多的胰岛素分泌，其原因是 A. 流经胰岛的血流量很少 B. 小肠分泌抑胃肽刺激胰岛素分泌 C. 小肠吸收葡萄糖非常完全 D. 血流经胰岛时葡萄糖浓度已很低",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在肾远曲小管和集合管上皮细胞中，不属于醛固酮诱导蛋白的物质是 A. 基底侧膜上的钠泵 B. 管腔膜上的水孔蛋白 C. 管腔膜上的钠通道 D. 线粒体内合成 ATP 的酶",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在肾远曲小管和集合管上皮细胞中，不属于醛固酮诱导蛋白的物质是 A. 基底侧膜上的钠泵 B. 管腔膜上的水孔蛋白 C. 管腔膜上的钠通道 D. 线粒体内合成 ATP 的酶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在动物的中脑头端切断网状结构，将引起其 A. 去大脑僵直 B. 昏睡 C. 脊休克 D. 共济失调",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在动物的中脑头端切断网状结构，将引起其 A. 去大脑僵直 B. 昏睡 C. 脊休克 D. 共济失调",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在周围神经系统中，β1 肾上腺素能受体被阻断后，可出现的生理功能改变是 A. 瞳孔扩大 B. 血糖降低 C. 血压降低 D. 气道阻力增加",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在周围神经系统中，β1 肾上腺素能受体被阻断后，可出现的生理功能改变是 A. 瞳孔扩大 B. 血糖降低 C. 血压降低 D. 气道阻力增加",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "溃疡性结肠炎最少见的并发症是 A. 中毒性巨结肠 B. 急性肠穿孔 C. 瘘管 D. 结肠癌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "溃疡性结肠炎最少见的并发症是 A. 中毒性巨结肠 B. 急性肠穿孔 C. 瘘管 D. 结肠癌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "剧烈运动时少尿的主要原因是 A. 抗利尿激素分泌增多 B. 肾小球毛细血管血压增高 C. 醛固酮分泌增多 D. 肾小动脉收缩",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "剧烈运动时少尿的主要原因是 A. 抗利尿激素分泌增多 B. 肾小球毛细血管血压增高 C. 醛固酮分泌增多 D. 肾小动脉收缩",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "患者除自己不会说话外，其他语言认知功能均正常，发声无障碍，其皮层损伤部位是 A. Broca区 B. 顶下小叶角回 C. 颞上回后部 D. Wernick区",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "患者除自己不会说话外，其他语言认知功能均正常，发声无障碍，其皮层损伤部位是 A. Broca区 B. 顶下小叶角回 C. 颞上回后部 D. Wernick区",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伤寒的蜡样变性是指膈肌、腹直肌等发生的 A. 凝固性坏死 B. 干酪样坏死 C. 脂肪坏死 D. 液化性坏死",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伤寒的蜡样变性是指膈肌、腹直肌等发生的 A. 凝固性坏死 B. 干酪样坏死 C. 脂肪坏死 D. 液化性坏死",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "麻疹肺炎时病毒包涵体出现在上皮细胞的 A. 胞质 B. 胞膜 C. 胞核 D. 胞核和胞质",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "麻疹肺炎时病毒包涵体出现在上皮细胞的 A. 胞质 B. 胞膜 C. 胞核 D. 胞核和胞质",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肝硬化与缩窄性心包炎的水肿鉴别点是 A. 有无腹水 B. 有无下肢水肿 C. 有无颈静脉怒张 D. 有无肝肿大",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肝硬化与缩窄性心包炎的水肿鉴别点是 A. 有无腹水 B. 有无下肢水肿 C. 有无颈静脉怒张 D. 有无肝肿大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "静脉推注少量高浓度葡萄糖时出现尿量增多的原因是 A. 血浆胶体渗透压下降 B. 肾小球滤过率升高 C. 肾小管液溶质浓度升高 D. 肾血流量增多",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "静脉推注少量高浓度葡萄糖时出现尿量增多的原因是 A. 血浆胶体渗透压下降 B. 肾小球滤过率升高 C. 肾小管液溶质浓度升高 D. 肾血流量增多",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "动脉血气分析：pH7.35，PaO255mmHg，PaCO275mmHg，血钠 140mmol/L，血钾 2.8 mmol/L，血氯 80mmol/L，应诊断为 A. 呼吸性酸中毒代偿期 B. 呼吸性酸中毒伴代谢性碱中毒 C. 呼吸性酸中毒失代偿期 D. 呼吸性酸中毒伴代谢性酸中毒",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "动脉血气分析：pH7.35，PaO255mmHg，PaCO275mmHg，血钠 140mmol/L，血钾 2.8 mmol/L，血氯 80mmol/L，应诊断为 A. 呼吸性酸中毒代偿期 B. 呼吸性酸中毒伴代谢性碱中毒 C. 呼吸性酸中毒失代偿期 D. 呼吸性酸中毒伴代谢性酸中毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "砂粒样细胞核主要见于的病毒性肝炎是 A. 丙型肝炎 B. 戊型肝炎 C. 乙型肝炎 D. 甲型肝炎",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "砂粒样细胞核主要见于的病毒性肝炎是 A. 丙型肝炎 B. 戊型肝炎 C. 乙型肝炎 D. 甲型肝炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "骨盆骨折早期最危险的并发症是 A. 直肠损伤 B. 出血性休克 C. 膀胱、尿道破裂 D. 坐骨神经损伤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "骨盆骨折早期最危险的并发症是 A. 直肠损伤 B. 出血性休克 C. 膀胱、尿道破裂 D. 坐骨神经损伤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "结肠癌患者血清 CEA 检测的临床意义，下列描述错误的是 A. 术后 CEA 持续升高提示肿瘤复发 B. CEA 的阳性率与结肠癌的分期有关 C. 术后 CEA 未明显下降说明可能有肿瘤的残留 D. 术前 CEA 指标正常是缩小切除范围的依据",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "结肠癌患者血清 CEA 检测的临床意义，下列描述错误的是 A. 术后 CEA 持续升高提示肿瘤复发 B. CEA 的阳性率与结肠癌的分期有关 C. 术后 CEA 未明显下降说明可能有肿瘤的残留 D. 术前 CEA 指标正常是缩小切除范围的依据",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一颅底外伤的病人，脑脊液和血液从鼻腔流出，试问是伤及以下哪个结构： A. 筛骨筛板 B. 腭骨 C. 蝶骨体 D. 鼻骨",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一颅底外伤的病人，脑脊液和血液从鼻腔流出，试问是伤及以下哪个结构： A. 筛骨筛板 B. 腭骨 C. 蝶骨体 D. 鼻骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在有机磷杀虫药中毒的解毒药中，主要用于对抗外周 M 胆碱受体活性的是 A. 氯解磷定 B. 碘解磷定 C. 山莨菪碱 D. 东莨菪碱",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在有机磷杀虫药中毒的解毒药中，主要用于对抗外周 M 胆碱受体活性的是 A. 氯解磷定 B. 碘解磷定 C. 山莨菪碱 D. 东莨菪碱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "使用左旋多巴治疗帕金森病时，不能缓解的症状是 A. 肌张力增高 B. 静止性震颤 C. 动作缓慢 D. 随意运动减少",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "使用左旋多巴治疗帕金森病时，不能缓解的症状是 A. 肌张力增高 B. 静止性震颤 C. 动作缓慢 D. 随意运动减少",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于神经-肌接头终板膜上离子通道的描述，错误的是 A. 在终板膜去极化时打开 B. 通道和受体是一个大分子 C. 通道开放时产生局部电位 D. 允许 Na+、K+、Ca2+跨膜移动",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于神经-肌接头终板膜上离子通道的描述，错误的是 A. 在终板膜去极化时打开 B. 通道和受体是一个大分子 C. 通道开放时产生局部电位 D. 允许 Na+、K+、Ca2+跨膜移动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脑梗死的特点是 A. 出血性梗死，液化性坏死 B. 出血性梗死，凝固性坏死 C. 贫血性梗死，液化性坏死 D. 贫血性梗死，凝固性坏死",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脑梗死的特点是 A. 出血性梗死，液化性坏死 B. 出血性梗死，凝固性坏死 C. 贫血性梗死，液化性坏死 D. 贫血性梗死，凝固性坏死",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "交感神经系统兴奋时，引起的生理效应是 A. 胃肠运动增强 B. 瞳孔开大肌收缩 C. 支气管平滑肌收缩 D. 促进胰岛素的分泌",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "交感神经系统兴奋时，引起的生理效应是 A. 胃肠运动增强 B. 瞳孔开大肌收缩 C. 支气管平滑肌收缩 D. 促进胰岛素的分泌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "低血钾的患者给予补钾治疗后仍然低血钾，此时应该考虑合并 A. 低磷血症 B. 低镁血症 C. 低钠血症 D. 低钙血症",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "低血钾的患者给予补钾治疗后仍然低血钾，此时应该考虑合并 A. 低磷血症 B. 低镁血症 C. 低钠血症 D. 低钙血症",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列高血压患者术前处理中，正确的是 A. 入手术室血压骤升，应果断停手术 B. 血压降至正常后再手术 C. 术前两周停用降压药 D. 血压 160/100mmHg 以下不予处理",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列高血压患者术前处理中，正确的是 A. 入手术室血压骤升，应果断停手术 B. 血压降至正常后再手术 C. 术前两周停用降压药 D. 血压 160/100mmHg 以下不予处理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列符合早期食管癌描述的是 A. 癌细胞不能侵犯黏膜肌层 B. 黏膜下癌伴淋巴结转移 C. 好发部位是胸上段 D. 肿瘤最大径＜2cm",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列符合早期食管癌描述的是 A. 癌细胞不能侵犯黏膜肌层 B. 黏膜下癌伴淋巴结转移 C. 好发部位是胸上段 D. 肿瘤最大径＜2cm",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "副交感神经兴奋引起的唾液特点为 A. 少量、稀薄 B. 大量、黏稠 C. 大量、稀薄 D. 少量、黏稠",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "副交感神经兴奋引起的唾液特点为 A. 少量、稀薄 B. 大量、黏稠 C. 大量、稀薄 D. 少量、黏稠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心脏的每搏输出量随着静脉回心血量增加而增加，属于 A. 前馈调节 B. 神经调节 C. 体液调节 D. 自身调节",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心脏的每搏输出量随着静脉回心血量增加而增加，属于 A. 前馈调节 B. 神经调节 C. 体液调节 D. 自身调节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于高度侵袭性淋巴瘤的是 A. 套细胞淋巴瘤 B. Burkitt 淋巴瘤 C. 原发性皮肤间变大细胞淋巴瘤 D. 弥漫大B细胞淋巴瘤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于高度侵袭性淋巴瘤的是 A. 套细胞淋巴瘤 B. Burkitt 淋巴瘤 C. 原发性皮肤间变大细胞淋巴瘤 D. 弥漫大B细胞淋巴瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "出现在急性炎症后期的细胞主要是 A. 浆细胞 B. 巨噬细胞 C. 淋巴细胞 D. 中性粒细胞",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "出现在急性炎症后期的细胞主要是 A. 浆细胞 B. 巨噬细胞 C. 淋巴细胞 D. 中性粒细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "临床上在体内和体外均可用于抗凝血的物质是 A. 前列环素 B. 草酸钾 C. 华法林 D. 肝素",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "临床上在体内和体外均可用于抗凝血的物质是 A. 前列环素 B. 草酸钾 C. 华法林 D. 肝素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于结缔组织病的是 A. 原发性干燥综合征 B. 成人 Still 病 C. 类风湿关节炎 D. Reiter 综合征",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于结缔组织病的是 A. 原发性干燥综合征 B. 成人 Still 病 C. 类风湿关节炎 D. Reiter 综合征",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "支气管不受累，胸膜多受累的肺炎类型是 A. 支原体肺炎 B. 大叶性肺炎 C. 小叶性肺炎 D. 病毒性肺炎",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "支气管不受累，胸膜多受累的肺炎类型是 A. 支原体肺炎 B. 大叶性肺炎 C. 小叶性肺炎 D. 病毒性肺炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "原发性微小病变性肾病的主要特点是 A. 肾小球基底膜明显增厚，呈钉状突起 B. 上呼吸道感染后 1-3 天出现血尿 C. 双下肢对称出血点伴大量蛋白尿和低蛋白血症 D. 反复发作的大量蛋白尿，不伴血尿",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "原发性微小病变性肾病的主要特点是 A. 肾小球基底膜明显增厚，呈钉状突起 B. 上呼吸道感染后 1-3 天出现血尿 C. 双下肢对称出血点伴大量蛋白尿和低蛋白血症 D. 反复发作的大量蛋白尿，不伴血尿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]
