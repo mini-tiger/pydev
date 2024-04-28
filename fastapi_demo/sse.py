@@ -80,5 +80,42 @@ async def events1(request: Request):
     response = StreamingResponse(event_stream1(), media_type="text/event-stream")
     return response
 
+
+import time
+async def get_data_from_source5():
+    i = 0
+    while i < 5:
+        await asyncio.sleep(2)  # 使用异步方式模拟延迟
+        i += 1
+        yield f"Data from source {i}"
+
+async def get_data_from_source6():
+    while True:
+        await asyncio.sleep(1)  # 使用异步方式模拟延迟
+        yield "Data from source 6"
+
+async def event_stream_processor2():
+    task5 = asyncio.ensure_future(get_data_from_source5().__anext__())
+    task6 = asyncio.ensure_future(get_data_from_source6().__anext__())
+    while True:
+        done, pending = await asyncio.wait([task5, task6], return_when=asyncio.FIRST_COMPLETED)
+        for task in done:
+            try:
+                data = task.result()
+                yield f"data: {data}\n\n"
+                if task == task5:
+                    task5 = asyncio.ensure_future(get_data_from_source5().__anext__())
+                elif task == task6:
+                    task6 = asyncio.ensure_future(get_data_from_source6().__anext__())
+            except StopAsyncIteration:
+                pass
+
+def event_stream2():
+    return event_stream_processor2()
+@app.get("/events2", response_class=StreamingResponse)
+async def events2(request: Request):
+    response = StreamingResponse(event_stream2(), media_type="text/event-stream")
+    return response
+
 if __name__ == "__main__":
     uvicorn.run(app='sse:app', host="0.0.0.0", port=8012, reload=True)
