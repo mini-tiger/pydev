@@ -17,10 +17,10 @@ class ReadSpeedTest:
     def __init__(self, csv_file_path):
         self.csv_file_path = csv_file_path
 
-    def generate_csv_data(self, max_num=100000):
+    def generate_csv_data(self, max_num=500000):
         users = generate_users(max_num)
         write_to_csv(users, self.csv_file_path)
-        print(f"CSV 文件已经生成，包含中文数据len{max_num}，并使用 UTF-8 编码。")
+        print(f"CSV 文件已经生成，包含中文数据len:{max_num} row，并使用 UTF-8 编码。")
 def measure_performance(library, file_path):
     process = psutil.Process()
     initial_memory = process.memory_info().rss
