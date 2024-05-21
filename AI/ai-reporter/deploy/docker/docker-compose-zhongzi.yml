@@ -1,0 +1,65 @@
+version: "3.8"
+services:
+  ai-flask-backend-zz:
+    image: ai/test:zhongzi
+    container_name: "ai-flask-backend-zz"
+    restart: always
+    privileged: true
+    environment:
+#      - LANG=zh_CN.UTF-8
+#      - LC_ALL=zh_CN.UTF-8
+      - TZ=Asia/Shanghai
+      - DOWNLOAD_URL=http://120.133.63.166:5016/attachment/download/ # zhongzi 内网 172.21.10.144
+      - LANGCHAIN_RAG=0
+      - GPUOS_PLATFORM=1
+      - VECTOR_OPEN=1
+      - FLASK_PORT=5016
+      - GPUOS_PLATFORM_URL=http://120.133.83.136:11017/api/v1/chat/completions # zhongzi 内网 172.21.10.143
+      - OPENAI_API_BASE=http://120.133.75.252:28006/v1 # zhongzi 内网 172.21.10.143
+      - WORD_HOST_WIN=59.151.19.81:5000 # zhongzi 内网 172.21.10.145
+      - RUN_TYPE=prod
+      - OUTLINE_MODEL_TYPE=model_3
+      - SCORE=0.65
+      - VIEW_URL=http://120.133.63.166:8012/onlinePreview?url=@replace@&officePreviewType=pdf # zhongzi 内网   172.21.10.144
+    volumes:
+      - /usr/share/zoneinfo/Asia/Shanghai:/etc/localtime
+      - ../../logs:/data/ai-reporter/logs
+      - ../../webapi/app/attachments:/data/ai-reporter/webapi/app/attachments
+        #ports:
+        # - "9000:9000"                        #默认管理端口
+    network_mode: host
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:5016/api/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+  ai-frontend-web-zz:
+    image:  ai-reporter:v0.8.3.2-zhongzi-web
+    container_name: "ai-frontend-web-zz"
+    restart: always
+    privileged: true
+    environment:
+#      - LANG=zh_CN.UTF-8
+#      - LC_ALL=zh_CN.UTF-8
+      - TZ=Asia/Shanghai
+    volumes:
+      - /usr/share/zoneinfo/Asia/Shanghai:/etc/localtime
+      - ./nginx-zz-web.conf:/etc/nginx/nginx.conf
+        #ports:
+        # - "9000:9000"                        #默认管理端口
+    network_mode: host
+  ai-frontend-mobile-zz:
+    image:  ai-reporter:v0.8.3.2-zhongzi-mobile
+    container_name: "ai-frontend-mobile-zz"
+    restart: always
+    privileged: true
+    environment:
+#      - LANG=zh_CN.UTF-8
+#      - LC_ALL=zh_CN.UTF-8
+      - TZ=Asia/Shanghai
+    volumes:
+      - /usr/share/zoneinfo/Asia/Shanghai:/etc/localtime
+      - ./nginx-zz-mobile.conf:/etc/nginx/nginx.conf
+        #ports:
+        # - "9000:9000"                        #默认管理端口
+    network_mode: host

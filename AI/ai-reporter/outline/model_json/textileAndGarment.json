@@ -1,0 +1,441 @@
+{
+    "title": "{title}",
+    "Sections": [
+        {
+            "index": 1,
+            "Section": "第一章 {keyword}行业界定和分类",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 行业定义、基本概念"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 行业基本特点"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 行业分类"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "Section": "第二章 {keyword}行业国内外发展概述",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {area}{keyword}行业发展概况"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {area}{keyword}行业发展概况"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "Section": "第三章 {area}{keyword}行业发展环境分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 宏观经济环境"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 国际贸易环境"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 宏观政策环境"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}行业政策环境"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 {keyword}行业技术环境"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "Section": "第四章 {keyword}行业市场分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 市场规模"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 市场结构"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 市场特点"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "Section": "第五章 区域市场分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 区域市场分布状况"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 重点区域市场需求分析（需求规模、需求特征等）"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 区域市场需求变化趋势"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "Section": "第六章 {keyword}行业供给分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 总体供给规模分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 区域供给规模分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 行业供需平衡分析"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "Section": "第七章 细分行业分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 主要{keyword}细分行业"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 各细分行业需求与供给分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 细分行业发展趋势"
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "Section": "第八章 {keyword}行业竞争分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 重点{keyword}企业市场份额"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业市场集中度"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 行业竞争群组"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 潜在进入者"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 替代品威胁"
+                },
+                {
+                    "index": 6,
+                    "Section": "第六节 供应商议价能力"
+                },
+                {
+                    "index": 7,
+                    "Section": "第七节 下游用户议价能力"
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "Section": "第九章 {keyword}行业价格分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}价格特征"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 国内{keyword}当前市场价格评述"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 影响国内市场{keyword}价格的因素"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 主流厂商{keyword}价位及价格策略"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 {keyword}未来价格变化趋势"
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "Section": "第十章 下游用户分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 用户结构（用户分类及占比）"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 用户需求特征及需求趋势"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 用户的其它特性"
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "Section": "第十一章 替代品分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 替代品种类"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 替代品对{keyword}行业的影响"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 替代品发展趋势"
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "Section": "第十二章 {keyword}行业主导驱动因素分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 国家政策导向"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 关联行业发展"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 行业技术发展"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 行业竞争状况"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 社会需求的变化"
+                }
+            ]
+        },
+        {
+            "index": 13,
+            "Section": "第十三章 {keyword}行业渠道分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业主流渠道形式"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 各类渠道要素对比"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 行业销售渠道变化趋势"
+                }
+            ]
+        },
+        {
+            "index": 14,
+            "Section": "第十四章 行业盈利能力分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业销售毛利率"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业销售利润率"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业总资产利润率"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}行业净资产利润率"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 {keyword}行业产值利税率"
+                },
+                {
+                    "index": 6,
+                    "Section": "第六节 {keyword}行业盈利能力预测"
+                }
+            ]
+        },
+        {
+            "index": 15,
+            "Section": "第十五章 行业成长性分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业销售收入增长分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业总资产增长分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业固定资产增长分析"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}行业净资产增长分析"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 {keyword}行业利润增长分析"
+                },
+                {
+                    "index": 6,
+                    "Section": "第六节 {keyword}行业增长预测"
+                }
+            ]
+        },
+        {
+            "index": 16,
+            "Section": "第十六章 行业偿债能力分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业资产负债率分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业速动比率分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业流动比率分析"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}行业利息保障倍数分析"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 {keyword}行业偿债能力预测"
+                }
+            ]
+        },
+        {
+            "index": 17,
+            "Section": "第十七章 行业营运能力分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业总资产周转率分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业净资产周转率分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业应收账款周转率分析"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}行业存货周转率分析"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 {keyword}行业营运能力预测"
+                }
+            ]
+        },
+        {
+            "index": 18,
+            "Section": "第十八章 {keyword}行业进出口现状与趋势",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 出口分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 进口分析"
+                }
+            ]
+        },
+        {
+            "index": 19,
+            "Section": "第十九章 {keyword}行业风险分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业环境风险"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 产业链上下游及各关联产业风险"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业政策风险"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {keyword}行业市场风险"
+                }
+            ]
+        },
+        {
+            "index": 20,
+            "Section": "第二十章 {keyword}行业发展前景及投资机会",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业发展前景预测"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}企业营销策略"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}企业投资机会"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+version: "3.8"
+services:
+  ai-flask-backend-5001:
+    image: ai/test:9001
+    container_name: "ai-flask-backend-5001"
+    restart: always
+    privileged: true
+    environment:
+#      - LANG=zh_CN.UTF-8
+#      - LC_ALL=zh_CN.UTF-8
+      - TZ=Asia/Shanghai
+      - DOWNLOAD_URL=http://120.133.63.166:5001/attachment/download/
+      - LANGCHAIN_RAG=0
+      - GPUOS_PLATFORM=0
+      - VECTOR_OPEN=0
+      - FLASK_PORT=5001
+      - GPUOS_PLATFORM_URL=http://120.133.83.136:11017/api/v1/chat/completions
+      - OPENAI_API_BASE=http://127.0.0.1:8001/v1,http://127.0.0.1:8002/v1,http://127.0.0.1:8000/v1,http://127.0.0.1:8003/v1
+      - WORD_HOST_WIN=59.151.19.81:5000
+      - RUN_TYPE=portal
+      - OUTLINE_MODEL_TYPE=model_2
+      - VIEW_URL=http://120.133.63.166:8012/onlinePreview?url=@replace@&officePreviewType=pdf
+
+    volumes:
+      - /usr/share/zoneinfo/Asia/Shanghai:/etc/localtime
+      - ../../logs:/data/ai-reporter/logs #相对于Docker-compose.yml文件的位置
+      - ../../webapi/app/attachments:/data/ai-reporter/webapi/app/attachments
+      - ./9001.json:/data/ai-reporter/config.json
+        #ports:
+        # - "9000:9000"                        #默认管理端口
+    network_mode: host
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:5001/api/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3

@@ -4,13 +4,14 @@ from paddleocr import PaddleOCR, draw_ocr
 # 例如`ch`, `en`, `fr`, `german`, `korean`, `japan`
 # pdf
 ocr = PaddleOCR(use_angle_cls=True, lang="ch", use_gpu=False, show_log=False,
-                page_num=10)  # need to run only once to download and load model into memory
-img_path = '/mnt/m6.pdf'
+                page_num=3)  # need to run only once to download and load model into memory
+img_path = '/mnt/customs-tariffs.pdf'
 result = ocr.ocr(img_path, cls=True)
-for idx in list(range(len(result)))[2:]:
+for idx in range(len(result)):
     res = result[idx]
     for line in res:
-        print(line[1])
+        print(line[-1])
+
 
 
 

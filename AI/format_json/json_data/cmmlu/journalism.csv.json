@@ -1,0 +1,1722 @@
+[
+  {
+    "question_std": "拉斯韦尔传播模式有五个环节，传播学对其中第一个环节的研究称 A. 媒介研究 B. 内容研究 C. 控制研究 D. 受众研究",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "拉斯韦尔传播模式有五个环节，传播学对其中第一个环节的研究称 A. 媒介研究 B. 内容研究 C. 控制研究 D. 受众研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "刊登广告所施的传播影响是 A. 自由选择的 B. 任意性的 C. 强制性的 D. 有意图的",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "刊登广告所施的传播影响是 A. 自由选择的 B. 任意性的 C. 强制性的 D. 有意图的",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "信息的巨量生产和高速传播超越了媒介空间的容纳而产生剧烈传播反应的是 A. 信息污染 B. 信息匮乏 C. 信息爆炸 D. 信息侵略",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "信息的巨量生产和高速传播超越了媒介空间的容纳而产生剧烈传播反应的是 A. 信息污染 B. 信息匮乏 C. 信息爆炸 D. 信息侵略",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻传播过程的主要环节是 A. 选择事实—评价事实—播报传递—受众接受—信息反馈 B. 选择事实—加工制作—播报传递—受众接受—信息反馈 C. 选择事实—加工制作—分析评论—受众接受—信息复制 D. 选择事实—加工制作—分析评论—受众接受—信息反馈",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻传播过程的主要环节是 A. 选择事实—评价事实—播报传递—受众接受—信息反馈 B. 选择事实—加工制作—播报传递—受众接受—信息反馈 C. 选择事实—加工制作—分析评论—受众接受—信息复制 D. 选择事实—加工制作—分析评论—受众接受—信息反馈",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "20世纪20年代，美国和日本学者最看重新闻价值构成因素中的哪一因素，认为它是新闻的第一因素，是新闻的试金石。 A. 趣味性 B. 重要性 C. 显著性 D. 接近性",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "20世纪20年代，美国和日本学者最看重新闻价值构成因素中的哪一因素，认为它是新闻的第一因素，是新闻的试金石。 A. 趣味性 B. 重要性 C. 显著性 D. 接近性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻控制的目标是 A. 新闻传播与新闻接受的统一 B. 新闻管理与新闻自由的统一 C. 新闻自由与行为规范的统一 D. 新闻责任与新闻自由的统一",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻控制的目标是 A. 新闻传播与新闻接受的统一 B. 新闻管理与新闻自由的统一 C. 新闻自由与行为规范的统一 D. 新闻责任与新闻自由的统一",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有人宣泄被压抑了的欲望，这在信息的分类上被称为何种信息? A. 复原性信息 B. 知识性信息 C. 维持性信息 D. 教育性信息",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有人宣泄被压抑了的欲望，这在信息的分类上被称为何种信息? A. 复原性信息 B. 知识性信息 C. 维持性信息 D. 教育性信息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "法西斯的新闻事业属于什么阶段 A. 自由主义 B. 社会主义 C. 集权主义 D. 集团垄断资本主义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "法西斯的新闻事业属于什么阶段 A. 自由主义 B. 社会主义 C. 集权主义 D. 集团垄断资本主义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照选择性因素理论的观点，大众传播的信息传向受众时遇到的最后一关是受众的 A. 选择性理解 B. 选择性注意 C. 选择性暴露 D. 选择性记忆",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照选择性因素理论的观点，大众传播的信息传向受众时遇到的最后一关是受众的 A. 选择性理解 B. 选择性注意 C. 选择性暴露 D. 选择性记忆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "音响在新闻节目中最基本和最重要的作用是 A. 增加报道的可信性 B. 增加报道的现场感 C. 增加报道的生动性 D. 增加报道的感染力",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "音响在新闻节目中最基本和最重要的作用是 A. 增加报道的可信性 B. 增加报道的现场感 C. 增加报道的生动性 D. 增加报道的感染力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "直接导致“魔弹”被否定的理论是 A. 新的强效力论 B. 信源的可信效果论 C. 适度效果论 D. 有限效果论",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "直接导致“魔弹”被否定的理论是 A. 新的强效力论 B. 信源的可信效果论 C. 适度效果论 D. 有限效果论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "事件消息按内容性质可分为 A. 概貌性 B. 典型性 C. 阶段性 D. 突发性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "事件消息按内容性质可分为 A. 概貌性 B. 典型性 C. 阶段性 D. 突发性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果我们需要一种具备高度的综合性、充分的交互性、方便性和快捷性的媒介，应该选择 A. 网络媒介 B. 影视媒介 C. 广播媒介 D. 印刷媒介",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果我们需要一种具备高度的综合性、充分的交互性、方便性和快捷性的媒介，应该选择 A. 网络媒介 B. 影视媒介 C. 广播媒介 D. 印刷媒介",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻媒介开展舆论监督，最常用的形式是 A. 深度报道 B. 新闻批评 C. 新闻评论 D. 专题报道",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻媒介开展舆论监督，最常用的形式是 A. 深度报道 B. 新闻批评 C. 新闻评论 D. 专题报道",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在新闻传播过程中，角色互换的根本目的是 A. 使传播者更有效地为受者服务 B. 使受者体验传播者的角色 C. 使受者感知传播者的期望 D. 使受者接受传播者的观点、意图",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在新闻传播过程中，角色互换的根本目的是 A. 使传播者更有效地为受者服务 B. 使受者体验传播者的角色 C. 使受者感知传播者的期望 D. 使受者接受传播者的观点、意图",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "麦克卢汉媒介理论的中心论点是 A. 全球村 B. 媒介即讯息 C. 媒介是人体的延伸 D. 媒介有“冷”“热”之分",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "麦克卢汉媒介理论的中心论点是 A. 全球村 B. 媒介即讯息 C. 媒介是人体的延伸 D. 媒介有“冷”“热”之分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻传媒作为社会舆论的代表者，它体现的应当是 A. 政党的利益和意志 B. 立法机关和司法机关的利益和意志 C. 社会公众的利益和意志 D. 权力机关的利益和意志",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻传媒作为社会舆论的代表者，它体现的应当是 A. 政党的利益和意志 B. 立法机关和司法机关的利益和意志 C. 社会公众的利益和意志 D. 权力机关的利益和意志",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻信息的传播特性是 A. 及时又公开 B. 公开又公正 C. 及时又迅速 D. 公正又及时",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻信息的传播特性是 A. 及时又公开 B. 公开又公正 C. 及时又迅速 D. 公正又及时",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "资本家直接决定新闻传播的方向和规模，主要凭借 A. 言论出版自由权 B. 新闻资产的拥有权和支配权 C. 伦理道德 D. 法律法规",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "资本家直接决定新闻传播的方向和规模，主要凭借 A. 言论出版自由权 B. 新闻资产的拥有权和支配权 C. 伦理道德 D. 法律法规",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在我国新闻界，新闻价值这一概念最早是从美国和日本引入的。是谁引入的 A. 徐宝璜 B. 邹韬奋 C. 邵飘萍 D. 戈公振",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在我国新闻界，新闻价值这一概念最早是从美国和日本引入的。是谁引入的 A. 徐宝璜 B. 邹韬奋 C. 邵飘萍 D. 戈公振",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻事业的传播方式是 A. 面—点传播 B. 面—面传播 C. 点—点传播 D. 点—面传播",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻事业的传播方式是 A. 面—点传播 B. 面—面传播 C. 点—点传播 D. 点—面传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大众传播的传播者和受传者可以是 A. 多个人 B. 两个人面对面 C. 一个人 D. 一群人或一个人",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大众传播的传播者和受传者可以是 A. 多个人 B. 两个人面对面 C. 一个人 D. 一群人或一个人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "编制问卷首先需要设计提问项目，这种设计包括若干步骤，其中第一个步骤是 A. 寻找变项，编制提问 B. 课题分析，提出假设 C. 确定指标 D. 测定指标",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "编制问卷首先需要设计提问项目，这种设计包括若干步骤，其中第一个步骤是 A. 寻找变项，编制提问 B. 课题分析，提出假设 C. 确定指标 D. 测定指标",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“自我修正”理论是以下哪个理论的一个重要观点。 A. 自由主义报刊理论 B. 极权主义报刊理论 C. 社会责任理论 D. 苏联共产主义报刊理论",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“自我修正”理论是以下哪个理论的一个重要观点。 A. 自由主义报刊理论 B. 极权主义报刊理论 C. 社会责任理论 D. 苏联共产主义报刊理论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有论者认为新闻起源于人类与生俱来的好奇心，这种起源观属于 A. 本能说 B. 信息交往说 C. 意志说 D. 社会需求说",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有论者认为新闻起源于人类与生俱来的好奇心，这种起源观属于 A. 本能说 B. 信息交往说 C. 意志说 D. 社会需求说",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻立法是指 A. 运用法律手段管理和控制新闻事业的程序原则和机制 B. 统治阶级制定、颁布和修订新闻法律的程序和过程 C. 国家制定和颁布的有关新闻传播的法律条文 D. 运用新闻媒体对国家立法的宣传",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻立法是指 A. 运用法律手段管理和控制新闻事业的程序原则和机制 B. 统治阶级制定、颁布和修订新闻法律的程序和过程 C. 国家制定和颁布的有关新闻传播的法律条文 D. 运用新闻媒体对国家立法的宣传",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一种不是我们必须遵循的传播原则 A. 可行性原则 B. 可信性原则 C. 适量性原则 D. 适时性原则",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一种不是我们必须遵循的传播原则 A. 可行性原则 B. 可信性原则 C. 适量性原则 D. 适时性原则",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻价值这一概念以及新闻价值理论的真正形成，是在19世纪30年代的 A. 中国 B. 美国 C. 德国 D. 日本",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻价值这一概念以及新闻价值理论的真正形成，是在19世纪30年代的 A. 中国 B. 美国 C. 德国 D. 日本",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据便士报时期的现实，资产阶级提出了“新闻价值”这一概念，其本意是对追求新闻的（）的一种概括。 A. 舆论效应 B. 娱乐功能 C. 商业效益 D. 社会效益",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据便士报时期的现实，资产阶级提出了“新闻价值”这一概念，其本意是对追求新闻的（）的一种概括。 A. 舆论效应 B. 娱乐功能 C. 商业效益 D. 社会效益",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在新闻传播三要素中，除了事实和新闻接受者之外，另一个是 A. 新闻报道者 B. 媒体 C. 经营管理者 D. 把关人",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在新闻传播三要素中，除了事实和新闻接受者之外，另一个是 A. 新闻报道者 B. 媒体 C. 经营管理者 D. 把关人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于人类传播的演进规律不正确的是 A. 传播媒介的发展呈现加速度趋势 B. 传播媒介的发展是叠加式的，新老媒介互相竞争又互相促进 C. 传播媒介的发展是替代式的，新媒介使一切传统媒介必然消亡 D. 传播媒介的发展贯穿人类历史的始终",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于人类传播的演进规律不正确的是 A. 传播媒介的发展呈现加速度趋势 B. 传播媒介的发展是叠加式的，新老媒介互相竞争又互相促进 C. 传播媒介的发展是替代式的，新媒介使一切传统媒介必然消亡 D. 传播媒介的发展贯穿人类历史的始终",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "直接导致“魔弹”被否定的理论是 A. 有限效果论 B. 新的强效力论 C. 信源的可信效果论 D. 适度效果论",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "直接导致“魔弹”被否定的理论是 A. 有限效果论 B. 新的强效力论 C. 信源的可信效果论 D. 适度效果论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "播音员和主持人在面临偶发困境或需要转换对象时，能转承自然，且语言丰富多彩，这属于创造性思维中的 A. 流畅性 B. 独创性 C. 自然性 D. 灵活性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "播音员和主持人在面临偶发困境或需要转换对象时，能转承自然，且语言丰富多彩，这属于创造性思维中的 A. 流畅性 B. 独创性 C. 自然性 D. 灵活性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当今世界，信息侵略 A. 让黑客受益 B. 还未来临 C. 已成事实 D. 会导致战争爆发",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当今世界，信息侵略 A. 让黑客受益 B. 还未来临 C. 已成事实 D. 会导致战争爆发",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻观指的是 A. 对新闻的一般看 B. 对新闻的总的看法 C. 对新闻的具体看法 D. 对新闻的正确看法",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻观指的是 A. 对新闻的一般看 B. 对新闻的总的看法 C. 对新闻的具体看法 D. 对新闻的正确看法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "20世纪50－60年代，西方新闻学和传播学研究中，对新闻价值的研究颇为突出的是盖尔顿和鲁奇的 A. “选择性传播模式” B. “辐射性传播模式” C. “选择性守门模式” D. “非群体化传播模式”",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "20世纪50－60年代，西方新闻学和传播学研究中，对新闻价值的研究颇为突出的是盖尔顿和鲁奇的 A. “选择性传播模式” B. “辐射性传播模式” C. “选择性守门模式” D. “非群体化传播模式”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国第一个报业集团是 A. 广州日报报业集团 B. 人民日报报业集团 C. 四川日报报业集团 D. 光明日报报业集团",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国第一个报业集团是 A. 广州日报报业集团 B. 人民日报报业集团 C. 四川日报报业集团 D. 光明日报报业集团",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻反映社会生活的手段是 A. 虚幻冥想 B. 逻辑推理 C. 艺术再现 D. 忠实记录",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻反映社会生活的手段是 A. 虚幻冥想 B. 逻辑推理 C. 艺术再现 D. 忠实记录",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“合理想象”的做法在新闻报道中 A. 不允许 B. 无所谓 C. 视情况而定 D. 允许",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“合理想象”的做法在新闻报道中 A. 不允许 B. 无所谓 C. 视情况而定 D. 允许",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "语言的抽象程度有高低之分，抽象的程度越高，它与具体实际的依存关系就越？ A. 有关联 B. 直接 C. 无关联 D. 间接",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "语言的抽象程度有高低之分，抽象的程度越高，它与具体实际的依存关系就越？ A. 有关联 B. 直接 C. 无关联 D. 间接",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个是拉斯韦尔的三功能中的宣传作用 A. 分析传播内容 B. 监视社会环境 C. 协调社会关系 D. 传衍社会遗产",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个是拉斯韦尔的三功能中的宣传作用 A. 分析传播内容 B. 监视社会环境 C. 协调社会关系 D. 传衍社会遗产",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "决定自我传播活跃程度的是人脑信息库的 A. 网络信息量 B. 社会信息量 C. 内储信息量 D. 外存信息量",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "决定自我传播活跃程度的是人脑信息库的 A. 网络信息量 B. 社会信息量 C. 内储信息量 D. 外存信息量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "导致群众对典型宣传产生不真实感的主要原因是 A. 报道数量过大 B. 有意拔高典型 C. 报道篇幅长 D. 报道时间集中",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "导致群众对典型宣传产生不真实感的主要原因是 A. 报道数量过大 B. 有意拔高典型 C. 报道篇幅长 D. 报道时间集中",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一种不属于传播者的责任 A. 国际性责任 B. 使命性责任 C. 契约性责任 D. 法规性责任",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一种不属于传播者的责任 A. 国际性责任 B. 使命性责任 C. 契约性责任 D. 法规性责任",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在无产阶级新闻史上，第一个明确使用报刊工作“党性”概念，并对其内容作出系统论述的是 A. 毛泽东 B. 马克思 C. 恩格斯 D. 列宁",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在无产阶级新闻史上，第一个明确使用报刊工作“党性”概念，并对其内容作出系统论述的是 A. 毛泽东 B. 马克思 C. 恩格斯 D. 列宁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "要保持社会主义新闻事业永远属于人民的根本属性，就必须坚持 A. 对党负责和对人民负责相一致的原则 B. 新闻的指导性原则 C. 正面宣传为主的方针 D. 新闻的真实性原则",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "要保持社会主义新闻事业永远属于人民的根本属性，就必须坚持 A. 对党负责和对人民负责相一致的原则 B. 新闻的指导性原则 C. 正面宣传为主的方针 D. 新闻的真实性原则",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻事业产生和发展的根本动力是 A. 市场经济和资本主义生产方式 B. 生产社会化程度提高带来的信息需求增长 C. 文化发达程度 D. 技术进步和政治民主",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻事业产生和发展的根本动力是 A. 市场经济和资本主义生产方式 B. 生产社会化程度提高带来的信息需求增长 C. 文化发达程度 D. 技术进步和政治民主",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻传媒对青少年中出现的“追星现象”的批评属于 A. 对决策者和管理者行为的监督 B. 对决策执行过程的监督 C. 对值得关注的社会现象的监督 D. 对决策出台过程的监督",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻传媒对青少年中出现的“追星现象”的批评属于 A. 对决策者和管理者行为的监督 B. 对决策执行过程的监督 C. 对值得关注的社会现象的监督 D. 对决策出台过程的监督",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面哪个不是印刷媒介的特点 A. 长期保存 B. 稍纵即逝 C. 迅速大量生产 D. 容纳信息多",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面哪个不是印刷媒介的特点 A. 长期保存 B. 稍纵即逝 C. 迅速大量生产 D. 容纳信息多",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻编排安排结构要遵循的三个重要概念是 A. 标题、片花、结尾 B. 筹划、组织、编排 C. 峰谷、节奏、分段 D. 优化、集纳、配合",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻编排安排结构要遵循的三个重要概念是 A. 标题、片花、结尾 B. 筹划、组织、编排 C. 峰谷、节奏、分段 D. 优化、集纳、配合",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在西方各国的新闻评议制度中，哪个国家的新闻评议会因其体制完备、组成合理、成效显著而为各国所效仿？ A. 瑞典 B. 美国 C. 日本 D. 英国",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在西方各国的新闻评议制度中，哪个国家的新闻评议会因其体制完备、组成合理、成效显著而为各国所效仿？ A. 瑞典 B. 美国 C. 日本 D. 英国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传播学的定量研究方法之一是 A. 逻辑归纳法 B. 客观描述法 C. 历史比较法 D. 内容分析法",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传播学的定量研究方法之一是 A. 逻辑归纳法 B. 客观描述法 C. 历史比较法 D. 内容分析法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "日本新闻学家稻叶三千男说：决定新闻价值的最终标准是 A. 重要性 B. 普遍兴趣 C. 真实性 D. 读者的反应",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "日本新闻学家稻叶三千男说：决定新闻价值的最终标准是 A. 重要性 B. 普遍兴趣 C. 真实性 D. 读者的反应",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "资产阶级自由主义新闻思想的要害是 A. 观点的公开市场 B. 反对政府干预 C. 自我修正过程 D. 强调媒介自律",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "资产阶级自由主义新闻思想的要害是 A. 观点的公开市场 B. 反对政府干预 C. 自我修正过程 D. 强调媒介自律",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“宁要没有政府的报纸、不要没有报纸的政府”，提出这一观点的著名资产阶级政治家是 A. 约翰·密尔 B. 约翰·弥尔顿 C. 华盛顿 D. 托马斯·杰斐逊",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“宁要没有政府的报纸、不要没有报纸的政府”，提出这一观点的著名资产阶级政治家是 A. 约翰·密尔 B. 约翰·弥尔顿 C. 华盛顿 D. 托马斯·杰斐逊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "20世纪初，第一个将新闻价值理论引入中国的是 A. 邵飘萍 B. 戈公振 C. 蔡元培 D. 徐宝璜",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "20世纪初，第一个将新闻价值理论引入中国的是 A. 邵飘萍 B. 戈公振 C. 蔡元培 D. 徐宝璜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "广播新闻编辑最重要的工作是 A. 组织稿件 B. 筹划选题 C. 内容把关 D. 选用和组织音响",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "广播新闻编辑最重要的工作是 A. 组织稿件 B. 筹划选题 C. 内容把关 D. 选用和组织音响",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪种传播效果研究理论认为“大众传媒对某些事情或问题的强调程度，同受众对其重视程度构成了强烈的正比关系\"。 A. 文化规范论 B. 认知一致论 C. 议程设置论 D. 沉默螺旋论",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪种传播效果研究理论认为“大众传媒对某些事情或问题的强调程度，同受众对其重视程度构成了强烈的正比关系\"。 A. 文化规范论 B. 认知一致论 C. 议程设置论 D. 沉默螺旋论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对“议题”的不同类型进行分类研究的是 A. 韦伯 B. 麦库姆斯 C. 温达尔 D. 李普曼",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对“议题”的不同类型进行分类研究的是 A. 韦伯 B. 麦库姆斯 C. 温达尔 D. 李普曼",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "明确地提出“全党办报，群众办报”主张的是 A. 列宁 B. 马克思 C. 恩格斯 D. 毛泽东",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "明确地提出“全党办报，群众办报”主张的是 A. 列宁 B. 马克思 C. 恩格斯 D. 毛泽东",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从参与者的角色来说，网络传播不同于大众传播的是 A. 网络用户都以充当信息传播者为目标 B. 参与者即传播者 C. 信息传播者和信息接受者的角色可不断进行互换 D. 网络用户都是信息观察者",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从参与者的角色来说，网络传播不同于大众传播的是 A. 网络用户都以充当信息传播者为目标 B. 参与者即传播者 C. 信息传播者和信息接受者的角色可不断进行互换 D. 网络用户都是信息观察者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "提出“狗咬人不是新闻，人咬狗才是新闻”这一观点的是 A. 本杰明 B. 博加特 C. 普利策 D. 庞德",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "提出“狗咬人不是新闻，人咬狗才是新闻”这一观点的是 A. 本杰明 B. 博加特 C. 普利策 D. 庞德",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被有位传记作家形容为“犹如行为科学的达尔文”的是 A. 勒温 B. 霍夫兰 C. 拉斯韦尔 D. 李普曼",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被有位传记作家形容为“犹如行为科学的达尔文”的是 A. 勒温 B. 霍夫兰 C. 拉斯韦尔 D. 李普曼",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《论出版自由》的作者是 A. 伏尔泰 B. 卢梭 C. 弥尔顿 D. 约翰·穆勒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《论出版自由》的作者是 A. 伏尔泰 B. 卢梭 C. 弥尔顿 D. 约翰·穆勒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被誉为中国“新闻教育第一人”的是 A. 邵飘萍 B. 王韬 C. 徐宝璜 D. 戈公振",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被誉为中国“新闻教育第一人”的是 A. 邵飘萍 B. 王韬 C. 徐宝璜 D. 戈公振",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻理论回答新闻学中的 A. 根本问题 B. 所有问题 C. 一般问题 D. 业务问题",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻理论回答新闻学中的 A. 根本问题 B. 所有问题 C. 一般问题 D. 业务问题",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“地球村”的预言是由下面哪位学者提出来的？ A. 梅罗维茨 B. 麦克鲁汉 C. 伊尼斯 D. 施拉姆",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“地球村”的预言是由下面哪位学者提出来的？ A. 梅罗维茨 B. 麦克鲁汉 C. 伊尼斯 D. 施拉姆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "播音员和主持人在播报和主持节目时，对突发情况或某种失误作出迅速有效反应的能力属于 A. 反应能力 B. 适应能力 C. 调整能力 D. 应变能力",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "播音员和主持人在播报和主持节目时，对突发情况或某种失误作出迅速有效反应的能力属于 A. 反应能力 B. 适应能力 C. 调整能力 D. 应变能力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "邓小平在《西南区新闻工作会议上的报告》中，把“拿笔杆子”看作是 A. 普及文化的主要方法 B. 宣传政策的主要方法 C. 实行领导的主要方法 D. 传播知识的主要方法",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "邓小平在《西南区新闻工作会议上的报告》中，把“拿笔杆子”看作是 A. 普及文化的主要方法 B. 宣传政策的主要方法 C. 实行领导的主要方法 D. 传播知识的主要方法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "推镜头是指 A. 摄像机随物体运动而进行拍摄的镜头 B. 摄像机固定在一个支点上，沿水平轴或垂直轴运动拍摄的镜头 C. 摄像机变化焦距使画面框架逐渐远离被摄对象的镜头 D. 与拉镜头运动方向相反的一种拍摄方式",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "推镜头是指 A. 摄像机随物体运动而进行拍摄的镜头 B. 摄像机固定在一个支点上，沿水平轴或垂直轴运动拍摄的镜头 C. 摄像机变化焦距使画面框架逐渐远离被摄对象的镜头 D. 与拉镜头运动方向相反的一种拍摄方式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "广播新闻专题中除了运用表达等语言手段外，还把（）作为表现新闻事实、表达思想情感不可或缺的符号。 A. 音响 B. 抒情 C. 描写 D. 议论",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "广播新闻专题中除了运用表达等语言手段外，还把（）作为表现新闻事实、表达思想情感不可或缺的符号。 A. 音响 B. 抒情 C. 描写 D. 议论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "指记者可以通过一切正当的手段自由采访新闻的权力叫做 A. 报道权 B. 安全保护权 C. 采访权 D. 批评权",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "指记者可以通过一切正当的手段自由采访新闻的权力叫做 A. 报道权 B. 安全保护权 C. 采访权 D. 批评权",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对传播的过程，拉斯韦尔提出的模式是 A. 对称模式 B. 数学模式 C. 5W模式 D. 平衡模式",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对传播的过程，拉斯韦尔提出的模式是 A. 对称模式 B. 数学模式 C. 5W模式 D. 平衡模式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻与信息的关系是 A. 信息就是新闻，新闻就是信息，二者毫无差别 B. 信息是信息，新闻是新闻，二者毫不相干 C. 新闻是信息大家族中的特殊成员 D. 信息是新闻的一种体裁",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻与信息的关系是 A. 信息就是新闻，新闻就是信息，二者毫无差别 B. 信息是信息，新闻是新闻，二者毫不相干 C. 新闻是信息大家族中的特殊成员 D. 信息是新闻的一种体裁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "巴斯将传播媒介的把关行动分为前后相连的两个阶段，其中第二阶段的把关人主要是 A. 新闻提供者 B. 特约评论员 C. 记者 D. 编辑",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "巴斯将传播媒介的把关行动分为前后相连的两个阶段，其中第二阶段的把关人主要是 A. 新闻提供者 B. 特约评论员 C. 记者 D. 编辑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻价值是传播者选择事实和接受者选择新闻的 A. 心理需求 B. 客观标准 C. 主观意向 D. 政治标准",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻价值是传播者选择事实和接受者选择新闻的 A. 心理需求 B. 客观标准 C. 主观意向 D. 政治标准",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传播的信息交流过程是 A. 互动的 B. 能动的 C. 主动的 D. 被动的",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传播的信息交流过程是 A. 互动的 B. 能动的 C. 主动的 D. 被动的",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对事物存在方式和运动状态加以认识，并用文字等符号表述出来就形成了 A. 物理信息 B. 自然信息 C. 人工信息 D. 电子信息",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对事物存在方式和运动状态加以认识，并用文字等符号表述出来就形成了 A. 物理信息 B. 自然信息 C. 人工信息 D. 电子信息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通常情况下，资产阶级新闻事业在处理与受众关系时 A. 在一些问题和一定程度上考虑并满足群众的某些信息需要 B. 在整个过程中都能满足群众的需要 C. 在所有问题上都能完全满足群众的需要 D. 根本不考虑满足群众需要的问题",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通常情况下，资产阶级新闻事业在处理与受众关系时 A. 在一些问题和一定程度上考虑并满足群众的某些信息需要 B. 在整个过程中都能满足群众的需要 C. 在所有问题上都能完全满足群众的需要 D. 根本不考虑满足群众需要的问题",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "学习和研究新闻学的基本方法有个案研究、和 A. 比较研究 B. 调查研究 C. 以上全部 D. 内容分析",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "学习和研究新闻学的基本方法有个案研究、和 A. 比较研究 B. 调查研究 C. 以上全部 D. 内容分析",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻立法是指 A. 通过新闻媒介在全民中进行普法教育 B. 运用法律手段管理和控制新闻事业的程序、原则和机制 C. 统治阶级制定、颁布和修订新闻法规的程序和过程 D. 国家制定和颁布的有关新闻传播的法律条文的总称",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻立法是指 A. 通过新闻媒介在全民中进行普法教育 B. 运用法律手段管理和控制新闻事业的程序、原则和机制 C. 统治阶级制定、颁布和修订新闻法规的程序和过程 D. 国家制定和颁布的有关新闻传播的法律条文的总称",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从新闻本质和特性到新闻价值及其规律的研究，要回答的根本问题是 A. 新闻的起源和来源 B. 什么是新闻和怎样获取名副其实的新闻 C. 新闻的共性和个性 D. 新闻的性质和定义",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从新闻本质和特性到新闻价值及其规律的研究，要回答的根本问题是 A. 新闻的起源和来源 B. 什么是新闻和怎样获取名副其实的新闻 C. 新闻的共性和个性 D. 新闻的性质和定义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法不正确的是 A. 语言传播是人类的重要特征 B. 传播上的优势地位不会导致文化上的优势地位 C. 电子传播将人类由国内传播引入国际传播，由大众传播带进跨国传播 D. 印刷传播打破了少数人的传播特权",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法不正确的是 A. 语言传播是人类的重要特征 B. 传播上的优势地位不会导致文化上的优势地位 C. 电子传播将人类由国内传播引入国际传播，由大众传播带进跨国传播 D. 印刷传播打破了少数人的传播特权",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通过两种或两种以上的事物比拟分析来论证论点运用的是 A. 据事说理 B. 论辩说理 C. 兑账说理 D. 比照说理",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通过两种或两种以上的事物比拟分析来论证论点运用的是 A. 据事说理 B. 论辩说理 C. 兑账说理 D. 比照说理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当采访对象属于自卑性格时，记者应采取的策略是 A. 视而不见，不予理睬 B. 提高警惕，用心核对 C. 多费口舌，消除疑虑 D. 肯定成绩，给予表扬",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当采访对象属于自卑性格时，记者应采取的策略是 A. 视而不见，不予理睬 B. 提高警惕，用心核对 C. 多费口舌，消除疑虑 D. 肯定成绩，给予表扬",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被称为无线电之父的是 A. 波波夫 B. 马克斯威尔 C. 赫兹 D. 马可尼",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被称为无线电之父的是 A. 波波夫 B. 马克斯威尔 C. 赫兹 D. 马可尼",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "明确提出并对党性原则作出系统论述的第一人是 A. 马克思 B. 恩格斯 C. 列宁 D. 刘少奇",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "明确提出并对党性原则作出系统论述的第一人是 A. 马克思 B. 恩格斯 C. 列宁 D. 刘少奇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "近代新闻事业正式形成于 A. 资本主义社会初期 B. 封建社会末期 C. 奴隶社会末期 D. 封建社会中期",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "近代新闻事业正式形成于 A. 资本主义社会初期 B. 封建社会末期 C. 奴隶社会末期 D. 封建社会中期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于“语言是商品，文字不过是货币”这句话的理解，哪个是错误的 A. 语言是直接的符号，文字是间接的符号 B. 文字是对语言的纪录 C. 没有语言做依托文字也是有意义的 D. 文字具有从属性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于“语言是商品，文字不过是货币”这句话的理解，哪个是错误的 A. 语言是直接的符号，文字是间接的符号 B. 文字是对语言的纪录 C. 没有语言做依托文字也是有意义的 D. 文字具有从属性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "影响记者写作心理状态的客观因素不包括 A. 受众 B. 采访对象 C. 采访素材 D. 环境",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "影响记者写作心理状态的客观因素不包括 A. 受众 B. 采访对象 C. 采访素材 D. 环境",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下不属于非语言符号的是 A. 开心的笑容 B. 与别人握手 C. 穿着打扮 D. 文章",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下不属于非语言符号的是 A. 开心的笑容 B. 与别人握手 C. 穿着打扮 D. 文章",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻选择有三个环节，除搜寻、比较外，另一个是 A. 权衡 B. 确认 C. 策划 D. 反馈",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻选择有三个环节，除搜寻、比较外，另一个是 A. 权衡 B. 确认 C. 策划 D. 反馈",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "拉斯韦尔在《传播在社会中的结构与功能》这篇论文中提出的“一句话”、“三功能”中的三功能不包括以下哪一功能？ A. 协调社会关系 B. 提供娱乐 C. 传衍社会遗产 D. 监视社会环境",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "拉斯韦尔在《传播在社会中的结构与功能》这篇论文中提出的“一句话”、“三功能”中的三功能不包括以下哪一功能？ A. 协调社会关系 B. 提供娱乐 C. 传衍社会遗产 D. 监视社会环境",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果在传播学的研究中，对于个人特点过分强调或是对于传播模式无原则无休止争论的话，真正受到伤害的将是 A. 某个传播学者 B. 社会 C. 广大人民查看全部条评论 D. 传播学",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果在传播学的研究中，对于个人特点过分强调或是对于传播模式无原则无休止争论的话，真正受到伤害的将是 A. 某个传播学者 B. 社会 C. 广大人民查看全部条评论 D. 传播学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "广播电视新闻中的整点新闻为了以最快的速度提供尽可能多的信息，常常采用 A. 述评 B. 消息 C. 录音通讯 D. 通讯",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "广播电视新闻中的整点新闻为了以最快的速度提供尽可能多的信息，常常采用 A. 述评 B. 消息 C. 录音通讯 D. 通讯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "拉斯韦尔传播模式的第三个环节是 A. 说什么 B. 通过什么渠道 C. 谁 D. 对谁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "拉斯韦尔传播模式的第三个环节是 A. 说什么 B. 通过什么渠道 C. 谁 D. 对谁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中央电视台《焦点访谈》节目属于 A. 组织传播 B. 群体传播 C. 人际传播 D. 大众传播",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中央电视台《焦点访谈》节目属于 A. 组织传播 B. 群体传播 C. 人际传播 D. 大众传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻传播行为，“三要素说”（事实、新闻报道者和新闻接受者）的提出者是 A. 范长江 B. 王中 C. 甘惜分 D. 邓拓",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻传播行为，“三要素说”（事实、新闻报道者和新闻接受者）的提出者是 A. 范长江 B. 王中 C. 甘惜分 D. 邓拓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用老百姓喜闻乐见的形式讲述老百姓自己的事情，反映了编辑的 A. 通俗化意识 B. 平民意识 C. 娱乐化意识 D. 受众意识",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用老百姓喜闻乐见的形式讲述老百姓自己的事情，反映了编辑的 A. 通俗化意识 B. 平民意识 C. 娱乐化意识 D. 受众意识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个选项不是信息爆炸的后果 A. 信息超载 B. 信息泛滥 C. 信息变质 D. 信息浪费",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个选项不是信息爆炸的后果 A. 信息超载 B. 信息泛滥 C. 信息变质 D. 信息浪费",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "近代新闻事业诞生的时间标志是 A. 口语新闻出现 B. 手抄新闻出现 C. 新闻书的问世 D. 印刷新闻纸问世",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "近代新闻事业诞生的时间标志是 A. 口语新闻出现 B. 手抄新闻出现 C. 新闻书的问世 D. 印刷新闻纸问世",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "符号最基本的特点在于它的 A. 抽象性 B. 普遍性 C. 有效性 D. 指说性",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "符号最基本的特点在于它的 A. 抽象性 B. 普遍性 C. 有效性 D. 指说性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "编辑群体的向性类型应偏向于 A. 混合型 B. 中间型 C. 内向型 D. 外向型",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "编辑群体的向性类型应偏向于 A. 混合型 B. 中间型 C. 内向型 D. 外向型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻的价值指的是 A. 新闻满足传播者的需求程度 B. 新闻事实的价值 C. 新闻作品通过传播满足社会及其需求的程度 D. 新闻自身的价值",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻的价值指的是 A. 新闻满足传播者的需求程度 B. 新闻事实的价值 C. 新闻作品通过传播满足社会及其需求的程度 D. 新闻自身的价值",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大众传播大量的内容属于 A. 娱乐性内容 B. 新闻性内容 C. 知识性内容 D. 消息性内容",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大众传播大量的内容属于 A. 娱乐性内容 B. 新闻性内容 C. 知识性内容 D. 消息性内容",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "随着社会主义市场经济体制的建立，目前我国新闻机构的主要运作方式是 A. 事业单位，行政管理 B. 事业单位，企业化管理 C. 事业单位，事业管理 D. 企业单位，企化管理",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "随着社会主义市场经济体制的建立，目前我国新闻机构的主要运作方式是 A. 事业单位，行政管理 B. 事业单位，企业化管理 C. 事业单位，事业管理 D. 企业单位，企化管理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻舆论产生的起点和依据是 A. 新闻事实 B. 社会传闻 C. 民间传说 D. 领导指示",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻舆论产生的起点和依据是 A. 新闻事实 B. 社会传闻 C. 民间传说 D. 领导指示",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "于1644年出版的小册子《论出版自由》，作者是 A. 李普曼 B. 约翰.弥尔顿 C. 约翰.洛克 D. 卡斯柏.约斯特",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "于1644年出版的小册子《论出版自由》，作者是 A. 李普曼 B. 约翰.弥尔顿 C. 约翰.洛克 D. 卡斯柏.约斯特",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "资产阶级新闻自由思想的理论基础是 A. 天赋人权说 B. 人道主义 C. 本能说 D. 人本主义",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "资产阶级新闻自由思想的理论基础是 A. 天赋人权说 B. 人道主义 C. 本能说 D. 人本主义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻真实最起码的要求是 A. 概括性事实真实客观 B. 具体事实真实准确 C. 反映事物的本质 D. 对新闻事实的解释和评论实事求是",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻真实最起码的要求是 A. 概括性事实真实客观 B. 具体事实真实准确 C. 反映事物的本质 D. 对新闻事实的解释和评论实事求是",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻的传播环节中，对新闻价值的实现具有相当的影响的是 A. 转载或转播情况 B. 技术因素 C. 传播者的业务素质 D. 普遍兴趣",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻的传播环节中，对新闻价值的实现具有相当的影响的是 A. 转载或转播情况 B. 技术因素 C. 传播者的业务素质 D. 普遍兴趣",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一个选项不属于受众接受信息的动机 A. 外发性动机 B. 预期性动机 C. 替代性动机 D. 直接性动机",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一个选项不属于受众接受信息的动机 A. 外发性动机 B. 预期性动机 C. 替代性动机 D. 直接性动机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代传播效果研究兴起的媒介背景时期是 A. 电子媒介 B. 大众报刊 C. 政党报刊 D. 黄色报刊",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代传播效果研究兴起的媒介背景时期是 A. 电子媒介 B. 大众报刊 C. 政党报刊 D. 黄色报刊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《报刊的四种理论》中“报刊”一词泛指 A. 一切大众传播媒介 B. 出版物 C. 文字 D. 所有报纸杂志",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《报刊的四种理论》中“报刊”一词泛指 A. 一切大众传播媒介 B. 出版物 C. 文字 D. 所有报纸杂志",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "著有《大众传播的效果》一书，并将受众对信息接收的选择性行为进行具体分解的传播学者是 A. 施拉姆 B. 霍夫兰 C. 李普曼 D. 克拉帕",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "著有《大众传播的效果》一书，并将受众对信息接收的选择性行为进行具体分解的传播学者是 A. 施拉姆 B. 霍夫兰 C. 李普曼 D. 克拉帕",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于受众的特点的有 A. 归属性 B. 随意性 C. 自主性 D. 自在性",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于受众的特点的有 A. 归属性 B. 随意性 C. 自主性 D. 自在性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不接受自变量作用的实验对象在控制实验中构成 A. “观测组” B. “实验组” C. “控制组\" D. “对照组\"",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不接受自变量作用的实验对象在控制实验中构成 A. “观测组” B. “实验组” C. “控制组\" D. “对照组\"",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "评论区别于其他文体的主要标志矩 A. 论证 B. 论据 C. 论点 D. 说理",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "评论区别于其他文体的主要标志矩 A. 论证 B. 论据 C. 论点 D. 说理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个选项不是施拉姆的报刊理论 A. 集权主义理论 B. 苏维埃理论 C. 资本主义理论 D. 自由主义理论",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个选项不是施拉姆的报刊理论 A. 集权主义理论 B. 苏维埃理论 C. 资本主义理论 D. 自由主义理论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "认为\"媒介就是信息”这个观点的是以下哪个理论? A. 媒介失控论 B. 媒介决定论 C. 媒介情境论 D. 媒介偏倚论",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "认为\"媒介就是信息”这个观点的是以下哪个理论? A. 媒介失控论 B. 媒介决定论 C. 媒介情境论 D. 媒介偏倚论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1948年，拉斯韦尔在《传播在社会中的结构和功能》一文中首次提出了 A. 传播的5W模式 B. 政治传播的概念 C. 大众传播学的概念 D. 内容分析法",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1948年，拉斯韦尔在《传播在社会中的结构和功能》一文中首次提出了 A. 传播的5W模式 B. 政治传播的概念 C. 大众传播学的概念 D. 内容分析法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪位人物在《传播在社会中的结构与功能》论文中的“一句话”、“三功能”来认定他在传播学中的创始人地位。 A. 卡尔·霍夫兰 B. 哈罗德·拉斯韦尔 C. 拉扎斯菲尔德 D. 温勒",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪位人物在《传播在社会中的结构与功能》论文中的“一句话”、“三功能”来认定他在传播学中的创始人地位。 A. 卡尔·霍夫兰 B. 哈罗德·拉斯韦尔 C. 拉扎斯菲尔德 D. 温勒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“国家的发展尤其经济发展是一切发展中国家的首要任务，新闻媒介必须服从、服务、促进国家发展尤其经济发展。”这是哪种媒介理论的核心内容？ A. 发展新闻学 B. 极权主义理论 C. 自由主义理论 D. 社会责任理论",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“国家的发展尤其经济发展是一切发展中国家的首要任务，新闻媒介必须服从、服务、促进国家发展尤其经济发展。”这是哪种媒介理论的核心内容？ A. 发展新闻学 B. 极权主义理论 C. 自由主义理论 D. 社会责任理论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电视摄录中最能表达摄像师功力的是 A. 挑 B. 等 C. 抢 D. 抓",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电视摄录中最能表达摄像师功力的是 A. 挑 B. 等 C. 抢 D. 抓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传播学之父是 A. 勒温 B. 拉斯韦尔 C. 拉扎斯菲尔德 D. 施拉姆",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传播学之父是 A. 勒温 B. 拉斯韦尔 C. 拉扎斯菲尔德 D. 施拉姆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻起源于人类社会的 A. 信息交往 B. 教育进步 C. 战争宣传 D. 产品交换",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻起源于人类社会的 A. 信息交往 B. 教育进步 C. 战争宣传 D. 产品交换",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "卷入度比较高的产品往往在以下哪类媒介上投放广告？ A. 网络 B. 报纸 C. 广播 D. 电视",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "卷入度比较高的产品往往在以下哪类媒介上投放广告？ A. 网络 B. 报纸 C. 广播 D. 电视",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对事物的存在方式和运动状态加以认识然后用文字表达出来是 A. 人工信息 B. 自然信息 C. 天然信息 D. 实在信息",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对事物的存在方式和运动状态加以认识然后用文字表达出来是 A. 人工信息 B. 自然信息 C. 天然信息 D. 实在信息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "皮亚杰认为传播具有两种功能，一是自我中心的功能，一是 A. 社交性功能 B. 工具性功能 C. 娱乐性功能 D. 宣传性功能",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "皮亚杰认为传播具有两种功能，一是自我中心的功能，一是 A. 社交性功能 B. 工具性功能 C. 娱乐性功能 D. 宣传性功能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现场报道的结构形式有 A. 逻辑结构 B. 倒金字塔结构 C. 导引结构 D. 金字塔结构",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现场报道的结构形式有 A. 逻辑结构 B. 倒金字塔结构 C. 导引结构 D. 金字塔结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界上最早的通讯社是 A. 哈瓦斯通讯社 B. 美联社 C. 法新社 D. 路透社",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界上最早的通讯社是 A. 哈瓦斯通讯社 B. 美联社 C. 法新社 D. 路透社",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“正确舆论”的含义通常应当包括 A. 政治方向正确，思想方法正确，话题内容正确 B. 政治方向正确，传播内容健康，传播速度快捷 C. 政治方向正确，舆论话题适时，舆论强度适中 D. 政治方向正确，思想方法科学，传播时间适宜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“正确舆论”的含义通常应当包括 A. 政治方向正确，思想方法正确，话题内容正确 B. 政治方向正确，传播内容健康，传播速度快捷 C. 政治方向正确，舆论话题适时，舆论强度适中 D. 政治方向正确，思想方法科学，传播时间适宜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "两个或两个以上的人之间借助语言和非语言符号互通信息、交流思想感情的活动是 A. 组织传播 B. 大众传播 C. 人际传播 D. 内向传播",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "两个或两个以上的人之间借助语言和非语言符号互通信息、交流思想感情的活动是 A. 组织传播 B. 大众传播 C. 人际传播 D. 内向传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在新闻舆论监督中，最重要的监督对象是 A. 各种社会成员 B. 公民团体 C. 基层干部 D. 权力组织",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在新闻舆论监督中，最重要的监督对象是 A. 各种社会成员 B. 公民团体 C. 基层干部 D. 权力组织",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "是谁提出了“波纹效果”理论 A. 坦卡德 B. 塞弗林 C. 贝雷尔森 D. 洛基奇",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "是谁提出了“波纹效果”理论 A. 坦卡德 B. 塞弗林 C. 贝雷尔森 D. 洛基奇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "媒介组织不是一种 A. 政治机构 B. 信息产业机构 C. 公共事业单位 D. 社会机构",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "媒介组织不是一种 A. 政治机构 B. 信息产业机构 C. 公共事业单位 D. 社会机构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "让受众透过媒介经常看到你，可以增强 A. 熟知性 B. 权威性 C. 可信性 D. 接近性",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "让受众透过媒介经常看到你，可以增强 A. 熟知性 B. 权威性 C. 可信性 D. 接近性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在信息爆炸的今天，我们应该怎么做? A. 崇洋媚外 B. 健全和强化大众传播法则 C. 大量搜集信息为我所用 D. 不关我的事情",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在信息爆炸的今天，我们应该怎么做? A. 崇洋媚外 B. 健全和强化大众传播法则 C. 大量搜集信息为我所用 D. 不关我的事情",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "受传者在信息接受活动中感到传播者与自己相似或相同的地方，从而提高传播者的影响力 A. 自己人效应 B. 威信效应 C. 名片效应 D. 晕轮效应",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "受传者在信息接受活动中感到传播者与自己相似或相同的地方，从而提高传播者的影响力 A. 自己人效应 B. 威信效应 C. 名片效应 D. 晕轮效应",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "制定《中国新闻工作者职业道德准则》的是。 A. 中共中央宣传部 B. 各新闻单位 C. 中华全国记者协会 D. 中华全国新闻工作者协会",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "制定《中国新闻工作者职业道德准则》的是。 A. 中共中央宣传部 B. 各新闻单位 C. 中华全国记者协会 D. 中华全国新闻工作者协会",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在传播学研究中，正式调查所采用的抽样形式一般都是 A. 非随机抽样 B. 分层抽样 C. 随机抽样 D. 雪球抽样",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在传播学研究中，正式调查所采用的抽样形式一般都是 A. 非随机抽样 B. 分层抽样 C. 随机抽样 D. 雪球抽样",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "作为新闻类节目，其“媒介共性”应该是 A. 亲切友善，平易近人 B. 奋发向上，激情洋溢 C. 轻松愉悦，清丽高雅 D. 稳重可信，具有权威性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "作为新闻类节目，其“媒介共性”应该是 A. 亲切友善，平易近人 B. 奋发向上，激情洋溢 C. 轻松愉悦，清丽高雅 D. 稳重可信，具有权威性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照选择性因素理论的观点，大众传媒发出的信息传向受众时遇到的第一关是受众的 A. 选择性注意 B. 选择性理解 C. 选择性记忆 D. 选择性暴露",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照选择性因素理论的观点，大众传媒发出的信息传向受众时遇到的第一关是受众的 A. 选择性注意 B. 选择性理解 C. 选择性记忆 D. 选择性暴露",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一种不属于传播者与受众的关系 A. 友善的关系 B. 圈层的关系 C. 疏离的关系 D. 支配的关系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一种不属于传播者与受众的关系 A. 友善的关系 B. 圈层的关系 C. 疏离的关系 D. 支配的关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项不属于信息社会同工业社会相比的崭新特点的是 A. 科技的核心是电脑，而不是引擎 B. 科技的产品是信息，而不是货物 C. 生产的中心是工厂，而不是网络等 D. 经济结构转成合作、分享的共生型经济，而不是商品型经济",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项不属于信息社会同工业社会相比的崭新特点的是 A. 科技的核心是电脑，而不是引擎 B. 科技的产品是信息，而不是货物 C. 生产的中心是工厂，而不是网络等 D. 经济结构转成合作、分享的共生型经济，而不是商品型经济",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“守门行为”和“守门人\"概念是由下列哪位学者在第二次世界大战期间提出的? A. 拉斯韦尔 B. 勒温 C. 施拉姆 D. 霍夫兰",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“守门行为”和“守门人\"概念是由下列哪位学者在第二次世界大战期间提出的? A. 拉斯韦尔 B. 勒温 C. 施拉姆 D. 霍夫兰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对事物发展变化的史态、现态和趋态，新闻主要反映 A. 全态(三态之和) B. 趋态 C. 现态 D. 史态",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对事物发展变化的史态、现态和趋态，新闻主要反映 A. 全态(三态之和) B. 趋态 C. 现态 D. 史态",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "西方学者提出的报刊四种理论中最早出现的是 A. 自由主义理论 B. 社会责任理论 C. 集权主义理论 D. 苏联共产主义理论",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "西方学者提出的报刊四种理论中最早出现的是 A. 自由主义理论 B. 社会责任理论 C. 集权主义理论 D. 苏联共产主义理论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻价值要素中的时新性指的是新闻事件的 A. 延续时间 B. 报道时间 C. 发生时间 D. 发生与报道的时差",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻价值要素中的时新性指的是新闻事件的 A. 延续时间 B. 报道时间 C. 发生时间 D. 发生与报道的时差",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻报道的起点是 A. 写作 B. 编辑 C. 评论 D. 采访",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻报道的起点是 A. 写作 B. 编辑 C. 评论 D. 采访",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪个不是受众的角色 A. 传播内容的“翻译者” B. 信息产品的消费者 C. 传播效果的反馈者 D. 传播活动的参与者",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪个不是受众的角色 A. 传播内容的“翻译者” B. 信息产品的消费者 C. 传播效果的反馈者 D. 传播活动的参与者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "广播电视编辑的工作环节包括新闻节目生产过程中的 A. 获取线索、构思、组织、加工 B. 构思、组织、制作、播出 C. 构思、组织、加工、制作 D. 栏目定位、组织、加工",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "广播电视编辑的工作环节包括新闻节目生产过程中的 A. 获取线索、构思、组织、加工 B. 构思、组织、制作、播出 C. 构思、组织、加工、制作 D. 栏目定位、组织、加工",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻事实或相应作品的信息含量如果等于零，其新闻价值 A. 等于零 B. 不确定 C. 很小 D. 很大",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻事实或相应作品的信息含量如果等于零，其新闻价值 A. 等于零 B. 不确定 C. 很小 D. 很大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻学的母体是 A. 心理学 B. 文学 C. 语言学 D. 政治学",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻学的母体是 A. 心理学 B. 文学 C. 语言学 D. 政治学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "双重行动模式是谁提出的 A. 巴斯 B. 怀特 C. 施拉姆 D. 拉斯韦尔",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "双重行动模式是谁提出的 A. 巴斯 B. 怀特 C. 施拉姆 D. 拉斯韦尔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "摄像机与被摄对象处于同一水平线上，拍出的画面，给人的感觉是 A. 稳中、端庄 B. 庄严、崇高 C. 纵深感、透视感 D. 自然、亲切",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "摄像机与被摄对象处于同一水平线上，拍出的画面，给人的感觉是 A. 稳中、端庄 B. 庄严、崇高 C. 纵深感、透视感 D. 自然、亲切",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主持制定《报人守则》的是 A. 托马斯.杰斐逊 B. 沃尔特.威廉 C. 威尔伯.施拉姆 D. 哈钦斯",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主持制定《报人守则》的是 A. 托马斯.杰斐逊 B. 沃尔特.威廉 C. 威尔伯.施拉姆 D. 哈钦斯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某期《非你莫属》中刘俐俐被主持人攻击后，受到在场嘉宾都群起而攻之的现象是（）的典型表现。 A. 知识鸿沟论 B. 媒介依赖论 C. 认知失调论 D. 沉默的螺旋论",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某期《非你莫属》中刘俐俐被主持人攻击后，受到在场嘉宾都群起而攻之的现象是（）的典型表现。 A. 知识鸿沟论 B. 媒介依赖论 C. 认知失调论 D. 沉默的螺旋论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国党和政府一直重视新闻法规政策的制定，1994年12月，中共中央宣传部和新闻出版署有关部门合编了 A. 《期刊出版法规政策须知》 B. 《新闻法规政策须知》 C. 《图书出版法规政策须知》 D. 《关于党内政治生活的若干准则》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国党和政府一直重视新闻法规政策的制定，1994年12月，中共中央宣传部和新闻出版署有关部门合编了 A. 《期刊出版法规政策须知》 B. 《新闻法规政策须知》 C. 《图书出版法规政策须知》 D. 《关于党内政治生活的若干准则》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "语言是社会约定俗成的并且是比较高级和复杂的 A. 信息 B. 符号 C. 媒介所有者 D. 艺术",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "语言是社会约定俗成的并且是比较高级和复杂的 A. 信息 B. 符号 C. 媒介所有者 D. 艺术",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "受传者在信息接受活动中感到传播者在许多方面与自己有相似或相同之处，从受众心理层面上说称为什么? A. 威信效应 B. “名片”效应 C. “自己人”效应 D. 晕轮效应",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "受传者在信息接受活动中感到传播者在许多方面与自己有相似或相同之处，从受众心理层面上说称为什么? A. 威信效应 B. “名片”效应 C. “自己人”效应 D. 晕轮效应",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传播文化知识，是大众传播的一个重要功能，这一功能也就是 A. 宣传功能 B. 娱乐功能 C. 教育功能 D. 认识功能",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传播文化知识，是大众传播的一个重要功能，这一功能也就是 A. 宣传功能 B. 娱乐功能 C. 教育功能 D. 认识功能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "媒介即讯息是由谁提出来的的 A. 哈罗德·拉斯韦尔 B. 温勒 C. 施拉姆 D. 麦克卢汉",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "媒介即讯息是由谁提出来的的 A. 哈罗德·拉斯韦尔 B. 温勒 C. 施拉姆 D. 麦克卢汉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻价值的实质是 A. 新闻的社会价值 B. 新闻的宣传价值 C. 生产新闻所消耗的社会必要劳动 D. 对新闻的本质及其特性的量化把握",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻价值的实质是 A. 新闻的社会价值 B. 新闻的宣传价值 C. 生产新闻所消耗的社会必要劳动 D. 对新闻的本质及其特性的量化把握",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有观点认为，人们对大众传媒发出信息的选择会受到家庭、朋友和熟人等的影响。该观点属于受众理论中的 A. 选择性因素理论 B. 个人差异论 C. 社会分类论 D. 社会关系论",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有观点认为，人们对大众传媒发出信息的选择会受到家庭、朋友和熟人等的影响。该观点属于受众理论中的 A. 选择性因素理论 B. 个人差异论 C. 社会分类论 D. 社会关系论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在画面编辑中，把几个主体内容类似的画面连接在一起，以渲染气象，强调情节的组接方式是 A. 象征 B. 积累 C. 比照 D. 比喻",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在画面编辑中，把几个主体内容类似的画面连接在一起，以渲染气象，强调情节的组接方式是 A. 象征 B. 积累 C. 比照 D. 比喻",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一种不属于传播者的特点 A. 自主性 B. 好奇性 C. 复杂性 D. 集体性",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一种不属于传播者的特点 A. 自主性 B. 好奇性 C. 复杂性 D. 集体性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "记者采录的音响必须是 A. 人为创造的声音 B. 被报道人物或事物发出的声响 C. 与受众想象一•致的“现场”声音 D. 不一定是被报道对象发出的声响",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "记者采录的音响必须是 A. 人为创造的声音 B. 被报道人物或事物发出的声响 C. 与受众想象一•致的“现场”声音 D. 不一定是被报道对象发出的声响",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前中国一共有家广电集团 A. 15 B. 30 C. 32 D. 20",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前中国一共有家广电集团 A. 15 B. 30 C. 32 D. 20",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在中国新闻史上提出“不党、不私、不卖、不盲”办报方针的是 A. 新记《大公报》 B. 新民报 C. 申报 D. 新华日报",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在中国新闻史上提出“不党、不私、不卖、不盲”办报方针的是 A. 新记《大公报》 B. 新民报 C. 申报 D. 新华日报",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当新闻工作者处于焦虑状态时，对自己身体的变化常常表现出 A. 无所谓 B. 不敏感 C. 非常敏感 D. 较为敏感",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当新闻工作者处于焦虑状态时，对自己身体的变化常常表现出 A. 无所谓 B. 不敏感 C. 非常敏感 D. 较为敏感",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电子媒体传播的最后把关人是 A. 主持人 B. 编辑 C. 记者 D. 媒介所有者",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电子媒体传播的最后把关人是 A. 主持人 B. 编辑 C. 记者 D. 媒介所有者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

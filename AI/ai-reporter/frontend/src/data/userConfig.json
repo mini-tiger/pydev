@@ -1,0 +1,133 @@
+[
+  {
+    "project": {
+      "id": 1,
+      "isEnabled": true,
+      "name": "法务助手",
+      "tabIcon": "/favicon.ico",
+      "model_info": [
+        {
+          "name": "百川-13B",
+          "alias": "百川-13B",
+          "enable": "False",
+          "url": "http://120.133.63.162:33382/v1"
+        },
+        {
+          "name": "01/YI",
+          "alias": "Yi-34B",
+          "enable": "True",
+          "url": ""
+        },
+        {
+          "name": "通义千问-7B",
+          "alias": "Qwen-7B",
+          "enable": "True",
+          "url": ""
+        }
+      ],
+      "header": {
+        "leftLogo": "zzLogo",
+        "leftTitle": "法务助手",
+        "centerLogo": "zzLogo",
+        "centerTitle": "中咨法务助手",
+        "assistantList": {
+          "title": "法务助手",
+          "cardsData": [
+            {
+              "title": "中咨办公助手",
+              "description": "一个能够智能对话的助手",
+              "logo": "bgzs",
+              "url": "http://172.22.220.89:9301/#/aiContent"
+            },
+            {
+              "title": "中咨法务助手",
+              "description": "一个能够智能核对合同的助手",
+              "logo": "gz",
+              "url": "http://172.22.220.89:9201/#/chat"
+            },
+            {
+              "title": "中咨报告助手",
+              "description": "一个能够智能生成报告的助手",
+              "logo": "gwb",
+              "url": "http://120.133.63.166:9001/#/chat"
+            }
+          ]
+        }
+      },
+      "page": {
+        "system": "我是法务助手，可以帮你智能的对比、核验法务文件、合同等。可以生产标注好的合同文件。",
+        "rightLogo": "zzLogo",
+        "contractTitles": [
+          "硬件采购合同书",
+          "软件开发服务合同书"
+        ]
+      }
+    }
+  },
+  {
+    "project": {
+      "id": 2,
+      "isEnabled": false,
+      "name": "法务助手",
+      "tabIcon": "/vite.svg",
+      "model_info": [
+        {
+          "name": "百川-13B",
+          "alias": "百川-13B",
+          "enable": "True",
+          "url": "http://120.133.63.162:33382/v1"
+        },
+        {
+          "name": "01/YI",
+          "alias": "Yi-34B",
+          "enable": "False",
+          "url": ""
+        },
+        {
+          "name": "通义千问-7B",
+          "alias": "Qwen-7B",
+          "enable": "False",
+          "url": ""
+        }
+      ],
+      "header": {
+        "leftLogo": "vNetLogo",
+        "leftTitle": "法务助手",
+        "centerLogo": "vNetLogo",
+        "centerTitle": "法务助手",
+        "assistantList": {
+          "title": "法务助手",
+          "cardsData": [
+            {
+              "title": "办公助手",
+              "description": "一个能够智能对话的助手",
+              "logo": "bgzs",
+              "url": "http://120.133.63.166:9001/#/chat"
+            },
+            {
+              "title": "法务助手",
+              "description": "一个能够智能核对合同的助手",
+              "logo": "gz",
+              "url": "http://120.133.63.166:9001/#/chat"
+            },
+            {
+              "title": "报告助手",
+              "description": "一个能够智能生成报告的助手",
+              "logo": "gwb",
+              "url": "http://120.133.63.166:9001/#/chat"
+            }
+          ]
+        }
+      },
+      "page": {
+        "system": "我是法务助手，可以帮你智能的对比、核验法务文件、合同等。可以生产标注好的合同文件。",
+        "rightLogo": "vNetLogo",
+        "contractTitles": [
+          "硬件采购合同书",
+          "软件开发服务合同书",
+          "非锁定版(非标准合同)_IDC主协议_北京世纪互联宽带数据中心托管服务协议(2023年版)-（非预留机柜）"
+        ]
+      }
+    }
+  }
+]

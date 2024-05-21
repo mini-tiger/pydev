@@ -1,0 +1,253 @@
+# from langchain.globals import set_debug,set_verbose
+#
+# set_debug(True)
+# set_verbose(True)
+import time
+from langchain.prompts import PromptTemplate
+from langchain.document_loaders import PyPDFLoader
+from langchain.document_loaders import Docx2txtLoader
+from langchain.document_loaders import TextLoader
+from langchain.vectorstores import FAISS
+from langchain.embeddings import HuggingFaceEmbeddings, SentenceTransformerEmbeddings
+import webapi.config as config
+import os, shutil
+from langchain.text_splitter import CharacterTextSplitter
+
+from langchain.chat_models import ChatOpenAI
+from langchain.retrievers.multi_query import MultiQueryRetriever  # MultiQueryRetriever工具
+from langchain.chains import RetrievalQA  # RetrievalQA链
+
+embeddings = HuggingFaceEmbeddings(model_name=config.BaseConfig.EMBEDDING_DIR,
+                                   model_kwargs={'device': 'cpu'},
+                                   encode_kwargs={'normalize_embeddings': True})
+
+
+def create_vector_obj(base_dir, skip_file=[]):
+    os.chdir(base_dir)
+    documents = []
+    files = [i for i in os.listdir('.') if os.path.isfile(i)]
+    for file in files:
+        if file not in skip_file:
+            # 构建完整的文件路径
+            file_path = os.path.join(file)
+            if file.endswith('.pdf'):
+                loader = PyPDFLoader(file_path)
+                documents.extend(loader.load())
+            elif file.endswith('.docx'):
+                loader = Docx2txtLoader(file_path)
+                documents.extend(loader.load())
+            elif file.endswith('.txt'):
+                loader = TextLoader(file_path)
+                documents.extend(loader.load())
+
+    print(f"splitter file:{set(files).difference(set(skip_file))}")
+    if len(documents) == 0:
+        return None
+
+    # 2.Split 将Documents切分成块以便后续进行嵌入和向量存储
+    from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+    # text_splitter = CharacterTextSplitter(chunk_size=200, chunk_overlap=0)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=10,
+                                                   # separators=["\n\n", "\n", "。", ".", ""]
+                                                   separators=["\n", '\r\n', "。"]
+                                                   )
+
+    texts = text_splitter.split_documents(documents)
+    vectorstore = FAISS.from_documents(texts, embeddings)
+    
+    return vectorstore
+
+
+def save_vectorstore(vectorstore, vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE):
+    # 3.Store 将分割嵌入并存储在矢量数据库Qdrant中
+
+    vectorstore.save_local(vector_index_file)
+
+
+vectorstore = object
+
+
+def generate_vector_obj(base_dir=config.BaseConfig.PDF_DIR,
+                        vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE
+                        ):
+    global vectorstore
+    current_directory = os.getcwd()
+
+    if os.path.exists(vector_index_file):
+        vectorstore = FAISS.load_local(embeddings=embeddings, folder_path=vector_index_file)
+    else:
+        # 加载Documents
+        vectorstore = create_vector_obj(base_dir=base_dir)
+        save_vectorstore(vectorstore, vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE)
+
+    os.chdir(current_directory)
+    return vectorstore
+
+
+def delete_vector_file(vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE):
+    # 删除目录及其包含的所有文件和子目录
+    shutil.rmtree(vector_index_file)
+
+
+def valid_vector_store(base_dir, vectorstore_store):
+    os.chdir(base_dir)
+    documents = []
+    for file in os.listdir('.'):
+        results = vectorstore_store.max_marginal_relevance_search("foo", filter=dict(source=file), k=1)
+        if len(results) > 0:
+            documents.append(file)
+    return documents
+
+
+def add_vector_obj(base_dir):
+    # 已经存在vectorstore
+    vectorstore_store = generate_vector_obj(base_dir=config.BaseConfig.PDF_DIR,
+                                            vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE)
+
+    # add vector
+    skip_file = valid_vector_store(base_dir, vectorstore_store)  # 是否存在
+
+
+    if len(skip_file) == len([i for i in os.listdir(base_dir) if os.path.isfile(i)]):
+        print(f"vector add skip all file:{skip_file}")
+        return vectorstore_store
+
+    print(f"vector add skip file:{skip_file}")
+    vectorstore = create_vector_obj(base_dir=base_dir, skip_file=skip_file)
+
+    delete_vector_file(vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE)
+    vectorstore_store.merge_from(vectorstore)
+    save_vectorstore(vectorstore=vectorstore_store, vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE)
+    return vectorstore_store
+
+
+def documents2dict_filter(documents, score):
+    # 将Document对象列表转换为字典
+    documents_dict = []
+    for document in documents:
+        if (1 - document[1]) > score:
+            d = document[0]
+            documents_dict.append({'score': document[1], 'page_content': d.page_content, 'metadata': d.metadata})
+
+    return documents_dict
+
+
+def documents2dict(documents):
+    # 将Document对象列表转换为字典
+    documents_dict = [
+        {'page_content': document.page_content, 'metadata': document.metadata}
+        for document in documents
+    ]
+    return documents_dict
+
+
+def get_documents(vectorstore, query="", limit=3):
+    docs_and_scores = vectorstore.similarity_search_with_score(query, k=limit)
+    # print(docs_and_scores)
+    # docs = vectorstore.max_marginal_relevance_search(query, k=limit)
+    # print(docs_and_scores)
+    docs = [doc for doc, _ in docs_and_scores]
+    # docs = vectorstore.similarity_search(query, k=limit)
+    # txts = documents2dict_filter(docs,score=config.BaseConfig.SCORE)
+    documents_dict = documents2dict(docs)
+    # print("txts:", txts)
+    return documents_dict, docs_and_scores
+
+
+def assert_vector_score(vectorstore, query, score=0.5):
+    _, docs_and_scores = get_documents(vectorstore=vectorstore, query=query, limit=1)
+    doc = documents2dict_filter(docs_and_scores, score=score)
+    # print(doc)
+    if len(doc) > 0:
+        return True
+    else:
+        return False
+
+
+def retrievalQA_with_langchain(vectorstore,query, url):
+    err = None
+    source = ''
+    page_content = ''
+
+    result = ''
+    try:
+        llm = ChatOpenAI(temperature=0, openai_api_base=url, max_tokens=4096)
+        retriever_from_llm = MultiQueryRetriever.from_llm(retriever=vectorstore.as_retriever(), llm=llm)
+        template = """The knowledge at the end can only be answered from the context below. Answers should not exceed 350 words.
+        {context}
+        Question: {question}
+        Helpful Answer:"""
+        QA_CHAIN_PROMPT = PromptTemplate.from_template(template)  # Run chain
+        # 实例化一个RetrievalQA链
+        qa_chain = RetrievalQA.from_chain_type(llm,
+                                               # retriever=vectorstore.as_retriever(),
+                                               retriever=retriever_from_llm,
+                                               return_source_documents=True,
+                                               chain_type_kwargs={"prompt": QA_CHAIN_PROMPT})
+        qa_result = qa_chain(query)
+        source_list = []
+        context_list = []
+        result = qa_result['result']
+        for i in qa_result['source_documents']:
+            # print(i.metadata['source'])
+            source_list.append(i.metadata['source'])
+            # print(i.page_content)
+            context_list.append(i.page_content)
+        source = ','.join(set(source_list))
+        page_content = '\n'.join(context_list)
+    except Exception as e:
+        err = str(e)
+
+    return {"context_source": source, "context": result,
+            'vectorstore_search_result': page_content}, err
+
+
+# init vector
+if int(config.BaseConfig.VECTOR_OPEN)  == 1 and int(config.BaseConfig.LANGCHAIN_RAG) == 1:
+    generate_vector_obj()
+
+if __name__ == "__main__":
+    vectorstore = generate_vector_obj(base_dir=config.BaseConfig.PDF_DIR,
+                                      vector_index_file=config.BaseConfig.VECTOR_INDEX_FILE)
+    # query = "中国自行车发展行业研究报告"
+    #
+    # #
+    # documents_dict, _ = get_documents(vectorstore, query, limit=2)
+    # print(documents_dict)
+    # print(assert_vector_score(vectorstore, query, score=0.5))
+    #
+    # vectorstore = add_vector_obj(base_dir="/data/work/pydev/ai-reporter/webapi/pdf")
+    # txt = get_documents(vectorstore, query, limit=2)
+    # print(txt)
+
+    query1 = "研究背景及意义"
+    # documents_dict, _ = get_documents(vectorstore, query1, limit=2)
+    # print(documents_dict)
+    # print(assert_vector_score(vectorstore, query1, score=0.5))
+    start_time=time.time()
+    os.environ["OPENAI_API_KEY"] = 'EMPTY'
+    llm = ChatOpenAI(temperature=0, openai_api_base="http://120.133.63.166:8004/v1",max_tokens=4096)
+    # 实例化一个MultiQueryRetriever
+    retriever_from_llm = MultiQueryRetriever.from_llm(retriever=vectorstore.as_retriever(), llm=llm)
+
+
+    # Build prompt
+    template = """The knowledge at the end can only be answered from the context below. Answers should not exceed 350 words.
+    {context}
+    Question: {question}
+    Helpful Answer:"""
+    QA_CHAIN_PROMPT = PromptTemplate.from_template(template)  # Run chain
+    # 实例化一个RetrievalQA链
+    qa_chain = RetrievalQA.from_chain_type(llm,
+                                           # retriever=vectorstore.as_retriever(),
+                                           retriever= retriever_from_llm,
+                                           return_source_documents=True,
+                                           chain_type_kwargs={"prompt": QA_CHAIN_PROMPT})
+    qa_result = qa_chain(query1)
+    # print(qa_result)
+    print(f"result:{qa_result['result']}")
+    for i in qa_result['source_documents']:
+        print(i.metadata['source'])
+        print(i.page_content)
+    print(f"use time:{time.time()-start_time}")

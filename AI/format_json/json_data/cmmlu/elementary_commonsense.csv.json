@@ -1,0 +1,1982 @@
+[
+  {
+    "question_std": "我国古代“十八般武艺”中第十八是“白打”意思是 A. 用白棒打 B. 用白巾作武器 C. 徒手搏斗 D. 打空拳",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国古代“十八般武艺”中第十八是“白打”意思是 A. 用白棒打 B. 用白巾作武器 C. 徒手搏斗 D. 打空拳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小伤口出血时，我们要用___冲洗伤口 前面下划线位置应该填入哪个选项,只输出选项字母 A. 生理盐水 B. 全不对 C. 冷水 D. 热水",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小伤口出血时，我们要用___冲洗伤口 前面下划线位置应该填入哪个选项,只输出选项字母 A. 生理盐水 B. 全不对 C. 冷水 D. 热水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发生火灾时要迅速判断火势的来源，朝与火势趋向()的方向逃生 A. 向下 B. 向上 C. 相同 D. 相反",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发生火灾时要迅速判断火势的来源，朝与火势趋向()的方向逃生 A. 向下 B. 向上 C. 相同 D. 相反",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "事故发生在校内，但纯系学生违反校纪校规引起，并在此事件中学校能证明没有任何过失，学校()责任事故 A. 无 B. 有 C. 承担间接 D. 有部分",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "事故发生在校内，但纯系学生违反校纪校规引起，并在此事件中学校能证明没有任何过失，学校()责任事故 A. 无 B. 有 C. 承担间接 D. 有部分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在学校体育活动中中暑，应 A. 解开衣扣，平躺休息 B. 用热毛巾敷头部，并擦身 C. 喝浓盐水或清凉饮料 D. 将病人转移到室内",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在学校体育活动中中暑，应 A. 解开衣扣，平躺休息 B. 用热毛巾敷头部，并擦身 C. 喝浓盐水或清凉饮料 D. 将病人转移到室内",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有异物掉入眼中，应 A. 用手指甲刮出异物 B. 用棉签拭出 C. 用清水冲洗 D. 用力对眼睛吹气",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有异物掉入眼中，应 A. 用手指甲刮出异物 B. 用棉签拭出 C. 用清水冲洗 D. 用力对眼睛吹气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "扑救火灾时，应注意先切断火场的();同时要注意先转移火灾及其附近的易燃易爆危险品，实在无法转移的应当设法降温冷却 A. 气源 B. 易燃物品 C. 电源、气源 D. 电源",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "扑救火灾时，应注意先切断火场的();同时要注意先转移火灾及其附近的易燃易爆危险品，实在无法转移的应当设法降温冷却 A. 气源 B. 易燃物品 C. 电源、气源 D. 电源",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "建筑物起火后，多少分钟内是灭火的最好时间 A. 5到6分钟 B. 2到4分钟 C. 5到7分钟 D. 到5分钟",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "建筑物起火后，多少分钟内是灭火的最好时间 A. 5到6分钟 B. 2到4分钟 C. 5到7分钟 D. 到5分钟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "晨雾中较高的含有哪种元素不利于人体健康 A. 铝 B. 氯 C. 铅 D. 氮",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "晨雾中较高的含有哪种元素不利于人体健康 A. 铝 B. 氯 C. 铅 D. 氮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "酒中含有酒精，饮酒过多或经常饮酒，会造成酒精中毒，使身体受损，那么，饮酒对人体的哪些器官最为有害 A. 眼睛 B. 心脏 C. 皮肤 D. 肺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "酒中含有酒精，饮酒过多或经常饮酒，会造成酒精中毒，使身体受损，那么，饮酒对人体的哪些器官最为有害 A. 眼睛 B. 心脏 C. 皮肤 D. 肺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "方便面里必然有哪种食品添加剂 A. 合成抗氧化剂 B. 防腐剂 C. 漂白剂 D. 食用色素",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "方便面里必然有哪种食品添加剂 A. 合成抗氧化剂 B. 防腐剂 C. 漂白剂 D. 食用色素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界史诗中最长的史诗是 A. 《罗摩衍那》 B. 《奥德赛》 C. 《伊里亚特》 D. 《格萨尔王传》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界史诗中最长的史诗是 A. 《罗摩衍那》 B. 《奥德赛》 C. 《伊里亚特》 D. 《格萨尔王传》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "哪一季节最不易引发哮喘病 A. 夏 B. 春 C. 秋 D. 冬",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "哪一季节最不易引发哮喘病 A. 夏 B. 春 C. 秋 D. 冬",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "油锅着火时，正确的灭火方法是 A. 先打119 B. 用锅盖盖灭 C. 用水浇 D. 赶快去端油锅",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "油锅着火时，正确的灭火方法是 A. 先打119 B. 用锅盖盖灭 C. 用水浇 D. 赶快去端油锅",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国建设银行发行的信用卡是 A. 龙卡 B. 牡丹卡 C. 长城卡 D. 太平洋卡",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国建设银行发行的信用卡是 A. 龙卡 B. 牡丹卡 C. 长城卡 D. 太平洋卡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中小学生参加商业性庆典演出活动 A. 学校有申请报告可以 B. 学校组织严密可 C. 在得到主管局同意后可以 D. 不可以",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中小学生参加商业性庆典演出活动 A. 学校有申请报告可以 B. 学校组织严密可 C. 在得到主管局同意后可以 D. 不可以",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国民间节令“九九”是从哪一天开始的 A. 秋分 B. 夏至 C. 冬至 D. 立秋",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国民间节令“九九”是从哪一天开始的 A. 秋分 B. 夏至 C. 冬至 D. 立秋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "进入公共场所，一定要注意观察___ 前面下划线位置应该填入哪个选项,只输出选项字母 A. 安全指示标志 B. 疏散方向 C. 疏散通道位置 D. 其他选项均可",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "进入公共场所，一定要注意观察___ 前面下划线位置应该填入哪个选项,只输出选项字母 A. 安全指示标志 B. 疏散方向 C. 疏散通道位置 D. 其他选项均可",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按社会危害程度、影响范围等因素，自然灾害、事故灾难、公共卫生事件分为()和一般四级 A. 重大、较大 B. 一级、二级、三级 C. 三级、二级、一级 D. 特别重大、重大、较大",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按社会危害程度、影响范围等因素，自然灾害、事故灾难、公共卫生事件分为()和一般四级 A. 重大、较大 B. 一级、二级、三级 C. 三级、二级、一级 D. 特别重大、重大、较大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国四大藏书阁之一的文渊阁位于 A. 北京 B. 西安 C. 杭州 D. 洛阳",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国四大藏书阁之一的文渊阁位于 A. 北京 B. 西安 C. 杭州 D. 洛阳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "近视眼患者不应常吃 A. 辣食 B. 火食 C. 甜食 D. 凉食",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "近视眼患者不应常吃 A. 辣食 B. 火食 C. 甜食 D. 凉食",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照《突发事件应对法》的规定，突发事件可分为()和社会安全事件 A. 自然灾害、事故灾难、公共卫生事件 B. 自然灾害、安全事故、卫生事故 C. 自然灾害、人为事故 D. 地震灾难、人为火灾、交通事故",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照《突发事件应对法》的规定，突发事件可分为()和社会安全事件 A. 自然灾害、事故灾难、公共卫生事件 B. 自然灾害、安全事故、卫生事故 C. 自然灾害、人为事故 D. 地震灾难、人为火灾、交通事故",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国五粮液最早酿造在哪个朝代 A. 明朝 B. 清朝 C. 元朝 D. 宋朝",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国五粮液最早酿造在哪个朝代 A. 明朝 B. 清朝 C. 元朝 D. 宋朝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "萝卜和水果能同时食用吗 A. 能 B. 因人而宜 C. 小孩不行 D. 不能",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "萝卜和水果能同时食用吗 A. 能 B. 因人而宜 C. 小孩不行 D. 不能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "柠檬汁有哪些营养含量 A. 维生素B6 B. 维生素A和维生素C C. 维生素C D. 维生素B1和维生素C",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "柠檬汁有哪些营养含量 A. 维生素B6 B. 维生素A和维生素C C. 维生素C D. 维生素B1和维生素C",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "安全色中的()表示提示、安全状态及通行的规定 A. 蓝色 B. 黄色 C. 绿色 D. 红色",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "安全色中的()表示提示、安全状态及通行的规定 A. 蓝色 B. 黄色 C. 绿色 D. 红色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上下学路上遭雷雨时 A. 躲到树下 B. 以上都是 C. 躲到高楼墙边 D. 尽量避开大树与高楼墙边",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "上下学路上遭雷雨时 A. 躲到树下 B. 以上都是 C. 躲到高楼墙边 D. 尽量避开大树与高楼墙边",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在雷雨天不要走近高压电杆、铁塔、避雷针，远离至少 A. 25米 B. 15米 C. 10米 D. 20米",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在雷雨天不要走近高压电杆、铁塔、避雷针，远离至少 A. 25米 B. 15米 C. 10米 D. 20米",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国唯一的两个皇帝合葬在一起的是唐高宗跟 A. 唐中宗 B. 武则天 C. 唐高祖 D. 唐太宗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国唯一的两个皇帝合葬在一起的是唐高宗跟 A. 唐中宗 B. 武则天 C. 唐高祖 D. 唐太宗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一般泡沫剂灭火器的射程是多少 A. 3米 B. 4米 C. 6米 D. 5米",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一般泡沫剂灭火器的射程是多少 A. 3米 B. 4米 C. 6米 D. 5米",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国军队中一个连辖3到4个排，大约有多少人 A. 150到200 B. 120到150 C. 50到100 D. 100到120",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国军队中一个连辖3到4个排，大约有多少人 A. 150到200 B. 120到150 C. 50到100 D. 100到120",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个主权国家中没有军队 A. 安道尔 B. 挪威 C. 海地 D. 瑞士",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个主权国家中没有军队 A. 安道尔 B. 挪威 C. 海地 D. 瑞士",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界最大的内陆国是 A. 阿富汗 B. 蒙古 C. 瑞士 D. 尼泊尔",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界最大的内陆国是 A. 阿富汗 B. 蒙古 C. 瑞士 D. 尼泊尔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "咱们常吃的辣椒属于什么类蔬菜 A. 茄果类 B. 叶菜类 C. 瓜菜类 D. 水生菜类",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "咱们常吃的辣椒属于什么类蔬菜 A. 茄果类 B. 叶菜类 C. 瓜菜类 D. 水生菜类",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列巴金作品中《家》《春》《寒夜》《憩园》属于中篇小说的有几部 A. 0 B. 3 C. 1 D. 2",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列巴金作品中《家》《春》《寒夜》《憩园》属于中篇小说的有几部 A. 0 B. 3 C. 1 D. 2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "防弹衣是由什么材料制成的 A. 软不透钢 B. 钨合金钢 C. 镍合金钢 D. 陶瓷玻璃钢",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "防弹衣是由什么材料制成的 A. 软不透钢 B. 钨合金钢 C. 镍合金钢 D. 陶瓷玻璃钢",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "12周岁以上的学生骑自行车 A. 不准带人 B. 可以带人 C. 可以撑伞骑 D. 以上都不是",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "12周岁以上的学生骑自行车 A. 不准带人 B. 可以带人 C. 可以撑伞骑 D. 以上都不是",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列著名建筑物哪个不属于法国 A. 比萨斜塔 B. 埃菲尔铁塔 C. 卢浮宫 D. 凯旋门",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列著名建筑物哪个不属于法国 A. 比萨斜塔 B. 埃菲尔铁塔 C. 卢浮宫 D. 凯旋门",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "未开启的罐头及真空包装的袋装食品，如果外包装发生鼓胀现象，你的判断是什么 A. 食品已变质，绝对不能吃 B. 食品发酵，但可以吃 C. 装袋时未将空气抽空，但无所谓 D. 食品装得太多了",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "未开启的罐头及真空包装的袋装食品，如果外包装发生鼓胀现象，你的判断是什么 A. 食品已变质，绝对不能吃 B. 食品发酵，但可以吃 C. 装袋时未将空气抽空，但无所谓 D. 食品装得太多了",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按吨位分，多少吨位才可算是大型航空母舰 A. 十吨 B. 六吨 C. 四吨 D. 五吨",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按吨位分，多少吨位才可算是大型航空母舰 A. 十吨 B. 六吨 C. 四吨 D. 五吨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种花有毒但可以止咳 A. 牡丹 B. 金银花 C. 曼陀罗 D. 丁香花",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种花有毒但可以止咳 A. 牡丹 B. 金银花 C. 曼陀罗 D. 丁香花",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "学生行为具有危险性，学校、教师已经告诫、纠正，但学生不听劝阻，拒不改正的，造成学生本人或者他人伤害事故，()应当依法承担相应的责任 A. 学生或者未成年学生监护 B. 值日教师 C. 学校 D. 班主任",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "学生行为具有危险性，学校、教师已经告诫、纠正，但学生不听劝阻，拒不改正的，造成学生本人或者他人伤害事故，()应当依法承担相应的责任 A. 学生或者未成年学生监护 B. 值日教师 C. 学校 D. 班主任",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "包扎法有哪几种 A. 其他选项均可 B. 绷带包扎法 C. 三角带包扎法 D. 多头带包扎法",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "包扎法有哪几种 A. 其他选项均可 B. 绷带包扎法 C. 三角带包扎法 D. 多头带包扎法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "埋在废墟中如何维持生命 A. 树立坚定的生存信念 B. 不要大哭大叫，应保存体力 C. 以上都对 D. 不要坐立不安，勉强行动，尽量休息，闭目养神",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "埋在废墟中如何维持生命 A. 树立坚定的生存信念 B. 不要大哭大叫，应保存体力 C. 以上都对 D. 不要坐立不安，勉强行动，尽量休息，闭目养神",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国第一座国家森林公园是 A. 长白山 B. 张家界 C. 九寨沟 D. 武夷山",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国第一座国家森林公园是 A. 长白山 B. 张家界 C. 九寨沟 D. 武夷山",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国古代四大美女中的“沉鱼”是用来形容哪一位 A. 貂蝉 B. 西施 C. 王昭君 D. 杨贵妃",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国古代四大美女中的“沉鱼”是用来形容哪一位 A. 貂蝉 B. 西施 C. 王昭君 D. 杨贵妃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三月节是我国哪个少数民族一年中最盛达的节日 A. 高山族 B. 维吾尔族 C. 黎族 D. 白族",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三月节是我国哪个少数民族一年中最盛达的节日 A. 高山族 B. 维吾尔族 C. 黎族 D. 白族",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发现车辆发生交通事故后逃逸的，你应当 A. 尽量记住车辆的号牌、车身颜色、车辆型号、车辆用途，逃逸方向等情况，并立即报警 B. 赶快离开现场以免不必要的麻烦 C. 在无急救知识的情况下自行抢救受伤人员 D. 自行追赶肇事车辆",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发现车辆发生交通事故后逃逸的，你应当 A. 尽量记住车辆的号牌、车身颜色、车辆型号、车辆用途，逃逸方向等情况，并立即报警 B. 赶快离开现场以免不必要的麻烦 C. 在无急救知识的情况下自行抢救受伤人员 D. 自行追赶肇事车辆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被狗咬伤，应在()小时内注射狂犬病疫苗和破伤风抗毒素 A. 1.5 B. 半 C. 24 D. 2",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被狗咬伤，应在()小时内注射狂犬病疫苗和破伤风抗毒素 A. 1.5 B. 半 C. 24 D. 2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "震后救人时对处于黑暗窒息、饥渴状态下埋压过久的人，正确的护理方法是 A. 尽快救出来，尽快进食 B. 尽快救出来，尽快见光亮 C. 尽快救出来，尽快输氧 D. 蒙上眼睛救出来，慢慢呼吸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "震后救人时对处于黑暗窒息、饥渴状态下埋压过久的人，正确的护理方法是 A. 尽快救出来，尽快进食 B. 尽快救出来，尽快见光亮 C. 尽快救出来，尽快输氧 D. 蒙上眼睛救出来，慢慢呼吸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发生火灾，楼道已被大火封锁，自救的办法 A. 跳楼 B. 以上都不是 C. 躲卫生间，关好门窗打开水龙头等待救援 D. 打开门窗大声呼救",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发生火灾，楼道已被大火封锁，自救的办法 A. 跳楼 B. 以上都不是 C. 躲卫生间，关好门窗打开水龙头等待救援 D. 打开门窗大声呼救",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按台风可能造成的影响程度，从轻到重向社会发布()台风预警信号 A. 红橙黄蓝 B. 红蓝黄橙 C. 蓝红黄橙 D. 蓝黄橙红",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按台风可能造成的影响程度，从轻到重向社会发布()台风预警信号 A. 红橙黄蓝 B. 红蓝黄橙 C. 蓝红黄橙 D. 蓝黄橙红",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "救护溺水者不恰当的方法是 A. AB B. 在岸边用长竹竿扔向落水者 C. 让被落水者的同学紧紧抱住，游向岸边 D. 携带救生圈、木板等漂浮物去救人",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "救护溺水者不恰当的方法是 A. AB B. 在岸边用长竹竿扔向落水者 C. 让被落水者的同学紧紧抱住，游向岸边 D. 携带救生圈、木板等漂浮物去救人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "老年人吃菜应多加些什么 A. 糖 B. 醋 C. 油 D. 盐",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "老年人吃菜应多加些什么 A. 糖 B. 醋 C. 油 D. 盐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "哈雷慧星多少年出现一次 A. 77年 B. 78年 C. 75年 D. 76年",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "哈雷慧星多少年出现一次 A. 77年 B. 78年 C. 75年 D. 76年",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "建立北魏的少数民族是 A. 鲜卑 B. 匈奴 C. 突厥 D. 羌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "建立北魏的少数民族是 A. 鲜卑 B. 匈奴 C. 突厥 D. 羌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "家庭常备应急物品储备箱里应包括 A. 计算器 B. 饮用水及其他 C. 收音机 D. 其他选项均可",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "家庭常备应急物品储备箱里应包括 A. 计算器 B. 饮用水及其他 C. 收音机 D. 其他选项均可",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "重一点的烫伤应立即用冷水冲洗()分钟以上 A. 30 B. 40 C. 20 D. 50",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "重一点的烫伤应立即用冷水冲洗()分钟以上 A. 30 B. 40 C. 20 D. 50",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "缺少哪种维生素后儿童易患佝偻病，成人易患软骨病 A. 维生素Ｂ B. 维生素D C. 维生素Ｃ D. 维生素Ａ",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "缺少哪种维生素后儿童易患佝偻病，成人易患软骨病 A. 维生素Ｂ B. 维生素D C. 维生素Ｃ D. 维生素Ａ",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "战国时期“百家争鸣”，其中有些留下自己的著作，《吕氏春秋》是哪一家的著作 A. 法家 B. 纵横家 C. 名家 D. 杂家",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "战国时期“百家争鸣”，其中有些留下自己的著作，《吕氏春秋》是哪一家的著作 A. 法家 B. 纵横家 C. 名家 D. 杂家",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "消防车和消防栓的颜色是 A. 黄色 B. 红色 C. 白色 D. 全对",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "消防车和消防栓的颜色是 A. 黄色 B. 红色 C. 白色 D. 全对",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "机动车右转向灯亮表示 A. 右转弯 B. 靠左停车 C. 危险报警闪光 D. 左转弯",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "机动车右转向灯亮表示 A. 右转弯 B. 靠左停车 C. 危险报警闪光 D. 左转弯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共聚集场所发生突发事件被踩倒不能站立时，应采取___姿势 前面下划线位置应该填入哪个选项,只输出选项字母 A. 身体蜷缩成球状，双手抱头 B. 仰面朝上 C. 平爬地上 D. 其他选项均可",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共聚集场所发生突发事件被踩倒不能站立时，应采取___姿势 前面下划线位置应该填入哪个选项,只输出选项字母 A. 身体蜷缩成球状，双手抱头 B. 仰面朝上 C. 平爬地上 D. 其他选项均可",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于溺水救护的知识，哪点是正确的 A. 将溺水的学生救上岸以后，不应该立即倒水 B. 经急救，溺水者已恢复心跳，可用湿毛巾擦遍全身 C. 倒水时用衣物将头部垫高 D. 撬开溺水者的口腔，取出口腔中的泥土、杂草并将舌头拉出口外",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于溺水救护的知识，哪点是正确的 A. 将溺水的学生救上岸以后，不应该立即倒水 B. 经急救，溺水者已恢复心跳，可用湿毛巾擦遍全身 C. 倒水时用衣物将头部垫高 D. 撬开溺水者的口腔，取出口腔中的泥土、杂草并将舌头拉出口外",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "铅球时，轮候投掷的学生站在投掷学生的()并保持适当的距离 A. 前面 B. 左侧 C. 后面 D. 右侧",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "铅球时，轮候投掷的学生站在投掷学生的()并保持适当的距离 A. 前面 B. 左侧 C. 后面 D. 右侧",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "学生擦窗时不正确的做法是 A. AB B. 不准站在窗台上擦窗 C. 必须有老师在场监督，有足够的安全保护措施 D. 擦窗时与他人聊天逗笑",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "学生擦窗时不正确的做法是 A. AB B. 不准站在窗台上擦窗 C. 必须有老师在场监督，有足够的安全保护措施 D. 擦窗时与他人聊天逗笑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "金属鋰保存在 A. 水中 B. 石蜡中 C. 酒精中 D. 煤油",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "金属鋰保存在 A. 水中 B. 石蜡中 C. 酒精中 D. 煤油",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被黄蜂蜇伤后，可以用___涂在患处 前面下划线位置应该填入哪个选项,只输出选项字母 A. 白酒 B. 纯酒精 C. 清凉油 D. 食用醋",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被黄蜂蜇伤后，可以用___涂在患处 前面下划线位置应该填入哪个选项,只输出选项字母 A. 白酒 B. 纯酒精 C. 清凉油 D. 食用醋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列名关哪一座被称为“天下第一关” A. 居庸关 B. 山海关 C. 娘子关 D. 潼门关",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列名关哪一座被称为“天下第一关” A. 居庸关 B. 山海关 C. 娘子关 D. 潼门关",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪次古代著名战役确立了三国鼎立局面 A. 夷陵之战 B. 官渡之战 C. 长平之战 D. 赤壁之战",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪次古代著名战役确立了三国鼎立局面 A. 夷陵之战 B. 官渡之战 C. 长平之战 D. 赤壁之战",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "火警电话是 A. 110 B. 119 C. 911 D. 114",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "火警电话是 A. 110 B. 119 C. 911 D. 114",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在哪一年国际体育会议做出在希腊雅典召开首届现代奥运会 A. 1892 B. 1896 C. 1891 D. 1893",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在哪一年国际体育会议做出在希腊雅典召开首届现代奥运会 A. 1892 B. 1896 C. 1891 D. 1893",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在野外被蛇咬伤 A. 坐在原地等大人 B. 赶快跑回家，但不告诉家长 C. 赶快跑回家，告诉家长 D. 用布带等在离伤口3到5厘米的地方扎紧",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在野外被蛇咬伤 A. 坐在原地等大人 B. 赶快跑回家，但不告诉家长 C. 赶快跑回家，告诉家长 D. 用布带等在离伤口3到5厘米的地方扎紧",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "金店里出售的Ｋ白金首饰的主要成分是 A. 铜 B. 铂 C. 金 D. 白银",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "金店里出售的Ｋ白金首饰的主要成分是 A. 铜 B. 铂 C. 金 D. 白银",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一个城市不是我国的“三大火炉”(高温)之一 A. 成都 B. 南京 C. 重庆 D. 武汉",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一个城市不是我国的“三大火炉”(高温)之一 A. 成都 B. 南京 C. 重庆 D. 武汉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不是鲁迅的杂文集的是 A. 《伪自由书》 B. 《南腔北调集》 C. 《野草》 D. 《热风》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不是鲁迅的杂文集的是 A. 《伪自由书》 B. 《南腔北调集》 C. 《野草》 D. 《热风》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第二次世界大战中死亡人数最多的国家是 A. 德国 B. 前苏联 C. 中国 D. 日本",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第二次世界大战中死亡人数最多的国家是 A. 德国 B. 前苏联 C. 中国 D. 日本",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果不幸遇绑架，下面的哪些自救方法是非常有效的 A. 不要激恕歹徒，尽量保护自己不受伤害 B. 不放弃希望，寻找机会报警或逃离 C. 牢记与救援和破案有关的信息：如歹徒的人数、姓名、身形、口音等特征，还有劫持的时间、地点、劫持的方向，劫往地点，自己所处环境等 D. 以上都是",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果不幸遇绑架，下面的哪些自救方法是非常有效的 A. 不要激恕歹徒，尽量保护自己不受伤害 B. 不放弃希望，寻找机会报警或逃离 C. 牢记与救援和破案有关的信息：如歹徒的人数、姓名、身形、口音等特征，还有劫持的时间、地点、劫持的方向，劫往地点，自己所处环境等 D. 以上都是",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列四个著名代号哪个是二战时日本偷袭珍珠港的代号 A. 托拉 B. 宝石 C. 霸王 D. 巴巴罗沙",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列四个著名代号哪个是二战时日本偷袭珍珠港的代号 A. 托拉 B. 宝石 C. 霸王 D. 巴巴罗沙",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "交通标志中黄灯的作用是 A. 继续前进 B. AB C. 停下来等 D. 做准备工作",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "交通标志中黄灯的作用是 A. 继续前进 B. AB C. 停下来等 D. 做准备工作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列历史上的事变是李世民发动的是 A. 玄武门之变 B. 陈桥兵变 C. 靖康之变 D. 土木之变",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列历史上的事变是李世民发动的是 A. 玄武门之变 B. 陈桥兵变 C. 靖康之变 D. 土木之变",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "行人通过路口或者横过道路时，应当 A. 走人行横道或者过街设施 B. 走到路中间遇有车辆又退了回来 C. 不注意瞭望，确保安全后通行 D. 从相对路口径直走向要到达的路口",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "行人通过路口或者横过道路时，应当 A. 走人行横道或者过街设施 B. 走到路中间遇有车辆又退了回来 C. 不注意瞭望，确保安全后通行 D. 从相对路口径直走向要到达的路口",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电话报警时应讲清楚：火灾发生地点的单位名称()和烧何物品;在哪一层着火;报警人的姓名和电话号码 A. 地址 B. 性质 C. 法人名称 D. AC",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电话报警时应讲清楚：火灾发生地点的单位名称()和烧何物品;在哪一层着火;报警人的姓名和电话号码 A. 地址 B. 性质 C. 法人名称 D. AC",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人体全身有多少块肌肉 A. 300多块 B. 400多块 C. 500多块 D. 600多块",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人体全身有多少块肌肉 A. 300多块 B. 400多块 C. 500多块 D. 600多块",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电器起火，正确的处理办法是 A. 用水扑救 B. 首先切断电源，然后灭火 C. 用沙土迅速覆盖 D. 用潮湿的物品捂盖",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电器起火，正确的处理办法是 A. 用水扑救 B. 首先切断电源，然后灭火 C. 用沙土迅速覆盖 D. 用潮湿的物品捂盖",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已制作好的食品至食用前如超过()小时的存放时间或剩余食品需要贮存时，存放条件必须是在60℃以上或10℃以下 A. 半 B. 2 C. 3 D. 1",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已制作好的食品至食用前如超过()小时的存放时间或剩余食品需要贮存时，存放条件必须是在60℃以上或10℃以下 A. 半 B. 2 C. 3 D. 1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "千万不要到()去玩耍 A. 沙滩 B. 建筑工地 C. 乐园 D. 操场",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "千万不要到()去玩耍 A. 沙滩 B. 建筑工地 C. 乐园 D. 操场",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "柚在什么季节成熟 A. 秋季 B. 春季 C. 冬季 D. 夏季",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "柚在什么季节成熟 A. 秋季 B. 春季 C. 冬季 D. 夏季",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "吃太多手摇爆米花机爆出的米花会导致 A. 铅中毒 B. 铬中毒 C. 锡中毒 D. 碘中毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "吃太多手摇爆米花机爆出的米花会导致 A. 铅中毒 B. 铬中毒 C. 锡中毒 D. 碘中毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按年呑吐量算世界最大的港口是 A. 上海港 B. 鹿特丹港 C. 纽约港 D. 神户港",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按年呑吐量算世界最大的港口是 A. 上海港 B. 鹿特丹港 C. 纽约港 D. 神户港",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于合理饮食有利于健康的下列说法正确的是 A. 养成良好的饮食习惯，多吃蔬菜、水果等碱性食物 B. 饮用水越纯净越好 C. AB D. 没有水就没有生命",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于合理饮食有利于健康的下列说法正确的是 A. 养成良好的饮食习惯，多吃蔬菜、水果等碱性食物 B. 饮用水越纯净越好 C. AB D. 没有水就没有生命",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "柳宗元在《三戒》中借三种动物的故事讽刺了那些或恃宠而骄，或盲目自大的得意忘形之徒，并指出它们自取灭亡的下场。下列有哪一种不是提到的三种动物中的一种 A. 麋 B. 鼠 C. 狗 D. 驴",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "柳宗元在《三戒》中借三种动物的故事讽刺了那些或恃宠而骄，或盲目自大的得意忘形之徒，并指出它们自取灭亡的下场。下列有哪一种不是提到的三种动物中的一种 A. 麋 B. 鼠 C. 狗 D. 驴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果破了伤口用什么洗不可以消炎 A. 盐水 B. 温水 C. 双氧水 D. 酒精",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果破了伤口用什么洗不可以消炎 A. 盐水 B. 温水 C. 双氧水 D. 酒精",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "地震时身体应采取()的姿势躲藏 A. 伏而待定 B. 其他选项均可 C. 蹲下或坐下 D. 尽量蜷曲身体，降低身体重心",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "地震时身体应采取()的姿势躲藏 A. 伏而待定 B. 其他选项均可 C. 蹲下或坐下 D. 尽量蜷曲身体，降低身体重心",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在日常生活中，热烫伤是常见的。当你遇到手部热烧伤时，正确的应急处置方法是 A. 不采取任何措施 B. 迅速将烧伤的手置于冷水中，并不断用冷水冲洗 C. 迅速将烧伤的手脱离热源，并对烧伤的手进行包扎 D. 迅速将烧伤的手置于热水中，并不断用热水冲洗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在日常生活中，热烫伤是常见的。当你遇到手部热烧伤时，正确的应急处置方法是 A. 不采取任何措施 B. 迅速将烧伤的手置于冷水中，并不断用冷水冲洗 C. 迅速将烧伤的手脱离热源，并对烧伤的手进行包扎 D. 迅速将烧伤的手置于热水中，并不断用热水冲洗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "牙膏的主要原料是 A. 保湿剂 B. 摩擦剂 C. 泡沫剂 D. 香味剂",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "牙膏的主要原料是 A. 保湿剂 B. 摩擦剂 C. 泡沫剂 D. 香味剂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在玻璃上可标度时用到一种酸，该酸是 A. 氰氢酸 B. 硫酸 C. 稀盐酸 D. 氢氟酸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在玻璃上可标度时用到一种酸，该酸是 A. 氰氢酸 B. 硫酸 C. 稀盐酸 D. 氢氟酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界国土面积最小的国家是 A. 图瓦卢 B. 瑙鲁 C. 梵蒂冈 D. 摩纳哥",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界国土面积最小的国家是 A. 图瓦卢 B. 瑙鲁 C. 梵蒂冈 D. 摩纳哥",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果在校外有人向你勒索金钱，事后你最应该做什么 A. 以上都不是 B. 以后每天带点钱，免得没钱挨打 C. 不能让任何人知道这件事，免得遭报复 D. 尽快告诉爸爸妈妈或老师",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果在校外有人向你勒索金钱，事后你最应该做什么 A. 以上都不是 B. 以后每天带点钱，免得没钱挨打 C. 不能让任何人知道这件事，免得遭报复 D. 尽快告诉爸爸妈妈或老师",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "夏季在烈日下工作或运动量过大出汗多时，为预防中暑应多喝 A. 糖水 B. 靠左停车白开水 C. 糖醋水 D. 盐开水",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "夏季在烈日下工作或运动量过大出汗多时，为预防中暑应多喝 A. 糖水 B. 靠左停车白开水 C. 糖醋水 D. 盐开水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "戛纳电影节是在哪里举办 A. 英国 B. 意大利 C. 法国 D. 德国",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "戛纳电影节是在哪里举办 A. 英国 B. 意大利 C. 法国 D. 德国",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "吃海鲜时不宜饮用下列哪种酒 A. 干白 B. 干红 C. 茅台 D. 啤酒",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "吃海鲜时不宜饮用下列哪种酒 A. 干白 B. 干红 C. 茅台 D. 啤酒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人体可以导电是因为人体中含有 A. 蛋白质 B. 水 C. 金属元素 D. 脂肪",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人体可以导电是因为人体中含有 A. 蛋白质 B. 水 C. 金属元素 D. 脂肪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“泾渭分明”指的是 A. 泾水清，渭水浊 B. 泾水混，渭水清 C. 地球经纬度分明 D. 织物经纬线区别",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“泾渭分明”指的是 A. 泾水清，渭水浊 B. 泾水混，渭水清 C. 地球经纬度分明 D. 织物经纬线区别",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《梅花三弄》是 A. 笛子曲 B. 筝曲 C. 琴曲 D. 琵琶曲",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《梅花三弄》是 A. 笛子曲 B. 筝曲 C. 琴曲 D. 琵琶曲",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "学生或者其监护人知道学生有特异体质，或者患者有特定疾病，但未告知学校，造成学生伤害事故，()应当依法承担相应的责任 A. 校医 B. 学生或者未成年学生监护人 C. 体育老师 D. 体检医生",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "学生或者其监护人知道学生有特异体质，或者患者有特定疾病，但未告知学校，造成学生伤害事故，()应当依法承担相应的责任 A. 校医 B. 学生或者未成年学生监护人 C. 体育老师 D. 体检医生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "永乐大典是在哪里编成的 A. 四川 B. 上海 C. 南京 D. 北京",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "永乐大典是在哪里编成的 A. 四川 B. 上海 C. 南京 D. 北京",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "子君和涓生是鲁迅哪部小说中的主人公 A. 《伤逝》 B. 《狂人日记》 C. 《离婚》 D. 《风波》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "子君和涓生是鲁迅哪部小说中的主人公 A. 《伤逝》 B. 《狂人日记》 C. 《离婚》 D. 《风波》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发现人员燃气中毒时，下列正确的做法为 A. 立即打开电灯 B. 立即在房间内打电话 C. 立即打开门窗 D. 迅速用明火查找燃气泄漏点",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发现人员燃气中毒时，下列正确的做法为 A. 立即打开电灯 B. 立即在房间内打电话 C. 立即打开门窗 D. 迅速用明火查找燃气泄漏点",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第一次世界大战开始的时间是 A. 1940 B. 1939 C. 1910 D. 1914",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第一次世界大战开始的时间是 A. 1940 B. 1939 C. 1910 D. 1914",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "遭遇地震时，如果室内没有可藏身的家具怎么办 A. 地震发生时，若室内无可藏身的家具，应立即躲到墙根、墙角或远离窗子的室内门道里 B. 身体应紧贴墙根、墙角，头部尽量靠近墙面 C. 其他选项均可 D. 可随手取些被褥、枕头，掩住自己的头部",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "遭遇地震时，如果室内没有可藏身的家具怎么办 A. 地震发生时，若室内无可藏身的家具，应立即躲到墙根、墙角或远离窗子的室内门道里 B. 身体应紧贴墙根、墙角，头部尽量靠近墙面 C. 其他选项均可 D. 可随手取些被褥、枕头，掩住自己的头部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中华人民共和国国旗五星红旗的设计者是 A. 曾联松 B. 毛泽东 C. 周恩来 D. 梁思成",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中华人民共和国国旗五星红旗的设计者是 A. 曾联松 B. 毛泽东 C. 周恩来 D. 梁思成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了健康应避免食用以下哪种果蔬皮 A. 南瓜 B. 黄瓜 C. 柿子 D. 丝瓜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了健康应避免食用以下哪种果蔬皮 A. 南瓜 B. 黄瓜 C. 柿子 D. 丝瓜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪位不是清末被杀害的“戊戌六君子”之一 A. 林旭 B. 刘光第 C. 康有为 D. 杨锐",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪位不是清末被杀害的“戊戌六君子”之一 A. 林旭 B. 刘光第 C. 康有为 D. 杨锐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果你经常外出带着家门的钥匙，下面的哪种做法最不安全 A. 把钥匙放在衣兜里 B. 把钥匙挂在脖子上 C. 把钥匙放在随身的包里 D. 把钥匙放在手里",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果你经常外出带着家门的钥匙，下面的哪种做法最不安全 A. 把钥匙放在衣兜里 B. 把钥匙挂在脖子上 C. 把钥匙放在随身的包里 D. 把钥匙放在手里",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界上最大的鲸是什么鲸 A. 虎鲸 B. 抹香鲸 C. 角鲸 D. 蓝鲸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界上最大的鲸是什么鲸 A. 虎鲸 B. 抹香鲸 C. 角鲸 D. 蓝鲸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "秒摆的周期是()秒 A. 2 B. 1 C. 4 D. 3",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "秒摆的周期是()秒 A. 2 B. 1 C. 4 D. 3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在放学后、节假日或者假期等学校工作时间以外，学生发生的伤害事故，学校()法律责任 A. 有 B. 无，但要赔偿医疗费用 C. 无 D. 有一部分",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在放学后、节假日或者假期等学校工作时间以外，学生发生的伤害事故，学校()法律责任 A. 有 B. 无，但要赔偿医疗费用 C. 无 D. 有一部分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "购物时应该认准的标志是 A. “sq” B. “SQ” C. “qs” D. “QS”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "购物时应该认准的标志是 A. “sq” B. “SQ” C. “qs” D. “QS”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "高压锅要经常检查排气孔是否畅通，一般()个月更换一次易熔片 A. 3 B. 6 C. 5 D. 4",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "高压锅要经常检查排气孔是否畅通，一般()个月更换一次易熔片 A. 3 B. 6 C. 5 D. 4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发现食物中毒后，自己能采取的最有效的一项应急措施是什么 A. 催吐 B. 服药 C. 呼救 D. 休息",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发现食物中毒后，自己能采取的最有效的一项应急措施是什么 A. 催吐 B. 服药 C. 呼救 D. 休息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列世界奇迹哪个位于伊拉克 A. 太阳神像 B. 空中花园 C. 宙斯神像 D. 金字塔",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列世界奇迹哪个位于伊拉克 A. 太阳神像 B. 空中花园 C. 宙斯神像 D. 金字塔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与呼吸道传染病患者接触时，须带上 A. 手套 B. 口罩 C. 隔离服 D. 防毒面具",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与呼吸道传染病患者接触时，须带上 A. 手套 B. 口罩 C. 隔离服 D. 防毒面具",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "调味剂和营养剂加得越多越好9、低盐饮食有利于预防什么疾病 A. 高血压 B. 贫血 C. 糖尿病 D. 乙型肝炎",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "调味剂和营养剂加得越多越好9、低盐饮食有利于预防什么疾病 A. 高血压 B. 贫血 C. 糖尿病 D. 乙型肝炎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在校园里未经老师同意，擅自溜出校门购物，玩耍出了事 A. 学生自己负责 B. 监护人负责 C. 班主任负责 D. 学校负责",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在校园里未经老师同意，擅自溜出校门购物，玩耍出了事 A. 学生自己负责 B. 监护人负责 C. 班主任负责 D. 学校负责",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果不幸溺水，当有人救你的时候，你应该怎么样配合别人 A. 身体放松 B. AB C. 让救你的人托着你的腰部 D. 拉着救你的人",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果不幸溺水，当有人救你的时候，你应该怎么样配合别人 A. 身体放松 B. AB C. 让救你的人托着你的腰部 D. 拉着救你的人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "天然食品中，营养最完整和易于吸收的是 A. 谷物 B. 乳类 C. 鱼类 D. 水果",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "天然食品中，营养最完整和易于吸收的是 A. 谷物 B. 乳类 C. 鱼类 D. 水果",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "每年()，学校要开展预防溺水事故的安全教育专题活动 A. 6到7月份 B. 4到5月份 C. 7到8月份 D. 5到6月份",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "每年()，学校要开展预防溺水事故的安全教育专题活动 A. 6到7月份 B. 4到5月份 C. 7到8月份 D. 5到6月份",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "成语“闻鸡起舞”“中流击楫”是出自哪个古代将领的故事 A. 祖逖 B. 戚继光 C. 岳飞 D. 郑成功",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "成语“闻鸡起舞”“中流击楫”是出自哪个古代将领的故事 A. 祖逖 B. 戚继光 C. 岳飞 D. 郑成功",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "老年人一天吃几只鸡蛋才合适 A. 2只 B. 2到3只 C. 1到2只 D. 1只",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "老年人一天吃几只鸡蛋才合适 A. 2只 B. 2到3只 C. 1到2只 D. 1只",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "误将碘酒喝下而引起中毒，用()冲洗 A. 肥皂水 B. 牛奶 C. 米汤 D. 清水",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "误将碘酒喝下而引起中毒，用()冲洗 A. 肥皂水 B. 牛奶 C. 米汤 D. 清水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界无烟日是 A. 4月30日 B. 6月29日 C. 5月31日 D. 7月31日",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界无烟日是 A. 4月30日 B. 6月29日 C. 5月31日 D. 7月31日",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "蚊子在晚上如何找到目标 A. 视觉 B. 听觉 C. 温度 D. 嗅觉",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "蚊子在晚上如何找到目标 A. 视觉 B. 听觉 C. 温度 D. 嗅觉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通常被人们称为通天河的是 A. 湟水 B. 川江 C. 沱沱河 D. 香江",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通常被人们称为通天河的是 A. 湟水 B. 川江 C. 沱沱河 D. 香江",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“名落孙山”中的“孙山”是一个 A. 地名 B. 酒名 C. 官名 D. 人名",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“名落孙山”中的“孙山”是一个 A. 地名 B. 酒名 C. 官名 D. 人名",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "歌剧《图兰朵》中采用了我国哪首民歌的曲调 A. 白毛女 B. 茉莉花 C. 兰花 D. 南泥湾",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "歌剧《图兰朵》中采用了我国哪首民歌的曲调 A. 白毛女 B. 茉莉花 C. 兰花 D. 南泥湾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通常可以自制哪种所需维生素 A. 维生素D B. 维生素B C. 维生素A D. 维生素E",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通常可以自制哪种所需维生素 A. 维生素D B. 维生素B C. 维生素A D. 维生素E",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电动自行车在非机动车道内行驶时，最高时速不得超过 A. 30公里 B. 20公里 C. 15公里 D. 25公里",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电动自行车在非机动车道内行驶时，最高时速不得超过 A. 30公里 B. 20公里 C. 15公里 D. 25公里",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人们在避震“自救瞬间”的首先选择的是 A. 先保护胸部 B. 先保护头 C. 先保护双脚 D. 先保护双手",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人们在避震“自救瞬间”的首先选择的是 A. 先保护胸部 B. 先保护头 C. 先保护双脚 D. 先保护双手",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "牛奶不宜与下列哪些水果同吃 A. 香蕉 B. 苹果 C. 橘子 D. 梨",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "牛奶不宜与下列哪些水果同吃 A. 香蕉 B. 苹果 C. 橘子 D. 梨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“QS”是食品质量安全市场()的简称 A. 准入证 B. 出售证 C. 厂家的代码 D. 英文缩写",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“QS”是食品质量安全市场()的简称 A. 准入证 B. 出售证 C. 厂家的代码 D. 英文缩写",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一种是舰艇装备最广泛的主力战舰 A. 驱逐舰 B. 巡洋舰 C. 战列舰 D. 护卫舰",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一种是舰艇装备最广泛的主力战舰 A. 驱逐舰 B. 巡洋舰 C. 战列舰 D. 护卫舰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "燃气用具使用完毕后 A. 以上都对 B. 首先关掉总阀门，然后关掉灶具阀门 C. 要关掉总阀门，灶具阀门可以不关 D. 要关掉灶具阀门，总阀门可以不关",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "燃气用具使用完毕后 A. 以上都对 B. 首先关掉总阀门，然后关掉灶具阀门 C. 要关掉总阀门，灶具阀门可以不关 D. 要关掉灶具阀门，总阀门可以不关",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "哪个国家最早发行体育彩票 A. 埃及 B. 希腊 C. 德国 D. 意大利",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "哪个国家最早发行体育彩票 A. 埃及 B. 希腊 C. 德国 D. 意大利",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发生地震后应不顾一切的保护哪个部位 A. 胸部 B. 颈部 C. 腹部 D. 头部",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发生地震后应不顾一切的保护哪个部位 A. 胸部 B. 颈部 C. 腹部 D. 头部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "什么样的水不能喝 A. 全是 B. 长时间没有更换滤芯的净水器滤出的水D C. 每天早上水龙头最初流出的水 D. 煮开时间太长的水、泡了很久的茶",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "什么样的水不能喝 A. 全是 B. 长时间没有更换滤芯的净水器滤出的水D C. 每天早上水龙头最初流出的水 D. 煮开时间太长的水、泡了很久的茶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "碘缺乏会导致儿童、青少年 A. 心理疾病 B. 甲亢 C. 无力 D. 生长发育和智力受影响",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "碘缺乏会导致儿童、青少年 A. 心理疾病 B. 甲亢 C. 无力 D. 生长发育和智力受影响",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国古代哪个朝代的“状元”最多 A. 宋朝 B. 清朝 C. 唐朝 D. 明朝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国古代哪个朝代的“状元”最多 A. 宋朝 B. 清朝 C. 唐朝 D. 明朝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "每年的11月9日被确定为 A. 禁毒日 B. 护士节 C. 安全生产日 D. 消防安全日",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "每年的11月9日被确定为 A. 禁毒日 B. 护士节 C. 安全生产日 D. 消防安全日",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "使用人工点火的燃气灶具，在点火时要坚持的原则是 A. “火等气” B. 先放气 C. 气火同时 D. 气等火”",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "使用人工点火的燃气灶具，在点火时要坚持的原则是 A. “火等气” B. 先放气 C. 气火同时 D. 气等火”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "饮用豆浆应注意什么 A. 以上都是 B. 豆浆中不能冲入鸡蛋 C. 豆浆彻底煮开，不要用保温瓶储存豆浆 D. 不要空腹饮豆浆，不要过量饮豆浆",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "饮用豆浆应注意什么 A. 以上都是 B. 豆浆中不能冲入鸡蛋 C. 豆浆彻底煮开，不要用保温瓶储存豆浆 D. 不要空腹饮豆浆，不要过量饮豆浆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "洲际导弹的射程一般在多少公里以上 A. 一百 B. 十万 C. 一万 D. 一千",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "洲际导弹的射程一般在多少公里以上 A. 一百 B. 十万 C. 一万 D. 一千",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国第一部编年体历史散文著作是 A. 左传 B. 《战国策》 C. 《吕氏春秋》 D. 《国语》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国第一部编年体历史散文著作是 A. 左传 B. 《战国策》 C. 《吕氏春秋》 D. 《国语》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "二战时，日本偷袭美国珍珠港是在哪一年 A. 1940 B. 1939 C. 1941 D. 1942",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "二战时，日本偷袭美国珍珠港是在哪一年 A. 1940 B. 1939 C. 1941 D. 1942",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当您被困在电梯里怎么办 A. 从天花板上的紧急出口爬出去 B. 从电梯里的警钟或对话机来求救或者敲击电梯门或大声呼喊 C. AB D. 强行打开内门，再打开外门自救",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当您被困在电梯里怎么办 A. 从天花板上的紧急出口爬出去 B. 从电梯里的警钟或对话机来求救或者敲击电梯门或大声呼喊 C. AB D. 强行打开内门，再打开外门自救",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "信号弹白天也可以发射，只是要用什么样的信号颜色 A. 绿色 B. 红色 C. 黄色 D. 白色",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "信号弹白天也可以发射，只是要用什么样的信号颜色 A. 绿色 B. 红色 C. 黄色 D. 白色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "几级震级以上的地震为破坏性地震 A. 5级 B. 7级 C. 6级 D. 4级",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "几级震级以上的地震为破坏性地震 A. 5级 B. 7级 C. 6级 D. 4级",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "所谓的“33211”环境工程中的海指的是 A. 东海 B. 黄海 C. 南海 D. 渤海",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "所谓的“33211”环境工程中的海指的是 A. 东海 B. 黄海 C. 南海 D. 渤海",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果在楼房里，突然发生地震，最安全、最有效的办法是，及时躲到两个承重墙之间最小的房间，如 A. 封闭式阳台 B. 书房 C. 卧室 D. 厕所、厨房",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果在楼房里，突然发生地震，最安全、最有效的办法是，及时躲到两个承重墙之间最小的房间，如 A. 封闭式阳台 B. 书房 C. 卧室 D. 厕所、厨房",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "购买食品时，你要注意 A. A与B B. 生产厂家 C. 生产日期 D. 生产厂家、生产日期、保质期",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "购买食品时，你要注意 A. A与B B. 生产厂家 C. 生产日期 D. 生产厂家、生产日期、保质期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国第一大河长江有多长 A. 7800公里 B. 6300公里 C. 5400公里 D. 7300公里",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国第一大河长江有多长 A. 7800公里 B. 6300公里 C. 5400公里 D. 7300公里",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国四大名亭中哪一座亭名是毛泽东题的 A. 湖心亭 B. 陶然亭 C. 醉翁亭 D. 爱晚亭",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国四大名亭中哪一座亭名是毛泽东题的 A. 湖心亭 B. 陶然亭 C. 醉翁亭 D. 爱晚亭",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "家用电器在使用过程中，下列说法不正确的是 A. 禁止用湿手操作开关或插拔电源插头 B. AB C. 不能用湿手更换灯泡 D. 不必切断电源，即移动器具",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "家用电器在使用过程中，下列说法不正确的是 A. 禁止用湿手操作开关或插拔电源插头 B. AB C. 不能用湿手更换灯泡 D. 不必切断电源，即移动器具",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在操场或室外应该怎样避震?请问：以下方式哪种是不正确的 A. 不要乱跑、乱挤，待地震过去后，再按老师指挥行动 B. 注意避开高大建筑物或危险物 C. 发生地震时赶紧回到教室去 D. 若在开阔地方，可原地不动，蹲下，注意保护头部",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在操场或室外应该怎样避震?请问：以下方式哪种是不正确的 A. 不要乱跑、乱挤，待地震过去后，再按老师指挥行动 B. 注意避开高大建筑物或危险物 C. 发生地震时赶紧回到教室去 D. 若在开阔地方，可原地不动，蹲下，注意保护头部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "吉林省抚松县被人们称为是哪种药材之乡 A. 枸杞 B. 田七 C. 人参 D. 当归",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "吉林省抚松县被人们称为是哪种药材之乡 A. 枸杞 B. 田七 C. 人参 D. 当归",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国四大石窟中的麦积山石窟位于 A. 山西 B. 天水 C. 洛阳 D. 甘肃",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国四大石窟中的麦积山石窟位于 A. 山西 B. 天水 C. 洛阳 D. 甘肃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“文房四宝”中的毛笔是谁发明的 A. 闻仲 B. 蒙恬 C. 乐毅 D. 刘伯温",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“文房四宝”中的毛笔是谁发明的 A. 闻仲 B. 蒙恬 C. 乐毅 D. 刘伯温",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "感冒忌用下列哪一种食物 A. 青菜 B. 海鱼 C. 生姜 D. 豆浆",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "感冒忌用下列哪一种食物 A. 青菜 B. 海鱼 C. 生姜 D. 豆浆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "苹果中含有增强记忆力的微量元素是 A. 钙 B. 锌 C. 铁 D. 碘",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "苹果中含有增强记忆力的微量元素是 A. 钙 B. 锌 C. 铁 D. 碘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "紧急情况下可以通过___发出求救信号求援 前面下划线位置应该填入哪个选项,只输出选项字母 A. 颜色鲜亮的旗子或布料 B. 火焰、浓烟 C. 其他选项均可 D. 罐头盒盖、玻璃或金属片",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "紧急情况下可以通过___发出求救信号求援 前面下划线位置应该填入哪个选项,只输出选项字母 A. 颜色鲜亮的旗子或布料 B. 火焰、浓烟 C. 其他选项均可 D. 罐头盒盖、玻璃或金属片",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《共产党》月刊创办于是1920年11月，主编是谁 A. 李达 B. 陈望道 C. 李汉俊 D. 李大钊",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《共产党》月刊创办于是1920年11月，主编是谁 A. 李达 B. 陈望道 C. 李汉俊 D. 李大钊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "古代钱的单位“贯”是多少 A. 一枚铜钱 B. 十枚铜钱 C. 千枚铜钱 D. 百枚铜钱",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "古代钱的单位“贯”是多少 A. 一枚铜钱 B. 十枚铜钱 C. 千枚铜钱 D. 百枚铜钱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发现道路上发生交通事故应当 A. 不知所措 B. 凑热闹 C. 视而不见 D. 立即报警并给予协助",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发现道路上发生交通事故应当 A. 不知所措 B. 凑热闹 C. 视而不见 D. 立即报警并给予协助",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在对抗性或者具有风险性的体育竞赛活动中发生意外伤害的，学校已履行了相应职责，行为并无不当的，学校（）法律责任 A. 有 B. 无 C. 有一部分 D. 无，但要赔偿经济损失",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在对抗性或者具有风险性的体育竞赛活动中发生意外伤害的，学校已履行了相应职责，行为并无不当的，学校（）法律责任 A. 有 B. 无 C. 有一部分 D. 无，但要赔偿经济损失",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "个人避震就近躲避的不当的做法是 A. 用手保护头部或后颈，或用衣被顶在头上 B. 降低身体重心，蹲下或席地坐下 C. 紧抓桌腿或身边牢固的物体，以免摔倒 D. 张大眼睛，用湿毛巾捂住口鼻以防灰尘、毒气",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "个人避震就近躲避的不当的做法是 A. 用手保护头部或后颈，或用衣被顶在头上 B. 降低身体重心，蹲下或席地坐下 C. 紧抓桌腿或身边牢固的物体，以免摔倒 D. 张大眼睛，用湿毛巾捂住口鼻以防灰尘、毒气",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界最高的塔是哪一座 A. 莫斯科塔 B. 埃菲尔铁塔 C. 东柏林塔 D. 哈利法塔",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界最高的塔是哪一座 A. 莫斯科塔 B. 埃菲尔铁塔 C. 东柏林塔 D. 哈利法塔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "列哪座山不属于我国四大佛山之一 A. 雁荡山 B. 五台山 C. 峨眉山 D. 九华山",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "列哪座山不属于我国四大佛山之一 A. 雁荡山 B. 五台山 C. 峨眉山 D. 九华山",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "历史上的“约法三章”是由谁先提出的 A. 刘邦 B. 诸葛亮 C. 刘备 D. 朱元章",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "历史上的“约法三章”是由谁先提出的 A. 刘邦 B. 诸葛亮 C. 刘备 D. 朱元章",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列常用英语求救单词与意思对应正确的是 A. S0S求救 B. HELP送出 C. SEND迷失 D. LOST受困",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列常用英语求救单词与意思对应正确的是 A. S0S求救 B. HELP送出 C. SEND迷失 D. LOST受困",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "学校确无过错的情况下，学生因行为不当对自己造成伤害，其责任由()负责 A. 班主任 B. 学生 C. 家长 D. 学校",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "学校确无过错的情况下，学生因行为不当对自己造成伤害，其责任由()负责 A. 班主任 B. 学生 C. 家长 D. 学校",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "煎荷包蛋时，在热锅里加什么可以防止油的飞溅 A. 淀粉 B. 温水 C. 酱油 D. 盐",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "煎荷包蛋时，在热锅里加什么可以防止油的飞溅 A. 淀粉 B. 温水 C. 酱油 D. 盐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列蔬菜，哪些会引起食物中毒 A. AC B. 已发芽的土豆 C. 未煮熟的扁豆 D. 生韭菜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列蔬菜，哪些会引起食物中毒 A. AC B. 已发芽的土豆 C. 未煮熟的扁豆 D. 生韭菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种东西可以帮人降低血脂 A. 牛奶 B. 白开水 C. 豆浆 D. 盐水",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种东西可以帮人降低血脂 A. 牛奶 B. 白开水 C. 豆浆 D. 盐水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在教育教学活动过程中，教师叫学生到办公室取有关教学器材，造成学生伤害的，学校 A. 负间接责任 B. 无责任，教师有责任 C. 无责任 D. 负直接责任",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在教育教学活动过程中，教师叫学生到办公室取有关教学器材，造成学生伤害的，学校 A. 负间接责任 B. 无责任，教师有责任 C. 无责任 D. 负直接责任",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用手提式灭火器灭火的正确方法是 A. 一手提灭火器并下压压把 B. 拨去保险插销 C. 其他选项均可 D. 一手紧握灭火器喷嘴",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用手提式灭火器灭火的正确方法是 A. 一手提灭火器并下压压把 B. 拨去保险插销 C. 其他选项均可 D. 一手紧握灭火器喷嘴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "格林尼威天文台位于哪个城市 A. 巴黎 B. 柏林 C. 华盛顿 D. 伦敦",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "格林尼威天文台位于哪个城市 A. 巴黎 B. 柏林 C. 华盛顿 D. 伦敦",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了防止皮肤变黑应该少吃 A. 马铃薯 B. 黄瓜 C. 青菜 D. 西红柿",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了防止皮肤变黑应该少吃 A. 马铃薯 B. 黄瓜 C. 青菜 D. 西红柿",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列美国总统哪一位没在被刺杀中遇难 A. 麦金莱 B. 林肯 C. 罗斯福 D. 肯尼迪",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列美国总统哪一位没在被刺杀中遇难 A. 麦金莱 B. 林肯 C. 罗斯福 D. 肯尼迪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在野外遇到龙卷风，应迅速向龙卷风前进的()方向或者向()移动躲避 A. 顺、正 B. 逆、侧 C. 西、东 D. 东、西",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在野外遇到龙卷风，应迅速向龙卷风前进的()方向或者向()移动躲避 A. 顺、正 B. 逆、侧 C. 西、东 D. 东、西",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "黄酒名品加饭酒的产地是 A. 山东 B. 浙江 C. 河北 D. 广东",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "黄酒名品加饭酒的产地是 A. 山东 B. 浙江 C. 河北 D. 广东",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "交通信号分为哪几种 A. 人行横道灯信号 B. 交通指挥棒信号、手势信号 C. 其他选项均可 D. 指挥灯信号、车道灯信号",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "交通信号分为哪几种 A. 人行横道灯信号 B. 交通指挥棒信号、手势信号 C. 其他选项均可 D. 指挥灯信号、车道灯信号",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "夏季哪种饮料降温效果最好 A. 开水 B. 凉茶 C. 热茶 D. 冰水",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "夏季哪种饮料降温效果最好 A. 开水 B. 凉茶 C. 热茶 D. 冰水",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "五谷中的菽是指什么 A. 大豆 B. 高粱 C. 玉米 D. 谷子",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "五谷中的菽是指什么 A. 大豆 B. 高粱 C. 玉米 D. 谷子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "采取适当的措施，使燃烧因缺乏或断绝氧气而熄灭，这种方法称作 A. 降水灭火发 B. 隔离灭火法 C. 窒息灭火法 D. 冷却灭火法",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "采取适当的措施，使燃烧因缺乏或断绝氧气而熄灭，这种方法称作 A. 降水灭火发 B. 隔离灭火法 C. 窒息灭火法 D. 冷却灭火法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "按照《突发事件应对法》的规定，自然灾害、事故灾难和公共卫生事件的预警级别可分为一级、二级、三级和四级，分别用()和蓝色标志 A. 红色、白色、黄色 B. 黑色、橙色、白色 C. 黑色、红色、黄色 D. 红色、橙色、黄色",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "按照《突发事件应对法》的规定，自然灾害、事故灾难和公共卫生事件的预警级别可分为一级、二级、三级和四级，分别用()和蓝色标志 A. 红色、白色、黄色 B. 黑色、橙色、白色 C. 黑色、红色、黄色 D. 红色、橙色、黄色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国古代项羽“破釜沉舟”战胜秦军是在哪次战役 A. 昆阳之战 B. 牧野之战 C. 官渡之战 D. 巨鹿之战",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国古代项羽“破釜沉舟”战胜秦军是在哪次战役 A. 昆阳之战 B. 牧野之战 C. 官渡之战 D. 巨鹿之战",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "身上着火怎么办 A. 尽快撕脱衣服 B. 全对 C. 向身上泼水或用厚棉衣往身上盖 D. 就地打滚",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "身上着火怎么办 A. 尽快撕脱衣服 B. 全对 C. 向身上泼水或用厚棉衣往身上盖 D. 就地打滚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "浙江省的洪灾多发于 A. 7月到8月 B. 7月到9月 C. 6月到8月 D. 6月到9月",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "浙江省的洪灾多发于 A. 7月到8月 B. 7月到9月 C. 6月到8月 D. 6月到9月",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

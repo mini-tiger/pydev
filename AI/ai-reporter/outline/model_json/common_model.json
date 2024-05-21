@@ -1,0 +1,113 @@
+{
+    "title": "{title}",
+    "Sections": [
+        {
+            "index": 1,
+            "Section": "第一章 引言",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}的定义与背景"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}的发展历程"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}的现状与趋势"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "Section": "第二章 {keyword}行业总体发展状况",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业规模情况分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业产销情况分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业财务能力预测分析"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "Section": "第三章 {keyword}行业政策技术环境分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}行业政策法规环境分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}行业技术环境分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业技术环境分析"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "Section": "第四章 {area}{keyword}行业市场发展分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {area}{keyword}行业市场运行分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {area}{keyword}行业市场产品价格走势分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {area}{keyword}行业市场发展的主要策略"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "Section": "第五章 {keyword}行业分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}细分行业"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}需求与供给分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}细分行业发展趋势"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "Section": "第六章 结论及建议",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 主要结论"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 相关建议"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 研究局限及研究展望"
+                }
+            ]
+        }
+    ]
+}

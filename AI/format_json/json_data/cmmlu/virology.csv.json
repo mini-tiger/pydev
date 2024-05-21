@@ -1,0 +1,1692 @@
+[
+  {
+    "question_std": "下列病毒中，属于是 DNA 病毒的是 A. 新城疫病毒 B. 马立克氏病病毒 C. 口蹄疫病毒 D. 禽流感病毒",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列病毒中，属于是 DNA 病毒的是 A. 新城疫病毒 B. 马立克氏病病毒 C. 口蹄疫病毒 D. 禽流感病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "近百年来猩红热发病率有明显下降，轻型病人增多，病死率50年代为20年代的1/30，称疾病变化为 A. 长期变动 B. 季节性 C. 周期性 D. 短期波动",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "近百年来猩红热发病率有明显下降，轻型病人增多，病死率50年代为20年代的1/30，称疾病变化为 A. 长期变动 B. 季节性 C. 周期性 D. 短期波动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "朊病毒的主要特征是 A. 只有 ssRNA，没有蛋白质外壳 B. 只有 DNA，没有蛋白质外壳 C. 只有 dsRNA，没有蛋白质外壳 D. 只有蛋白质，没有核酸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "朊病毒的主要特征是 A. 只有 ssRNA，没有蛋白质外壳 B. 只有 DNA，没有蛋白质外壳 C. 只有 dsRNA，没有蛋白质外壳 D. 只有蛋白质，没有核酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒所合成的晚期蛋白的功能是 A. 抑制宿主细胞蛋白质的合成 B. 抑制宿主细胞核酸的合成 C. 构成病毒衣壳蛋白 D. 合成包涵体的基质蛋白",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒所合成的晚期蛋白的功能是 A. 抑制宿主细胞蛋白质的合成 B. 抑制宿主细胞核酸的合成 C. 构成病毒衣壳蛋白 D. 合成包涵体的基质蛋白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "呈二十面体立体对称的DNA病毒是 A. 腺病毒 B. 正粘病毒 C. 风疹病毒 D. 弹状病毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "呈二十面体立体对称的DNA病毒是 A. 腺病毒 B. 正粘病毒 C. 风疹病毒 D. 弹状病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一种病毒所产生的衣壳或包膜包在另一种病毒基因组外，这种变异称之为 A. 突变 B. 表型混合 C. 基因重组 D. 加强作用",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一种病毒所产生的衣壳或包膜包在另一种病毒基因组外，这种变异称之为 A. 突变 B. 表型混合 C. 基因重组 D. 加强作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "干扰素抗病毒作用的机制是 A. 阻止病毒穿入 B. 诱导细胞产生抗病毒蛋白 C. 抑制病毒生物合成 D. 抑制病毒吸附",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "干扰素抗病毒作用的机制是 A. 阻止病毒穿入 B. 诱导细胞产生抗病毒蛋白 C. 抑制病毒生物合成 D. 抑制病毒吸附",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用于预防病毒感染的减毒活疫苗是 A. 乙脑疫苗 B. 乙肝疫苗 C. 脊髓灰质炎口服糖丸疫苗 D. 狂犬疫苗",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用于预防病毒感染的减毒活疫苗是 A. 乙脑疫苗 B. 乙肝疫苗 C. 脊髓灰质炎口服糖丸疫苗 D. 狂犬疫苗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "逆转录病毒的核酸类型为 A. 单股正链RNA B. 单股正链DNA C. 单股正链RNA 二聚体 D. 单股负链DNA",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "逆转录病毒的核酸类型为 A. 单股正链RNA B. 单股正链DNA C. 单股正链RNA 二聚体 D. 单股负链DNA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病原体能够引起临床疾病的能力被称为 A. 致病力 B. 侵袭力 C. 传染性 D. 毒力",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病原体能够引起临床疾病的能力被称为 A. 致病力 B. 侵袭力 C. 传染性 D. 毒力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒在宿主细胞内的复制周期过程，正确的描述是 A. 吸附、脱壳、生物合成、成熟及释放 B. 吸附、结合、穿入、生物合成、成熟及释放 C. 特异性结合、脱壳、复制、组装及释放 D. 吸附、穿入、脱壳、生物合成、组装成熟与释放",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒在宿主细胞内的复制周期过程，正确的描述是 A. 吸附、脱壳、生物合成、成熟及释放 B. 吸附、结合、穿入、生物合成、成熟及释放 C. 特异性结合、脱壳、复制、组装及释放 D. 吸附、穿入、脱壳、生物合成、组装成熟与释放",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下述哪种属于病毒基因突变 A. 多重复活 B. 交叉复活 C. 互补作用 D. 温度敏感性变异",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下述哪种属于病毒基因突变 A. 多重复活 B. 交叉复活 C. 互补作用 D. 温度敏感性变异",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一些传染病如菌痢，在我国终年均可发病，但每年8-9月份则出现一个发病高峰，此现象称为 A. 长期变动 B. 周期性 C. 短期波动 D. 季节性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一些传染病如菌痢，在我国终年均可发病，但每年8-9月份则出现一个发病高峰，此现象称为 A. 长期变动 B. 周期性 C. 短期波动 D. 季节性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以隐性感染为主的传染病是 A. 麻疹 B. 脊髓灰质炎 C. 流行性感冒 D. 狂犬病",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以隐性感染为主的传染病是 A. 麻疹 B. 脊髓灰质炎 C. 流行性感冒 D. 狂犬病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某病的患病率与该病的发病率及病程有关，当后两者在相当长时间内保持稳定时，患病率为 A. 新发病人数÷病程 B. 发病率×病程 C. 发病率÷病程 D. 新发病人数×病程",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某病的患病率与该病的发病率及病程有关，当后两者在相当长时间内保持稳定时，患病率为 A. 新发病人数÷病程 B. 发病率×病程 C. 发病率÷病程 D. 新发病人数×病程",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列为病毒的特殊结构是 A. 核心 B. 衣壳 C. 刺突 D. 核衣壳",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列为病毒的特殊结构是 A. 核心 B. 衣壳 C. 刺突 D. 核衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学的描述性研究不包括 A. 病例对照研究 B. 现况研究 C. 普查 D. 抽样调查",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学的描述性研究不包括 A. 病例对照研究 B. 现况研究 C. 普查 D. 抽样调查",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "经垂直感染导致畸胎的病毒主要有 A. 麻疹病毒 B. 风疹病毒 C. 乙脑病毒 D. 流感病毒",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "经垂直感染导致畸胎的病毒主要有 A. 麻疹病毒 B. 风疹病毒 C. 乙脑病毒 D. 流感病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关病毒感染的描述正确的是 A. 病毒在人群个体间的相互相互传播为水平传播 ，主要经皮肤和粘膜传播 B. 病毒感染细胞造成的免疫病理损伤仅限于Ⅳ型变态反应 C. 慢发病毒感染就是病毒的慢性感染 D. 母亲将病毒传给其子女的感染为垂直传播",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关病毒感染的描述正确的是 A. 病毒在人群个体间的相互相互传播为水平传播 ，主要经皮肤和粘膜传播 B. 病毒感染细胞造成的免疫病理损伤仅限于Ⅳ型变态反应 C. 慢发病毒感染就是病毒的慢性感染 D. 母亲将病毒传给其子女的感染为垂直传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可称为病毒体的结构是 A. 核衣壳 B. 核酸 C. 包膜 D. 衣壳",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可称为病毒体的结构是 A. 核衣壳 B. 核酸 C. 包膜 D. 衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒包膜的特点不包括 A. 决定病毒感染细胞的宿主特异性 B. 来源于宿主细胞 C. 可被脂溶剂溶解 D. 镶嵌有细胞编码的蛋白",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒包膜的特点不包括 A. 决定病毒感染细胞的宿主特异性 B. 来源于宿主细胞 C. 可被脂溶剂溶解 D. 镶嵌有细胞编码的蛋白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "夏季因气温高，雨量多，蚊媒密度升高而引起的蚊媒传染病的流行属于 A. 宿主因素发生变化，宿主比重增加 B. 在流行病学三角模型中环境因素不变，病因比重增加 C. 病因、宿主环境三要素保持动态平衡 D. 环境因素发生变化，导致病因比重增加",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "夏季因气温高，雨量多，蚊媒密度升高而引起的蚊媒传染病的流行属于 A. 宿主因素发生变化，宿主比重增加 B. 在流行病学三角模型中环境因素不变，病因比重增加 C. 病因、宿主环境三要素保持动态平衡 D. 环境因素发生变化，导致病因比重增加",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "暴露人口也称危险人群，暴露人口必须有可能患所要观察的疾病，且必须是 A. 观察地区内的全部居民 B. 观察时期内、观察地区的人群 C. 该疾病的接触者 D. 观察地区的本地居民",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "暴露人口也称危险人群，暴露人口必须有可能患所要观察的疾病，且必须是 A. 观察地区内的全部居民 B. 观察时期内、观察地区的人群 C. 该疾病的接触者 D. 观察地区的本地居民",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "注射白喉抗毒素的同时，又接种白喉类毒素，这种免疫称为 A. 人工被动 B. 自然自动 C. 人工自动 D. 人工自动被动免疫",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "注射白喉抗毒素的同时，又接种白喉类毒素，这种免疫称为 A. 人工被动 B. 自然自动 C. 人工自动 D. 人工自动被动免疫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒的中和试验是病毒血清学特异试验，以下描述中不正确的是 A. 中和试验是指中和抗体与病毒结合，使病毒失去感染性的一种试验 B. 中和试验需用活细胞或鸡胚或动物来判断结果 C. 中和抗体在体内维持时间较短 D. 中和试验是一种特异性较高的试验",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒的中和试验是病毒血清学特异试验，以下描述中不正确的是 A. 中和试验是指中和抗体与病毒结合，使病毒失去感染性的一种试验 B. 中和试验需用活细胞或鸡胚或动物来判断结果 C. 中和抗体在体内维持时间较短 D. 中和试验是一种特异性较高的试验",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不能诱导细胞产生干扰素的诱生剂是 A. 头孢菌素 B. 衣原体 C. 细菌脂多糖 D. 人工合成双股RNA",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不能诱导细胞产生干扰素的诱生剂是 A. 头孢菌素 B. 衣原体 C. 细菌脂多糖 D. 人工合成双股RNA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于流行病学，下列哪种说法是正确的 A. 从个体水平认识疾病和健康 B. 从细胞水平认识疾病和健康 C. 从群体水平认识疾病和健康 D. 从整体水平认识疾病和健康",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于流行病学，下列哪种说法是正确的 A. 从个体水平认识疾病和健康 B. 从细胞水平认识疾病和健康 C. 从群体水平认识疾病和健康 D. 从整体水平认识疾病和健康",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对病毒包膜的叙述错误的是 A. 包膜溶解可使病毒灭活 B. 表面凸起称为壳粒 C. 化学成分为蛋白质、脂类及多糖 D. 具有病毒种、型特异性抗原",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对病毒包膜的叙述错误的是 A. 包膜溶解可使病毒灭活 B. 表面凸起称为壳粒 C. 化学成分为蛋白质、脂类及多糖 D. 具有病毒种、型特异性抗原",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒粒子中的一种结构是来自寄主细胞膜的，它是 A. 刺突 B. 包膜 C. 核心 D. 衣壳",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒粒子中的一种结构是来自寄主细胞膜的，它是 A. 刺突 B. 包膜 C. 核心 D. 衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行性乙型脑炎传播媒介是： A. 革螨 B. 虱 C. 蚊 D. 蝇",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行性乙型脑炎传播媒介是： A. 革螨 B. 虱 C. 蚊 D. 蝇",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可直接作为mRNA翻译蛋白的病毒核酸类型是 A. 双股RNA B. 单股正链RNA C. 双股DNA D. 单股负链RNA",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可直接作为mRNA翻译蛋白的病毒核酸类型是 A. 双股RNA B. 单股正链RNA C. 双股DNA D. 单股负链RNA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如某一新的疗法可防止某疾病死亡，但不能促使其康复时，那么将会发生该病的 A. 患病减少 B. 患病率增加 C. 发病率降低 D. 发病率增加",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如某一新的疗法可防止某疾病死亡，但不能促使其康复时，那么将会发生该病的 A. 患病减少 B. 患病率增加 C. 发病率降低 D. 发病率增加",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可直接测量病毒体大小的方法是 A. 电子显微镜观察 B. 超速离心法 C. 光学显微镜观察 D. X线衍射法",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可直接测量病毒体大小的方法是 A. 电子显微镜观察 B. 超速离心法 C. 光学显微镜观察 D. X线衍射法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒与立克次体相同的特点是 A. 以二分裂方式进行繁殖 B. 在人工合成的培养基中不能生长 C. 含有DNA和RNA D. 含有核蛋白体",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒与立克次体相同的特点是 A. 以二分裂方式进行繁殖 B. 在人工合成的培养基中不能生长 C. 含有DNA和RNA D. 含有核蛋白体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与衣壳生物学意义无关的是 A. 组成病毒抗原 B. 裸露病毒体吸附细胞的结构 C. 决定病毒的致病特点 D. 保护病毒核酸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与衣壳生物学意义无关的是 A. 组成病毒抗原 B. 裸露病毒体吸附细胞的结构 C. 决定病毒的致病特点 D. 保护病毒核酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "呈螺旋对称型的RNA病毒是 A. 流感病毒 B. 腺病毒 C. 痘类病毒 D. 疱疹病毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "呈螺旋对称型的RNA病毒是 A. 流感病毒 B. 腺病毒 C. 痘类病毒 D. 疱疹病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前在全世界已消灭的疾病是 A. 天花 B. 麻疹 C. 霍乱 D. 鼠疫",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前在全世界已消灭的疾病是 A. 天花 B. 麻疹 C. 霍乱 D. 鼠疫",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "比较两个地区的流感流行程度时用 A. 罹患率 B. 发病率 C. 标化发病率 D. 患病率",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "比较两个地区的流感流行程度时用 A. 罹患率 B. 发病率 C. 标化发病率 D. 患病率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从疾病生态学的角度来看，与疾病发生有关的三大因素是 A. 易感性、传播途径、传染源 B. 理化因素、生物学因素、社会经济因素 C. 遗传、营养、身体锻炼 D. 宿主、环境、病原物",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从疾病生态学的角度来看，与疾病发生有关的三大因素是 A. 易感性、传播途径、传染源 B. 理化因素、生物学因素、社会经济因素 C. 遗传、营养、身体锻炼 D. 宿主、环境、病原物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下面各项陈述，何者不适于解释传染病水型流行 A. 在水源易受污染的地区多发 B. 疾病的发生与职业和性别无关 C. 疾病的发生与冬季关系很大 D. 多次暴发时流行曲线可能不只—个高峰",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下面各项陈述，何者不适于解释传染病水型流行 A. 在水源易受污染的地区多发 B. 疾病的发生与职业和性别无关 C. 疾病的发生与冬季关系很大 D. 多次暴发时流行曲线可能不只—个高峰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织细胞对病毒的易感性取决于细胞支持病毒复制的能力及 A. 病毒的特殊结构 B. 组织中易感细胞数目 C. 细胞是否处于感受态 D. 病毒是否产生毒素",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织细胞对病毒的易感性取决于细胞支持病毒复制的能力及 A. 病毒的特殊结构 B. 组织中易感细胞数目 C. 细胞是否处于感受态 D. 病毒是否产生毒素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "构成“传染过程”的必备因素有 A. 微生物、媒介、宿主 B. 寄生虫、中间宿主、终末宿主 C. 传染源、传播途径、易感人群 D. 病原体、机体",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "构成“传染过程”的必备因素有 A. 微生物、媒介、宿主 B. 寄生虫、中间宿主、终末宿主 C. 传染源、传播途径、易感人群 D. 病原体、机体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "决定病毒具有感染性的是 A. 包膜 B. 神经氨酸酶 C. 衣壳 D. 核酸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "决定病毒具有感染性的是 A. 包膜 B. 神经氨酸酶 C. 衣壳 D. 核酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "疾病发生的基本条件是 A. 人群中营养状况普遍不良 B. 环境中有大量的病原体存在 C. 致病因素与宿主同时存在 D. 致病因素、宿主和环境相互作用失去平衡",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "疾病发生的基本条件是 A. 人群中营养状况普遍不良 B. 环境中有大量的病原体存在 C. 致病因素与宿主同时存在 D. 致病因素、宿主和环境相互作用失去平衡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对病毒抵抗力叙述错误的是 A. 紫外线能灭活病毒 B. 大多数病毒60℃30分钟可被灭活 C. 大多数病毒在－70℃下可存活 D. 所有病毒对脂溶剂都敏感",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对病毒抵抗力叙述错误的是 A. 紫外线能灭活病毒 B. 大多数病毒60℃30分钟可被灭活 C. 大多数病毒在－70℃下可存活 D. 所有病毒对脂溶剂都敏感",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "决定病毒体感染细胞的关键物质是 A. 包膜 B. 核酸 C. 刺突 D. 衣壳",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "决定病毒体感染细胞的关键物质是 A. 包膜 B. 核酸 C. 刺突 D. 衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某病的发病率是指 A. 某病在某年内发生的新病例数与同年暴露人口数之比 B. 某种感染引起的病例数 C. 某种原因导致某病的发病率 D. 任何疾病的发病概率",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某病的发病率是指 A. 某病在某年内发生的新病例数与同年暴露人口数之比 B. 某种感染引起的病例数 C. 某种原因导致某病的发病率 D. 任何疾病的发病概率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种传染病不需要隔离 A. 病毒性肝炎 B. 钩虫病 C. 鼠疫 D. 结核病",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种传染病不需要隔离 A. 病毒性肝炎 B. 钩虫病 C. 鼠疫 D. 结核病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通过现况调查与随后的定期随访，对早期糖尿病或无症状的葡萄糖耐受试验阳性者观察其经过若干年后的结局和转归。这类研究属于 A. 疾病的管理模式研究 B. 疾病的自然史研究 C. 疾病各阶段的比例研究 D. 疾病的危险因素研究",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通过现况调查与随后的定期随访，对早期糖尿病或无症状的葡萄糖耐受试验阳性者观察其经过若干年后的结局和转归。这类研究属于 A. 疾病的管理模式研究 B. 疾病的自然史研究 C. 疾病各阶段的比例研究 D. 疾病的危险因素研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孕妇患风疹后，可能引起胎儿畸形，这种传播病原体的方式称为 A. 水平传播 B. 垂直传播 C. 医源性传播 D. 上行传播",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孕妇患风疹后，可能引起胎儿畸形，这种传播病原体的方式称为 A. 水平传播 B. 垂直传播 C. 医源性传播 D. 上行传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列抗病毒免疫因素中，特异性杀伤病毒感染细胞的因素是 A. NK细胞 B. Tc细胞 C. 补体 D. 巨噬细胞",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列抗病毒免疫因素中，特异性杀伤病毒感染细胞的因素是 A. NK细胞 B. Tc细胞 C. 补体 D. 巨噬细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以“出芽”方式从细胞释放的病毒是 A. 柯萨奇病毒 B. 腺病毒 C. 麻疹病毒 D. ECHO 病毒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以“出芽”方式从细胞释放的病毒是 A. 柯萨奇病毒 B. 腺病毒 C. 麻疹病毒 D. ECHO 病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "温和噬菌体的核酸类型都是 A. ssRNA B. ssDNA C. dsDNA D. dsRNA",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "温和噬菌体的核酸类型都是 A. ssRNA B. ssDNA C. dsDNA D. dsRNA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "证明某因素是某病的病因须经历的步骤是 A. 先对各病例进行检验，找出可疑病因，再作实验证实 B. 从疾病的频率和分布中形成假设，经分析验证再进行病因推断 C. 从病理资料提出病因假设，再通过实验证实 D. 调查各病例，寻找其共同因素，并用此因素作实验，实验成功则病因成立",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "证明某因素是某病的病因须经历的步骤是 A. 先对各病例进行检验，找出可疑病因，再作实验证实 B. 从疾病的频率和分布中形成假设，经分析验证再进行病因推断 C. 从病理资料提出病因假设，再通过实验证实 D. 调查各病例，寻找其共同因素，并用此因素作实验，实验成功则病因成立",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "构成病毒核心的化学成分是 A. 核酸 B. 蛋白质 C. 类脂 D. 磷酸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "构成病毒核心的化学成分是 A. 核酸 B. 蛋白质 C. 类脂 D. 磷酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "疾病的三间分布包括 A. 时间、地区和人群分布 B. 职业、家庭和环境 C. 短期波动、季节性和周期性 D. 国家、地区和城乡",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "疾病的三间分布包括 A. 时间、地区和人群分布 B. 职业、家庭和环境 C. 短期波动、季节性和周期性 D. 国家、地区和城乡",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒感染造成细胞损伤的因素中不包括 A. 病毒引起细胞融合 B. 病毒大量增殖损伤靶细胞 C. Tc细胞直接杀死靶细胞 D. 中和抗体直接溶解靶细胞",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒感染造成细胞损伤的因素中不包括 A. 病毒引起细胞融合 B. 病毒大量增殖损伤靶细胞 C. Tc细胞直接杀死靶细胞 D. 中和抗体直接溶解靶细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "美国芬兰等国提出：早期发现并治疗高血压，提倡不吸烟或戒烟，推广健康饮食以控制高血脂等来预防冠心病。这是因为 A. 流行病学调查研究找出了该病的危险因素，提供了对该病的预防途径 B. 冠心病是这些国家的主要死因 C. 通过生活方式等的改变可以去除或减轻冠心病的这些危险因素 D. 冠心病是由多病因造成的",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "美国芬兰等国提出：早期发现并治疗高血压，提倡不吸烟或戒烟，推广健康饮食以控制高血脂等来预防冠心病。这是因为 A. 流行病学调查研究找出了该病的危险因素，提供了对该病的预防途径 B. 冠心病是这些国家的主要死因 C. 通过生活方式等的改变可以去除或减轻冠心病的这些危险因素 D. 冠心病是由多病因造成的",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒体的定义是 A. 可独立生存的病毒 B. 无包膜的裸露病毒 C. 结构完整有感染性的成熟病毒 D. 有刺突的包膜病毒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒体的定义是 A. 可独立生存的病毒 B. 无包膜的裸露病毒 C. 结构完整有感染性的成熟病毒 D. 有刺突的包膜病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一些传染病的流行其时间上具有规律性，称此状况为 A. 短期波动 B. 长期变动 C. 季节性 D. 周期性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一些传染病的流行其时间上具有规律性，称此状况为 A. 短期波动 B. 长期变动 C. 季节性 D. 周期性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学研究中使用最多的研究方法是 A. 实验法 B. 方法学研究 C. 观察法 D. 理论法",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学研究中使用最多的研究方法是 A. 实验法 B. 方法学研究 C. 观察法 D. 理论法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "干扰素的本质是 A. 缺陷病毒编码的蛋白 B. 受病毒抗原刺激后产生的抗体 C. 受病毒感染后细胞产生的蛋白质 D. 病毒抗原",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "干扰素的本质是 A. 缺陷病毒编码的蛋白 B. 受病毒抗原刺激后产生的抗体 C. 受病毒感染后细胞产生的蛋白质 D. 病毒抗原",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于流行病学，下列哪项是不正确的 A. 它可以评价药物或保健措施的有效性、安全性问题 B. 它是预防医学的基础学科 C. 它以个体为研究对象 D. 它可以研究疾病的自然史",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于流行病学，下列哪项是不正确的 A. 它可以评价药物或保健措施的有效性、安全性问题 B. 它是预防医学的基础学科 C. 它以个体为研究对象 D. 它可以研究疾病的自然史",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学探讨病因的一般程序是 A. 从人为联系到统计学联系 B. 从间接联系到因果联系 C. 从间接联系到统计学联系 D. 从统计学联系到因果联系",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学探讨病因的一般程序是 A. 从人为联系到统计学联系 B. 从间接联系到因果联系 C. 从间接联系到统计学联系 D. 从统计学联系到因果联系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "判断因果联系时的必要条件是 A. 联系的强度 B. 联系的合理性 C. 时间顺序，即先“因”后“果” D. 联系的一致性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "判断因果联系时的必要条件是 A. 联系的强度 B. 联系的合理性 C. 时间顺序，即先“因”后“果” D. 联系的一致性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "逆转录病毒特有的酶是 A. 依赖RNA的RNA聚合酶 B. 依赖DNA的DNA聚合酶 C. 依赖RNA的DNA聚合酶 D. 依赖DNA的RNA聚合酶",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "逆转录病毒特有的酶是 A. 依赖RNA的RNA聚合酶 B. 依赖DNA的DNA聚合酶 C. 依赖RNA的DNA聚合酶 D. 依赖DNA的RNA聚合酶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在病因推断过程中，反映某个因素与疾病的关联强度最常用下列哪个指标 A. 人群归因危险度 B. 归因危险度 C. 相对危险度 D. 特异危险度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在病因推断过程中，反映某个因素与疾病的关联强度最常用下列哪个指标 A. 人群归因危险度 B. 归因危险度 C. 相对危险度 D. 特异危险度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "无包膜的病毒是 A. 腺病毒 B. 流感病毒 C. 披膜病毒 D. 疱疹病毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "无包膜的病毒是 A. 腺病毒 B. 流感病毒 C. 披膜病毒 D. 疱疹病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在分子流行病学研究中，暴露标志和效应标志是根据疾病的不同阶段和研究需要确定的。根据研究的目的不同，大多数情况下，一项生物标志 A. 作为暴露标志就不能作为效应标志 B. 作为效应标志就不能作为暴露标志 C. 可以同时既是效应标志又是暴露标志 D. 有时作为效应标志，有时也可以作为暴露标志",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在分子流行病学研究中，暴露标志和效应标志是根据疾病的不同阶段和研究需要确定的。根据研究的目的不同，大多数情况下，一项生物标志 A. 作为暴露标志就不能作为效应标志 B. 作为效应标志就不能作为暴露标志 C. 可以同时既是效应标志又是暴露标志 D. 有时作为效应标志，有时也可以作为暴露标志",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "生物标志的类型主要包括 A. 暴露标志、效应标志、易感性标志 B. 免疫标志、易感性标志、暴露标志 C. 暴露标志、病理标志、易感性标志 D. 暴露标志、免疫标志、效应标志",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "生物标志的类型主要包括 A. 暴露标志、效应标志、易感性标志 B. 免疫标志、易感性标志、暴露标志 C. 暴露标志、病理标志、易感性标志 D. 暴露标志、免疫标志、效应标志",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学的定义可概括为 A. 研究各种疾病的学科 B. 研究疾病的诊断、治疗及预防的科学 C. 研究传染病的发生、发展以及如何防制的科学 D. 研究人群中疾病与健康状况分布及其影响因素，并研究如何防制疾病及促进健康的策略和措施的科学",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学的定义可概括为 A. 研究各种疾病的学科 B. 研究疾病的诊断、治疗及预防的科学 C. 研究传染病的发生、发展以及如何防制的科学 D. 研究人群中疾病与健康状况分布及其影响因素，并研究如何防制疾病及促进健康的策略和措施的科学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下述与病毒蛋白质无关的作用是 A. 病毒包膜的成分 B. 吸附作用 C. 免疫原性 D. 保护核酸作用",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下述与病毒蛋白质无关的作用是 A. 病毒包膜的成分 B. 吸附作用 C. 免疫原性 D. 保护核酸作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒遗传信息从RNA转为DNA的过程称为 A. 基因转化 B. 基因变异 C. 噬菌体转导 D. 逆转录",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒遗传信息从RNA转为DNA的过程称为 A. 基因转化 B. 基因变异 C. 噬菌体转导 D. 逆转录",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "疫源地范围的大小取决于 A. 传染源活动范围，传播途径的特点和周围人群的免疫状态 B. 传染源的活动范围，排出病原体的数量及毒力 C. 传染源的数量，活动范围及周围人口数多少 D. 传染源的活动范围，数量和周围人群的免疫状态",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "疫源地范围的大小取决于 A. 传染源活动范围，传播途径的特点和周围人群的免疫状态 B. 传染源的活动范围，排出病原体的数量及毒力 C. 传染源的数量，活动范围及周围人口数多少 D. 传染源的活动范围，数量和周围人群的免疫状态",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒的特征中不包括 A. 含两种核酸 B. 无细胞结构 C. 必须在易感活细胞内增殖 D. 对抗生素不敏感",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒的特征中不包括 A. 含两种核酸 B. 无细胞结构 C. 必须在易感活细胞内增殖 D. 对抗生素不敏感",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宿主状态是遗传因素与下列哪种因素相互作用的结果 A. 生物因素 B. 环境因素 C. 化学因素 D. 物理因素",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宿主状态是遗传因素与下列哪种因素相互作用的结果 A. 生物因素 B. 环境因素 C. 化学因素 D. 物理因素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "经吸血节肢动物传播的传染病的流行特征是 A. 有明显的职业特点 B. 无地区性，但有季节性 C. 有地区件，但无季节性 D. 无明显的职业特点",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "经吸血节肢动物传播的传染病的流行特征是 A. 有明显的职业特点 B. 无地区性，但有季节性 C. 有地区件，但无季节性 D. 无明显的职业特点",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与病毒复制中的隐蔽期有关的是 A. 脱壳 B. 吸附 C. 生物合成 D. 穿入",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与病毒复制中的隐蔽期有关的是 A. 脱壳 B. 吸附 C. 生物合成 D. 穿入",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "节肢动物自吸入病原体至能够感染易感者，需完成其生活周期中的某个阶段后，才具有传染性，所需的这段时间称为 A. 非传染期 B. 传染期 C. 外潜伏期 D. 前驱期",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "节肢动物自吸入病原体至能够感染易感者，需完成其生活周期中的某个阶段后，才具有传染性，所需的这段时间称为 A. 非传染期 B. 传染期 C. 外潜伏期 D. 前驱期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在分子流行病学研究中，选择偏倚除样本选择偏倚外，还可能出现 A. 混杂偏倚 B. 检测偏倚 C. 标本储存偏倚 D. 标本采集偏倚",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在分子流行病学研究中，选择偏倚除样本选择偏倚外，还可能出现 A. 混杂偏倚 B. 检测偏倚 C. 标本储存偏倚 D. 标本采集偏倚",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不能用照射紫外线制备病毒灭活疫苗的原因是 A. 此种灭活的疫苗经可见光照射可复活毒株 B. 此种灭活的疫苗容易诱发被接种者癌瘤 C. 紫外线杀伤力弱不能灭活所有的病毒 D. 此种灭活的疫苗抗原性弱",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不能用照射紫外线制备病毒灭活疫苗的原因是 A. 此种灭活的疫苗经可见光照射可复活毒株 B. 此种灭活的疫苗容易诱发被接种者癌瘤 C. 紫外线杀伤力弱不能灭活所有的病毒 D. 此种灭活的疫苗抗原性弱",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "潜伏感染的特点是 A. 症状多为亚急性 B. 潜伏期长达数月至数十年 C. 潜伏状态检测不到任何病毒指标 D. 不侵犯中枢神经系统",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "潜伏感染的特点是 A. 症状多为亚急性 B. 潜伏期长达数月至数十年 C. 潜伏状态检测不到任何病毒指标 D. 不侵犯中枢神经系统",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "分子流行病学与传统流行病学的区别是 A. 群体测量方法不同 B. 研究的目的不同 C. 测量的结局不同 D. 研究对象不同",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "分子流行病学与传统流行病学的区别是 A. 群体测量方法不同 B. 研究的目的不同 C. 测量的结局不同 D. 研究对象不同",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对病因含义最确切的表达是 A. 物理因素 B. 凡能使人们发病概率增加的因素 C. 化学因素 D. 心理因素",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对病因含义最确切的表达是 A. 物理因素 B. 凡能使人们发病概率增加的因素 C. 化学因素 D. 心理因素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传染源是指 A. 机体内有病原体生长繁殖的人或动物 B. 体内有细菌的人 C. 机体内有病原体的人或动物 D. 体内有病原体生长繁殖并能排出病原体的人或动物",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传染源是指 A. 机体内有病原体生长繁殖的人或动物 B. 体内有细菌的人 C. 机体内有病原体的人或动物 D. 体内有病原体生长繁殖并能排出病原体的人或动物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在病因研究的轮状模型中，强调宿主与下列哪种因素的关系 A. 精神因素 B. 环境因素 C. 生物因素 D. 物理因素",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在病因研究的轮状模型中，强调宿主与下列哪种因素的关系 A. 精神因素 B. 环境因素 C. 生物因素 D. 物理因素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于病毒结构叙述错误的是 A. 衣壳由壳粒构成 B. 病毒包膜表面可有刺突 C. 核酸和衣壳组成核衣壳 D. 有包膜的病毒才有感染性",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于病毒结构叙述错误的是 A. 衣壳由壳粒构成 B. 病毒包膜表面可有刺突 C. 核酸和衣壳组成核衣壳 D. 有包膜的病毒才有感染性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "验证病因假设最可靠的方法是 A. 现况调查 B. 抽样调查 C. 队列研究 D. 实验研究",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "验证病因假设最可靠的方法是 A. 现况调查 B. 抽样调查 C. 队列研究 D. 实验研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于流行病学，下列哪种说法是正确的 A. 研究人群中疾病和健康状况的分布及其影响因素 B. 只研究慢性病的危险因素 C. 只研究传染病的流行和防治 D. 从个体的角度研究疾病和健康状况及其影响因素",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于流行病学，下列哪种说法是正确的 A. 研究人群中疾病和健康状况的分布及其影响因素 B. 只研究慢性病的危险因素 C. 只研究传染病的流行和防治 D. 从个体的角度研究疾病和健康状况及其影响因素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了探讨某病在不同国家人群中的发病差异是环境因素或遗传因素所致常应用 A. 遗传流行病学 B. 描述流行病学 C. 移民流行病学 D. 血清流行病学",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了探讨某病在不同国家人群中的发病差异是环境因素或遗传因素所致常应用 A. 遗传流行病学 B. 描述流行病学 C. 移民流行病学 D. 血清流行病学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "易发生潜伏感染的病毒是 A. 疱疹病毒 B. 麻疹病毒 C. 轮状病毒 D. 流感病毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "易发生潜伏感染的病毒是 A. 疱疹病毒 B. 麻疹病毒 C. 轮状病毒 D. 流感病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "感染率的指标常用于 A. 慢性病 B. 隐性感染较多的疾病 C. 急性传染病 D. 精神病",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "感染率的指标常用于 A. 慢性病 B. 隐性感染较多的疾病 C. 急性传染病 D. 精神病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪些说法是不正确的 A. 环境因素影响人们对疾病的暴露程度 B. 病因作用于宿主即可发生疾病 C. 病因、宿主、环境为疾病发生的三要素 D. 宿主因素决定人们对疾病的易感性",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪些说法是不正确的 A. 环境因素影响人们对疾病的暴露程度 B. 病因作用于宿主即可发生疾病 C. 病因、宿主、环境为疾病发生的三要素 D. 宿主因素决定人们对疾病的易感性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "WHO提出的扩大免疫计划，以预防 A. 白喉、百日咳、破伤风、流行性乙型脑炎、流行性脑脊髓膜炎和肺结核 B. 白喉、百日咳；破伤风、麻疹和流行性脑脊髓膜炎 C. 白喉、百日咳、破伤风、流行性乙型脑炎、脊髓灰质炎和肺结核 D. 白喉、百日咳、破伤风、麻疹、脊髓灰质炎和肺结核",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "WHO提出的扩大免疫计划，以预防 A. 白喉、百日咳、破伤风、流行性乙型脑炎、流行性脑脊髓膜炎和肺结核 B. 白喉、百日咳；破伤风、麻疹和流行性脑脊髓膜炎 C. 白喉、百日咳、破伤风、流行性乙型脑炎、脊髓灰质炎和肺结核 D. 白喉、百日咳、破伤风、麻疹、脊髓灰质炎和肺结核",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "引起医源性感染的细菌最常见的传播途径是 A. 媒介昆虫传播 B. 经污染物 C. 共同媒介传播 D. 经手直接传播",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "引起医源性感染的细菌最常见的传播途径是 A. 媒介昆虫传播 B. 经污染物 C. 共同媒介传播 D. 经手直接传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当对某病的情况了解不多时，开展的流行病学研究往往是 A. 理论性的 B. 描述性的 C. 实验性的 D. 分析性的",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当对某病的情况了解不多时，开展的流行病学研究往往是 A. 理论性的 B. 描述性的 C. 实验性的 D. 分析性的",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用于测量病毒大小的单位是： A. 毫微米(nm) B. 微微米(pm) C. 微米(μm) D. 毫微微米(fm)",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用于测量病毒大小的单位是： A. 毫微米(nm) B. 微微米(pm) C. 微米(μm) D. 毫微微米(fm)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一项不是病因推断的标准 A. 相对危险度较大 B. 致病因素与疾病一一对应 C. 因先于果 D. 因素的分布与疾病的分布一致",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一项不是病因推断的标准 A. 相对危险度较大 B. 致病因素与疾病一一对应 C. 因先于果 D. 因素的分布与疾病的分布一致",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能吸附宿主细胞协助病毒侵入细胞的部分是 A. 核酸 B. 壳粒 C. 包膜 D. 衣壳",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能吸附宿主细胞协助病毒侵入细胞的部分是 A. 核酸 B. 壳粒 C. 包膜 D. 衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪一项不是使人群易感性降低的因素 A. 计划免疫 B. 免疫人口的死亡 C. 传染病流行 D. 易感人口的迁出",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪一项不是使人群易感性降低的因素 A. 计划免疫 B. 免疫人口的死亡 C. 传染病流行 D. 易感人口的迁出",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某单位有十余人吃了某冷饮店的冰棒后，感染了痢疾，同时防疫站从冰棒中分离到痢疾杆菌，从而确定冰棒是 A. 传染源 B. 传播媒介 C. 传播途径 D. 带菌者",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某单位有十余人吃了某冷饮店的冰棒后，感染了痢疾，同时防疫站从冰棒中分离到痢疾杆菌，从而确定冰棒是 A. 传染源 B. 传播媒介 C. 传播途径 D. 带菌者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "二十面体对称的病毒粒子的五邻体位于 A. 12 个顶角上 B. 20 个面上 C. 30 条棱上 D. 分别位于 12 个顶角上、20 个面上、30 条棱上",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "二十面体对称的病毒粒子的五邻体位于 A. 12 个顶角上 B. 20 个面上 C. 30 条棱上 D. 分别位于 12 个顶角上、20 个面上、30 条棱上",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用直接电镜法可做出早期快速诊断的病毒是 A. 轮状病毒 B. 疱疹病毒 C. 巨细胞病毒 D. 流感病毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用直接电镜法可做出早期快速诊断的病毒是 A. 轮状病毒 B. 疱疹病毒 C. 巨细胞病毒 D. 流感病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学的实验性研究不包括 A. 社区干预试验 B. 临床试验 C. 人群现场试验 D. 病例对照研究",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学的实验性研究不包括 A. 社区干预试验 B. 临床试验 C. 人群现场试验 D. 病例对照研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通过性接触或吸毒共用污染注射器传播的病毒是 A. 埃可病毒 B. 水痘－带状疱疹病毒 C. 甲型肝炎病毒 D. 人类免疫缺陷病毒",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通过性接触或吸毒共用污染注射器传播的病毒是 A. 埃可病毒 B. 水痘－带状疱疹病毒 C. 甲型肝炎病毒 D. 人类免疫缺陷病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "移民流行病学的研究目的是探索 A. 肿瘤和慢性病的遗传因素 B. 卫生水平对疾病的影响 C. 疾病与环境的关系 D. 遗传和环境的关系孰大",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "移民流行病学的研究目的是探索 A. 肿瘤和慢性病的遗传因素 B. 卫生水平对疾病的影响 C. 疾病与环境的关系 D. 遗传和环境的关系孰大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以“出芽”方式从细胞释放的病毒是 A. 腺病毒 B. ECHO病毒 C. 麻疹病毒 D. 柯萨奇病毒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以“出芽”方式从细胞释放的病毒是 A. 腺病毒 B. ECHO病毒 C. 麻疹病毒 D. 柯萨奇病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "子代病毒释放的途径中不包括 A. 整合释放 B. 细胞裂解释放 C. 出芽释放 D. 通过细胞间桥释放",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "子代病毒释放的途径中不包括 A. 整合释放 B. 细胞裂解释放 C. 出芽释放 D. 通过细胞间桥释放",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒不同于衣原体的特点是 A. 可引起机体多部位感染 B. 对抗生素不敏感 C. 能通过细菌滤器 D. 严格地细胞内寄生",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒不同于衣原体的特点是 A. 可引起机体多部位感染 B. 对抗生素不敏感 C. 能通过细菌滤器 D. 严格地细胞内寄生",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学的分析性研究不包括 A. 病例对照研究 B. 队列研究 C. 现场试验 D. 历史性队列研究",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学的分析性研究不包括 A. 病例对照研究 B. 队列研究 C. 现场试验 D. 历史性队列研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲型肝炎病毒的主要传播途径是 A. 昆虫叮咬吸血 B. 呼吸道 C. 粪—口途径 D. 输血—注射",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲型肝炎病毒的主要传播途径是 A. 昆虫叮咬吸血 B. 呼吸道 C. 粪—口途径 D. 输血—注射",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "构成传染病流行的3个环节是 A. 传染源、传播途径、易感人群 B. 传染源、传播途径、机体 C. 传染源、传播途径、自然环境 D. 传染源、传播途径、环境",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "构成传染病流行的3个环节是 A. 传染源、传播途径、易感人群 B. 传染源、传播途径、机体 C. 传染源、传播途径、自然环境 D. 传染源、传播途径、环境",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "目前我国规定的监测传染病是 A. 疟疾、流行性感冒、脊髓灰质炎、流行性斑疹伤寒、回归热、登革热 B. 疟疾、流行性感冒、流行性脑脊髓膜炎、天花、霍乱 C. 鼠疫、流行性感冒、回归热、艾滋病 D. 霍乱、天花、流行性感冒、登革热",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "目前我国规定的监测传染病是 A. 疟疾、流行性感冒、脊髓灰质炎、流行性斑疹伤寒、回归热、登革热 B. 疟疾、流行性感冒、流行性脑脊髓膜炎、天花、霍乱 C. 鼠疫、流行性感冒、回归热、艾滋病 D. 霍乱、天花、流行性感冒、登革热",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传播途径是指 A. 病原体更换宿主在外界环境下所经历的途径 B. 病原体更换宿主的过程 C. 病原体自传染源排出的过程 D. 病原体侵入易感者的过程",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传播途径是指 A. 病原体更换宿主在外界环境下所经历的途径 B. 病原体更换宿主的过程 C. 病原体自传染源排出的过程 D. 病原体侵入易感者的过程",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "白喉棒杆菌当其染色体 DNA 整合了 噬菌体的核酸以后，就能合成白喉毒素，成为有毒菌株，此种现象称为 A. 转染 B. 转化 C. 溶源转变 D. 转导",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "白喉棒杆菌当其染色体 DNA 整合了 噬菌体的核酸以后，就能合成白喉毒素，成为有毒菌株，此种现象称为 A. 转染 B. 转化 C. 溶源转变 D. 转导",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通过现场调查把疾病在时间、地区及人群中分布的特征加以描述经比较后，提出致病因素的假设的过程是 A. 实验性研究 B. 理论性研究 C. 分析性研究 D. 描述性研究",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通过现场调查把疾病在时间、地区及人群中分布的特征加以描述经比较后，提出致病因素的假设的过程是 A. 实验性研究 B. 理论性研究 C. 分析性研究 D. 描述性研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于狂犬病病毒描述正确的是 A. 有囊膜、核酸为 DNA B. 有囊膜、核酸为 RNA C. 无囊膜、核酸为 RNA D. 无囊膜、核酸为 DNA",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于狂犬病病毒描述正确的是 A. 有囊膜、核酸为 DNA B. 有囊膜、核酸为 RNA C. 无囊膜、核酸为 RNA D. 无囊膜、核酸为 DNA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人畜共患的病毒不包括 A. 朊病毒 B. 流感病毒 C. 狂犬病毒 D. 乙肝病毒",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人畜共患的病毒不包括 A. 朊病毒 B. 流感病毒 C. 狂犬病毒 D. 乙肝病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对一种严重的致死性疾病采取一级预防措施时，评价其效果最恰当的指标是该病的 A. 患病率 B. 病死率 C. 发病率 D. 死亡率",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对一种严重的致死性疾病采取一级预防措施时，评价其效果最恰当的指标是该病的 A. 患病率 B. 病死率 C. 发病率 D. 死亡率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒感染细胞的宿主范围主要取决于 A. 病毒表面的接触蛋白 B. 细胞表面的受体 C. 病毒表面的血凝素 D. 病毒的衣壳",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒感染细胞的宿主范围主要取决于 A. 病毒表面的接触蛋白 B. 细胞表面的受体 C. 病毒表面的血凝素 D. 病毒的衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对暴发流行的时间、地区和人群分布特征进行描述的主要目的是 A. 提供可能暴露地点的线索 B. 证实某些人群具有较大的危险性 C. 识别可能引起续发传播的因素 D. 收集有关信息，以便为形成传染源及传播方式的假说提出依据",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对暴发流行的时间、地区和人群分布特征进行描述的主要目的是 A. 提供可能暴露地点的线索 B. 证实某些人群具有较大的危险性 C. 识别可能引起续发传播的因素 D. 收集有关信息，以便为形成传染源及传播方式的假说提出依据",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在病因学上，轮状模型与三角模型相比，其主要的不同点是 A. 更强调影响疾病发生的三要素 B. 更强调特异性病原学说 C. 有差别地看待疾病的三要素 D. 强调环境及环境与机体的密切关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在病因学上，轮状模型与三角模型相比，其主要的不同点是 A. 更强调影响疾病发生的三要素 B. 更强调特异性病原学说 C. 有差别地看待疾病的三要素 D. 强调环境及环境与机体的密切关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "自病原体侵入机体到临床症状最早出现的一段时间称为 A. 前驱期 B. 潜伏期 C. 发病前期 D. 传染期",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "自病原体侵入机体到临床症状最早出现的一段时间称为 A. 前驱期 B. 潜伏期 C. 发病前期 D. 传染期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传染期是指 A. 从临床症状出现到停止排出病原体的时期 B. 最短与最长潜伏期之间的时间 C. 从感染病原体到症状出现的时期 D. 病人能排出病原体的整个时期",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传染期是指 A. 从临床症状出现到停止排出病原体的时期 B. 最短与最长潜伏期之间的时间 C. 从感染病原体到症状出现的时期 D. 病人能排出病原体的整个时期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在建立病因假设的时候，所用的逻辑思维法则通常不包括下列哪一项 A. 排除法 B. 求异法 C. 演绎法 D. 共变法",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在建立病因假设的时候，所用的逻辑思维法则通常不包括下列哪一项 A. 排除法 B. 求异法 C. 演绎法 D. 共变法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒囊膜的组成成分是 A. 多糖 B. 脂类 C. 蛋白质 D. 磷酸",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒囊膜的组成成分是 A. 多糖 B. 脂类 C. 蛋白质 D. 磷酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "含有宿主细胞成分的是 A. 包膜 B. 核衣壳 C. 衣壳 D. 核酸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "含有宿主细胞成分的是 A. 包膜 B. 核衣壳 C. 衣壳 D. 核酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学的研究对象是 A. 疾病 B. 健康人 C. 病人 D. 人群",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学的研究对象是 A. 疾病 B. 健康人 C. 病人 D. 人群",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "保护病毒核酸的是  A. 衣壳 B. 核酸 C. 核衣壳 D. 包膜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "保护病毒核酸的是  A. 衣壳 B. 核酸 C. 核衣壳 D. 包膜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪一项不是潜伏期的流行病学意义 A. 其长短影响流行特征 B. 是决定病人隔离期限的重要依据 C. 决定预防措施 D. 评价某项预防措施的效果",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪一项不是潜伏期的流行病学意义 A. 其长短影响流行特征 B. 是决定病人隔离期限的重要依据 C. 决定预防措施 D. 评价某项预防措施的效果",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有一类病毒的 RNA 是具有侵染性的，它是 A. -RNA 病毒 B. 反转录病毒 C. +RNA 病毒 D. RNA 病毒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有一类病毒的 RNA 是具有侵染性的，它是 A. -RNA 病毒 B. 反转录病毒 C. +RNA 病毒 D. RNA 病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学与临床医学的区别在于 A. 不涉及药物治疗 B. 研究疾病的病因学 C. 提供诊断依据 D. 在群体水平上研究疾病现象",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学与临床医学的区别在于 A. 不涉及药物治疗 B. 研究疾病的病因学 C. 提供诊断依据 D. 在群体水平上研究疾病现象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下述与病毒蛋白质无关的作用是 A. 吸附作用 B. 对脂溶剂敏感性 C. 病毒包膜的成分 D. 保护核酸作用",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下述与病毒蛋白质无关的作用是 A. 吸附作用 B. 对脂溶剂敏感性 C. 病毒包膜的成分 D. 保护核酸作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "无环鸟苷(ACV)有效控制单纯疱疹病毒的作用机理 A. 抑制病毒DNA多聚酶和DNA合成 B. 抑制病毒RNA聚合酶 C. 抑制敏感细胞DNA复制 D. 作用于敏感细胞表面受体",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "无环鸟苷(ACV)有效控制单纯疱疹病毒的作用机理 A. 抑制病毒DNA多聚酶和DNA合成 B. 抑制病毒RNA聚合酶 C. 抑制敏感细胞DNA复制 D. 作用于敏感细胞表面受体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于病毒说法错误的是 A. 近有一种类型的核酸 B. 没有细胞结构 C. 缺乏完整的酶系统和能量合成系统 D. 可以独立存活",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于病毒说法错误的是 A. 近有一种类型的核酸 B. 没有细胞结构 C. 缺乏完整的酶系统和能量合成系统 D. 可以独立存活",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "储存病毒遗传信息的是 A. 衣壳 B. 包膜 C. 核酸 D. 核衣壳",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "储存病毒遗传信息的是 A. 衣壳 B. 包膜 C. 核酸 D. 核衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "干扰素的化学本质是 A. 糖蛋白 B. DNA C. RNA D. 脂肪",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "干扰素的化学本质是 A. 糖蛋白 B. DNA C. RNA D. 脂肪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "疾病发生的三角模型存在的缺陷是 A. 强调病原物、宿主和环境同等重要 B. 强调环境 C. 强调宿主 D. 强调遗传因素",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "疾病发生的三角模型存在的缺陷是 A. 强调病原物、宿主和环境同等重要 B. 强调环境 C. 强调宿主 D. 强调遗传因素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列生物属于病毒的是 A. 结核杆菌 B. 大肠杆菌 C. 痢疾杆菌 D. 痢疾杆菌噬菌体",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列生物属于病毒的是 A. 结核杆菌 B. 大肠杆菌 C. 痢疾杆菌 D. 痢疾杆菌噬菌体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列物质中，具有感染性的是 A. Dane 颗粒 B. 小球形颗粒 C. HBeAg D. 管形颗粒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列物质中，具有感染性的是 A. Dane 颗粒 B. 小球形颗粒 C. HBeAg D. 管形颗粒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在流行病学较常用的发病统计指标有 A. 率、发病率、标化死亡率、病死率 B. 发病率、患病率、相对危险度、归因危险度 C. 罹患率、患病率、发病率、续发率 D. 发病率、死亡率、病死率",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在流行病学较常用的发病统计指标有 A. 率、发病率、标化死亡率、病死率 B. 发病率、患病率、相对危险度、归因危险度 C. 罹患率、患病率、发病率、续发率 D. 发病率、死亡率、病死率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "确定暴露于某因素与某病发生因果关系时，下列哪一条可不加考虑 A. 联系的强度和特异性 B. 时间顺序即暴露于疾病发生之前 C. 剂量反应关系与现代科学知识协调 D. 对联系进行统计学检验所得P值大小",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "确定暴露于某因素与某病发生因果关系时，下列哪一条可不加考虑 A. 联系的强度和特异性 B. 时间顺序即暴露于疾病发生之前 C. 剂量反应关系与现代科学知识协调 D. 对联系进行统计学检验所得P值大小",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种疾病不是人畜共患疾病 A. 伤寒 B. 结核病 C. 阿米巴痢疾 D. 钩端螺旋体病",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种疾病不是人畜共患疾病 A. 伤寒 B. 结核病 C. 阿米巴痢疾 D. 钩端螺旋体病",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒含有的核酸通常是 A. DNA B. RNA C. DNA 或 RNA D. DNA 和 RNA",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒含有的核酸通常是 A. DNA B. RNA C. DNA 或 RNA D. DNA 和 RNA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "确定接触者检疫期限长短的主要依据是 A. 潜伏期 B. 传染期 C. 前驱期 D. 恢复期",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "确定接触者检疫期限长短的主要依据是 A. 潜伏期 B. 传染期 C. 前驱期 D. 恢复期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "流行病学中的群体是指 A. 传染病患者 B. 有典型症状的病人 C. 在一定范围内的人群，可以小到一个家庭，大到全人类 D. 无症状的健康人",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "流行病学中的群体是指 A. 传染病患者 B. 有典型症状的病人 C. 在一定范围内的人群，可以小到一个家庭，大到全人类 D. 无症状的健康人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有包膜的病毒侵人细胞的方式是 A. 膜融合 B. 裂解细胞膜 C. 胞饮 D. 直接穿人",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有包膜的病毒侵人细胞的方式是 A. 膜融合 B. 裂解细胞膜 C. 胞饮 D. 直接穿人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病原体生存、生长和繁殖的自然场所被称为 A. 媒介物 B. 临床病例 C. 宿主 D. 传染源",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病原体生存、生长和繁殖的自然场所被称为 A. 媒介物 B. 临床病例 C. 宿主 D. 传染源",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "干扰素抗病毒感染的机制 A. 影像病毒装配 B. 直接干扰病毒 mRNA 的转录 C. 诱导细胞产生抗病毒蛋白 D. 阻止病毒进入易感染细胞",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "干扰素抗病毒感染的机制 A. 影像病毒装配 B. 直接干扰病毒 mRNA 的转录 C. 诱导细胞产生抗病毒蛋白 D. 阻止病毒进入易感染细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "病毒的致病物质是 A. 热原 B. 蛋白质和核酸 C. 外毒素 D. 内毒素",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "病毒的致病物质是 A. 热原 B. 蛋白质和核酸 C. 外毒素 D. 内毒素",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项说法是错误的 A. 轮状模型中的生物，物理化学和社会环境三个组成部分的比重因病种的变化而异 B. 病因网用于疾病多因素研究而不强调疾病单一致病因子的作用 C. 轮状模型用于疾病的多因素研究而不强调疾病单一致病因子的作用 D. 轮状模型的生物，物理化学和社会环境三个组成部分的比重随宿主的遗传因素的不同而异",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项说法是错误的 A. 轮状模型中的生物，物理化学和社会环境三个组成部分的比重因病种的变化而异 B. 病因网用于疾病多因素研究而不强调疾病单一致病因子的作用 C. 轮状模型用于疾病的多因素研究而不强调疾病单一致病因子的作用 D. 轮状模型的生物，物理化学和社会环境三个组成部分的比重随宿主的遗传因素的不同而异",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "单纯疱疹病毒Ⅱ型可引起 A. 原发性肝癌 B. 宫颈癌 C. 肉瘤 D. 细胞淋巴瘤",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "单纯疱疹病毒Ⅱ型可引起 A. 原发性肝癌 B. 宫颈癌 C. 肉瘤 D. 细胞淋巴瘤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1988年，上海市发生甲型肝炎大流行，病毒主要通过生食毛蚶而侵入人体，毛蚶为病因的工作假设是通过下列哪种方法找出的 A. 求同法 B. 排除法 C. 求异法 D. 实验法",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1988年，上海市发生甲型肝炎大流行，病毒主要通过生食毛蚶而侵入人体，毛蚶为病因的工作假设是通过下列哪种方法找出的 A. 求同法 B. 排除法 C. 求异法 D. 实验法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪种不是艾滋病主要传播方式 A. 血液传播 B. 垂直传播 C. 性传播 D. 唾液传播",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪种不是艾滋病主要传播方式 A. 血液传播 B. 垂直传播 C. 性传播 D. 唾液传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算某一时期内发病率时要考虑新发病例数和 A. 病例按时间分布、暴露人口数 B. 暴露人口数的年龄、性别分布 C. 病例按性别年龄分布、暴露人口数 D. 病例的地区分布、各地区暴露人口数",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算某一时期内发病率时要考虑新发病例数和 A. 病例按时间分布、暴露人口数 B. 暴露人口数的年龄、性别分布 C. 病例按性别年龄分布、暴露人口数 D. 病例的地区分布、各地区暴露人口数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "决定传染病患者隔离期限长短的主要依据是 A. 临床症状期 B. 前驱期 C. 潜伏期 D. 传染期",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "决定传染病患者隔离期限长短的主要依据是 A. 临床症状期 B. 前驱期 C. 潜伏期 D. 传染期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在流行病学研究中，由于研究者不能或不能全部掌握或控制所研究现象发生的条件，因此采用什么方法就是很重要的方法 A. 实验研究 B. 建立数学模型 C. 观察法 D. 临床试验",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在流行病学研究中，由于研究者不能或不能全部掌握或控制所研究现象发生的条件，因此采用什么方法就是很重要的方法 A. 实验研究 B. 建立数学模型 C. 观察法 D. 临床试验",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "抗病毒中和抗体的作用是 A. 激活补体杀伤靶细胞 B. ADCC效应 C. 阻止病毒吸附 D. 降解病毒核酸",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "抗病毒中和抗体的作用是 A. 激活补体杀伤靶细胞 B. ADCC效应 C. 阻止病毒吸附 D. 降解病毒核酸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以破胞方式从细胞向外释放的病毒是 A. 脊髓灰质炎病毒 B. 麻疹 C. 流感病毒 D. 腮腺炎病毒",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以破胞方式从细胞向外释放的病毒是 A. 脊髓灰质炎病毒 B. 麻疹 C. 流感病毒 D. 腮腺炎病毒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "裸露病毒体的结构是 A. 核酸+包膜 B. 核心+衣壳+包膜 C. 核心+衣壳 D. 核衣壳+包膜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "裸露病毒体的结构是 A. 核酸+包膜 B. 核心+衣壳+包膜 C. 核心+衣壳 D. 核衣壳+包膜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列有关病毒结构和生命活动特点，叙述错误的是 A. 病毒的繁殖是在寄主细胞内进行的 B. 病毒可以利用自身的营养分裂形成新个体 C. 病毒由蛋白质外壳和遗传物质内核组成 D. 病毒没有细胞结构",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列有关病毒结构和生命活动特点，叙述错误的是 A. 病毒的繁殖是在寄主细胞内进行的 B. 病毒可以利用自身的营养分裂形成新个体 C. 病毒由蛋白质外壳和遗传物质内核组成 D. 病毒没有细胞结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为制定某地区人群原发性高血压的社区综合防制方案，拟对该地区某时点人群原发性高血压的患病情况进行调查。这类研究是 A. 队列研究 B. 流行病学实验 C. 横断面研究 D. 病例对照研究",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为制定某地区人群原发性高血压的社区综合防制方案，拟对该地区某时点人群原发性高血压的患病情况进行调查。这类研究是 A. 队列研究 B. 流行病学实验 C. 横断面研究 D. 病例对照研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "无包膜病毒完整病毒体的是  A. 核酸 B. 衣壳 C. 包膜 D. 核衣壳",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "无包膜病毒完整病毒体的是  A. 核酸 B. 衣壳 C. 包膜 D. 核衣壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "疫源地是指 A. 传染源容易聚集的地方 B. 传染源能达到的范围 C. 传染源所在的地区 D. 传染源向四周传播病原体所能波及的范围",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "疫源地是指 A. 传染源容易聚集的地方 B. 传染源能达到的范围 C. 传染源所在的地区 D. 传染源向四周传播病原体所能波及的范围",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于病毒基本性状叙述错误的是： A. 体积微小，无细胞结构 B. 只能在活细胞中增殖 C. 对干扰素敏感 D. 含有DNA和RNA",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于病毒基本性状叙述错误的是： A. 体积微小，无细胞结构 B. 只能在活细胞中增殖 C. 对干扰素敏感 D. 含有DNA和RNA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新的疫苗或预防药物在推广应用前必须做 A. 通过动物试验证实其效果 B. 证明其无严重副作用 C. 通过现场试验考核其实际预防效果 D. 通过毒理学鉴定证明其对人体无害",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新的疫苗或预防药物在推广应用前必须做 A. 通过动物试验证实其效果 B. 证明其无严重副作用 C. 通过现场试验考核其实际预防效果 D. 通过毒理学鉴定证明其对人体无害",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项不是人工自动免疫使用的制剂 A. 脊髓灰质炎活疫苗 B. 麻疹活疫苗 C. 卡介苗 D. 丙种球蛋白",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项不是人工自动免疫使用的制剂 A. 脊髓灰质炎活疫苗 B. 麻疹活疫苗 C. 卡介苗 D. 丙种球蛋白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现患研究主要分析指标是 A. 死亡构成比 B. 患病率 C. 发病率 D. 续发率",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现患研究主要分析指标是 A. 死亡构成比 B. 患病率 C. 发病率 D. 续发率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于流行病学研究方法的叙述，下列哪项是错误的 A. 人群现场是流行病学主要的实验室 B. 分析性研究可人为控制研究条件 C. 流行病学研究可应用于疾病的诊断及预后评价 D. 理论流行病学研究又称数理流行病学研究",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于流行病学研究方法的叙述，下列哪项是错误的 A. 人群现场是流行病学主要的实验室 B. 分析性研究可人为控制研究条件 C. 流行病学研究可应用于疾病的诊断及预后评价 D. 理论流行病学研究又称数理流行病学研究",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

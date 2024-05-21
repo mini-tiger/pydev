@@ -1,0 +1,282 @@
+[
+  {
+    "question_std": "上海外高桥数据中心设施/园区名称和地址。",
+    "answers_std": "上海外高桥数据中心位于上海市外高桥保税区富特西一路99号",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心建筑的,建造年份, 作为数据中心设施投入运营的年份",
+    "answers_std": "建造年份 1993年\n B) ",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心建筑物的IT容量（兆瓦）",
+    "answers_std": "上海外高桥数据中心从两个变电站引出两路电源，总供电量达到2×20000KVA，数据中心为A级数据机房，主要用电负荷为数据中心机房IT设备用电、支持IT设备正常运行的辅助设备及通信安全设备用电等，主要用电负荷性质为一级负荷中特别重要的负荷。",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心机柜标准是否满足 48U，1200mm x 800mm",
+    "answers_std": "600*1050/1200*45U",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足,客户需要拥有私人封闭环境，并配备自己的安全接入控制系统。",
+    "answers_std": "每个楼层配置2个 约30㎡的客户用办公区； ",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足,办公空间面积约为40平方米，配备4个办公桌/椅。\n通常的装修包括一个壁挂机架，带有2路大于16安培的电源，以及一个尺寸为2000mm x 2000mm x 800mm的3层开放式存储架。\n还需要提供一个用于临时设置的32安培IEC309插座的2路电源。",
+    "answers_std": "每个楼层配置2个 约30㎡的客户用办公区",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足,需要不少于25平方米的永久存储空间，用于项目/废弃设备的临时存放。",
+    "answers_std": "库房 ①     一层：紧邻拆装区配置一个拆包房（约30平方米）\n②     一层，配一个约20平方米的库房，用于设施运维使用；\n④     每层配置1个库房（每个约10~20平方米）。\n⑤     每个库房设计2组电源插座（国标）。\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足,在与拟议空间数据大厅相同楼层上提供调试间。",
+    "answers_std": "上海外高桥数据中心五层设置了501和502机房模块、两个独立的网络机房，并配置了客户调试室、配电间等配套区域。",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足,符合或超过Tier III同时可维护数据中心设计、建设和运营的最佳实践。",
+    "answers_std": "整体认证：CQC GB50174-2017 A级。",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足,符合与TIA 942 Level 3相当的标准（同时可维护），",
+    "answers_std": "整体认证：CQC GB50174-2017 A级。",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足,遵循GB-50174标准，并且不低于等级3的DengBao标准。",
+    "answers_std": "上海外高桥数据中心已获得国家GB50174-2017的A级机房认证和国家信息安全等级保护三级2.0认证。",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心提供商是否支持多家电信运营商（是/否）？请提供电信运营商列表。",
+    "answers_std": "多运营商接入：单电信，单联通，单移动，静态BGP，动态BGP\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心设施是否有从园区入口到客户数据中心的电信运营商电路的全程两条不同/安全路径（是/否）？",
+    "answers_std": "双主核心机房、双路冗余备份",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请确认上海外高桥数据中心设施是否支持热/冷通道配置。",
+    "answers_std": "机房内空调系统采用下送风方式，空调采用EC下沉式风机，减小因机组内部阻力而增加的能耗，送风效率更高更节能。\n机房模块与精密空调间隔断上部设回风口，热空气由直接由空调回风口吸收，冷通道封闭，减少冷热空气混合提高精密空调冷热交换效率。冷通道封闭的方式防止了机房制冷量流失，同时可以让机房运维人员拥有更好的工作环境。\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心可以提供的其他服务/能力（托管服务、托管云、私有云、灾难恢复服务等）。",
+    "answers_std": "设备收发快递服务\n设备上下架服务\n综合布线服务\n设备标签服务\n系统操作服务\n软件安装服务\n网络操作服务\n运营服务报告\n办公区租赁服务\n设备搬迁服务\n改造交付服务\n驻场运维服务\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心是否能够满足10年的合同期限要求。",
+    "answers_std": "地块基本指标\n使用权来源：转让\n使用期限：1992年2月28日至2042年2月27日止",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心,客户是否有调整功率的能力？",
+    "answers_std": "电力调整\n支持电力\n调整和改造",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请确认上海外高桥数据中心建筑的设计PUE和当前运行PUE。",
+    "answers_std": "机房设计PUE 1.42 ",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心,点支持负载 - 点载荷是多少？",
+    "answers_std": "1）机房楼层设计承重（kg/平方米） 楼板承重15KN/㎡，结构安全等级2级。\n2）整体建筑结构根据电信级数据中心标准A级机房进行设计建造，数据中心具备八级的抗震能力，并具备抵御强烈风暴、雷击的能力。建筑楼板承重为10kN/m2。\n3）架空地板承重 1500KG/㎡\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心,楼板高度至少为5米。",
+    "answers_std": "1）机房模块内吊顶高度(mm) 5700\n2）数据中心层高 天花板净高3.2 m\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心燃料储存持续时间（例如48小时等值燃料），并附上加注合同。请提供燃料储存的自主性和系统安排。请确认，例如在满负荷状态下24小时。N+1泵与同时可维护的管道。\"",
+    "answers_std": "上海外高桥数据中心配置高压室外箱式柴油发电机组作为后备电源补充，根据负荷计算，发电机箱体内设置1000L的日用油箱，且在园区新建2个25M3的地埋储油罐，以满足发电机组满载连续运行12小时的需求。",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心大厅的标准温度范围,并说明数据大厅的标准湿度范围。",
+    "answers_std": "水冷型机房专用精密空调：采用高效先进的冷水制冷系统，为数据中心托管环境提供优质可靠的制冷条件。\n温度：18℃-27℃\n湿度：35%-60%\n精密空调、冷冻水泵采用双路电源\n机房模块采用冷通道封闭\n\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请说明上海外高桥数据中心UPS系统的冗余性（例如2N配置）。\n请说明PDU系统的冗余性（例如在1N失效时，2N配置使负载不超过额定容量的90%）。",
+    "answers_std": "UPS：IT负荷由UPS系统供电，UPS采用2N模式，蓄电池单路后备时间15分钟；",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心设施是否提供备份冷却系统和过渡能力？",
+    "answers_std": "水冷型号：YKK5KZH95EWH/RN22BFRH,冷冻水系统供回水温度 14.6℃/21.0℃\n制冷机组冗余方式 N+1\n制冷机组带载率 15%-100%\n市电断电时，不间断供冷时间 15分钟\n全站断水后制冷系统可持续正常工作时间 15分钟\n冷水主机是否签署维保合同，维护是否为原厂 在建中（后期会）",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心设施是否进行集成系统测试，频率如何？",
+    "answers_std": "见文档 ",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请确认上海外高桥数据中心大厅空间的抑制类型。由于氮气或基于氮气的灭火系统对旋转硬盘可能产生影响，因此不应在数据中心使用氮气。\n\n请确认设施的气体抑制系统和运营位置。",
+    "answers_std": "服务器机房消防系统:七氟丙烷\n公共区域:水消防预作用\n配电室:七氟丙烷\n柴发机房:移动灭火器\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海外高桥数据中心建筑物高于海平面（是/否）",
+    "answers_std": "数据中心一期建筑面积17360平方米，大楼地上6层，无地下室；",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请描述上海外高桥数据中心,政府批准了拟议数据中心运营的电力配额，以及IDC许可证、电力供应等其他必要的政府批准。",
+    "answers_std": "1#市电----上级变电站名\t洲海变\n1#市电----线路编号/上级开关编号\t州海/3G649\n2#市电----上级变电站名\t东煦变\n2#市电----线路编号/上级开关编号\t东煦/8804\n3#市电---上级变电站名\t\n3#市电----线路编号/上级开关编号\t\n电压等级\t35kV/10KV\n市电线路数量\t2\n外市电总容量\t2*20MVA\n市电冗余方式\t2N\n10kV是否母联\t是\n切换方式\t自投手复\n变压器中压侧（10KV）输入电源数量\t2路\n变压等级\t10kV/400\n变压器容量\t\"1F:4*2000KVA=8000kVA\n6F:2*2500KVA=5000kVA\"\n变压器冗余方式\t2N\n400V是否母联\t是\n切换方式\t自动\n",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

@@ -1,0 +1,10 @@
+venv_ai_reporter
+frontend
+tools
+webapi/db/m3e-base
+.gitignore
+.git
+.idea
+winserver
+venv_langchain1
+*.tar

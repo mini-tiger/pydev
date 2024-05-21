@@ -1,0 +1,157 @@
+{
+    "title": "{title}",
+    "Sections": [
+        {
+            "index": 1,
+            "Section": "第一章 {keyword}相关概述",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}阐述"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}的分类"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}产业简况"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "Section": "第二章 世界{keyword}产业发展透析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 世界{keyword}产业运营环境分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 世界{keyword}行业发展总况"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 世界{keyword}重点国家及地区市场分析"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "Section": "第三章 {area}{keyword}行业市场发展环境分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {area}宏观经济环境分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {area}{keyword}行业政策环境分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {area}{keyword}行业社会环境分析"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "Section": "第四章 {area}{keyword}市场供需调查分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {area}{keyword}市场供给分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {area}{keyword}市场需求分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {area}{keyword}产业发展存在问题分析"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "Section": "第五章 {area}{keyword}市场进出口数据分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {area}{keyword}出口统计"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {area}{keyword}进口统计"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {area}{keyword}进出口价格对比"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {area}{keyword}进口主要来源地及出口目的地"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "Section": "第六章 {area}{keyword}供给规模统计分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 全国{keyword}供给规模分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 主要地区{keyword}供给规模分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}供给规模集中度分析"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "Section": "第七章 {area}{keyword}产业主要数据监测分析",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {area}{keyword}行业规模分析"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {area}{keyword}行业结构分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {area}{keyword}行业产值分析"
+                },
+                {
+                    "index": 4,
+                    "Section": "第四节 {area}{keyword}行业成本费用分析"
+                },
+                {
+                    "index": 5,
+                    "Section": "第五节 {area}{keyword}行业盈利能力分析"
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "Section": "第八章 {area}{keyword}市场投资潜力及前景预测",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {area}{keyword}市场未来发展趋势"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {area}{keyword}市场前景展望"
+                }
+            ]
+        }
+    ]
+}

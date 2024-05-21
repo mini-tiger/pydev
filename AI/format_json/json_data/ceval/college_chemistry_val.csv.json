@@ -1,0 +1,242 @@
+[
+  {
+    "question_std": "$HO_2$的沸点比$H_2S$的高,可以从____角度来进行解释。 前面下划线位置应该填入哪个选项,只输出选项 A. 共价键牢固 B. 变形性 C. 氢键 D. 分子间力",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "$HO_2$的沸点比$H_2S$的高,可以从____角度来进行解释。 前面下划线位置应该填入哪个选项,只输出选项 A. 共价键牢固 B. 变形性 C. 氢键 D. 分子间力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "$Mg(OH)_2$饱和溶液中的$[OH^-]=10^{-4}mol/dm^3$,若往该溶液中加入NaOH溶液,使溶液中$[OH^-]$的浓度变为原来的10倍,则$Mg(OH)_2$的溶解度在理论上将____ 前面下划线位置应该填入哪个选项,只输出选项 A. 变为原来的$10^{-3}$倍 B. 变为原来的$10^{-2}$倍 C. 变为原来的$10$倍 D. 不发生变化",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "$Mg(OH)_2$饱和溶液中的$[OH^-]=10^{-4}mol/dm^3$,若往该溶液中加入NaOH溶液,使溶液中$[OH^-]$的浓度变为原来的10倍,则$Mg(OH)_2$的溶解度在理论上将____ 前面下划线位置应该填入哪个选项,只输出选项 A. 变为原来的$10^{-3}$倍 B. 变为原来的$10^{-2}$倍 C. 变为原来的$10$倍 D. 不发生变化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "估计下列分子或离子中，键角最小的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $NH_3$ B. $NO_3^{-}$ C. $NF_3$ D. $NCl_3$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "估计下列分子或离子中，键角最小的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $NH_3$ B. $NO_3^{-}$ C. $NF_3$ D. $NCl_3$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已知$K_b^{\\theta}(NH_3·H_2O)=1.8×10^{-5}$，用$NH_3·H_2O$和$NH_4Cl$配制pH=9.00的缓冲溶液时，c($NH_3·H_2O$)/c($NH_4Cl$)=____ 前面下划线位置应该填入哪个选项,只输出选项 A. 5.6 B. 0.56 C. 1.8 D. 3.6",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已知$K_b^{\\theta}(NH_3·H_2O)=1.8×10^{-5}$，用$NH_3·H_2O$和$NH_4Cl$配制pH=9.00的缓冲溶液时，c($NH_3·H_2O$)/c($NH_4Cl$)=____ 前面下划线位置应该填入哪个选项,只输出选项 A. 5.6 B. 0.56 C. 1.8 D. 3.6",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据酸碱质子理论、HCI、HAc和$NH_4^+$酸性由弱到强的顺序为____ 前面下划线位置应该填入哪个选项,只输出选项 A. $NH_4^+<HAc<HCl$ B. $HAc<HCl<NH_4^+$ C. $NH_4^+<HCl<HAc$ D. $HAc<NH_4^+<HCl$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据酸碱质子理论、HCI、HAc和$NH_4^+$酸性由弱到强的顺序为____ 前面下划线位置应该填入哪个选项,只输出选项 A. $NH_4^+<HAc<HCl$ B. $HAc<HCl<NH_4^+$ C. $NH_4^+<HCl<HAc$ D. $HAc<NH_4^+<HCl$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "二氧化氮通入NaOH溶液，得到的主要产物是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $NaNO_2$ B. $NaNO_2$和$O_2$ C. $NaNO_3$和NO D. $NaNO_3$和$NaNO_2$",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "二氧化氮通入NaOH溶液，得到的主要产物是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $NaNO_2$ B. $NaNO_2$和$O_2$ C. $NaNO_3$和NO D. $NaNO_3$和$NaNO_2$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若$[ML_4]^{2+}$的$K_f=a$，$[MY_4]^{2-}$的$K_f=b$，则反应$[ML_4]^{2+}+4Y^-=[MY_4]^{2-}+4L$的平衡常数K为____ 前面下划线位置应该填入哪个选项,只输出选项 A. ab B. a+b C. a/b D. b/a",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若$[ML_4]^{2+}$的$K_f=a$，$[MY_4]^{2-}$的$K_f=b$，则反应$[ML_4]^{2+}+4Y^-=[MY_4]^{2-}+4L$的平衡常数K为____ 前面下划线位置应该填入哪个选项,只输出选项 A. ab B. a+b C. a/b D. b/a",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某溶液的pH=0.04,则其中$H^+$的浓度为____ 前面下划线位置应该填入哪个选项,只输出选项 A. $0.912mol/dm^3$ B. $0.91mol/dm^3$ C. $0.9mol/dm^3$ D. $1.1mol/dm^3$",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某溶液的pH=0.04,则其中$H^+$的浓度为____ 前面下划线位置应该填入哪个选项,只输出选项 A. $0.912mol/dm^3$ B. $0.91mol/dm^3$ C. $0.9mol/dm^3$ D. $1.1mol/dm^3$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在573K时，反应$N_2(g)+3H_2(g)\\rightleftharpoons2NH_3(g)$的$Δ_rG_m^{\\theta}=21.93kJ·mol^{-1}$，则反应的经验平衡常数$K_c/(mol·dm^{-3})^2$为____ 前面下划线位置应该填入哪个选项,只输出选项 A. $4.5×10^{-6}$ B. $1.0×10^{-2}$ C. $1.9×10^{-1}$ D. 22.12",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在573K时，反应$N_2(g)+3H_2(g)\\rightleftharpoons2NH_3(g)$的$Δ_rG_m^{\\theta}=21.93kJ·mol^{-1}$，则反应的经验平衡常数$K_c/(mol·dm^{-3})^2$为____ 前面下划线位置应该填入哪个选项,只输出选项 A. $4.5×10^{-6}$ B. $1.0×10^{-2}$ C. $1.9×10^{-1}$ D. 22.12",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各对含氧酸中，都是一元酸的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $H_3BO_3$，$H_3PO_3$ B. $H_3PO_3$，$H_2CO_3$ C. $H_2CO_3$，$H_3PO_2$ D. $H_3BO_3$，$H_3PO_2$",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各对含氧酸中，都是一元酸的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $H_3BO_3$，$H_3PO_3$ B. $H_3PO_3$，$H_2CO_3$ C. $H_2CO_3$，$H_3PO_2$ D. $H_3BO_3$，$H_3PO_2$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "相同质量的$KHC_2O_4·H_2C_2O_2·2H_2O$标定$0.1000mol/dm^3NaOH$和$0.1000mol/dm^3c_{1/5KMnO_4}$的酸性溶液,反应完全时,消耗的体积为$V_{NaOH}$和$V_{KMnO_4}$,则两者的关系是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $V_{NaOH}=V_{KMnO_4}$ B. $V_{NaOH}=3/4V_{KMnO_4}$ C. $V_{NaOH}=2V_{KMnO_4}$ D. $V_{NaOH}=2/3V_{KMnO_4}$",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "相同质量的$KHC_2O_4·H_2C_2O_2·2H_2O$标定$0.1000mol/dm^3NaOH$和$0.1000mol/dm^3c_{1/5KMnO_4}$的酸性溶液,反应完全时,消耗的体积为$V_{NaOH}$和$V_{KMnO_4}$,则两者的关系是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $V_{NaOH}=V_{KMnO_4}$ B. $V_{NaOH}=3/4V_{KMnO_4}$ C. $V_{NaOH}=2V_{KMnO_4}$ D. $V_{NaOH}=2/3V_{KMnO_4}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "常温下以液态形式存在的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $CrO_3$ B. $MnO_2$ C. $Mn_2O_7$ D. $WO_3$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "常温下以液态形式存在的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $CrO_3$ B. $MnO_2$ C. $Mn_2O_7$ D. $WO_3$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法中，正确的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 单质的焓为零 B. 反应的热效应就是该反应的摩尔焓变 C. 单质的摩尔生成焓为零 D. 由最稳定单质生成1mol化合物时，该化合物的标准摩尔生成含$\\Delta_\\mathfrak{f}H_\\mathfrak{m}^\\mathfrak{e}$等于该生成反应的$\\Delta_\\mathfrak{r}H_\\mathfrak{m}^\\mathfrak{e}$",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法中，正确的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 单质的焓为零 B. 反应的热效应就是该反应的摩尔焓变 C. 单质的摩尔生成焓为零 D. 由最稳定单质生成1mol化合物时，该化合物的标准摩尔生成含$\\Delta_\\mathfrak{f}H_\\mathfrak{m}^\\mathfrak{e}$等于该生成反应的$\\Delta_\\mathfrak{r}H_\\mathfrak{m}^\\mathfrak{e}$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "比较原子核外2s和2p原子轨道的能量，____ 前面下划线位置应该填入哪个选项,只输出选项 A. 所有原子两者都相等 B. 所有原子两者都不等 C. H的两者相等 D. Ne的两者相等",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "比较原子核外2s和2p原子轨道的能量，____ 前面下划线位置应该填入哪个选项,只输出选项 A. 所有原子两者都相等 B. 所有原子两者都不等 C. H的两者相等 D. Ne的两者相等",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法正确的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 两种难溶电解质,其中$K^{\\theta}_{sp}$小的溶解度一定小 B. 两种难溶电解质,其中$K^{\\theta}_{sp}$小的溶解度一定小 C. 盐效应、酸效应﹑配位效应都会增加难溶电解质的溶解度 D. 同离子效应使难溶电解质的溶解度变小,也使$K^{\\theta}_{sp}$变小",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法正确的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 两种难溶电解质,其中$K^{\\theta}_{sp}$小的溶解度一定小 B. 两种难溶电解质,其中$K^{\\theta}_{sp}$小的溶解度一定小 C. 盐效应、酸效应﹑配位效应都会增加难溶电解质的溶解度 D. 同离子效应使难溶电解质的溶解度变小,也使$K^{\\theta}_{sp}$变小",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "原子序号为24的元素的基态原子，其核外电子排布为____ 前面下划线位置应该填入哪个选项,只输出选项 A. [Ar]3d6 B. [Ar]3d54s1 C. [Ar]3d44s2 D. [Ar]4s24p4",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "原子序号为24的元素的基态原子，其核外电子排布为____ 前面下划线位置应该填入哪个选项,只输出选项 A. [Ar]3d6 B. [Ar]3d54s1 C. [Ar]3d44s2 D. [Ar]4s24p4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据VSEPR理论，二硫化碳分子应该是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 直线型 B. 钝角三角形 C. 等边三角形 D. 其他三个都不对",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据VSEPR理论，二硫化碳分子应该是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 直线型 B. 钝角三角形 C. 等边三角形 D. 其他三个都不对",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列物质中不是一元酸的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $H_3BO_3$ B. $HNO_2$ C. $H_3PO_3$ D. $H[Ag(CN)_2]$",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列物质中不是一元酸的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $H_3BO_3$ B. $HNO_2$ C. $H_3PO_3$ D. $H[Ag(CN)_2]$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "卤素单质中，在NaOH溶液中不发生歧化反应的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $F_2$ B. $Cl_2$ C. $Br_2$ D. $I_2$",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "卤素单质中，在NaOH溶液中不发生歧化反应的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. $F_2$ B. $Cl_2$ C. $Br_2$ D. $I_2$",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于一个化学反应来说，下列说法中正确的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 标准反应吉布斯自由能变化值越负，反应速率越快 B. 标准反应焓变越负，反应速率越快 C. 活化能越大，反应速率越快 D. 活化能越小，反应速率越快",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于一个化学反应来说，下列说法中正确的是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 标准反应吉布斯自由能变化值越负，反应速率越快 B. 标准反应焓变越负，反应速率越快 C. 活化能越大，反应速率越快 D. 活化能越小，反应速率越快",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "等体积混合pH=1.0与pH=3.0的两种一元强酸溶液，混合溶液pH为____ 前面下划线位置应该填入哪个选项,只输出选项 A. 0.3 B. 1.3 C. 1.5 D. 2",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "等体积混合pH=1.0与pH=3.0的两种一元强酸溶液，混合溶液pH为____ 前面下划线位置应该填入哪个选项,只输出选项 A. 0.3 B. 1.3 C. 1.5 D. 2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "用NaOH滴定$H_3BO_3$时，加入多元醇的作用是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 沉淀剂 B. 螯合剂 C. 氧化剂 D. 还原剂",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "用NaOH滴定$H_3BO_3$时，加入多元醇的作用是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 沉淀剂 B. 螯合剂 C. 氧化剂 D. 还原剂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "HCl，HBr，HI三种物质的沸点依次升高的主要原因是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 范德华力减小 B. 取向力增大 C. 诱导力增大 D. 色散力增大",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "HCl，HBr，HI三种物质的沸点依次升高的主要原因是____ 前面下划线位置应该填入哪个选项,只输出选项 A. 范德华力减小 B. 取向力增大 C. 诱导力增大 D. 色散力增大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "____都是广度性质。 前面下划线位置应该填入哪个选项,只输出选项 A. $C_v$，Q，V，S B. w，U，V，H C. P，U，V，G D. $\\mu_i$，U，H，S",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "____都是广度性质。 前面下划线位置应该填入哪个选项,只输出选项 A. $C_v$，Q，V，S B. w，U，V，H C. P，U，V，G D. $\\mu_i$，U，H，S",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

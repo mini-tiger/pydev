@@ -1,0 +1,93 @@
+[
+    {
+        "question_std": "反复发作的风湿性心瓣膜炎可引起以下哪个,A: 心瓣膜增厚变硬, B: 心瓣膜穿孔, C: 心瓣膜坏死, D: 心瓣膜溃疡",
+        "answers_std": "A",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "反复发作的风湿性心瓣膜炎可引起以下哪个,A: 心瓣膜增厚变硬, B: 心瓣膜穿孔, C: 心瓣膜坏死, D: 心瓣膜溃疡",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "皮肤炎症初期局部组织发红、温度升高,是由于以下哪个?, A: 动脉流入组织的血量增多, B: 静脉流出的血量减少, C: 动脉流入组织的血量增多,代谢增强, D: 静脉流出的血量减少,代谢增强",
+        "answers_std": "C",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "皮肤炎症初期局部组织发红、温度升高,是由于以下哪个?, A: 动脉流入组织的血量增多, B: 静脉流出的血量减少, C: 动脉流入组织的血量增多,代谢增强, D: 静脉流出的血量减少,代谢增强",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "从环境保护的角度考虑，下列燃料中最理想的是以下哪个?, A: 氢气, B: 煤炭, C: 汽油, D: 一氧化碳",
+        "answers_std": "A",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "从环境保护的角度考虑，下列燃料中最理想的是以下哪个?, A: 氢气, B: 煤炭, C: 汽油, D: 一氧化碳",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "下列与水相关的说法错误的是哪个输出选项?, A: 硬水蒸馏后可以转化为软水, B: 电解水可以探究水的组成, C: 含洗涤剂的水除油污是乳化作用, D: 将水注入浓硫酸配成稀硫酸",
+        "answers_std": "D",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "下列与水相关的说法错误的是哪个输出选项?, A: 硬水蒸馏后可以转化为软水, B: 电解水可以探究水的组成, C: 含洗涤剂的水除油污是乳化作用, D: 将水注入浓硫酸配成稀硫酸",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "植物用根吸收水分，用导管输送水分，用气孔蒸腾水分。上面这句是否描述正确,回答正确或不正确",
+        "answers_std": "正确",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "植物用根吸收水分，用导管输送水分，用气孔蒸腾水分。上面这句是否描述正确,回答正确或不正确",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "下列植物中，属于草质茎的是哪个 A、水杉 B、葡萄 C、甘薯 D、爬山虎",
+        "answers_std": "C、甘薯",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "下列植物中，属于草质茎的是哪个 A、水杉 B、葡萄 C、甘薯 D、爬山虎",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "下列植物的花属于不完全花的是哪个 A、桃花 B、油菜花 C、黄瓜花 D、玫瑰花",
+        "answers_std": "C、黄瓜花",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "下列植物的花属于不完全花的是哪个 A、桃花 B、油菜花 C、黄瓜花 D、玫瑰花",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "下列不属于果实的是哪个，仅输出选项 A、无籽西瓜 B、香蕉 C、向日葵籽 D、萝卜",
+        "answers_std": "D",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "下列不属于果实的是哪个，仅输出选项 A、无籽西瓜 B、香蕉 C、向日葵籽 D、萝卜",
+        "score": 0,
+        "err": "not run"
+      },
+      {
+        "question_std": "一生要经过发芽、出苗、现蕾、开花、结铃、吐絮这几个过程的植物是哪个,仅输出选项 A、水稻 B、棉花 C、苹果 D、小麦",
+        "answers_std": "B",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "一生要经过发芽、出苗、现蕾、开花、结铃、吐絮这几个过程的植物是哪个,仅输出选项 A、水稻 B、棉花 C、苹果 D、小麦",
+        "score": 0,
+        "err": "not run"
+      }, 
+      {
+        "question_std":"烧饭等加热用的器具常用金属材料加工而成，这是因为金属具有良好的什么，仅输出选项  A、延展性 B、导热性 C、导电性 D、绝缘性",
+        "answers_std": "B",
+        "answers_real": "",
+        "valid": false,
+        "prompt": "烧饭等加热用的器具常用金属材料加工而成，这是因为金属具有良好的什么，仅输出选项  A、延展性 B、导热性 C、导电性 D、绝缘性",
+        "score": 0,
+        "err": "not run"
+      }
+      
+]

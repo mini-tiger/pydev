@@ -1,0 +1,2042 @@
+[
+  {
+    "question_std": "⽤⼀个字节最多能编出（ ）不同的码 A. 128个 B. 256个 C. 16个 D. 8个",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽤⼀个字节最多能编出（ ）不同的码 A. 128个 B. 256个 C. 16个 D. 8个",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通常以太⽹采⽤了（ ）协议以⽀持总线型的结构 A. 环型 B. 载波侦听与冲突检测CSMA/CD C. 令牌环 D. 总线型",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通常以太⽹采⽤了（ ）协议以⽀持总线型的结构 A. 环型 B. 载波侦听与冲突检测CSMA/CD C. 令牌环 D. 总线型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果按变址⽅式读取操作数，则有效地址是指 A. 变址计算获得的地址 B. 基址寄存器中存放的地址 C. 指令中直接给出的地址 D. 变址寄存器中存放的地址",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果按变址⽅式读取操作数，则有效地址是指 A. 变址计算获得的地址 B. 基址寄存器中存放的地址 C. 指令中直接给出的地址 D. 变址寄存器中存放的地址",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界上第⼀个⽹络是在（ ）年诞⽣ A. 1969 B. 1977 C. 1973 D. 1946",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界上第⼀个⽹络是在（ ）年诞⽣ A. 1969 B. 1977 C. 1973 D. 1946",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "串⾏接⼝是指 A. 主机和接⼝之间、接⼝和外设之间都采⽤串⾏传送 B. 主机和接⼝之间串⾏传送，接⼝和外设之间并⾏传送 C. 主机和接⼝之间并⾏传送，接⼝和外设之间串⾏传送 D. 系统总线采⽤串⾏总线",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "串⾏接⼝是指 A. 主机和接⼝之间、接⼝和外设之间都采⽤串⾏传送 B. 主机和接⼝之间串⾏传送，接⼝和外设之间并⾏传送 C. 主机和接⼝之间并⾏传送，接⼝和外设之间串⾏传送 D. 系统总线采⽤串⾏总线",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "访问列表是路由器的⼀种安全策略,你决定⽤⼀个标准ip访问列表来做安全控制，以下为标准访问列表的例⼦为 A. access-list 101 deny 192.168.10.23 255.255.255.255 B. access-list standart 192.168.10.23 C. access-list 10 deny 192.168.10.23 0.0.0.0 D. access-list 101 deny 192.168.10.23 0.0.0.0",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "访问列表是路由器的⼀种安全策略,你决定⽤⼀个标准ip访问列表来做安全控制，以下为标准访问列表的例⼦为 A. access-list 101 deny 192.168.10.23 255.255.255.255 B. access-list standart 192.168.10.23 C. access-list 10 deny 192.168.10.23 0.0.0.0 D. access-list 101 deny 192.168.10.23 0.0.0.0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中，属于逻辑结构的是 A. 循环队列 B. 邻接表 C. 散列表 D. ⼆叉树",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中，属于逻辑结构的是 A. 循环队列 B. 邻接表 C. 散列表 D. ⼆叉树",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "C程序的组成是 A. 若⼲⼦程序 B. 语句 C. 循环体 D. 若⼲过程",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "C程序的组成是 A. 若⼲⼦程序 B. 语句 C. 循环体 D. 若⼲过程",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "你刚创建了⼀个扩展访问列表101,现在你想把它应⽤到接⼝上,通过以下哪条命令你可以把它应⽤到接⼝上 A. pemit access-list 101 out B. access-list 101 out C. apply access-list 101 out D. ip access-group 101 out",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "你刚创建了⼀个扩展访问列表101,现在你想把它应⽤到接⼝上,通过以下哪条命令你可以把它应⽤到接⼝上 A. pemit access-list 101 out B. access-list 101 out C. apply access-list 101 out D. ip access-group 101 out",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "CPU包括哪两部分 A. ALU和主存储器 B. ALU和控制器 C. 运算器和控制器 D. ALU和累加器",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "CPU包括哪两部分 A. ALU和主存储器 B. ALU和控制器 C. 运算器和控制器 D. ALU和累加器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "线性表顺序存储时，逻辑上相邻的两个数据元素，其存储地址 A. ⼀定不相邻 B. ⼀定相邻 C. 不⼀定相邻 D. 可能不相邻",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "线性表顺序存储时，逻辑上相邻的两个数据元素，其存储地址 A. ⼀定不相邻 B. ⼀定相邻 C. 不⼀定相邻 D. 可能不相邻",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机内部⽤机内码⽽不⽤国标码表示汉字的原因是 A. 有些汉字的国标码不唯⼀，⽽机内码唯⼀ B. 在有些情况下，国标码有可能造成误解 C. 国标码是国家标准，⽽机内码是国际标准 D. 机内码⽐国标码容易表示",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机内部⽤机内码⽽不⽤国标码表示汉字的原因是 A. 有些汉字的国标码不唯⼀，⽽机内码唯⼀ B. 在有些情况下，国标码有可能造成误解 C. 国标码是国家标准，⽽机内码是国际标准 D. 机内码⽐国标码容易表示",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计费服务器的ip地址在192.168.1.0/24⼦⽹内，为了保证计费服务器的安全，不允许任何⽤户telnet到该服务器，则需要配置的访问列表条⽬为 A. access-list 11 deny tcp 192.168.1.0 0.0.0.255 eq telnet/access-list 111 permit ip any any B. access-list 111 deny tcp any 192.168.1.0 0.0.0.255 eq C. access-list 111 deny tcp any 192.168.1.0 eq telnet/access-list 111 permit ip any any D. access-list 111 deny udp 192.168.1.0 0.0.0.255 eq telnet/access-list 111 permit ip any any",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计费服务器的ip地址在192.168.1.0/24⼦⽹内，为了保证计费服务器的安全，不允许任何⽤户telnet到该服务器，则需要配置的访问列表条⽬为 A. access-list 11 deny tcp 192.168.1.0 0.0.0.255 eq telnet/access-list 111 permit ip any any B. access-list 111 deny tcp any 192.168.1.0 0.0.0.255 eq C. access-list 111 deny tcp any 192.168.1.0 eq telnet/access-list 111 permit ip any any D. access-list 111 deny udp 192.168.1.0 0.0.0.255 eq telnet/access-list 111 permit ip any any",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "使⽤⾼级语⾔编写的程序称之为 A. 源程序 B. 编译程序 C. 连接程序 D. 编辑程序",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "使⽤⾼级语⾔编写的程序称之为 A. 源程序 B. 编译程序 C. 连接程序 D. 编辑程序",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列对双绞线线序568A排序正确的是 A. ⽩绿、绿、⽩橙、兰、⽩兰、橙、⽩棕、棕 B. 绿、⽩绿、橙、⽩橙、兰、⽩兰、棕、⽩棕 C. ⽩橙、橙、⽩绿、兰、⽩兰、绿、⽩棕、棕 D. ⽩橙、橙、绿、⽩兰、兰、⽩绿、⽩棕、棕",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列对双绞线线序568A排序正确的是 A. ⽩绿、绿、⽩橙、兰、⽩兰、橙、⽩棕、棕 B. 绿、⽩绿、橙、⽩橙、兰、⽩兰、棕、⽩棕 C. ⽩橙、橙、⽩绿、兰、⽩兰、绿、⽩棕、棕 D. ⽩橙、橙、绿、⽩兰、兰、⽩绿、⽩棕、棕",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "指令系统中采⽤不同寻址⽅式的⽬的主要是 A. 实现存储程序和程序控制 B. 可以直接访问外存 C. 缩短指令⻓度，扩⼤寻址空间，提⾼编程灵活性 D. 提供扩展操作码的可能并降低译码难度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "指令系统中采⽤不同寻址⽅式的⽬的主要是 A. 实现存储程序和程序控制 B. 可以直接访问外存 C. 缩短指令⻓度，扩⼤寻址空间，提⾼编程灵活性 D. 提供扩展操作码的可能并降低译码难度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在IE地址栏输⼊的“http://www.cqu.edu.cn/”中，http代表的是 A. 资源 B. 协议 C. 地址 D. 主机",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在IE地址栏输⼊的“http://www.cqu.edu.cn/”中，http代表的是 A. 资源 B. 协议 C. 地址 D. 主机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "设char str[20]；，从键盘能完整地输⼊字符串“I am a student.”的语句是 A. str= gets( ) B. scanf( \"%c\",str) C. gets(str) D. scanf( \" %s\",str)",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "设char str[20]；，从键盘能完整地输⼊字符串“I am a student.”的语句是 A. str= gets( ) B. scanf( \"%c\",str) C. gets(str) D. scanf( \" %s\",str)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列对OSI参考模型从⾼到低表述正确的是 A. 应⽤层、传输层、互联⽹层、⽹络接⼝层 B. 物理层、数据链路层、传输层、会话层、表示层、应⽤层、⽹络层 C. 应⽤层、表示层、会话层、传输层、⽹络层、数据链路层、物理层 D. 应⽤层、表示层、会话层、⽹络层、数据链路层、传输层、物理层",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列对OSI参考模型从⾼到低表述正确的是 A. 应⽤层、传输层、互联⽹层、⽹络接⼝层 B. 物理层、数据链路层、传输层、会话层、表示层、应⽤层、⽹络层 C. 应⽤层、表示层、会话层、传输层、⽹络层、数据链路层、物理层 D. 应⽤层、表示层、会话层、⽹络层、数据链路层、传输层、物理层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下述叙述正确的是 A. 软件和硬件的界线不是绝对的，有时功能是等效的 B. 软件不可⽤硬件代替 C. 硬件系统不可⽤软件代替 D. 计算机性能完全取决于CPU",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下述叙述正确的是 A. 软件和硬件的界线不是绝对的，有时功能是等效的 B. 软件不可⽤硬件代替 C. 硬件系统不可⽤软件代替 D. 计算机性能完全取决于CPU",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对处于还原状态的Windows应⽤程序窗⼝，不能实现的操作是 A. 移动 B. 旋转 C. 最⼩化 D. 最⼤化",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对处于还原状态的Windows应⽤程序窗⼝，不能实现的操作是 A. 移动 B. 旋转 C. 最⼩化 D. 最⼤化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "动态半导体存储器的特点是 A. 在⼯作中存储器内容会产⽣变化 B. 在⼯作中需要动态地改变访存地址 C. 每次读出后，需要根据原存内容重新写⼊⼀遍 D. 每隔⼀定时间，需要根据原存内容重新写⼊⼀遍",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "动态半导体存储器的特点是 A. 在⼯作中存储器内容会产⽣变化 B. 在⼯作中需要动态地改变访存地址 C. 每次读出后，需要根据原存内容重新写⼊⼀遍 D. 每隔⼀定时间，需要根据原存内容重新写⼊⼀遍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个包含有锐捷等多⼚商设备的交换⽹络，其VLAN中Trunk的标记⼀般应选 A. VTP B. IEEE 802.1q C. ISL D. 以上都可以",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个包含有锐捷等多⼚商设备的交换⽹络，其VLAN中Trunk的标记⼀般应选 A. VTP B. IEEE 802.1q C. ISL D. 以上都可以",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对⼀个⽹络管理员来说，⽹络管理的⽬标不是 A. 为⽤户提供更丰富的服务 B. 提⾼安全性 C. 降低整个⽹络的运⾏费⽤ D. 提⾼设备的利⽤率",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对⼀个⽹络管理员来说，⽹络管理的⽬标不是 A. 为⽤户提供更丰富的服务 B. 提⾼安全性 C. 降低整个⽹络的运⾏费⽤ D. 提⾼设备的利⽤率",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下不属于⽆线介质的是 A. 电磁波 B. 微波 C. 激光 D. 光纤",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下不属于⽆线介质的是 A. 电磁波 B. 微波 C. 激光 D. 光纤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "条件编译的基本形式如下: #XXX 标识符 \\n 程序段1 \\n #else \\n 程序段2  \\n #endif \\n 其中XXX可以是 A. ifdef 或 ifndef 或 if B. ifdef 或 include C. ifdef 或 ifndef 或 define D. define 或 include",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "条件编译的基本形式如下: #XXX 标识符 \\n 程序段1 \\n #else \\n 程序段2  \\n #endif \\n 其中XXX可以是 A. ifdef 或 ifndef 或 if B. ifdef 或 include C. ifdef 或 ifndef 或 define D. define 或 include",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列语句中，能将c定义为⽂件型指针的是 A. FILE *c B. file * c C. file c D. FILEc",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列语句中，能将c定义为⽂件型指针的是 A. FILE *c B. file * c C. file c D. FILEc",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "挂接在总线上的多个部件（ ） A. 只能分时向总线发送数据，但可同时从总线接收数据 B. 只能分时向总线发送数据，并只能分时从总线接收数据 C. 可同时向总线发送数据，但只能分时从总线接收数据 D. 可同时向总线发送数据，并同时从总线接收数据",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "挂接在总线上的多个部件（ ） A. 只能分时向总线发送数据，但可同时从总线接收数据 B. 只能分时向总线发送数据，并只能分时从总线接收数据 C. 可同时向总线发送数据，但只能分时从总线接收数据 D. 可同时向总线发送数据，并同时从总线接收数据",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在访问列表中,有⼀条规则如下:access-list 131 permit ip any 192.168.10.0 0.0.0.255 eq ftp 在该规则中，any的意思是表示 A. 检查⽬的地址的所有bit位 B. 检察源地址的所有bit位 C. 允许所有的源地址 D. 允许255.255.255.255 0.0.0.0",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在访问列表中,有⼀条规则如下:access-list 131 permit ip any 192.168.10.0 0.0.0.255 eq ftp 在该规则中，any的意思是表示 A. 检查⽬的地址的所有bit位 B. 检察源地址的所有bit位 C. 允许所有的源地址 D. 允许255.255.255.255 0.0.0.0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "语⾔处理程序的发展经历了（）三个发展阶段 A. ⼆进制代码语⾔、机器语⾔和FORTRAN语⾔ B. 机器语⾔、汇编语⾔和⾼级语⾔ C. 机器语⾔、BASIC语⾔和 C语⾔ D. 机器语⾔、汇编语⾔和C++语⾔",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "语⾔处理程序的发展经历了（）三个发展阶段 A. ⼆进制代码语⾔、机器语⾔和FORTRAN语⾔ B. 机器语⾔、汇编语⾔和⾼级语⾔ C. 机器语⾔、BASIC语⾔和 C语⾔ D. 机器语⾔、汇编语⾔和C++语⾔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在控制台产⽣报警事件时，是由于⽹络设备中超过RMON警报组定义的⼀组⽹络性能的 A. 最⼩值 B. ⻔限值 C. 默认值 D. 最⼤值",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在控制台产⽣报警事件时，是由于⽹络设备中超过RMON警报组定义的⼀组⽹络性能的 A. 最⼩值 B. ⻔限值 C. 默认值 D. 最⼤值",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在⼀个⽂件的不同函数中不能重名的是 A. register型内部变量 B. 形式参数 C. auto型内部变量 D. 函数名",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在⼀个⽂件的不同函数中不能重名的是 A. register型内部变量 B. 形式参数 C. auto型内部变量 D. 函数名",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "telnet是⽂件传输协议，它使⽤的端⼝是 A. 23 B. 21 22 C. 139 D. 80",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "telnet是⽂件传输协议，它使⽤的端⼝是 A. 23 B. 21 22 C. 139 D. 80",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Internet上⽤于收发电⼦邮件的协议是 A. TCP/IP B. NetBEUI C. IPX/SPX D. POP3/SMTP",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Internet上⽤于收发电⼦邮件的协议是 A. TCP/IP B. NetBEUI C. IPX/SPX D. POP3/SMTP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "RFC1155中所定义的未知数据类型是 A. Gauge B. Counter C. TimeTicks D. Opaque",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "RFC1155中所定义的未知数据类型是 A. Gauge B. Counter C. TimeTicks D. Opaque",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了提⾼效率，希望监视器每次只返回的那些⾃上次查询以来改变了的值，RMON2在MIB的定义中 A. 协议⽬录表 B. 监视器的标准配置法 C. 时间过滤器索引 D. 外部对象索引",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了提⾼效率，希望监视器每次只返回的那些⾃上次查询以来改变了的值，RMON2在MIB的定义中 A. 协议⽬录表 B. 监视器的标准配置法 C. 时间过滤器索引 D. 外部对象索引",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "SNMPv2与SNMPv1相同之处在于 A. 报⽂封装格式 B. 协议操作 C. 安全功能 D. 管理信息结构",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "SNMPv2与SNMPv1相同之处在于 A. 报⽂封装格式 B. 协议操作 C. 安全功能 D. 管理信息结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果将⼀个新的办公⼦⽹加⼊到原来的⽹络中，那么需要⼿⼯配置IP路由表，请问需要输⼊哪个命令 A. Sh ip route B. Route ip C. Ip route D. Sh route",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果将⼀个新的办公⼦⽹加⼊到原来的⽹络中，那么需要⼿⼯配置IP路由表，请问需要输⼊哪个命令 A. Sh ip route B. Route ip C. Ip route D. Sh route",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "补码加法运算是指 A. 操作数⽤补码表示，连同符号位⼀起相加 B. 操作数⽤补码表示，根据符号位决定实际操作 C. 将操作数转化为原码后再相加 D. 取操作数绝对直接相知，符号位单独处理",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "补码加法运算是指 A. 操作数⽤补码表示，连同符号位⼀起相加 B. 操作数⽤补码表示，根据符号位决定实际操作 C. 将操作数转化为原码后再相加 D. 取操作数绝对直接相知，符号位单独处理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "局域⽹的标准化⼯作主要由___制定 前面下划线位置应该填入哪个选项,只输出选项字母 A. CCITT B. IEEE C. OSI D. EIA",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "局域⽹的标准化⼯作主要由___制定 前面下划线位置应该填入哪个选项,只输出选项字母 A. CCITT B. IEEE C. OSI D. EIA",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列有关存储器读写速度的排列，正确的是 A. Cache>RAM>硬盘>软盘 B. Cache>硬盘>RAM>软盘 C. RAM>硬盘>软盘>Cache D. RAM>Cache>硬盘>软盘",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列有关存储器读写速度的排列，正确的是 A. Cache>RAM>硬盘>软盘 B. Cache>硬盘>RAM>软盘 C. RAM>硬盘>软盘>Cache D. RAM>Cache>硬盘>软盘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以太⽹交换机组⽹中有环路出现也能正常⼯作，则是由于运⾏了（ ）协议 A. 802.3 B. 801.z C. Trunk D. Spanning Tree",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以太⽹交换机组⽹中有环路出现也能正常⼯作，则是由于运⾏了（ ）协议 A. 802.3 B. 801.z C. Trunk D. Spanning Tree",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "ip access-group {number} in这句话表示 A. 取消指定接⼝上使其对输⼊该接⼝的数据流进⾏接⼊控制 B. 指定接⼝上使其对输出该接⼝的数据流进⾏接⼊控制 C. 取消指定接⼝上使其对输出该接⼝的数据流进⾏接⼊控制 D. 指定接⼝上使其对输⼊该接⼝的数据流进⾏接⼊控制",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "ip access-group {number} in这句话表示 A. 取消指定接⼝上使其对输⼊该接⼝的数据流进⾏接⼊控制 B. 指定接⼝上使其对输出该接⼝的数据流进⾏接⼊控制 C. 取消指定接⼝上使其对输出该接⼝的数据流进⾏接⼊控制 D. 指定接⼝上使其对输⼊该接⼝的数据流进⾏接⼊控制",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "原码乘法是 A. 先取操作数绝对值相乘，符号位单独处理 B. ⽤原码表示操作数，然后直接相乘 C. 被乘数⽤原码表示，乘数取绝对值，然后相乘 D. 乘数⽤原码表示，被乘数取绝对值，然后相乘",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "原码乘法是 A. 先取操作数绝对值相乘，符号位单独处理 B. ⽤原码表示操作数，然后直接相乘 C. 被乘数⽤原码表示，乘数取绝对值，然后相乘 D. 乘数⽤原码表示，被乘数取绝对值，然后相乘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪⼀种⽅法是减少差错的最根本⽅法 A. 提⾼线路质量 B. 差错检查 C. 选择合理的编码⽅式 D. 采⽤屏蔽",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪⼀种⽅法是减少差错的最根本⽅法 A. 提⾼线路质量 B. 差错检查 C. 选择合理的编码⽅式 D. 采⽤屏蔽",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "操作系统按其功能关系分为系统层、管理层和（ ）三个层次 A. ⽤户层 B. 逻辑层 C. 应⽤层 D. 数据层",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "操作系统按其功能关系分为系统层、管理层和（ ）三个层次 A. ⽤户层 B. 逻辑层 C. 应⽤层 D. 数据层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "IEEE802.1Q VLAN能⽀持的最⼤个数为 A. 4094 B. 256 C. 2048 D. 1024",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "IEEE802.1Q VLAN能⽀持的最⼤个数为 A. 4094 B. 256 C. 2048 D. 1024",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "192.108.192.0属于哪类IP地址 A. B类 B. D类 C. A类 D. C类",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "192.108.192.0属于哪类IP地址 A. B类 B. D类 C. A类 D. C类",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Internet上⼴泛使⽤的WWW是⼀种 A. 浏览服务模式 B. ⽹络服务器 C. ⽹络模式 D. ⽹络主机",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Internet上⼴泛使⽤的WWW是⼀种 A. 浏览服务模式 B. ⽹络服务器 C. ⽹络模式 D. ⽹络主机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "汉字国标码（GB2312-80）规定的汉字编码，每个汉字⽤ A. 四个字节表示 B. 三个字节表示 C. ⼆个字节表示 D. ⼀个字节",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "汉字国标码（GB2312-80）规定的汉字编码，每个汉字⽤ A. 四个字节表示 B. 三个字节表示 C. ⼆个字节表示 D. ⼀个字节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "第⼀次保存Word⽂档时，系统将打开（ ）对话框 A. 关闭 B. 另存为 C. 保存 D. 新建",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "第⼀次保存Word⽂档时，系统将打开（ ）对话框 A. 关闭 B. 另存为 C. 保存 D. 新建",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新建⽂档时，Word默认的字体和字号分别是 A. 宋体、5号 B. ⿊体、3号 C. 仿宋、6号 D. 楷体、4号",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新建⽂档时，Word默认的字体和字号分别是 A. 宋体、5号 B. ⿊体、3号 C. 仿宋、6号 D. 楷体、4号",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若x补=0.1101010，则x原= A. 0.110101 B. 1.0010101 C. 1.001011 D. 0.001011",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若x补=0.1101010，则x原= A. 0.110101 B. 1.0010101 C. 1.001011 D. 0.001011",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "数据的逻辑结构可以分为 A. 线性结构和⾮线性结构 B. 动态结构和静态结构 C. 顺序结构和链式结构 D. 简单结构和构造结构",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "数据的逻辑结构可以分为 A. 线性结构和⾮线性结构 B. 动态结构和静态结构 C. 顺序结构和链式结构 D. 简单结构和构造结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界上第⼀台计算机ENIAC问世的同时，冯•诺伊曼提出的概念是 A. 进程管理 B. 程序控制 C. 过程控制 D. 存储程序",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界上第⼀台计算机ENIAC问世的同时，冯•诺伊曼提出的概念是 A. 进程管理 B. 程序控制 C. 过程控制 D. 存储程序",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在向上⽣⻓的堆栈中，如果出栈指令POPx的操作定义为： M（x）←M（SP）；SP←（SP）-1则⼊栈指令PUSH X应定义为（ ） A. SP←（SP）－1；M（SP）←M（x） B. SP←（SP）＋1；M（SP）←M（x） C. M（SP）←M（x）；SP←（SP）－1 D. A M（SP）←M（x）；SP←（SP）＋1",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在向上⽣⻓的堆栈中，如果出栈指令POPx的操作定义为： M（x）←M（SP）；SP←（SP）-1则⼊栈指令PUSH X应定义为（ ） A. SP←（SP）－1；M（SP）←M（x） B. SP←（SP）＋1；M（SP）←M（x） C. M（SP）←M（x）；SP←（SP）－1 D. A M（SP）←M（x）；SP←（SP）＋1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "设a=1，b=2，c=8，d=7，x=10，y=10，执⾏(x=a>b)&&(y=c >d)后y的值是 A. 1 B. 4 C. 2 D. 10",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "设a=1，b=2，c=8，d=7，x=10，y=10，执⾏(x=a>b)&&(y=c >d)后y的值是 A. 1 B. 4 C. 2 D. 10",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与数据存储结构⽆关的概念是 A. ⼆叉链表 B. 栈 C. 顺序表 D. 链表",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与数据存储结构⽆关的概念是 A. ⼆叉链表 B. 栈 C. 顺序表 D. 链表",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "路由器⼯作在OSI参考模型的哪⼀层 A. 应⽤层 B. 传输层 C. 表示层 D. ⽹络层",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "路由器⼯作在OSI参考模型的哪⼀层 A. 应⽤层 B. 传输层 C. 表示层 D. ⽹络层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“总线忙”信号由（ ）建⽴ A. CPU B. 获得总线控制权的设备 C. 发出“总线请求”的设备 D. 总线控制器",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“总线忙”信号由（ ）建⽴ A. CPU B. 获得总线控制权的设备 C. 发出“总线请求”的设备 D. 总线控制器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows 的窗⼝菜单中，若某命令项后⾯有向右的⿊三⻆，则表示该命令项 A. 单击⿏标可直接执⾏ B. 有下级⼦菜单 C. 双击⿏标可直接执⾏ D. 右击⿏标可直接执⾏",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows 的窗⼝菜单中，若某命令项后⾯有向右的⿊三⻆，则表示该命令项 A. 单击⿏标可直接执⾏ B. 有下级⼦菜单 C. 双击⿏标可直接执⾏ D. 右击⿏标可直接执⾏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "静态路由协议的默认管理距离是?;rip路由协议的默认管理距离是 A. 1120 B. 2140 C. 1140 D. 2120",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "静态路由协议的默认管理距离是?;rip路由协议的默认管理距离是 A. 1120 B. 2140 C. 1140 D. 2120",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了避免⼆义性，C语⾔规定else⼦句总是与（ ）匹配 A. 其之前最近的if B. 其之后最近的if C. 缩进位置相同的If D. 同⼀⾏上的if",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了避免⼆义性，C语⾔规定else⼦句总是与（ ）匹配 A. 其之前最近的if B. 其之后最近的if C. 缩进位置相同的If D. 同⼀⾏上的if",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "正确的字符常量是 A. GO B. ’/1010’ C. ’68’ D. “B”",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "正确的字符常量是 A. GO B. ’/1010’ C. ’68’ D. “B”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在计算机上插U盘的接⼝通常是（ ）标准接⼝ A. USB B. UBS C. UPS D. USP",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在计算机上插U盘的接⼝通常是（ ）标准接⼝ A. USB B. UBS C. UPS D. USP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了以最⼩的交换次数检索最⼤的管理信息，或者说管理站要求最可能⼤的响应报⽂，SNMPv2增加的PDU是 A. GetRequestPDU B. InformRequestPDU C. GetBulkRequestPDU D. SetRequestPDU",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了以最⼩的交换次数检索最⼤的管理信息，或者说管理站要求最可能⼤的响应报⽂，SNMPv2增加的PDU是 A. GetRequestPDU B. InformRequestPDU C. GetBulkRequestPDU D. SetRequestPDU",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界上第⼀台电脑是在（ ）年诞⽣ A. 1977 B. 1946 C. 1969 D. 1973",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界上第⼀台电脑是在（ ）年诞⽣ A. 1977 B. 1946 C. 1969 D. 1973",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Internet中的IP地址由（ ）位⼆进制数组成 A. 16 B. 32 C. 64 D. 8",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Internet中的IP地址由（ ）位⼆进制数组成 A. 16 B. 32 C. 64 D. 8",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "假如收到1000000000个码元，经检查有⼀个码元出错，则误码率为 A. ⼗的负四次⽅ B. ⼗的负⼆次⽅ C. ⼗的负六次⽅ D. ⼗的负九次⽅",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "假如收到1000000000个码元，经检查有⼀个码元出错，则误码率为 A. ⼗的负四次⽅ B. ⼗的负⼆次⽅ C. ⼗的负六次⽅ D. ⼗的负九次⽅",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在OSI 7 层模型中，⽹络层的功能有 A. 确定数据包如何转发与路由 B. 在信道上传送⽐特流 C. 保证数据在⽹络中的传输 D. 建⽴端到端的连接，确保数据的传送正确⽆误",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在OSI 7 层模型中，⽹络层的功能有 A. 确定数据包如何转发与路由 B. 在信道上传送⽐特流 C. 保证数据在⽹络中的传输 D. 建⽴端到端的连接，确保数据的传送正确⽆误",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新建的Excel⼯作簿中默认有（ ）张⼯作表 A. 5 B. 3 C. 4 D. 2",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新建的Excel⼯作簿中默认有（ ）张⼯作表 A. 5 B. 3 C. 4 D. 2",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "浮点加减中的对阶的⽅法是 A. 将加数的阶码调整到与被加数的阶码相同 B. 将较⼩的⼀个阶码调整到与较⼤的⼀个阶码相同 C. 将被加数的阶码调整到与加数的阶码相同 D. 将较⼤的⼀个阶码调整到与较⼩的⼀个阶码相同",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "浮点加减中的对阶的⽅法是 A. 将加数的阶码调整到与被加数的阶码相同 B. 将较⼩的⼀个阶码调整到与较⼤的⼀个阶码相同 C. 将被加数的阶码调整到与加数的阶码相同 D. 将较⼤的⼀个阶码调整到与较⼩的⼀个阶码相同",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽤C语⾔编写的程序需要⽤（ ）程序翻译后计算机才能识别 A. 编译 B. 解释 C. 汇编 D. 连接",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽤C语⾔编写的程序需要⽤（ ）程序翻译后计算机才能识别 A. 编译 B. 解释 C. 汇编 D. 连接",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从本质上讲，计算机病毒是⼀种 A. 细菌 B. 程序 C. ⽂本 D. 微⽣物",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从本质上讲，计算机病毒是⼀种 A. 细菌 B. 程序 C. ⽂本 D. 微⽣物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "S2126G交换机如何从flash中清除VLAN信息 A. clear vlan flash B. clear flash:vlan.dat C. delete flash:vlan.dat D. delete vlan flash",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "S2126G交换机如何从flash中清除VLAN信息 A. clear vlan flash B. clear flash:vlan.dat C. delete flash:vlan.dat D. delete vlan flash",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "汉字的拼⾳输⼊码属于汉字的 A. 标准码 B. ASCII码 C. 内码 D. 外码",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "汉字的拼⾳输⼊码属于汉字的 A. 标准码 B. ASCII码 C. 内码 D. 外码",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "可被计算机直接执⾏的程序由（ ）语⾔编写的程序 A. ⾼级 B. 汇编 C. 机器 D. ⽹络",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "可被计算机直接执⾏的程序由（ ）语⾔编写的程序 A. ⾼级 B. 汇编 C. 机器 D. ⽹络",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "要查看交换机端⼝加⼊VLAN的情况，可以通过（ ）命令来查看 A. show interface vlan B. show vlan.dat C. show vlan D. show running-config",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "要查看交换机端⼝加⼊VLAN的情况，可以通过（ ）命令来查看 A. show interface vlan B. show vlan.dat C. show vlan D. show running-config",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在路由器设置了以下三条路由：1)ip route 0.0.0.0 0.0.0.0 192.168.10.1 2)ip route 10.10.10.0255.255.255.0 192.168.11.1 3) ip route 10.10.0.0 255.255.0.0 192.168.12.1. 请问当这台路由器收到源 地址为10.10.10.1数据包时，它应被转发给哪个下⼀跳地址 A. 路由设置错误，⽆法判断 B. 192.168.11.1 C. 192.168.12.1 D. 192.168.10.1",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在路由器设置了以下三条路由：1)ip route 0.0.0.0 0.0.0.0 192.168.10.1 2)ip route 10.10.10.0255.255.255.0 192.168.11.1 3) ip route 10.10.0.0 255.255.0.0 192.168.12.1. 请问当这台路由器收到源 地址为10.10.10.1数据包时，它应被转发给哪个下⼀跳地址 A. 路由设置错误，⽆法判断 B. 192.168.11.1 C. 192.168.12.1 D. 192.168.10.1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在微程序控制的计算机中，若要修改指令系统，只要（ ） A. 改变控制存储器的内容 B. 增加微命令个数 C. 改变微指令格式 D. 改变时序控制⽅式",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在微程序控制的计算机中，若要修改指令系统，只要（ ） A. 改变控制存储器的内容 B. 增加微命令个数 C. 改变微指令格式 D. 改变时序控制⽅式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽤PowerPoint制作的演示⽂稿默认的扩展名是 A. .pwp B. .ppt C. .pop D. .ppn",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽤PowerPoint制作的演示⽂稿默认的扩展名是 A. .pwp B. .ppt C. .pop D. .ppn",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下软件中，___不是操作系统软件 前面下划线位置应该填入哪个选项,只输出选项字母 A. Windows xp B. unix C. linux D. microsoft office",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下软件中，___不是操作系统软件 前面下划线位置应该填入哪个选项,只输出选项字母 A. Windows xp B. unix C. linux D. microsoft office",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在使⽤NAT的⽹络中，___有⼀个转换表 前面下划线位置应该填入哪个选项,只输出选项字母 A. 路由器 B. 服务器 C. 以上都不是 D. 交换机",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在使⽤NAT的⽹络中，___有⼀个转换表 前面下划线位置应该填入哪个选项,只输出选项字母 A. 路由器 B. 服务器 C. 以上都不是 D. 交换机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在调频制记录⽅式中，是利⽤（ ）来写0或1 A. 电流频率的变化 B. 电流相位的变化 C. 电流幅值的变化 D. 电平⾼低的变化",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在调频制记录⽅式中，是利⽤（ ）来写0或1 A. 电流频率的变化 B. 电流相位的变化 C. 电流幅值的变化 D. 电平⾼低的变化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Windows Server 2003环境中，仅⽤于分发电⼦邮件且没有启⽤安全性的组类型是 A. 安全组 B. 通信组 C. 本地组 D. 全局组",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Windows Server 2003环境中，仅⽤于分发电⼦邮件且没有启⽤安全性的组类型是 A. 安全组 B. 通信组 C. 本地组 D. 全局组",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "完整的计算机系统由（ ）组成 A. 运算器、控制器、存储器、输⼊设备和输出设备 B. 硬件系统和软件系统 C. 主机和外部设备 D. 主机箱、显示器、键盘、⿏标、打印机",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "完整的计算机系统由（ ）组成 A. 运算器、控制器、存储器、输⼊设备和输出设备 B. 硬件系统和软件系统 C. 主机和外部设备 D. 主机箱、显示器、键盘、⿏标、打印机",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "配置了访问列表如下所示:access-list 101 permit 192.168.0.0 0.0.0.255 10.0.0.0 0.255.255.255 最后缺省的规则是什么 A. 仅允许到10.0.0.0 的数据报通过 B. 拒绝所有数据报通过 C. 允许所有的数据报通过 D. 仅允许到192.168.0.0的数据报通过",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "配置了访问列表如下所示:access-list 101 permit 192.168.0.0 0.0.0.255 10.0.0.0 0.255.255.255 最后缺省的规则是什么 A. 仅允许到10.0.0.0 的数据报通过 B. 拒绝所有数据报通过 C. 允许所有的数据报通过 D. 仅允许到192.168.0.0的数据报通过",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "SNMP实体可以对MIB-2中的对象执⾏的操作有 A. Get,Set,GetNext  B. Get,Set,Trap  C. Get,GetNext,Trap  D. Set,Trap,GetNext",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "SNMP实体可以对MIB-2中的对象执⾏的操作有 A. Get,Set,GetNext  B. Get,Set,Trap  C. Get,GetNext,Trap  D. Set,Trap,GetNext",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪⼀个协议是国际标准 A. TCP/IP B. FTP C. UDP D. X.25",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪⼀个协议是国际标准 A. TCP/IP B. FTP C. UDP D. X.25",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Word编辑⽂档时，所⻅即所得的视图是 A. ⼤纲视图 B. Web视图 C. 普通视图 D. ⻚⾯视图",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Word编辑⽂档时，所⻅即所得的视图是 A. ⼤纲视图 B. Web视图 C. 普通视图 D. ⻚⾯视图",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组成计算机的CPU的两⼤部件是 A. 控制器和寄存器 B. 运算器和控制器 C. 运算器和内存 D. 控制器和内存",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组成计算机的CPU的两⼤部件是 A. 控制器和寄存器 B. 运算器和控制器 C. 运算器和内存 D. 控制器和内存",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Word表格中，位于第三⾏第四列的单元格名称是 A. C4 B. D3 C. 3∶4 D. 4∶3",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Word表格中，位于第三⾏第四列的单元格名称是 A. C4 B. D3 C. 3∶4 D. 4∶3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在R2624路由器发出的Ping 命令中，“U”代表什么? A. ⽬的地不能到达 B. 成功地接收到⼀个回送应答 C. 遇到⽹络拥塞现象 D. 数据包已经丢失",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在R2624路由器发出的Ping 命令中，“U”代表什么? A. ⽬的地不能到达 B. 成功地接收到⼀个回送应答 C. 遇到⽹络拥塞现象 D. 数据包已经丢失",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在路由器⾥正确添加静态路由的命令是 A. Red-giant#ip route 192.168.1.1 255.255.255.0 10.0.0.1 B. Red-giant(config)#ip route 192.168.5.0 serial 0 C. Red-giant(config)#route add 0.0.0.0 255.255.255.0 192.168.1.0 D. Red-giant(config)#route add 172.16.5.1 255.255.255.0 192.168.1.1",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在路由器⾥正确添加静态路由的命令是 A. Red-giant#ip route 192.168.1.1 255.255.255.0 10.0.0.1 B. Red-giant(config)#ip route 192.168.5.0 serial 0 C. Red-giant(config)#route add 0.0.0.0 255.255.255.0 192.168.1.0 D. Red-giant(config)#route add 172.16.5.1 255.255.255.0 192.168.1.1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "扩展名为.MOV的⽂件通常是⼀个 A. 视频⽂件 B. ⽂本⽂件 C. 图⽚⽂件 D. ⾳频⽂件",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "扩展名为.MOV的⽂件通常是⼀个 A. 视频⽂件 B. ⽂本⽂件 C. 图⽚⽂件 D. ⾳频⽂件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "域名“ftp.beijing.gov.cn”中计算机名是 A. ftp.beijing.gov.cn B. ftp.beijing C. ftp D. ftp.beijing.gov",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "域名“ftp.beijing.gov.cn”中计算机名是 A. ftp.beijing.gov.cn B. ftp.beijing C. ftp D. ftp.beijing.gov",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "RIP的管理距离（Administrative Distance）是 A. 100 B. 90 C. 120 D. 110",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "RIP的管理距离（Administrative Distance）是 A. 100 B. 90 C. 120 D. 110",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪项是指收集系统和⼦⽹的状态信息，分析被管理设备的⾏为，以便发现⽹络运⾏中存在的问题 A. 拓扑监视 B. 试图监视 C. ⽹络监视 D. 软件监视",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪项是指收集系统和⼦⽹的状态信息，分析被管理设备的⾏为，以便发现⽹络运⾏中存在的问题 A. 拓扑监视 B. 试图监视 C. ⽹络监视 D. 软件监视",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⾼速缓冲存储器Cache⼀般采取 A. 只读不写⽅式 B. 半顺序存取⽅式 C. 随机存取⽅式 D. 顺序存取⽅式",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⾼速缓冲存储器Cache⼀般采取 A. 只读不写⽅式 B. 半顺序存取⽅式 C. 随机存取⽅式 D. 顺序存取⽅式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "各种⽹络主机设备需要使⽤具体的线缆连接，下列⽹络设备间的连接哪些是正确的 A. 主机-----主机，直连 B. 交换机-----路由器，直连 C. 主机-----路由器，直连 D. 主机-----交换机，交叉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "各种⽹络主机设备需要使⽤具体的线缆连接，下列⽹络设备间的连接哪些是正确的 A. 主机-----主机，直连 B. 交换机-----路由器，直连 C. 主机-----路由器，直连 D. 主机-----交换机，交叉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "信息资源在计算机⽹络中只能由被授予权限的⽤户修改。这种安全需求称为 A. 保密性 B. 可⽤性 C. 数据完整性 D. ⼀致性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "信息资源在计算机⽹络中只能由被授予权限的⽤户修改。这种安全需求称为 A. 保密性 B. 可⽤性 C. 数据完整性 D. ⼀致性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电话交换系统采⽤的是 A. 分组交换 B. 线路交换 C. 报⽂交换 D. 信号交换",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电话交换系统采⽤的是 A. 分组交换 B. 线路交换 C. 报⽂交换 D. 信号交换",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows的剪贴板是⽤于临时存放信息的 A. ⼀个⽂件夹 B. ⼀块磁盘区间 C. ⼀块内存区间 D. ⼀个窗⼝",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows的剪贴板是⽤于临时存放信息的 A. ⼀个⽂件夹 B. ⼀块磁盘区间 C. ⼀块内存区间 D. ⼀个窗⼝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下属于低层协议的是 A. FTP B. TCP C. IP D. UDP",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下属于低层协议的是 A. FTP B. TCP C. IP D. UDP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微型计算机的内存容量主要指（ ）的容量 A. RAM B. ROM C. CMOS D. Cache",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微型计算机的内存容量主要指（ ）的容量 A. RAM B. ROM C. CMOS D. Cache",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列可⽤的MAC地址是 A. 00-D0-F8-00-11-0A B. 00-00-F8-00-EC-G7 C. 00-00-0C-05-1C D. 00-0C-1E-23-00-2A-01",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列可⽤的MAC地址是 A. 00-D0-F8-00-11-0A B. 00-00-F8-00-EC-G7 C. 00-00-0C-05-1C D. 00-0C-1E-23-00-2A-01",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在三层交换机和路由器上,启⽤路由功能的命令是 A. start ip route B. enable route C. ip router D. ip routing",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在三层交换机和路由器上,启⽤路由功能的命令是 A. start ip route B. enable route C. ip router D. ip routing",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽤以太⽹形式构成的局域⽹，其拓扑结构为 A. 环型 B. 树型 C. 总线型 D. 星型",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽤以太⽹形式构成的局域⽹，其拓扑结构为 A. 环型 B. 树型 C. 总线型 D. 星型",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于C++语言，下列运算符中，优先级最⾼的是 A. ++ B. [ ] C. % D. &&",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于C++语言，下列运算符中，优先级最⾼的是 A. ++ B. [ ] C. % D. &&",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以太⽹使⽤的介质控制协议是 A. UDP B. CSMA/CD C. X.25 D. TCP/IP",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以太⽹使⽤的介质控制协议是 A. UDP B. CSMA/CD C. X.25 D. TCP/IP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "算法的时间复杂度表征的是 A. 执⾏算法所耗费的存储空间 B. 算法的可读性 C. 执⾏算法所耗费的时间 D. 算法的难易程度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "算法的时间复杂度表征的是 A. 执⾏算法所耗费的存储空间 B. 算法的可读性 C. 执⾏算法所耗费的时间 D. 算法的难易程度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有⼀个中学获得了C类⽹段的⼀组IP 192.168.1.0/24，要求你划分7个以上的⼦⽹，每个⼦⽹主机数不得少于25台，请问⼦⽹掩码该怎么写 A. 255．255．255．240 B. 255．255．255．224 C. 255．255．240．0 D. 255．255．255．128",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有⼀个中学获得了C类⽹段的⼀组IP 192.168.1.0/24，要求你划分7个以上的⼦⽹，每个⼦⽹主机数不得少于25台，请问⼦⽹掩码该怎么写 A. 255．255．255．240 B. 255．255．255．224 C. 255．255．240．0 D. 255．255．255．128",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若⼗进制数据为137.5则其⼋进制数为 A. 211.5 B. 89.8 C. 1011111.101 D. 211.4",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若⼗进制数据为137.5则其⼋进制数为 A. 211.5 B. 89.8 C. 1011111.101 D. 211.4",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从控制存储器中读取⼀条微指令并执⾏相应操作的时间叫 A. CPU周期 B. 微周期 C. 机器周期 D. 时钟周期",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从控制存储器中读取⼀条微指令并执⾏相应操作的时间叫 A. CPU周期 B. 微周期 C. 机器周期 D. 时钟周期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀般将计算机的发展分为四个阶段，其中⼤规模集成电路计算机阶段出现了 A. ⾼级程序设计语⾔ B. 操作系统 C. 汇编语⾔ D. 数据库系统",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀般将计算机的发展分为四个阶段，其中⼤规模集成电路计算机阶段出现了 A. ⾼级程序设计语⾔ B. 操作系统 C. 汇编语⾔ D. 数据库系统",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "堆栈指针SP的内容是 A. 栈底单元地址 B. 栈底单元内容 C. 栈顶单元地址 D. 栈顶单元内容",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "堆栈指针SP的内容是 A. 栈底单元地址 B. 栈底单元内容 C. 栈顶单元地址 D. 栈顶单元内容",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "RIP的最⼤跳数是 A. 24 B. 15 C. 18 D. 12",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "RIP的最⼤跳数是 A. 24 B. 15 C. 18 D. 12",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "任何程序都必须加载到（ ）中才能被CPU执⾏ A. 磁盘 B. 硬盘 C. 外存 D. 内存",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "任何程序都必须加载到（ ）中才能被CPU执⾏ A. 磁盘 B. 硬盘 C. 外存 D. 内存",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "监视器向代理发出请求，询问它所需要的信息值，代理响应监视器的请求，从它所保存的管理信息库中取出请求的值，返回给监视器。这种通信机制叫做 A. 响应 B. 请求 C. 事件报告 D. 轮询",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "监视器向代理发出请求，询问它所需要的信息值，代理响应监视器的请求，从它所保存的管理信息库中取出请求的值，返回给监视器。这种通信机制叫做 A. 响应 B. 请求 C. 事件报告 D. 轮询",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "IEEE的哪个标准定义了RSTP A. IEEE802.1 B. IEEE802.1d C. IEEE802.3 D. IEEE802.1w",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "IEEE的哪个标准定义了RSTP A. IEEE802.1 B. IEEE802.1d C. IEEE802.3 D. IEEE802.1w",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在路由器上进⾏⼴域⽹连接时必须设置的参数是 A. 在路由器上配置远程登陆 B. 添加静态路由 C. 在DTE端设置clock rate D. 在DCE端设置clock rate",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在路由器上进⾏⼴域⽹连接时必须设置的参数是 A. 在路由器上配置远程登陆 B. 添加静态路由 C. 在DTE端设置clock rate D. 在DCE端设置clock rate",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对同⼀幅照⽚采⽤以下格式存储时，占⽤存储空间最⼤的格式是 A. .GIF B. .JPG C. .BMP D. .TI F",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对同⼀幅照⽚采⽤以下格式存储时，占⽤存储空间最⼤的格式是 A. .GIF B. .JPG C. .BMP D. .TI F",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "PING 命令使⽤了哪种ICMP A. Echo reply B. Redirect C. Source quench D. Destination unreachable",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "PING 命令使⽤了哪种ICMP A. Echo reply B. Redirect C. Source quench D. Destination unreachable",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "串⾏接⼝是指 A. 接⼝与系统总线之间并⾏传送，接⼝与I/O设备之间并⾏传送 B. 接⼝与系统总线之间并⾏传送，接⼝与I/O设备之间串⾏传送 C. 接⼝与系统总线之间串⾏传送，接⼝与I/O设备之间并⾏传送 D. 接⼝与系统总线之间串⾏传送，接⼝与I/O设备之间串⾏传送",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "串⾏接⼝是指 A. 接⼝与系统总线之间并⾏传送，接⼝与I/O设备之间并⾏传送 B. 接⼝与系统总线之间并⾏传送，接⼝与I/O设备之间串⾏传送 C. 接⼝与系统总线之间串⾏传送，接⼝与I/O设备之间并⾏传送 D. 接⼝与系统总线之间串⾏传送，接⼝与I/O设备之间串⾏传送",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "局域⽹采⽤的双绞线为 A. 6类UTP B. 3类UTP C. 4类UTP D. 5类UTP",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "局域⽹采⽤的双绞线为 A. 6类UTP B. 3类UTP C. 4类UTP D. 5类UTP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列说法正确的是 A. 按服务⽅式分可将计算机⽹络分为客户机/服务器⽹络、⼴播式⽹络 B. 按地理位置分可将计算机⽹络分为局域⽹、城域⽹、省域⽹、⼴域⽹ C. 按地理位置分可将计算机⽹络分为局域⽹、城域⽹、⼴域⽹、互联⽹ D. 按地理位置分可将计算机⽹络分为局域⽹、城域⽹、省域⽹、互联⽹",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列说法正确的是 A. 按服务⽅式分可将计算机⽹络分为客户机/服务器⽹络、⼴播式⽹络 B. 按地理位置分可将计算机⽹络分为局域⽹、城域⽹、省域⽹、⼴域⽹ C. 按地理位置分可将计算机⽹络分为局域⽹、城域⽹、⼴域⽹、互联⽹ D. 按地理位置分可将计算机⽹络分为局域⽹、城域⽹、省域⽹、互联⽹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "DRAM存储器的中⽂含义是 A. 动态随机存储器 B. 动态只读存储器 C. 静态随机存储器 D. 静态只读存储器",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "DRAM存储器的中⽂含义是 A. 动态随机存储器 B. 动态只读存储器 C. 静态随机存储器 D. 静态只读存储器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Rip路由中设置管理距离是衡量⼀个路由可信度的等级，你可以通过定义管理距离来区别不同（）来源。路由器总是挑选具有最低管理距离的路由 A. ⽹络结构信息 B. 数据交换信息 C. 拓扑信息 D. 路由信息",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Rip路由中设置管理距离是衡量⼀个路由可信度的等级，你可以通过定义管理距离来区别不同（）来源。路由器总是挑选具有最低管理距离的路由 A. ⽹络结构信息 B. 数据交换信息 C. 拓扑信息 D. 路由信息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若在Excel的同⼀单元格中输⼊的⽂本有两个段落，则在第⼀段落输完后应使⽤（ ）键 A. Alt+Enter B. Shift+Enter C. Ctrl+Enter D. Enter",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若在Excel的同⼀单元格中输⼊的⽂本有两个段落，则在第⼀段落输完后应使⽤（ ）键 A. Alt+Enter B. Shift+Enter C. Ctrl+Enter D. Enter",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若⼗六进数微AC.B，则其⼗进制数为 A. 254.54 B. 172.6875 C. 172.625 D. 2763",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若⼗六进数微AC.B，则其⼗进制数为 A. 254.54 B. 172.6875 C. 172.625 D. 2763",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⽹络管理中的安全管理是指保护管理站和代理之间下列哪项的安全 A. 信息存储 B. 信息交换 C. 信息索引 D. 完整信息",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⽹络管理中的安全管理是指保护管理站和代理之间下列哪项的安全 A. 信息存储 B. 信息交换 C. 信息索引 D. 完整信息",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机运算速度的单位是 A. MHZ B. MB C. MIPS D. MTBF",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机运算速度的单位是 A. MHZ B. MB C. MIPS D. MTBF",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows的⽬录结构采⽤的是 A. 层次结构 B. 线形结构 C. ⽹状结构 D. 树形结构",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows的⽬录结构采⽤的是 A. 层次结构 B. 线形结构 C. ⽹状结构 D. 树形结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列设备中，属于输出设备的是 A. ⿏标 B. ⼿字板 C. 显示器 D. 键盘",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列设备中，属于输出设备的是 A. ⿏标 B. ⼿字板 C. 显示器 D. 键盘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个算法的时间耗费的数量级称为该算法的 A. 难度 B. 效率 C. 时间复杂度 D. 可实现性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个算法的时间耗费的数量级称为该算法的 A. 难度 B. 效率 C. 时间复杂度 D. 可实现性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主存储器和CPU之间增加⾼速缓冲存储器的⽬的是 A. 既扩⼤主存容量⼜扩⼤CPU通⽤寄存器数量 B. 扩⼤CPU中通⽤寄存器的数量 C. 解决CPU和主存之间的速度匹配问题 D. 扩⼤主存储器的容量",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主存储器和CPU之间增加⾼速缓冲存储器的⽬的是 A. 既扩⼤主存容量⼜扩⼤CPU通⽤寄存器数量 B. 扩⼤CPU中通⽤寄存器的数量 C. 解决CPU和主存之间的速度匹配问题 D. 扩⼤主存储器的容量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "单地址指令中为了完成两个数的算术运算，除地址码指明的⼀个操作数外，另⼀个数常采⽤ A. 间接寻址 B. 堆栈寻址 C. 隐含寻址 D. ⽴即寻址",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "单地址指令中为了完成两个数的算术运算，除地址码指明的⼀个操作数外，另⼀个数常采⽤ A. 间接寻址 B. 堆栈寻址 C. 隐含寻址 D. ⽴即寻址",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼀个n+1位整数移码的数值范围是 A. -2n≤x≤2n-1 B. -2n+1 C. -2n-1 D. -2n+1≤x≤2n-1",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼀个n+1位整数移码的数值范围是 A. -2n≤x≤2n-1 B. -2n+1 C. -2n-1 D. -2n+1≤x≤2n-1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "交换机⼯作在OSI七层的哪⼀层 A. 三层以上 B. 三层 C. ⼀层 D. ⼆层",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "交换机⼯作在OSI七层的哪⼀层 A. 三层以上 B. 三层 C. ⼀层 D. ⼆层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "汉字系统中的汉字字库⾥存放的是汉字的 A. 字形码 B. 输⼊码 C. 国标码 D. 机内码",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "汉字系统中的汉字字库⾥存放的是汉字的 A. 字形码 B. 输⼊码 C. 国标码 D. 机内码",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "MIB-2的结构中，Internet下⾯包括由IAB批准的所有管理对象的结点是 A. experimental B. private C. directory D. mgmt",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "MIB-2的结构中，Internet下⾯包括由IAB批准的所有管理对象的结点是 A. experimental B. private C. directory D. mgmt",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若存储周期100ns，每次读出⼀个字节，则该存储器的数据传输率为 A. 8×106位/秒 B. 32×106位/秒 C. 80×106位/秒 D. 80Mb/秒",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若存储周期100ns，每次读出⼀个字节，则该存储器的数据传输率为 A. 8×106位/秒 B. 32×106位/秒 C. 80×106位/秒 D. 80Mb/秒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在不修改、不违反SNMPv1管理框架的前提下，RMON规范提供了 A. ⾏增加和⾏删除的操作 B. 检索未知对象的操作 C. 设置或更新变量值的操作 D. 检索表对象操作",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在不修改、不违反SNMPv1管理框架的前提下，RMON规范提供了 A. ⾏增加和⾏删除的操作 B. 检索未知对象的操作 C. 设置或更新变量值的操作 D. 检索表对象操作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机的三类总线中，不包括 A. 控制总线 B. 地址总线 C. 传输总线 D. 数据总线",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机的三类总线中，不包括 A. 控制总线 B. 地址总线 C. 传输总线 D. 数据总线",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下述各功能中，属于配置管理的范畴的功能是 A. 测试管理功能 B. 定义和修改⽹络元素间的互联关系 C. ⼯作负载监视功能 D. 数据收集功能",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下述各功能中，属于配置管理的范畴的功能是 A. 测试管理功能 B. 定义和修改⽹络元素间的互联关系 C. ⼯作负载监视功能 D. 数据收集功能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "半导体只读存储器（ROM）与半导体随机存储器（RAM）的主要区别在于 A. ROM掉电后，信息会丢失，RAM则不会 B. ROM是内存储器，RAM是外存储器 C. RAM是内存储器，ROM是外存储器 D. ROM可以永久保存信息，RAM在掉电后信息会丢失",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "半导体只读存储器（ROM）与半导体随机存储器（RAM）的主要区别在于 A. ROM掉电后，信息会丢失，RAM则不会 B. ROM是内存储器，RAM是外存储器 C. RAM是内存储器，ROM是外存储器 D. ROM可以永久保存信息，RAM在掉电后信息会丢失",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "总线的数据通路宽度是指 A. 可依次串⾏传送的数据位数 B. 单位时间内可传送的数据位数 C. 能⼀次并⾏传送的数据位数 D. 可⼀次传送的数据的最⼤值",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "总线的数据通路宽度是指 A. 可依次串⾏传送的数据位数 B. 单位时间内可传送的数据位数 C. 能⼀次并⾏传送的数据位数 D. 可⼀次传送的数据的最⼤值",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "⼗进制数27对应的⼆进制数为 A. 10111 B. 1011 C. 1100 D. 11011",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "⼗进制数27对应的⼆进制数为 A. 10111 B. 1011 C. 1100 D. 11011",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在描述信息传输中bps表示的是 A. 每秒传输的位数 B. 每秒传输的指令数 C. 每秒传输的字数 D. 每秒传输的字节数",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在描述信息传输中bps表示的是 A. 每秒传输的位数 B. 每秒传输的指令数 C. 每秒传输的字数 D. 每秒传输的字节数",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如何跟踪RIP路由更新的过程 A. show ip route B. clear ip route * C. show ip rip D. debug ip rip",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如何跟踪RIP路由更新的过程 A. show ip route B. clear ip route * C. show ip rip D. debug ip rip",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在路由器上配置默认⽹关正确的地址为 A. 0.0.0.0 255.255.255.255 B. 255.255.255.255 0.0.0.0 C. 0.0.0.0 255.255.255.0 D. 0.0.0.0 0.0.0.0",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在路由器上配置默认⽹关正确的地址为 A. 0.0.0.0 255.255.255.255 B. 255.255.255.255 0.0.0.0 C. 0.0.0.0 255.255.255.0 D. 0.0.0.0 0.0.0.0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "S2126G交换机如何将接⼝设置为TAG VLAN模式 A. switchport mode trunk B. switchport mode tag C. set port trunk on D. trunk on",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "S2126G交换机如何将接⼝设置为TAG VLAN模式 A. switchport mode trunk B. switchport mode tag C. set port trunk on D. trunk on",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于算法输出的叙述中，正确的是 A. 算法⼀定没有输出 B. 算法可以没有输出 C. 算法⾄少有⼀个输出 D. 算法必须有多个输出",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于算法输出的叙述中，正确的是 A. 算法⼀定没有输出 B. 算法可以没有输出 C. 算法⾄少有⼀个输出 D. 算法必须有多个输出",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "请问您应该在下列哪些模式下创建VLAN？ A. 接⼝配置模式 B. 特权模式 C. 全局配置模式 D. ⽤户模式",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "请问您应该在下列哪些模式下创建VLAN？ A. 接⼝配置模式 B. 特权模式 C. 全局配置模式 D. ⽤户模式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列叙述中，不正确的是 A. 算法必须在执⾏有限步后结束 B. 同⼀问题可以有多种不同算法 C. 算法解决的只能是数值计算问题 D. 算法的每⼀步操作都必须明确⽆歧义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列叙述中，不正确的是 A. 算法必须在执⾏有限步后结束 B. 同⼀问题可以有多种不同算法 C. 算法解决的只能是数值计算问题 D. 算法的每⼀步操作都必须明确⽆歧义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "微程序控制器⽐组合逻辑控制器速度要慢，主要是由于增加了从（ ）读取微指令的时间 A. ⾼速缓存 B. 控制存储器 C. 指令寄存器 D. 主存储器",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "微程序控制器⽐组合逻辑控制器速度要慢，主要是由于增加了从（ ）读取微指令的时间 A. ⾼速缓存 B. 控制存储器 C. 指令寄存器 D. 主存储器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关闭Rip路由汇总的命令是 A. auto-summary B. apply access-list 101 out C. no auto-summary D. no ip router",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关闭Rip路由汇总的命令是 A. auto-summary B. apply access-list 101 out C. no auto-summary D. no ip router",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机信息计量单位中的K代表 A. 102 B. 103 C. 28 D. 210",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机信息计量单位中的K代表 A. 102 B. 103 C. 28 D. 210",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于私有地址的是 A. 172．16．0．1 B. 193．168．159．3 C. 127．0．0．1 D. 100．172．1．98",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于私有地址的是 A. 172．16．0．1 B. 193．168．159．3 C. 127．0．0．1 D. 100．172．1．98",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在STAR-R2624上配置⼀个标准的访问列表，只允许所有源⾃B类地址：172.16.0.0的IP数据包通过，那么wildcard access-list mask将采⽤以下哪个是正确的 A. 0.0.255.255 B. 255.255.255.0 C. 0.255.255.255 D. 255.255.0.0",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在STAR-R2624上配置⼀个标准的访问列表，只允许所有源⾃B类地址：172.16.0.0的IP数据包通过，那么wildcard access-list mask将采⽤以下哪个是正确的 A. 0.0.255.255 B. 255.255.255.0 C. 0.255.255.255 D. 255.255.0.0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "瑞⼠计算机科学家沃思教授曾指岀：算法+数据结构=程序。这⾥的数据结构指的是 A. 数据的紧凑结构和⾮紧凑结构 B. 数据的线性结构和⾮线性结构 C. 数据的顺序结构和链式结构 D. 数据的逻辑结抅和存储结构",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "瑞⼠计算机科学家沃思教授曾指岀：算法+数据结构=程序。这⾥的数据结构指的是 A. 数据的紧凑结构和⾮紧凑结构 B. 数据的线性结构和⾮线性结构 C. 数据的顺序结构和链式结构 D. 数据的逻辑结抅和存储结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "OSI七层模型在数据封装时正确的协议数据单元排序是 A. bit、frame、packet、segment B. frame、bit、segment、packet C. packet、frame、bit、segment D. segment、packet、frame、bit",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "OSI七层模型在数据封装时正确的协议数据单元排序是 A. bit、frame、packet、segment B. frame、bit、segment、packet C. packet、frame、bit、segment D. segment、packet、frame、bit",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列⼏种存储器中，CPU可直接访问的是 A. 主存储器 B. 磁带 C. 光盘 D. 磁盘",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列⼏种存储器中，CPU可直接访问的是 A. 主存储器 B. 磁带 C. 光盘 D. 磁盘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Ethernet Hub的介质访问协议为 A. Token-Bus B. CSMA/CA C. CSMA/CD D. Token-Ring",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Ethernet Hub的介质访问协议为 A. Token-Bus B. CSMA/CA C. CSMA/CD D. Token-Ring",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果⼦⽹掩码是255.255.255.128，主机地址为195.16.15.14，则在该⼦⽹掩码下最多可以容纳多少个主机 A. 30 B. 126 C. 62 D. 254",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果⼦⽹掩码是255.255.255.128，主机地址为195.16.15.14，则在该⼦⽹掩码下最多可以容纳多少个主机 A. 30 B. 126 C. 62 D. 254",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "虚地址是 A. 不存在的地址 B. 磁盘地址 C. ⽤户编程可使⽤的地址 D. 主存地址",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "虚地址是 A. 不存在的地址 B. 磁盘地址 C. ⽤户编程可使⽤的地址 D. 主存地址",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中，属于⾮线性数据结构的是 A. 栈 B. ⼆叉排序树 C. 线性表 D. 队列",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中，属于⾮线性数据结构的是 A. 栈 B. ⼆叉排序树 C. 线性表 D. 队列",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于指针运算符“*”的说法错误的是 A. 运算结合性是⾃右向左 B. 是单⽬前缀运算符 C. 运算结果是运算对象对应的变量或数组元素等 D. 运算对象只能是指针变量",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于指针运算符“*”的说法错误的是 A. 运算结合性是⾃右向左 B. 是单⽬前缀运算符 C. 运算结果是运算对象对应的变量或数组元素等 D. 运算对象只能是指针变量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在Excel⼯作表的单元格中计算⼀组数据后出现########，这是由于（ ）所致 A. 单元格显示宽度不够 B. 计算机公式出错 C. 数据格式出错 D. 计算数据出错",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在Excel⼯作表的单元格中计算⼀组数据后出现########，这是由于（ ）所致 A. 单元格显示宽度不够 B. 计算机公式出错 C. 数据格式出错 D. 计算数据出错",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "TCP协议⼯作在以下的哪个层 A. 应⽤层 B. 传输层 C. 物理层 D. 链路层",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "TCP协议⼯作在以下的哪个层 A. 应⽤层 B. 传输层 C. 物理层 D. 链路层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对⼀般⽤户，匿名FTP服务器不要求⽤户预先注册⽤户名和密码，登录时可作为⽤户名的是 A. 匿名 B. anonymous C. 电⼦邮件地址 D. niming",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对⼀般⽤户，匿名FTP服务器不要求⽤户预先注册⽤户名和密码，登录时可作为⽤户名的是 A. 匿名 B. anonymous C. 电⼦邮件地址 D. niming",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了缩短指令中某个地址段的位数，有效的⽅法是采取 A. 寄存器寻址 B. ⽴即寻址 C. 间接寻址 D. 变址寻址",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了缩短指令中某个地址段的位数，有效的⽅法是采取 A. 寄存器寻址 B. ⽴即寻址 C. 间接寻址 D. 变址寻址",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "原码乘法是 A. ⽤原码表示操作数，然后直接相乘 B. 被乘数⽤原码表示，乘数取绝对值，然后相乘 C. 乘数⽤原码表示，被乘数取绝对值，然后相乘 D. 先取操作数绝对值相乘，符号位单独处理",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "原码乘法是 A. ⽤原码表示操作数，然后直接相乘 B. 被乘数⽤原码表示，乘数取绝对值，然后相乘 C. 乘数⽤原码表示，被乘数取绝对值，然后相乘 D. 先取操作数绝对值相乘，符号位单独处理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "如果 [X]补=11110011，则[-X]补是 A. 11110011 B. 00001100 C. 01110011 D. 00001101",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "如果 [X]补=11110011，则[-X]补是 A. 11110011 B. 00001100 C. 01110011 D. 00001101",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Windows 2003 Server的活动⽬录所命名⽅式是 A. 数字命名 B. ⽂件命名 C. DNS D. ⽤户⾃定义",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Windows 2003 Server的活动⽬录所命名⽅式是 A. 数字命名 B. ⽂件命名 C. DNS D. ⽤户⾃定义",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "半导体静态存储器SRAM的存储原理是 A. 依靠定时刷新 B. 信息不再变化 C. 依靠读后再⽣ D. 依靠双稳态电路",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "半导体静态存储器SRAM的存储原理是 A. 依靠定时刷新 B. 信息不再变化 C. 依靠读后再⽣ D. 依靠双稳态电路",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "原码加减交替除法⼜称为不恢复余数法，因此 A. 当某⼀步运算不够减时，做恢复余数的操作 B. 仅当最后⼀步余数为负时，做恢复余数的操作 C. 当某⼀步余数为负时，做恢复余数的操作 D. 不存在恢复余数的操作",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "原码加减交替除法⼜称为不恢复余数法，因此 A. 当某⼀步运算不够减时，做恢复余数的操作 B. 仅当最后⼀步余数为负时，做恢复余数的操作 C. 当某⼀步余数为负时，做恢复余数的操作 D. 不存在恢复余数的操作",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下各阶时间复杂度中，性能最优的是 A. O(n^3) B. O(n) C. O(log2n) D. O(2^n)",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下各阶时间复杂度中，性能最优的是 A. O(n^3) B. O(n) C. O(log2n) D. O(2^n)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在不同速度的设备之间传送数据，（ ） A. 必须采⽤应答⽅式 B. 可以选⽤同步⽅式，也可选⽤异步⽅式 C. 必须采⽤同步控制⽅式 D. 必须采⽤异步控制⽅式",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在不同速度的设备之间传送数据，（ ） A. 必须采⽤应答⽅式 B. 可以选⽤同步⽅式，也可选⽤异步⽅式 C. 必须采⽤同步控制⽅式 D. 必须采⽤异步控制⽅式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "数据结构不包含的内容是 A. 数据的存储结构 B. 对数据施加的操作 C. 数据的元素来源 D. 数据的逻辑结构",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "数据结构不包含的内容是 A. 数据的存储结构 B. 对数据施加的操作 C. 数据的元素来源 D. 数据的逻辑结构",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中，与数据存储结构直接相关的是 A. 双向链表 B. 有向图 C. ⼆叉树 D. 线性表",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中，与数据存储结构直接相关的是 A. 双向链表 B. 有向图 C. ⼆叉树 D. 线性表",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于交换机配置模式的有 A. 特权模式 B. 端⼝模式 C. 线路配置模式 D. ⽤户模式",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于交换机配置模式的有 A. 特权模式 B. 端⼝模式 C. 线路配置模式 D. ⽤户模式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若脂⽤双符号位，则发⽣正溢的特征是：双符号位为 A. 1 0 B. 1 1 C. 0 1 D.  0 0",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若脂⽤双符号位，则发⽣正溢的特征是：双符号位为 A. 1 0 B. 1 1 C. 0 1 D.  0 0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在RMON规范中，定义了两种新的数据类型，这两种数据类型是 A. DisplayString和RowStatus B. OwnerString和RowStatus C. DisplayString和EntryStatus D. OwnerString和EntryStatus",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在RMON规范中，定义了两种新的数据类型，这两种数据类型是 A. DisplayString和RowStatus B. OwnerString和RowStatus C. DisplayString和EntryStatus D. OwnerString和EntryStatus",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "计算机中处理数据的基本单位是 A. 位 B. 字⻓ C. 字 D. 字节",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "计算机中处理数据的基本单位是 A. 位 B. 字⻓ C. 字 D. 字节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下⾯功能是由OSI参考模型的哪层实现的：将发送⽅数据转换成接受⽅的数据格式 A. 应⽤层 B. 传输层 C. 会话层 D. 表示层",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下⾯功能是由OSI参考模型的哪层实现的：将发送⽅数据转换成接受⽅的数据格式 A. 应⽤层 B. 传输层 C. 会话层 D. 表示层",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "设int x =5，* p = &x;,表达式的值为5的是 A. *px B. p C. *p D. &x",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "设int x =5，* p = &x;,表达式的值为5的是 A. *px B. p C. *p D. &x",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列IP地址属于标准B类IP地址的是 A. 190.168.12.7/16 B. 120.10.1.1/16 C. 172.19.3.245/24 D. 10．0．0．1/16",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列IP地址属于标准B类IP地址的是 A. 190.168.12.7/16 B. 120.10.1.1/16 C. 172.19.3.245/24 D. 10．0．0．1/16",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "磁盘存储器的等待时间是指 A. 磁盘旋转⼀周所需的时间 B. 磁盘旋转半周所需的时间 C. 磁盘旋转1/3周所需的时间 D. 磁盘旋转2/3周所需的时间",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "磁盘存储器的等待时间是指 A. 磁盘旋转⼀周所需的时间 B. 磁盘旋转半周所需的时间 C. 磁盘旋转1/3周所需的时间 D. 磁盘旋转2/3周所需的时间",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "IP、Telnet、UDP分别是OSI参考模型的哪⼀层协议 A. 3、7、4 B. 4、5、6 C. 3、4、5 D. 1、2、3",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "IP、Telnet、UDP分别是OSI参考模型的哪⼀层协议 A. 3、7、4 B. 4、5、6 C. 3、4、5 D. 1、2、3",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪种是包交换协议 A. HDLC B. 帧中继 C. ISDN D. PPP",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪种是包交换协议 A. HDLC B. 帧中继 C. ISDN D. PPP",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "IP地址是202.114.18.10，掩码是255.255.255.252，其⼴播地址是多少 A. 202.114.18.11 B. 202.114.18.12 C. 202.114.18.8 D. 202.114.18.255",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "IP地址是202.114.18.10，掩码是255.255.255.252，其⼴播地址是多少 A. 202.114.18.11 B. 202.114.18.12 C. 202.114.18.8 D. 202.114.18.255",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "静态半导体存储器SRAM指 A. 不需动态刷新 B. 在断电后信息仍能维持不变 C. 在⼯作过程中，存储内容保持不变 D. 芯⽚内部有⾃动刷新逻辑",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "静态半导体存储器SRAM指 A. 不需动态刷新 B. 在断电后信息仍能维持不变 C. 在⼯作过程中，存储内容保持不变 D. 芯⽚内部有⾃动刷新逻辑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于路由表的产⽣⽅式的是 A. 路由器的直连⽹段⾃动⽣成 B. 以上都是 C. 通过⼿⼯配置添加路由 D. 通过运⾏动态路由协议⾃动学习产⽣",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于路由表的产⽣⽅式的是 A. 路由器的直连⽹段⾃动⽣成 B. 以上都是 C. 通过⼿⼯配置添加路由 D. 通过运⾏动态路由协议⾃动学习产⽣",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若⼗进制数据为 137.625，则其⼆进制数为 A. 1011111.101 B. 10001011.1 C. 10001001.11 D. 10001001.1",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若⼗进制数据为 137.625，则其⼆进制数为 A. 1011111.101 B. 10001011.1 C. 10001001.11 D. 10001001.1",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "将回收站中的⽂件还原时，被还原的⽂件将回到 A. 被删除的位置 B. “我的⽂档”中 C. 桌⾯上 D. 内存中",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "将回收站中的⽂件还原时，被还原的⽂件将回到 A. 被删除的位置 B. “我的⽂档”中 C. 桌⾯上 D. 内存中",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "设int m = 5；，语句while(m = = 0) printf(\"%d\",m - =2);的循环休执⾏的次数是 A. ⽆限 B. 2 C. 1 D. 0",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "设int m = 5；，语句while(m = = 0) printf(\"%d\",m - =2);的循环休执⾏的次数是 A. ⽆限 B. 2 C. 1 D. 0",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "使⽤Cache可以提⾼计算机运⾏速度，这是因为 A. Cache可以存放程序和数据 B. Cache增⼤了内存的容量 C. Cache缩短了CPU的等待时间 D. Cache扩⼤了硬盘的容量",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "使⽤Cache可以提⾼计算机运⾏速度，这是因为 A. Cache可以存放程序和数据 B. Cache增⼤了内存的容量 C. Cache缩短了CPU的等待时间 D. Cache扩⼤了硬盘的容量",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列选项中，属于逻辑结构的是 A. 循环队列 B. 顺序栈 C. 链表 D. 线性表",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列选项中，属于逻辑结构的是 A. 循环队列 B. 顺序栈 C. 链表 D. 线性表",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列数据结构中，逻辑结构不同的是 A. 栈 B. 队列 C. 线性表 D. ⼆叉树",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列数据结构中，逻辑结构不同的是 A. 栈 B. 队列 C. 线性表 D. ⼆叉树",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当RIP向相邻的路由器发送更新时，它使⽤多少秒为更新计时的时间值 A. 20 B. 15 C. 25 D. 30",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当RIP向相邻的路由器发送更新时，它使⽤多少秒为更新计时的时间值 A. 20 B. 15 C. 25 D. 30",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "设有数组定义语句”int a[50];”,下列数组元素引⽤中下标不越界的是 A. a[-1] B. a[50] C. a[51] D. a[0]",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "设有数组定义语句”int a[50];”,下列数组元素引⽤中下标不越界的是 A. a[-1] B. a[50] C. a[51] D. a[0]",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通过console⼝管理交换机在超级终端⾥应设为 A. 波特率：57600数据位：8停⽌位：1奇偶校验：有 B. 波特率：9600数据位：6停⽌位：2奇偶校验：有 C. 波特率：57600数据位：6停⽌位：1奇偶校验：⽆ D. 波特率：9600数据位：8停⽌位：1奇偶校验：⽆",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通过console⼝管理交换机在超级终端⾥应设为 A. 波特率：57600数据位：8停⽌位：1奇偶校验：有 B. 波特率：9600数据位：6停⽌位：2奇偶校验：有 C. 波特率：57600数据位：6停⽌位：1奇偶校验：⽆ D. 波特率：9600数据位：8停⽌位：1奇偶校验：⽆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "若“2007年8⽉15⽇，当地时间21点57分43.5秒”⽤GeneralizedTime类型可表示为 A. 070815215743.5Z B. 70815215744 C. 2.00708E+13 D. 20070815215743.5Z",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "若“2007年8⽉15⽇，当地时间21点57分43.5秒”⽤GeneralizedTime类型可表示为 A. 070815215743.5Z B. 70815215744 C. 2.00708E+13 D. 20070815215743.5Z",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

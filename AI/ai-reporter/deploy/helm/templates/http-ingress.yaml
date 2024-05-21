@@ -1,0 +1,50 @@
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: metadb-web-portal
+  annotations:
+    ingress.kubernetes.io/proxy-body-size: "0"
+    traefik.ingress.kubernetes.io/buffering: |
+      maxRequestBodyBytes = 0
+    traefik.ingress.kubernetes.io/router.entrypoints: web
+
+spec:
+  ingressClassName: traefik
+  rules:
+    - host: metadb.chanty.21vianet.com
+      http:
+        paths:
+
+          - backend:
+              service:
+                name: webserver-svc
+                port:
+                  number: 8090
+            path: /
+            pathType: ImplementationSpecific
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: metadb-web-api-portal
+  annotations:
+    ingress.kubernetes.io/proxy-body-size: "0"
+    traefik.ingress.kubernetes.io/buffering: |
+      maxRequestBodyBytes = 0
+    traefik.ingress.kubernetes.io/router.entrypoints: web
+
+spec:
+  ingressClassName: traefik
+  rules:
+    - host: api.metadb.chanty.21vianet.com
+      http:
+        paths:
+
+          - backend:
+              service:
+                name: apiserver-svc
+                port:
+                  number: 8080
+            path: /
+            pathType: ImplementationSpecific

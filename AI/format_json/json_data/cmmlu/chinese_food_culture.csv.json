@@ -1,0 +1,1362 @@
+[
+  {
+    "question_std": "从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充” 为饮食结 构，其中“五果”是指 A. 李、杏、枣、桃、栗 B. 李、杏、蕉、橘、柿 C. 李、杏、枣、桃、柿 D. 李、杏、蕉、桃、栗",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充” 为饮食结 构，其中“五果”是指 A. 李、杏、枣、桃、栗 B. 李、杏、蕉、橘、柿 C. 李、杏、枣、桃、柿 D. 李、杏、蕉、桃、栗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国酒器之多，种类之繁，造形之美，堪为世界之冠。商周时期酒器尤为复杂，其中不包括 A. 盛酒器 B. 饮酒器 C. 分酒器 D. 煮酒器",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国酒器之多，种类之繁，造形之美，堪为世界之冠。商周时期酒器尤为复杂，其中不包括 A. 盛酒器 B. 饮酒器 C. 分酒器 D. 煮酒器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "伊尹与商汤关于烹调方面的对话，就是饮食文化史上最早的文献 A. 《吕氏春秋·本味》 B. 《论语·乡党》 C. 《尚书·酒诰》 D. 《礼记·内则》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "伊尹与商汤关于烹调方面的对话，就是饮食文化史上最早的文献 A. 《吕氏春秋·本味》 B. 《论语·乡党》 C. 《尚书·酒诰》 D. 《礼记·内则》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代宴会礼仪不包括 A. 宴会饮酒礼仪 B. 吃甜品礼仪 C. 宴会饮食方礼仪 D. 饮茶礼仪礼仪",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代宴会礼仪不包括 A. 宴会饮酒礼仪 B. 吃甜品礼仪 C. 宴会饮食方礼仪 D. 饮茶礼仪礼仪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列菜肴中，不属于淮扬菜名菜的是 A. 三套鸭 B. 蟹粉狮子头 C. 大煮干丝 D. 汤爆双脆",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列菜肴中，不属于淮扬菜名菜的是 A. 三套鸭 B. 蟹粉狮子头 C. 大煮干丝 D. 汤爆双脆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充”为饮食结构， 其中“五畜”是指 A. 牛、羊、猪、鸡、犬 B. 牛、羊、鹅、鸡、鸭 C. 牛、羊、兔、鸡、鸭 D. 牛、羊、猪、鸡、鸭",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从这些饮食思想出发，中国人选择了“五谷为养、五果为助、五畜为益、五菜为充”为饮食结构， 其中“五畜”是指 A. 牛、羊、猪、鸡、犬 B. 牛、羊、鹅、鸡、鸭 C. 牛、羊、兔、鸡、鸭 D. 牛、羊、猪、鸡、鸭",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于山西风味说法错误的是 A. 山西风味的基本味型，以咸香为主，甜酸为辅 B. 山西大厨炒菜不过油，不换锅，芡汁现炒现兑，急火短炒，一锅成菜 C. 山西风味，具有油大色重，口味咸鲜偏酸 D. 山西民间以“十八碗”为代表，盛行经济实惠的蒸菜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于山西风味说法错误的是 A. 山西风味的基本味型，以咸香为主，甜酸为辅 B. 山西大厨炒菜不过油，不换锅，芡汁现炒现兑，急火短炒，一锅成菜 C. 山西风味，具有油大色重，口味咸鲜偏酸 D. 山西民间以“十八碗”为代表，盛行经济实惠的蒸菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于随园菜特点的是 A. 注重原料选择和搭配 B. 讲究色、香、味、形、器及进食艺术 C. 极其讲究富贵和滋补 D. 注重筵席",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于随园菜特点的是 A. 注重原料选择和搭配 B. 讲究色、香、味、形、器及进食艺术 C. 极其讲究富贵和滋补 D. 注重筵席",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于液态介质导热制熟的方法的是 A. 氽溜 B. 白焯 C. 蒸馏 D. 炸烹",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于液态介质导热制熟的方法的是 A. 氽溜 B. 白焯 C. 蒸馏 D. 炸烹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "满族传统名菜有 A. 黄氏蒸鸡 B. 莲花鸡签 C. 一品锅 D. 白肉血汤",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "满族传统名菜有 A. 黄氏蒸鸡 B. 莲花鸡签 C. 一品锅 D. 白肉血汤",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "首先研制“红楼菜肴〞，打出“红楼宴〞牌子的是 A. 南京的金陵饭店 B. 北京的红楼饭庄 C. 北京的来今雨轩饭庄 D. 扬州的西园大酒店",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "首先研制“红楼菜肴〞，打出“红楼宴〞牌子的是 A. 南京的金陵饭店 B. 北京的红楼饭庄 C. 北京的来今雨轩饭庄 D. 扬州的西园大酒店",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“火腿炖甲鱼”，口味鲜香、营养全面，是哪个菜系中的名菜 A. 浙菜 B. 湘菜 C. 闽菜 D. 徽菜",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“火腿炖甲鱼”，口味鲜香、营养全面，是哪个菜系中的名菜 A. 浙菜 B. 湘菜 C. 闽菜 D. 徽菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对于新科进士，唐宋时代都按例赐宴，称为 A. “闻喜宴” B. “曲江宴”（唐进士） C. “谢师宴” D. “恩荣宴”(明清)",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对于新科进士，唐宋时代都按例赐宴，称为 A. “闻喜宴” B. “曲江宴”（唐进士） C. “谢师宴” D. “恩荣宴”(明清)",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列属于扬州“三头宴”中的一道菜的是 A. 白血海参 B. 葵花献肉 C. 葫芦鸡 D. 奶汤锅鱼",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列属于扬州“三头宴”中的一道菜的是 A. 白血海参 B. 葵花献肉 C. 葫芦鸡 D. 奶汤锅鱼",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "风靡全国的烤羊肉串和被誉为十全大补饭的“抓饭”，色香味俱佳的烤全羊，属于（）的美食 A. 苗族 B. 哈萨克族 C. 维吾尔族 D. 朝鲜族",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "风靡全国的烤羊肉串和被誉为十全大补饭的“抓饭”，色香味俱佳的烤全羊，属于（）的美食 A. 苗族 B. 哈萨克族 C. 维吾尔族 D. 朝鲜族",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "民间城市茶馆兴起，并发展成为适合社会各阶层所需的活动场所，它把茶与曲艺、诗会、戏剧和灯谜等民间文化活动融合起来，形成了一种特殊的“茶馆文化”，“客来敬茶”也已成为寻常百姓的礼仪美德。开始于 A. 宋朝末年 B. 唐朝末年 C. 明朝末年 D. 清朝末年",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "民间城市茶馆兴起，并发展成为适合社会各阶层所需的活动场所，它把茶与曲艺、诗会、戏剧和灯谜等民间文化活动融合起来，形成了一种特殊的“茶馆文化”，“客来敬茶”也已成为寻常百姓的礼仪美德。开始于 A. 宋朝末年 B. 唐朝末年 C. 明朝末年 D. 清朝末年",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传统名菜“松鼠桂鱼”是典型的 A. 川菜 B. 粤菜 C. 淮扬菜 D. 鲁菜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传统名菜“松鼠桂鱼”是典型的 A. 川菜 B. 粤菜 C. 淮扬菜 D. 鲁菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以清香、鲜嫩、味佳而著称的是 A. 粤菜 B. 川菜 C. 鲁菜 D. 淮扬菜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以清香、鲜嫩、味佳而著称的是 A. 粤菜 B. 川菜 C. 鲁菜 D. 淮扬菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "白酒是用酒曲及酒药酿出的酒再经过蒸馏，得到的酒度较高的蒸馏酒。据考证，中国人何时发明了白酒 A. 西汉时期 B. 南宋时期 C. 西周时期 D. 三国时期",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "白酒是用酒曲及酒药酿出的酒再经过蒸馏，得到的酒度较高的蒸馏酒。据考证，中国人何时发明了白酒 A. 西汉时期 B. 南宋时期 C. 西周时期 D. 三国时期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在明清两代的文人宴上，用以检测文人的学识与机敏程度的是 A. 曲水流觞令 B. 四书令 C. 投壶令 D. 射覆令",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在明清两代的文人宴上，用以检测文人的学识与机敏程度的是 A. 曲水流觞令 B. 四书令 C. 投壶令 D. 射覆令",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国啤酒最早出现在 A. 明代 B. 清代 C. 民国时期 D. 新中国成立后",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国啤酒最早出现在 A. 明代 B. 清代 C. 民国时期 D. 新中国成立后",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "相传，豆腐的发明者是西汉的 A. 刘彻 B. 刘安 C. 刘荣 D. 刘秀",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "相传，豆腐的发明者是西汉的 A. 刘彻 B. 刘安 C. 刘荣 D. 刘秀",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "面粉不可以制作以下哪种传统食物 A. 米糕 B. 花卷 C. 馒头 D. 饼",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "面粉不可以制作以下哪种传统食物 A. 米糕 B. 花卷 C. 馒头 D. 饼",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "西汉时期文学作品《七发》描述了大量淮扬风味菜肴，其作者是 A. 司马相如 B. 枚乘 C. 张衡 D. 刘勰",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "西汉时期文学作品《七发》描述了大量淮扬风味菜肴，其作者是 A. 司马相如 B. 枚乘 C. 张衡 D. 刘勰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在菜肴色系中，能给人以素洁、软嫩、清淡之感，被他色映衬时，则给人以鲜美的味觉启示， 通常是 A. 绿色 B. 黄色 C. 红色 D. 白色",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在菜肴色系中，能给人以素洁、软嫩、清淡之感，被他色映衬时，则给人以鲜美的味觉启示， 通常是 A. 绿色 B. 黄色 C. 红色 D. 白色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "口味以辛辣爽口、脆嫩鲜香为主，烹调方法多采用生拌是哪个民族的饮食文化 A. 朝鲜族 B. 维吾尔族 C. 满族 D. 土家族",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "口味以辛辣爽口、脆嫩鲜香为主，烹调方法多采用生拌是哪个民族的饮食文化 A. 朝鲜族 B. 维吾尔族 C. 满族 D. 土家族",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "广式面点的代表品种之一是 A. 五芳斋粽子 B. 翡翠烧卖 C. 拨鱼面 D. 叉烧包",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "广式面点的代表品种之一是 A. 五芳斋粽子 B. 翡翠烧卖 C. 拨鱼面 D. 叉烧包",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传统名菜“干烧岩鲤”是典型的 A. 粤菜 B. 鲁菜 C. 川菜 D. 淮扬菜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传统名菜“干烧岩鲤”是典型的 A. 粤菜 B. 鲁菜 C. 川菜 D. 淮扬菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "标志着明清时期人情小说的问世，使得饮食描写进入了一个全新的阶段的作品是 A. 《喻世名言》 B. 《红楼梦》 C. 《金瓶梅》 D. 《西游记》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "标志着明清时期人情小说的问世，使得饮食描写进入了一个全新的阶段的作品是 A. 《喻世名言》 B. 《红楼梦》 C. 《金瓶梅》 D. 《西游记》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国饮食的内容的是 A. 饮食文化的民族个性 B. 饮食文化的物质层面 C. 饮食文化的精神层面 D. 饮食文化的时代特征",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国饮食的内容的是 A. 饮食文化的民族个性 B. 饮食文化的物质层面 C. 饮食文化的精神层面 D. 饮食文化的时代特征",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列茶叶中， 按加工工艺依次为不发酵、半发酵和全发酵的是 A. 太湖碧螺春， 铁观音， 祁红 B. 黄山毛峰， 君山银针， 宣红 C. 银针白豪， 乌龙菜， 单枞 D. 西湖龙井， 水仙， 大红袍",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列茶叶中， 按加工工艺依次为不发酵、半发酵和全发酵的是 A. 太湖碧螺春， 铁观音， 祁红 B. 黄山毛峰， 君山银针， 宣红 C. 银针白豪， 乌龙菜， 单枞 D. 西湖龙井， 水仙， 大红袍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国传统认为开门七件事中不包括什么 A. 茶酒 B. 柴米 C. 油盐 D. 酱醋",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国传统认为开门七件事中不包括什么 A. 茶酒 B. 柴米 C. 油盐 D. 酱醋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最终与动物划清界限、使人类从此告别了茹毛饮血的饮食生活的重要标志是 A. 以汽蒸食 B. 用鼎熟食 C. 用火熟食 D. 以水煮食",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最终与动物划清界限、使人类从此告别了茹毛饮血的饮食生活的重要标志是 A. 以汽蒸食 B. 用鼎熟食 C. 用火熟食 D. 以水煮食",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国由分餐到合食转变的最终形成是在 A. 唐宋时期 B. 两汉时期 C. 南北朝时期 D. 明清时期",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国由分餐到合食转变的最终形成是在 A. 唐宋时期 B. 两汉时期 C. 南北朝时期 D. 明清时期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "阐述禁食自死物、血液和猪肉的原因时说“因为它们确是不洁的”的经典是 A. 《道德经》 B. 《华严经》 C. 《古兰经》 D. 《金刚经》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "阐述禁食自死物、血液和猪肉的原因时说“因为它们确是不洁的”的经典是 A. 《道德经》 B. 《华严经》 C. 《古兰经》 D. 《金刚经》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "馒头的首创者据民间传说是 A. 孔子 B. 杜甫 C. 诸葛亮 D. 李白",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "馒头的首创者据民间传说是 A. 孔子 B. 杜甫 C. 诸葛亮 D. 李白",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列菜系既是北方菜的基又是御膳组成部分的是 A. 徽菜 B. 川菜 C. 鲁菜 D. 浙菜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列菜系既是北方菜的基又是御膳组成部分的是 A. 徽菜 B. 川菜 C. 鲁菜 D. 浙菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国最早的食疗专论是 A. 《随园食单》 B. 《千金要方》 C. 《备急千金要方》 D. 《食疗本草》",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国最早的食疗专论是 A. 《随园食单》 B. 《千金要方》 C. 《备急千金要方》 D. 《食疗本草》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "冬季人体最容易感受寒邪，为保护人体阳气，可多进食温热食品如 A. 苦瓜 B. 百合 C. 羊肉 D. 海带",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "冬季人体最容易感受寒邪，为保护人体阳气，可多进食温热食品如 A. 苦瓜 B. 百合 C. 羊肉 D. 海带",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“夫礼之初，始诸饮食”这句话出自 A. 《礼记》 B. 《周礼》 C. 《仪礼》 D. 《论语》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“夫礼之初，始诸饮食”这句话出自 A. 《礼记》 B. 《周礼》 C. 《仪礼》 D. 《论语》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有 “ 一菜一格 ， 百菜百味 ” 之美誉的是 A. 苏菜 B. 川菜 C. 鲁菜 D. 粤菜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有 “ 一菜一格 ， 百菜百味 ” 之美誉的是 A. 苏菜 B. 川菜 C. 鲁菜 D. 粤菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "具有“银丝条、螺旋形、浑身毛〞的特色，素有“一嫩三鲜〞美誉的茶叶指的是 A. 龙井茶 B. 太平猴魁 C. 白毫银针 D. 碧螺春",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "具有“银丝条、螺旋形、浑身毛〞的特色，素有“一嫩三鲜〞美誉的茶叶指的是 A. 龙井茶 B. 太平猴魁 C. 白毫银针 D. 碧螺春",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于山东风味说法错误的是 A. 山东名菜有糖醋黄河鲤鱼、油爆双脆、九转大肠等 B. 山东菜的口味极重纯正醇浓，咸、鲜、酸、甜、辣各味皆有，很少有复合味 C. 山东菜善于制汤、用汤，常用制好的清汤、奶汤加入山珍海味鲜蔬杂货中 D. 山东取料以羊肉为主而以羊、猪合烹为常见，菜肴以热烫炙口、酥透人味而著称",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于山东风味说法错误的是 A. 山东名菜有糖醋黄河鲤鱼、油爆双脆、九转大肠等 B. 山东菜的口味极重纯正醇浓，咸、鲜、酸、甜、辣各味皆有，很少有复合味 C. 山东菜善于制汤、用汤，常用制好的清汤、奶汤加入山珍海味鲜蔬杂货中 D. 山东取料以羊肉为主而以羊、猪合烹为常见，菜肴以热烫炙口、酥透人味而著称",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以烹制山珍野味著称，讲究火工，火大油重，保持原汁原味，比较实惠的是 A. 京菜 B. 皖菜 C. 沪菜 D. 豫菜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以烹制山珍野味著称，讲究火工，火大油重，保持原汁原味，比较实惠的是 A. 京菜 B. 皖菜 C. 沪菜 D. 豫菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传统名菜“佛跳墙〞在风味上属于 A. 广东风味 B. 安徽风味 C. 福建风味 D. 浙江风味",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传统名菜“佛跳墙〞在风味上属于 A. 广东风味 B. 安徽风味 C. 福建风味 D. 浙江风味",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "周代的宴会种类繁多，其中亲朋好友之间的宴饮被称为 A. 乡饮酒礼 B. 射礼 C. 燕礼 D. 献礼",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "周代的宴会种类繁多，其中亲朋好友之间的宴饮被称为 A. 乡饮酒礼 B. 射礼 C. 燕礼 D. 献礼",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“驴打滚”是哪里的著名风味小吃 A. 山东 B. 陕西 C. 天津 D. 北京",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“驴打滚”是哪里的著名风味小吃 A. 山东 B. 陕西 C. 天津 D. 北京",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "作为民族风味食品的“冷面”，属 A. 傣族菜 B. 彝族菜 C. 苗族菜 D. 朝鲜族菜",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "作为民族风味食品的“冷面”，属 A. 傣族菜 B. 彝族菜 C. 苗族菜 D. 朝鲜族菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "重要节日喜吃年糕的我国少数民族是 A. 鄂伦春族 B. 蒙古族 C. 朝鲜族 D. 赫哲族",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "重要节日喜吃年糕的我国少数民族是 A. 鄂伦春族 B. 蒙古族 C. 朝鲜族 D. 赫哲族",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“火候”是饮食文化的一个重要名词，最初起源于 A. 伊斯兰教活动 B. 道教活动 C. 基督教活动 D. 佛教活动",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“火候”是饮食文化的一个重要名词，最初起源于 A. 伊斯兰教活动 B. 道教活动 C. 基督教活动 D. 佛教活动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在中国比较正确的上菜礼应该是 A. 水果-凉菜-汤-热炒-主食-点心 B. 凉菜-热炒-大菜-汤-主食-水果 C. 凉菜-主食-汤-热菜-水果-点心 D. 汤-凉菜-热菜-主食-点心-水果",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在中国比较正确的上菜礼应该是 A. 水果-凉菜-汤-热炒-主食-点心 B. 凉菜-热炒-大菜-汤-主食-水果 C. 凉菜-主食-汤-热菜-水果-点心 D. 汤-凉菜-热菜-主食-点心-水果",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于我国饮食发展阶段，叙述最为正确的是 A. 生食-熟食-生食 B. 熟食-生食-熟食 C. 产生之处就是生熟食共同出现 D. 生食-熟食-多样化的烹饪",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于我国饮食发展阶段，叙述最为正确的是 A. 生食-熟食-生食 B. 熟食-生食-熟食 C. 产生之处就是生熟食共同出现 D. 生食-熟食-多样化的烹饪",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列菜肴香味搭配中，合适的搭配是 A. 葱、椒、姜、桂之香，多配瓜果 B. 鲜花香气馥郁，多配甜食、洒露汤羹 C. 酒糟之香醇浓，多配五谷糕饵 D. 薄荷龙脑之香，多用于腥物",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列菜肴香味搭配中，合适的搭配是 A. 葱、椒、姜、桂之香，多配瓜果 B. 鲜花香气馥郁，多配甜食、洒露汤羹 C. 酒糟之香醇浓，多配五谷糕饵 D. 薄荷龙脑之香，多用于腥物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于我国饮食发展阶段的叙述，最为正确的是 A. 火烹期-陶烹期-铁烹期-铜烹期 B. 火烹期-铜烹期-陶烹期-铁烹期 C. 陶烹期-火烹期-铜烹期-铁烹期 D. 火烹期-陶烹期-铜烹期-铁烹期",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于我国饮食发展阶段的叙述，最为正确的是 A. 火烹期-陶烹期-铁烹期-铜烹期 B. 火烹期-铜烹期-陶烹期-铁烹期 C. 陶烹期-火烹期-铜烹期-铁烹期 D. 火烹期-陶烹期-铜烹期-铁烹期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在菜肴色系中，会损害味感，但运用得当能给人以淡雅、脱俗之趣，是 A. 紫色 B. 绿色 C. 白色 D. 黄色",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在菜肴色系中，会损害味感，但运用得当能给人以淡雅、脱俗之趣，是 A. 紫色 B. 绿色 C. 白色 D. 黄色",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "佛教将饮食从欲望、摄取、执著的角度分为四类饮食需求。第一是饮食需求段食，第二是触食，第三是思食，最后是 A. 欲食 B. 禁食 C. 乞食 D. 识食",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "佛教将饮食从欲望、摄取、执著的角度分为四类饮食需求。第一是饮食需求段食，第二是触食，第三是思食，最后是 A. 欲食 B. 禁食 C. 乞食 D. 识食",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "素有“一菜一格，百菜百味”之称的菜肴体系是 A. 鲁菜 B. 豫菜 C. 苏菜 D. 川菜",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "素有“一菜一格，百菜百味”之称的菜肴体系是 A. 鲁菜 B. 豫菜 C. 苏菜 D. 川菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国主要菜肴风味体系中黄河文化流域中不包括的 A. 四川菜 B. 山东菜 C. 河南菜 D. 北京菜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国主要菜肴风味体系中黄河文化流域中不包括的 A. 四川菜 B. 山东菜 C. 河南菜 D. 北京菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于中国主要菜肴风味体系的 A. 黄河文化流域 B. 松花江文化流域 C. 长江文化流域 D. 珠江文化流域",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于中国主要菜肴风味体系的 A. 黄河文化流域 B. 松花江文化流域 C. 长江文化流域 D. 珠江文化流域",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列菜肴香味搭配中，不合适的搭配是 A. 白芷之香，宜配豚蟹 B. 蒜薤之香，宜配重腥等 C. 茵香、丁香，多与冷冻、水晶类莱希配伍 D. 油脂乳酥之香，多用于热烹之食物",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列菜肴香味搭配中，不合适的搭配是 A. 白芷之香，宜配豚蟹 B. 蒜薤之香，宜配重腥等 C. 茵香、丁香，多与冷冻、水晶类莱希配伍 D. 油脂乳酥之香，多用于热烹之食物",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三蛇龙虎会、鱼香肉丝、生熘鱼片分别属于 A. 广东菜、四川菜、湖南菜 B. 湖南菜、山东菜、四川菜 C. 广东菜、湖南菜、四川菜 D. 四川菜、广东菜、山东菜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三蛇龙虎会、鱼香肉丝、生熘鱼片分别属于 A. 广东菜、四川菜、湖南菜 B. 湖南菜、山东菜、四川菜 C. 广东菜、湖南菜、四川菜 D. 四川菜、广东菜、山东菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国古代由分食到合食转变的时间大致是 A. 明清时期 B. 秦汉时期 C. 三国时期 D. 唐宋时期",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国古代由分食到合食转变的时间大致是 A. 明清时期 B. 秦汉时期 C. 三国时期 D. 唐宋时期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "粤菜主要覆盖在 A. 长江下游地区 B. 珠江流域 C. 长江中游地区 D. 黄河流域",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "粤菜主要覆盖在 A. 长江下游地区 B. 珠江流域 C. 长江中游地区 D. 黄河流域",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "各民族有不同的饮食习惯，其中喜食酸味及嚼槟榔的是 A. 纳西族、土家族 B. 壮族、傣族 C. 彝族、壮族 D. 纳西族、白族",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "各民族有不同的饮食习惯，其中喜食酸味及嚼槟榔的是 A. 纳西族、土家族 B. 壮族、傣族 C. 彝族、壮族 D. 纳西族、白族",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主张素食是以下四大宗教中（）的饮食习俗 A. 道教 B. 佛教 C. 基督教 D. 伊斯兰教",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主张素食是以下四大宗教中（）的饮食习俗 A. 道教 B. 佛教 C. 基督教 D. 伊斯兰教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "回族有严格的饮食禁忌。不吃（）肉，不食用自死的禽畜和畜血 A. 羊 B. 驼 C. 驴 D. 牛",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "回族有严格的饮食禁忌。不吃（）肉，不食用自死的禽畜和畜血 A. 羊 B. 驼 C. 驴 D. 牛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“食不厌精，脍不厌细”是哪一位圣人所说 A. 孔子 B. 荀子 C. 庄子 D. 老子",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“食不厌精，脍不厌细”是哪一位圣人所说 A. 孔子 B. 荀子 C. 庄子 D. 老子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“夫礼之初，始诸饮食”一语出自 A. 《诗经》 B. 《左传》 C. 《楚辞》 D. 《礼记》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“夫礼之初，始诸饮食”一语出自 A. 《诗经》 B. 《左传》 C. 《楚辞》 D. 《礼记》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "清代官场饮茶有着特殊的程序和含义，有别于一般的茶道，主人若端茶，对客人说“请喝茶”，这表明 A. 对客人不满 B. 请客人品茶 C. 对客人的尊敬 D. 会谈结束送客",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "清代官场饮茶有着特殊的程序和含义，有别于一般的茶道，主人若端茶，对客人说“请喝茶”，这表明 A. 对客人不满 B. 请客人品茶 C. 对客人的尊敬 D. 会谈结束送客",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“ 汽锅鸡”是哪里的名菜 A. 广州 B. 云南 C. 贵州 D. 四川",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“ 汽锅鸡”是哪里的名菜 A. 广州 B. 云南 C. 贵州 D. 四川",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "斋戒通常是（）的饮食习俗 A. 基督教 B. 伊斯兰教 C. 佛教 D. 道教",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "斋戒通常是（）的饮食习俗 A. 基督教 B. 伊斯兰教 C. 佛教 D. 道教",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上海小吃最受人们青睐的“三主件”是 A. 栗子糕、松饼、烧麦 B. 汤包、百叶、油面筋 C. 生煎馒头、馄饨、蟹黄包 D. 蟹黄包、阳春面、海棠糕",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "上海小吃最受人们青睐的“三主件”是 A. 栗子糕、松饼、烧麦 B. 汤包、百叶、油面筋 C. 生煎馒头、馄饨、蟹黄包 D. 蟹黄包、阳春面、海棠糕",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“ 猫耳朵 ” 是哪里的特色小吃  A. 贵州 B. 江苏 C. 北京 D. 浙江",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“ 猫耳朵 ” 是哪里的特色小吃  A. 贵州 B. 江苏 C. 北京 D. 浙江",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "记述人们只有依据“隆、赤巴、培根”三因素，选择合适的饮食，讲求饮食的属性，严格养生，才能获得健康，争取长寿的藏文本是 A. 《本草纲目》 B. 《饮食须知》 C. 《饮膳正要》 D. 《佛学养生经》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "记述人们只有依据“隆、赤巴、培根”三因素，选择合适的饮食，讲求饮食的属性，严格养生，才能获得健康，争取长寿的藏文本是 A. 《本草纲目》 B. 《饮食须知》 C. 《饮膳正要》 D. 《佛学养生经》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与刀削面、刀拨面、拉面并称为山西四大名面的是 A. 热干面 B. 肠旺面 C. 拨鱼儿 D. 担担面",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与刀削面、刀拨面、拉面并称为山西四大名面的是 A. 热干面 B. 肠旺面 C. 拨鱼儿 D. 担担面",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从历史发展看，中国人衡量食品质量的第一标准是 A. 食境 B. 食量 C. 食味 D. 食形",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从历史发展看，中国人衡量食品质量的第一标准是 A. 食境 B. 食量 C. 食味 D. 食形",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "素有“百汤百味”之称的是 A. 福建菜 B. 湖南菜 C. 浙江菜 D. 广东菜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "素有“百汤百味”之称的是 A. 福建菜 B. 湖南菜 C. 浙江菜 D. 广东菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪种动物不属于五畜类的 A. 羊 B. 猪 C. 兔子 D. 牛",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪种动物不属于五畜类的 A. 羊 B. 猪 C. 兔子 D. 牛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "贵妃鸡、葫芦鸡、叫化鸡分别属于 A. 广东菜、东北菜、山东菜 B. 福建菜、西北菜、浙江菜 C. 上海菜、西北菜、江苏菜 D. 上海菜、东北菜、江苏菜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "贵妃鸡、葫芦鸡、叫化鸡分别属于 A. 广东菜、东北菜、山东菜 B. 福建菜、西北菜、浙江菜 C. 上海菜、西北菜、江苏菜 D. 上海菜、东北菜、江苏菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对汉代画像石中的饮食情景叙述正确的是 A. 汉代主要用大匕来取食和进食 B. 天气炎热所以席地坐在地上 C. 画中饮食是一种“合食”现象 D. 高椅在汉代还未出现，故跽坐而食",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对汉代画像石中的饮食情景叙述正确的是 A. 汉代主要用大匕来取食和进食 B. 天气炎热所以席地坐在地上 C. 画中饮食是一种“合食”现象 D. 高椅在汉代还未出现，故跽坐而食",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在敬酒方式中，有礼有节地劝客人饮酒被称为 A. 互敬 B. 文敬 C. 回敬 D. 代",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在敬酒方式中，有礼有节地劝客人饮酒被称为 A. 互敬 B. 文敬 C. 回敬 D. 代",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国素有“茶兴于唐，盛于宋〞之说。宋徽宗赵佶潜心研究、精心论述，著有 A. 《品茶要录》 B. 《茶典》 C. 《茶谱》 D. 《大观茶论》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国素有“茶兴于唐，盛于宋〞之说。宋徽宗赵佶潜心研究、精心论述，著有 A. 《品茶要录》 B. 《茶典》 C. 《茶谱》 D. 《大观茶论》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "茶的故乡在 A. 中国 B. 印度 C. 巴西 D. 日本",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "茶的故乡在 A. 中国 B. 印度 C. 巴西 D. 日本",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列国家名酒， 依次为浓香型， 清香型， 复香型白酒的是 A. 茅台酒， 山西汾酒， 五粮液 B. 五粮液， 山西汾酒， 陕西西凤酒 C. 五粮液， 山西汾酒， 桂林三花酒 D. 泸州老窖特曲， 五粮液， 陕西西凤酒",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列国家名酒， 依次为浓香型， 清香型， 复香型白酒的是 A. 茅台酒， 山西汾酒， 五粮液 B. 五粮液， 山西汾酒， 陕西西凤酒 C. 五粮液， 山西汾酒， 桂林三花酒 D. 泸州老窖特曲， 五粮液， 陕西西凤酒",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "蒙古族喜食的、招待尊贵客人的最为丰盛和最为讲究的一种传统宴席是 A. 全狗席 B. 全马席 C. 全牛席 D. 全羊席",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "蒙古族喜食的、招待尊贵客人的最为丰盛和最为讲究的一种传统宴席是 A. 全狗席 B. 全马席 C. 全牛席 D. 全羊席",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列有关菜肴的酸味，说法不正确的是 A. 酸味一般可独立呈味 B. 适当食用酸味，可刺激胃口，增加食欲，并有去腥解腻、提味爽口和分解原料中钙质的作用。资料 C. 酸味是由氢离子刺激味觉神经引起的感觉 D. 含酸味的调料主要是醋、番茄酱和柠檬汁等",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列有关菜肴的酸味，说法不正确的是 A. 酸味一般可独立呈味 B. 适当食用酸味，可刺激胃口，增加食欲，并有去腥解腻、提味爽口和分解原料中钙质的作用。资料 C. 酸味是由氢离子刺激味觉神经引起的感觉 D. 含酸味的调料主要是醋、番茄酱和柠檬汁等",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《黄帝内经》中提到一种古老的酒，是用动物的乳汁酿成的甜酒，即 A. 秬鬯 B. 醴酪 C. 猿酒 D. 醍",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《黄帝内经》中提到一种古老的酒，是用动物的乳汁酿成的甜酒，即 A. 秬鬯 B. 醴酪 C. 猿酒 D. 醍",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "饮食消费文化最突出的特点是兼具经济功能和 A. 艺术功能 B. 政治功能 C. 社会功能 D. 宗教功能",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "饮食消费文化最突出的特点是兼具经济功能和 A. 艺术功能 B. 政治功能 C. 社会功能 D. 宗教功能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "茶的发现和利用，相传起源于 A. 神农时代 B. 黄帝时代 C. 女娲时代 D. 伏羲时代",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "茶的发现和利用，相传起源于 A. 神农时代 B. 黄帝时代 C. 女娲时代 D. 伏羲时代",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国历史上最为著名、影响最大的宴席是 A. 红楼宴 B. 孔府宴 C. 谭府宴 D. 满汉全席",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国历史上最为著名、影响最大的宴席是 A. 红楼宴 B. 孔府宴 C. 谭府宴 D. 满汉全席",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "苏菜系由淮扬、苏锡、徐海三大地方风味菜肴组成，以何种菜为主体 A. 上海菜 B. 徐海菜 C. 苏锡菜 D. 淮扬菜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "苏菜系由淮扬、苏锡、徐海三大地方风味菜肴组成，以何种菜为主体 A. 上海菜 B. 徐海菜 C. 苏锡菜 D. 淮扬菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "提出“五谷为养，五果为助，五畜为益，五菜为充，气味合服，充益精气”的食物搭配原则的著作是 A. 《黄帝内经》 B. 《本草纲目》 C. 《饮食须知》 D. 《饮膳正要》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "提出“五谷为养，五果为助，五畜为益，五菜为充，气味合服，充益精气”的食物搭配原则的著作是 A. 《黄帝内经》 B. 《本草纲目》 C. 《饮食须知》 D. 《饮膳正要》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "唐代的陆羽精于茶事，著有《茶经》，被后世尊为 A. 茶仙 B. 茶人 C. 茶圣 D. 茶神",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "唐代的陆羽精于茶事，著有《茶经》，被后世尊为 A. 茶仙 B. 茶人 C. 茶圣 D. 茶神",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于湘菜的是 A. 七星丸 B. 红煨鱼翅 C. 麻辣子鸡 D. 红烧全狗",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于湘菜的是 A. 七星丸 B. 红煨鱼翅 C. 麻辣子鸡 D. 红烧全狗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "到藏民家做客，主人首先会向客人敬上具有当地民族特色的 A. 擂茶 B. 酥油茶 C. 烤茶 D. 盖碗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "到藏民家做客，主人首先会向客人敬上具有当地民族特色的 A. 擂茶 B. 酥油茶 C. 烤茶 D. 盖碗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宫廷菜南味以金陵（）、鄞都为代表 A. 长安 B. 广州 C. 临安 D. 开封",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宫廷菜南味以金陵（）、鄞都为代表 A. 长安 B. 广州 C. 临安 D. 开封",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于官府菜的是 A. 红楼菜 B. 京菜 C. 谭家菜 D. 孔府菜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于官府菜的是 A. 红楼菜 B. 京菜 C. 谭家菜 D. 孔府菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "《周礼·天官冢宰》中记载，有专门为周天子以及王后、世子们的饮食生活效劳的部门和人员，诸如主管王室饮食的称为 A. 内饔 B. 膳夫 C. 亨人 D. 庖人",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "《周礼·天官冢宰》中记载，有专门为周天子以及王后、世子们的饮食生活效劳的部门和人员，诸如主管王室饮食的称为 A. 内饔 B. 膳夫 C. 亨人 D. 庖人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“扁食、娇耳”是哪一个中国传统食品的别称 A. 月饼 B. 饺子 C. 馄饨 D. 麻花",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“扁食、娇耳”是哪一个中国传统食品的别称 A. 月饼 B. 饺子 C. 馄饨 D. 麻花",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国历史上一篇烹饪理论文章是 A. 《吕氏春秋 本味篇》 B. 《随园食单》 C. 《千金要方》 D. 《食珍录》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国历史上一篇烹饪理论文章是 A. 《吕氏春秋 本味篇》 B. 《随园食单》 C. 《千金要方》 D. 《食珍录》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "康熙南下巡视时，根据产地和形态将名茶“吓杀人香”赐名为 A. 碧螺春 B. 西湖龙井 C. 六安瓜片 D. 黄山毛峰",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "康熙南下巡视时，根据产地和形态将名茶“吓杀人香”赐名为 A. 碧螺春 B. 西湖龙井 C. 六安瓜片 D. 黄山毛峰",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列不属于中国饮食养生的原则为 A. 食饱为止 B. 因人而宜 C. 五味调和 D. 合理调配",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列不属于中国饮食养生的原则为 A. 食饱为止 B. 因人而宜 C. 五味调和 D. 合理调配",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颜色对菜肴的作用主要有增进食欲和 A. 掌握火候 B. 视觉欣赏 C. 提高口感 D. 辨别生熟",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颜色对菜肴的作用主要有增进食欲和 A. 掌握火候 B. 视觉欣赏 C. 提高口感 D. 辨别生熟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鲁菜的代表名菜是 A. 大煮干丝 B. 宫保鸡丁 C. 鼎湖上素 D. 九转大肠",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鲁菜的代表名菜是 A. 大煮干丝 B. 宫保鸡丁 C. 鼎湖上素 D. 九转大肠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "擅长制作蜜制品的少数民族是 A. 回族 B. 蒙古族 C. 藏族 D. 满族",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "擅长制作蜜制品的少数民族是 A. 回族 B. 蒙古族 C. 藏族 D. 满族",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“咕噜肉”所属的菜系是 A. 淮扬菜系 B. 川菜系 C. 粤菜系 D. 鲁菜系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“咕噜肉”所属的菜系是 A. 淮扬菜系 B. 川菜系 C. 粤菜系 D. 鲁菜系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "回族喝茶的一大特色是喝盖碗茶，俗称 A. 奶茶 B. 三生饮 C. 三炮台 D. 酥油茶",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "回族喝茶的一大特色是喝盖碗茶，俗称 A. 奶茶 B. 三生饮 C. 三炮台 D. 酥油茶",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国正式宣布开始开展绿色食品是在 A. 1990年 B. 1987年 C. 1998年 D. 2002年",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国正式宣布开始开展绿色食品是在 A. 1990年 B. 1987年 C. 1998年 D. 2002年",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在下列菜肴香味搭配中，不合适的搭配是 A. 蒜薤之香，宜配重腥等 B. 油脂乳酥之香，多用于热烹之食物； C. 茵香、丁香，多与冷冻、水晶类莱希配伍； D. 白芷之香，宜配豚蟹",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在下列菜肴香味搭配中，不合适的搭配是 A. 蒜薤之香，宜配重腥等 B. 油脂乳酥之香，多用于热烹之食物； C. 茵香、丁香，多与冷冻、水晶类莱希配伍； D. 白芷之香，宜配豚蟹",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代赴宴中的入座礼应该是 A. 左入左出 B. 右入左出 C. 左入右出 D. 右入右出",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代赴宴中的入座礼应该是 A. 左入左出 B. 右入左出 C. 左入右出 D. 右入右出",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“食不厌精，脍不厌细”是（）菜的饮食原则 A. 孔府菜 B. 随园菜 C. 谭家菜 D. 红楼菜",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“食不厌精，脍不厌细”是（）菜的饮食原则 A. 孔府菜 B. 随园菜 C. 谭家菜 D. 红楼菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以白煮和生烤为主要烹调方法的民族是 A. 傣族 B. 满族 C. 朝鲜族 D. 苗族",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以白煮和生烤为主要烹调方法的民族是 A. 傣族 B. 满族 C. 朝鲜族 D. 苗族",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "过年时常以年糕、糕点作祭品的是哪里的习惯? A. 朝鲜 B. 日本 C. 韩国 D. 台湾",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "过年时常以年糕、糕点作祭品的是哪里的习惯? A. 朝鲜 B. 日本 C. 韩国 D. 台湾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国烹饪在原料利用上的基本原则是 A. 一料多吃 B. 化废为宝 C. 物尽其用 D. 原料广泛",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国烹饪在原料利用上的基本原则是 A. 一料多吃 B. 化废为宝 C. 物尽其用 D. 原料广泛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "冬季，人们日常选择食用温热助阳之品，以达扶阳散寒之功效，谓之 A. “药膳” B. “食疗 C. “药补” D. “食补”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "冬季，人们日常选择食用温热助阳之品，以达扶阳散寒之功效，谓之 A. “药膳” B. “食疗 C. “药补” D. “食补”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国古代将烹饪风味流派称为 A. 菜系 B. 帮口 C. 道口 D. 风",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国古代将烹饪风味流派称为 A. 菜系 B. 帮口 C. 道口 D. 风",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代宴会中入座后不正确姿势是 A. 手肘靠在桌子边缘 B. 手自然平放于大腿 C. 脚踏在本人座位底下 D. 正式用餐还未启动时不随意翻动桌上的碗筷",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代宴会中入座后不正确姿势是 A. 手肘靠在桌子边缘 B. 手自然平放于大腿 C. 脚踏在本人座位底下 D. 正式用餐还未启动时不随意翻动桌上的碗筷",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于珠江流域的两广风味说法错误的是 A. 广西风味，主要由桂北菜、桂东南荣、滨海菜和民族菜，四个流派组成 B. 客家菜，用料以肉类为主，口味偏咸，注重酥香浓厚，乡土气息浓郁 C. “炸虾枣”、“红炖鱼翅”、“烧雁鹅”、“马蹄泥”、“豆酱鸡”是桂北菜肴的代表 D. 广东菜肴的质味重视配套，要求有香、酐、脆、肥、浓之分",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于珠江流域的两广风味说法错误的是 A. 广西风味，主要由桂北菜、桂东南荣、滨海菜和民族菜，四个流派组成 B. 客家菜，用料以肉类为主，口味偏咸，注重酥香浓厚，乡土气息浓郁 C. “炸虾枣”、“红炖鱼翅”、“烧雁鹅”、“马蹄泥”、“豆酱鸡”是桂北菜肴的代表 D. 广东菜肴的质味重视配套，要求有香、酐、脆、肥、浓之分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（）是国宴的另一种表现形式，时间在晚上举行，其规格和标准与国宴相同，隆重热烈 A. 晚宴 B. 家宴 C. 便宴 D. 早宴",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）是国宴的另一种表现形式，时间在晚上举行，其规格和标准与国宴相同，隆重热烈 A. 晚宴 B. 家宴 C. 便宴 D. 早宴",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "区别不同饮食风味流派的重要标志是 A. 制作者 B. 口味 C. 消费者 D. 地区",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "区别不同饮食风味流派的重要标志是 A. 制作者 B. 口味 C. 消费者 D. 地区",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一日三餐的定制大致在什么时期为民间普遍采用 A. 明 B. 汉 C. 清 D. 唐",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一日三餐的定制大致在什么时期为民间普遍采用 A. 明 B. 汉 C. 清 D. 唐",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下述不属于筷子使用的禁忌的是 A. 品箸留声、交叉十字、当众上香 B. 用前对齐、各指配合、拿法各异 C. 三长两短、仙人指路、品箸留声 D. 乾坤颠倒、定海神针、泪箸移珠",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下述不属于筷子使用的禁忌的是 A. 品箸留声、交叉十字、当众上香 B. 用前对齐、各指配合、拿法各异 C. 三长两短、仙人指路、品箸留声 D. 乾坤颠倒、定海神针、泪箸移珠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“龙虎斗”又名“龙虎凤大烩”、“菊花龙虎凤”，是驰名中外的（）传统名菜 A. 广东 B. 江西 C. 湖南 D. 福建",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“龙虎斗”又名“龙虎凤大烩”、“菊花龙虎凤”，是驰名中外的（）传统名菜 A. 广东 B. 江西 C. 湖南 D. 福建",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人类制作熟肉食品最早采用的方法是 A. 烤 B. 蒸 C. 炒 D. 煮",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人类制作熟肉食品最早采用的方法是 A. 烤 B. 蒸 C. 炒 D. 煮",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "据《周礼·天官宰》中记载，周代已出现了许多种关于酿酒方面的专职官吏，如掌握全国“酒之政令”的官称做 A. 酒人 B. 大酋 C. 酒正 D. 醯人",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "据《周礼·天官宰》中记载，周代已出现了许多种关于酿酒方面的专职官吏，如掌握全国“酒之政令”的官称做 A. 酒人 B. 大酋 C. 酒正 D. 醯人",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "烹饪作为食用成品的加工活动，在各个环节都有特定的操作方法与技能以及相应的烹任设备、炊 事用具等，这是指烹饪的什么特点 A. 科学性 B. 艺术性 C. 技术性 D. 文化性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "烹饪作为食用成品的加工活动，在各个环节都有特定的操作方法与技能以及相应的烹任设备、炊 事用具等，这是指烹饪的什么特点 A. 科学性 B. 艺术性 C. 技术性 D. 文化性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于我国现代宴饮的餐座和座次排放，叙述正确的是 A. 靠近主人为尊，里为尊 B. 右为尊，面门为尊 C. 中为尊，右为尊 D. 左为尊，面门为尊",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于我国现代宴饮的餐座和座次排放，叙述正确的是 A. 靠近主人为尊，里为尊 B. 右为尊，面门为尊 C. 中为尊，右为尊 D. 左为尊，面门为尊",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "长江中上游文化流域广大地区饮食风味体系的代表 A. 江苏菜 B. 浙江菜 C. 川菜 D. 湖南菜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "长江中上游文化流域广大地区饮食风味体系的代表 A. 江苏菜 B. 浙江菜 C. 川菜 D. 湖南菜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "司马迁《史记·宗微子世家》有记载：“纣为象箸，箕子叹曰：彼为象箸，必为玉杯；为玉杯， 则必思远方珍怪之物而御之。舆马宫室之渐自此始，不可振也。”此段记载中关于箸的叙述正确的是 A. 我国商纣时期已经出现了象箸 B. 商朝时期的象箸只作为玩赏之用 C. 商纣时期象箸已经被普遍使用 D. 商朝已有大量象箸、玉箸和金银箸",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "司马迁《史记·宗微子世家》有记载：“纣为象箸，箕子叹曰：彼为象箸，必为玉杯；为玉杯， 则必思远方珍怪之物而御之。舆马宫室之渐自此始，不可振也。”此段记载中关于箸的叙述正确的是 A. 我国商纣时期已经出现了象箸 B. 商朝时期的象箸只作为玩赏之用 C. 商纣时期象箸已经被普遍使用 D. 商朝已有大量象箸、玉箸和金银箸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "川菜系由五个分支构成，即高级筵席菜式、三蒸九扣菜式、群众便餐菜式、家常便餐菜式和 A. 民间小吃菜式 B. 寺院风味菜式 C. 市肆风味菜式 D. 官府风味菜式",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "川菜系由五个分支构成，即高级筵席菜式、三蒸九扣菜式、群众便餐菜式、家常便餐菜式和 A. 民间小吃菜式 B. 寺院风味菜式 C. 市肆风味菜式 D. 官府风味菜式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从菜肴的名称上体现出菜肴首创人的是 A. 贵妃醉酒 B. 文昌鸡 C. 麻婆豆腐 D. 天女散花",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从菜肴的名称上体现出菜肴首创人的是 A. 贵妃醉酒 B. 文昌鸡 C. 麻婆豆腐 D. 天女散花",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“庖丁解牛”出自我国古代著作 A. 《庄子》 B. 《孟子》 C. 《春秋》 D. 《论语》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“庖丁解牛”出自我国古代著作 A. 《庄子》 B. 《孟子》 C. 《春秋》 D. 《论语》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "元代忽思慧的饮食专著在继承我国古代饮食学的经验上，第一次从营养学的角度提出了关于身体健康的重要观点，这部著作是 A. 《饮膳正要》 B. 《食医心鉴》 C. 《饮食须知》 D. 《食疗本草》",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "元代忽思慧的饮食专著在继承我国古代饮食学的经验上，第一次从营养学的角度提出了关于身体健康的重要观点，这部著作是 A. 《饮膳正要》 B. 《食医心鉴》 C. 《饮食须知》 D. 《食疗本草》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "号称“川菜第一肴”并有“过门香”之称的菜肴是 A. 回锅肉 B. 麻婆豆腐 C. 宫保鸡丁 D. 鱼香肉丝",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "号称“川菜第一肴”并有“过门香”之称的菜肴是 A. 回锅肉 B. 麻婆豆腐 C. 宫保鸡丁 D. 鱼香肉丝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“龙抄手”、“三大炮”是哪里的地区著名小吃 A. 江苏 B. 安徽 C. 天津 D. 四川",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“龙抄手”、“三大炮”是哪里的地区著名小吃 A. 江苏 B. 安徽 C. 天津 D. 四川",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "奶酪食品在我国哪一区域的少数民族饮食中最为常见 A. 东北 B. 东南 C. 西北 D. 西南",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "奶酪食品在我国哪一区域的少数民族饮食中最为常见 A. 东北 B. 东南 C. 西北 D. 西南",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

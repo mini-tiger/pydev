@@ -1,0 +1,96 @@
+[
+    {
+        "data": {
+            "text": "Risk section 1",
+            "id": "b6874e9212f26226f3fb39f13e2f29a0"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "from_name": "sentiment",
+                        "to_name": "text",
+                        "id": null,
+                        "hidden": false,
+                        "read_only": false
+                    }
+                ],
+                "was_canceled": false
+            }
+        ],
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "from_name": "sentiment",
+                        "to_name": "text",
+                        "id": null,
+                        "hidden": false,
+                        "read_only": false
+                    }
+                ],
+                "was_canceled": false,
+                "score": 0.68
+            }
+        ]
+    },
+    {
+        "data": {
+            "text": "Risk section 2",
+            "id": "b4ff66ed6d4f0c985c74d4c3b4cf2e2f"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "from_name": "sentiment",
+                        "to_name": "text",
+                        "id": null,
+                        "hidden": false,
+                        "read_only": false
+                    }
+                ],
+                "was_canceled": false
+            }
+        ],
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "from_name": "sentiment",
+                        "to_name": "text",
+                        "id": null,
+                        "hidden": false,
+                        "read_only": false
+                    }
+                ],
+                "was_canceled": false,
+                "score": 0.68
+            }
+        ]
+    }
+]

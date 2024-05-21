@@ -1,0 +1,1482 @@
+[
+  {
+    "question_std": "女性生殖腺是 A. 卵巢 B. 前庭大腺 C. 前庭球 D. 乳腺",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "女性生殖腺是 A. 卵巢 B. 前庭大腺 C. 前庭球 D. 乳腺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "直接和语言活动有关的中枢 A. 额中回后分 B. 顶上小叶缘上回 C. 额下回后分 D. 角回",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "直接和语言活动有关的中枢 A. 额中回后分 B. 顶上小叶缘上回 C. 额下回后分 D. 角回",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲状腺的动脉来自 A. 颈内动脉 B. 颈外动脉 C. 锁骨下动脉的分支 D. 颈总动脉",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲状腺的动脉来自 A. 颈内动脉 B. 颈外动脉 C. 锁骨下动脉的分支 D. 颈总动脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脑膜中动脉直接起于 A. 大脑中动脉 B. 颈内动脉 C. 颈外动脉 D. 上颌动脉",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脑膜中动脉直接起于 A. 大脑中动脉 B. 颈内动脉 C. 颈外动脉 D. 上颌动脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "听觉中枢位于 A. 角回 B. 颞横回 C. 中央后回 D. 中央前回",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "听觉中枢位于 A. 角回 B. 颞横回 C. 中央后回 D. 中央前回",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "卵圆窝位于 A. 右心室 B. 左心房 C. 左心室 D. 右心房",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "卵圆窝位于 A. 右心室 B. 左心房 C. 左心室 D. 右心房",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于膀胱说法正确的是 A. 膀胱尖处为尿道内口 B. 属于腹膜内位器官 C. 膀胱颈的后方有前列腺 D. 空虚时位于小骨盆腔内",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于膀胱说法正确的是 A. 膀胱尖处为尿道内口 B. 属于腹膜内位器官 C. 膀胱颈的后方有前列腺 D. 空虚时位于小骨盆腔内",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肱骨体后面中份有 A. 大结节 B. 桡神经沟 C. 小结节 D. 尺神经沟",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肱骨体后面中份有 A. 大结节 B. 桡神经沟 C. 小结节 D. 尺神经沟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肾筋膜把肾旁脂肪和肾周脂肪隔开，能防止感染扩散至下列位置，但（）除外 A. 膈下间隙 B. 网膜囊 C. 腹膜腔的结肠下区 D. 小骨盆",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肾筋膜把肾旁脂肪和肾周脂肪隔开，能防止感染扩散至下列位置，但（）除外 A. 膈下间隙 B. 网膜囊 C. 腹膜腔的结肠下区 D. 小骨盆",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "唯一完整成环的喉软骨是 A. 会厌软骨 B. 环状软骨 C. 勺状软骨 D. 甲状软骨",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "唯一完整成环的喉软骨是 A. 会厌软骨 B. 环状软骨 C. 勺状软骨 D. 甲状软骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "股骨上端在体表易摸到的结构是 A. 股骨头 B. 小转子 C. 股骨颈 D. 大转子",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "股骨上端在体表易摸到的结构是 A. 股骨头 B. 小转子 C. 股骨颈 D. 大转子",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上消化道是指 A. 从口腔到胃 B. 口腔和咽 C. 从口腔到食管 D. 从口腔到十二指肠",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "上消化道是指 A. 从口腔到胃 B. 口腔和咽 C. 从口腔到食管 D. 从口腔到十二指肠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心室舒张期关闭的瓣膜为 A. 肺动脉瓣 B. 三尖瓣 C. 二尖瓣 D. 主动脉瓣",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心室舒张期关闭的瓣膜为 A. 肺动脉瓣 B. 三尖瓣 C. 二尖瓣 D. 主动脉瓣",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "产生脑脊液的结构是 A. 蛛网膜粒 B. 脉络丛 C. 蛛网膜 D. 脉络膜",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "产生脑脊液的结构是 A. 蛛网膜粒 B. 脉络丛 C. 蛛网膜 D. 脉络膜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于腹膜外位器官是 A. 胆囊 B. 阑尾 C. 升结肠 D. 肾脏",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于腹膜外位器官是 A. 胆囊 B. 阑尾 C. 升结肠 D. 肾脏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "输尿管 A. 起始于肾盂 B. 可分为腹盆两段 C. 开口于膀胱颈 D. 为腹膜内位器官",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "输尿管 A. 起始于肾盂 B. 可分为腹盆两段 C. 开口于膀胱颈 D. 为腹膜内位器官",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胆总管 A. 由肝左、右管汇合而成 B. 行于肝门静脉的后方 C. 无血管营养 D. 位于肝十二指肠韧带内",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胆总管 A. 由肝左、右管汇合而成 B. 行于肝门静脉的后方 C. 无血管营养 D. 位于肝十二指肠韧带内",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "膜迷路的组成 A. 椭圆囊、球囊、壶腹峭和蜗管 B. 椭圆囊、球囊、膜半规管和蜗管 C. 膜壶腹、螺旋器、蜗管和椭圆囊 D. 椭圆囊、壶腹嵴、腹半规管和螺旋器",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "膜迷路的组成 A. 椭圆囊、球囊、壶腹峭和蜗管 B. 椭圆囊、球囊、膜半规管和蜗管 C. 膜壶腹、螺旋器、蜗管和椭圆囊 D. 椭圆囊、壶腹嵴、腹半规管和螺旋器",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "动脉韧带 A. 是胎儿时期动脉导管闭锁后的遗迹 B. 一般位于右肺动脉与主动脉弓之间 C. 来源于动脉圆锥 D. 由肌纤维束构成",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "动脉韧带 A. 是胎儿时期动脉导管闭锁后的遗迹 B. 一般位于右肺动脉与主动脉弓之间 C. 来源于动脉圆锥 D. 由肌纤维束构成",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于输精管道不包括 A. 输精管 B. 尿道 C. 精囊腺排泄管 D. 射精管",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于输精管道不包括 A. 输精管 B. 尿道 C. 精囊腺排泄管 D. 射精管",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于腹膜外位器官的是 A. 十二指肠水平部 B. 肝 C. 胆囊 D. 胃",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于腹膜外位器官的是 A. 十二指肠水平部 B. 肝 C. 胆囊 D. 胃",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "含味觉纤维的脑神经 A. 面神经 B. 三叉神经 C. 舌咽神经 D. 舌下神经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "含味觉纤维的脑神经 A. 面神经 B. 三叉神经 C. 舌咽神经 D. 舌下神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有系膜的肠管有 A. 横结肠 B. 升结肠 C. 十二指肠降部 D. 空、回肠",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有系膜的肠管有 A. 横结肠 B. 升结肠 C. 十二指肠降部 D. 空、回肠",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "声波从外耳道传至内耳，其传导的正确途径是 A. 鼓膜、外耳道、中耳、耳蜗、内耳 B. 鼓膜、锤骨、砧骨、镫骨、前庭窗 C. 鼓膜、锤骨、砧骨、镫骨、蜗窗 D. 鼓膜、钻骨、锤骨、前庭窗",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "声波从外耳道传至内耳，其传导的正确途径是 A. 鼓膜、外耳道、中耳、耳蜗、内耳 B. 鼓膜、锤骨、砧骨、镫骨、前庭窗 C. 鼓膜、锤骨、砧骨、镫骨、蜗窗 D. 鼓膜、钻骨、锤骨、前庭窗",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "输尿管 A. 开口于膀胱颈 B. 可分为腹、盆两段 C. 为腹膜内位器官 D. 起始于肾盂",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "输尿管 A. 开口于膀胱颈 B. 可分为腹、盆两段 C. 为腹膜内位器官 D. 起始于肾盂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主动脉弓的分支有 A. 左锁骨下动脉 B. 右颈总动脉 C. 右锁骨下动脉 D. 冠状动脉",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主动脉弓的分支有 A. 左锁骨下动脉 B. 右颈总动脉 C. 右锁骨下动脉 D. 冠状动脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "冠状动脉 A. 发自肺动脉干起始部 B. 只有一条 C. 只是营养心的血管 D. 走在前、后室间沟内",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "冠状动脉 A. 发自肺动脉干起始部 B. 只有一条 C. 只是营养心的血管 D. 走在前、后室间沟内",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新纹状体是指 A. 尾状核 B. 豆状核 C. 尾状核和豆状核 D. 尾状核和壳",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新纹状体是指 A. 尾状核 B. 豆状核 C. 尾状核和豆状核 D. 尾状核和壳",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "通过颈静脉孔的结构有 A. 舌咽神经.迷走神经.副神经.颈内静脉　 B.  舌下神经.迷走神经.副神经.颈内静脉　 C. 位听神经.舌咽神经.迷走神经.颈内静脉 D. 舌下神经.舌咽神经.迷走神经.颈内静脉",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "通过颈静脉孔的结构有 A. 舌咽神经.迷走神经.副神经.颈内静脉　 B.  舌下神经.迷走神经.副神经.颈内静脉　 C. 位听神经.舌咽神经.迷走神经.颈内静脉 D. 舌下神经.舌咽神经.迷走神经.颈内静脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心位于胸腔的 A. 上纵隔内 B. 前纵隔内 C. 中纵隔内 D. 后纵隔内",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心位于胸腔的 A. 上纵隔内 B. 前纵隔内 C. 中纵隔内 D. 后纵隔内",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列各骨中，不属于长骨 A. 指骨 B. E.肋骨 C. 肱骨 D. 股骨",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列各骨中，不属于长骨 A. 指骨 B. E.肋骨 C. 肱骨 D. 股骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "没有味蕾的结构是 A. 轮廓乳头 B. 丝状乳头 C. 叶状乳头 D. 菌状乳头",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "没有味蕾的结构是 A. 轮廓乳头 B. 丝状乳头 C. 叶状乳头 D. 菌状乳头",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胃后壁溃疡穿孔后内容物首先稽留于 A. 右肝下前间隙 B. 胞膜后间隙 C. 左肝下后间隙 D. 左肝下前间隙",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胃后壁溃疡穿孔后内容物首先稽留于 A. 右肝下前间隙 B. 胞膜后间隙 C. 左肝下后间隙 D. 左肝下前间隙",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "窦房结 A.  由平滑肌纤维构成 B. 为心的正常起搏点 C. 与房室结无联系 D. 位于心内膜深面",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "窦房结 A.  由平滑肌纤维构成 B. 为心的正常起搏点 C. 与房室结无联系 D. 位于心内膜深面",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "孤束核 A. 与三叉神经构成有关 B. 与面神经构成有关 C. 与舌咽神经构成有关 D. 与迷走神经构成有关",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "孤束核 A. 与三叉神经构成有关 B. 与面神经构成有关 C. 与舌咽神经构成有关 D. 与迷走神经构成有关",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "十二指肠大乳头在十二指肠的 A. 升部 B. 上部 C. 降部 D. 水平部",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "十二指肠大乳头在十二指肠的 A. 升部 B. 上部 C. 降部 D. 水平部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "交感神经的低级中枢位于脊髓的 A. 颈1-胸3节 B. 腰1-骶2节 C. 骶2-4节 D. 胸1-腰3节",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "交感神经的低级中枢位于脊髓的 A. 颈1-胸3节 B. 腰1-骶2节 C. 骶2-4节 D. 胸1-腰3节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颈椎特有的结构是 A. 横突孔 B. 棘突 C. 横突肋凹 D. 关节突",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颈椎特有的结构是 A. 横突孔 B. 棘突 C. 横突肋凹 D. 关节突",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "门静脉因肝硬化而引起高压时，可出现食管静脉曲张，此时门静脉血通过侧枝循环回流至上腔静脉，主要通过 A. 肠系膜下静脉 B. 肝静脉 C. 脾静脉 D. 奇静脉",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "门静脉因肝硬化而引起高压时，可出现食管静脉曲张，此时门静脉血通过侧枝循环回流至上腔静脉，主要通过 A. 肠系膜下静脉 B. 肝静脉 C. 脾静脉 D. 奇静脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "支配咀嚼肌的神经是 A. 下颌神经 B. 舌下神经 C. 上颌神经 D. 面神经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "支配咀嚼肌的神经是 A. 下颌神经 B. 舌下神经 C. 上颌神经 D. 面神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下脑神经属于混合性的是 A. 嗅神经 B. 视神经 C. 迷走神经 D. 副神经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下脑神经属于混合性的是 A. 嗅神经 B. 视神经 C. 迷走神经 D. 副神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于腹膜内位的器官是 A. 子宫 B. 升结肠 C. 输尿管 D. 阑尾",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于腹膜内位的器官是 A. 子宫 B. 升结肠 C. 输尿管 D. 阑尾",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "输尿管 A. 属于腹膜间位器官 B. 腹部下行于腰大肌前方 C. 分为腹部（段）和盆部（段） D. 通过肾门",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "输尿管 A. 属于腹膜间位器官 B. 腹部下行于腰大肌前方 C. 分为腹部（段）和盆部（段） D. 通过肾门",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "全身最复杂的关节是 A. 肘关节 B. 髋关节 C. 肩关节 D. 膝关节",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "全身最复杂的关节是 A. 肘关节 B. 髋关节 C. 肩关节 D. 膝关节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "无名指（第四指）皮肤的神经分布 A. 肌皮神经 B. 正中神经 C. 桡神经 D. 尺神经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "无名指（第四指）皮肤的神经分布 A. 肌皮神经 B. 正中神经 C. 桡神经 D. 尺神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于骶丛的神经是 A. 股神经 B. 臀下神经 C. 臀上神经 D. 坐骨神经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于骶丛的神经是 A. 股神经 B. 臀下神经 C. 臀上神经 D. 坐骨神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "心脏的静脉血回心的主要途径是 A. 心小静脉 B. 冠状窦 C. 心中静脉 D. 心前静脉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "心脏的静脉血回心的主要途径是 A. 心小静脉 B. 冠状窦 C. 心中静脉 D. 心前静脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与伸膝关节有关的结构 A. 股神经 B. 坐骨神经 C. 缝匠肌 D. 股四头肌",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与伸膝关节有关的结构 A. 股神经 B. 坐骨神经 C. 缝匠肌 D. 股四头肌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有囊内韧带的关节是 A. 腕关节 B. 髋关节 C. 膝关节 D. 肩关节",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有囊内韧带的关节是 A. 腕关节 B. 髋关节 C. 膝关节 D. 肩关节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "唯一连于脑干背侧的脑神经是 A. 展神经 B. 动眼神经 C. 视神经 D. 滑车神经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "唯一连于脑干背侧的脑神经是 A. 展神经 B. 动眼神经 C. 视神经 D. 滑车神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "内侧丘系 A. 传导躯干、四肢意识性本体感觉 B. 纤维来自同侧薄束核、楔束核 C. 向上至丘脑内侧核 D. 经斜方体外侧上行",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "内侧丘系 A. 传导躯干、四肢意识性本体感觉 B. 纤维来自同侧薄束核、楔束核 C. 向上至丘脑内侧核 D. 经斜方体外侧上行",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "小网膜包括 A. 肝十二指肠韧带 B. 肝胃韧带 C. 胃结肠韧带 D. 结肠系膜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "小网膜包括 A. 肝十二指肠韧带 B. 肝胃韧带 C. 胃结肠韧带 D. 结肠系膜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于女性生殖腺的是 A. 子宫颈粘液腺 B. 卵巢 C. 前庭大腺 D. 尿道球腺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于女性生殖腺的是 A. 子宫颈粘液腺 B. 卵巢 C. 前庭大腺 D. 尿道球腺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颈内动脉瘤发生在海绵窦段时，最先压迫的是 A. 上颌神经 B. 动眼神经 C. 展神经 D. 眼神经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颈内动脉瘤发生在海绵窦段时，最先压迫的是 A. 上颌神经 B. 动眼神经 C. 展神经 D. 眼神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "喉腔最狭窄的部位是 A. 声门裂 B. 喉室 C. 前庭裂 D. 喉前庭",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "喉腔最狭窄的部位是 A. 声门裂 B. 喉室 C. 前庭裂 D. 喉前庭",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大隐静脉经过 A. 内踝后方 B. 外踝后方 C. 内踝前方 D. 外踝前方",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大隐静脉经过 A. 内踝后方 B. 外踝后方 C. 内踝前方 D. 外踝前方",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关节的辅助结构不包括 A. 关节盘 B. 半月板 C. 关节面 D. 囊内韧带",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关节的辅助结构不包括 A. 关节盘 B. 半月板 C. 关节面 D. 囊内韧带",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "椎间孔是 A. 椎体间的孔 B. 相邻椎骨的上、下切迹围成的孔 C. 椎体与椎弓围成的孔 D. 横突间的孔",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "椎间孔是 A. 椎体间的孔 B. 相邻椎骨的上、下切迹围成的孔 C. 椎体与椎弓围成的孔 D. 横突间的孔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "腰椎穿刺由浅入深依次经过 A. 棘上韧带、棘间韧带、黄韧带 B. 黄韧带、后纵韧带、棘间韧带 C. 后纵韧带、棘间韧带、黄韧带 D. 棘上韧带、后纵韧带、黄韧带",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "腰椎穿刺由浅入深依次经过 A. 棘上韧带、棘间韧带、黄韧带 B. 黄韧带、后纵韧带、棘间韧带 C. 后纵韧带、棘间韧带、黄韧带 D. 棘上韧带、后纵韧带、黄韧带",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能感受强光、分辨颜色的是 A. 双极细胞 B. 视杆细胞 C. 视锥细胞 D. 节细胞",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能感受强光、分辨颜色的是 A. 双极细胞 B. 视杆细胞 C. 视锥细胞 D. 节细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颈椎特有的结构是 A. 棘突 B. 椎孔 C. 横突肋凹 D. 横突孔",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颈椎特有的结构是 A. 棘突 B. 椎孔 C. 横突肋凹 D. 横突孔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肱骨体后面中份有 A. 大结节 B. 小结节 C. 桡神经沟 D. 尺神经沟",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肱骨体后面中份有 A. 大结节 B. 小结节 C. 桡神经沟 D. 尺神经沟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "成人脊髓下端约平对 A. 第1腰椎下缘 B. 第1骶椎 C. 第2腰椎下缘 D. 第3腰椎下缘",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "成人脊髓下端约平对 A. 第1腰椎下缘 B. 第1骶椎 C. 第2腰椎下缘 D. 第3腰椎下缘",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在大脑动脉环构成中，无下列哪项结构 A. 大脑前动脉 B. 颈内动脉 C. 大脑后动脉 D. 大脑中动脉",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在大脑动脉环构成中，无下列哪项结构 A. 大脑前动脉 B. 颈内动脉 C. 大脑后动脉 D. 大脑中动脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "卵受精的部位在 A. 输卵管漏斗 B. 输卵管子宫部 C. 输卵管壶腹部 D. 输卵管峡部",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "卵受精的部位在 A. 输卵管漏斗 B. 输卵管子宫部 C. 输卵管壶腹部 D. 输卵管峡部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "全身最大最复杂的关节是 A. 肘关节 B. 膝关节 C. 髋关节 D. 肩关节",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "全身最大最复杂的关节是 A. 肘关节 B. 膝关节 C. 髋关节 D. 肩关节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "输精管道不包括 A. 输精管 B. 射精管 C. 尿道 D. 精囊腺排泄管",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "输精管道不包括 A. 输精管 B. 射精管 C. 尿道 D. 精囊腺排泄管",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脑膜中动脉是 A. 上颌动脉的分支 B. 椎动脉的分支 C. 颈内动脉的分支 D. 颈外动脉的一级分支",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脑膜中动脉是 A. 上颌动脉的分支 B. 椎动脉的分支 C. 颈内动脉的分支 D. 颈外动脉的一级分支",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肺下界的体表投影，在腋中线上与 A. 第6肋相交 B. 第7肋相交 C. 第9肋相交 D. 第8肋相交",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肺下界的体表投影，在腋中线上与 A. 第6肋相交 B. 第7肋相交 C. 第9肋相交 D. 第8肋相交",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肱骨外科颈骨折易损伤 A. 桡神经 B. 尺神经 C. 腋神经 D. 正中神经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肱骨外科颈骨折易损伤 A. 桡神经 B. 尺神经 C. 腋神经 D. 正中神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关膝关节的描述，错误的是 A. 内侧半月板较大 B. 由股骨下端、髌骨、胫骨和腓骨构成 C. 前交叉韧带可防止胫骨前移位 D. 两侧有副韧带",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关膝关节的描述，错误的是 A. 内侧半月板较大 B. 由股骨下端、髌骨、胫骨和腓骨构成 C. 前交叉韧带可防止胫骨前移位 D. 两侧有副韧带",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于面颅骨的是 A. 颞骨 B. 下鼻甲 C. 蝶骨 D. 额骨",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于面颅骨的是 A. 颞骨 B. 下鼻甲 C. 蝶骨 D. 额骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "支配三角肌的神经是 A. 腋神经 B. 桡神经 C. 尺神经 D. 肌皮神经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "支配三角肌的神经是 A. 腋神经 B. 桡神经 C. 尺神经 D. 肌皮神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "由双层腹膜形成的韧带是 A. 子宫主韧带 B. 骶子宫韧带 C. 子宫圆韧带 D. 子宫阔韧带",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "由双层腹膜形成的韧带是 A. 子宫主韧带 B. 骶子宫韧带 C. 子宫圆韧带 D. 子宫阔韧带",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "三叉丘系为 A. 同侧三叉神经感觉核发出的纤维 B. 对侧三叉神经半月节发出的纤维 C. 对侧三叉神经感觉核发出的纤维 D. 同侧三叉神经半月节发出的纤维",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "三叉丘系为 A. 同侧三叉神经感觉核发出的纤维 B. 对侧三叉神经半月节发出的纤维 C. 对侧三叉神经感觉核发出的纤维 D. 同侧三叉神经半月节发出的纤维",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "成人肾门平对 A. 第2腰椎 B. 第1腰椎 C. 第11胸椎 D. 第12胸椎",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "成人肾门平对 A. 第2腰椎 B. 第1腰椎 C. 第11胸椎 D. 第12胸椎",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "接受起始和终止旋转运动刺激的是 A. 球囊斑 B. 螺旋器 C. 壶腹峭 D. 椭圆囊斑",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "接受起始和终止旋转运动刺激的是 A. 球囊斑 B. 螺旋器 C. 壶腹峭 D. 椭圆囊斑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "使瞳孔缩小的神经是 A. 迷走神经 B. 眼神经 C. 动眼神经 D. 视神经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "使瞳孔缩小的神经是 A. 迷走神经 B. 眼神经 C. 动眼神经 D. 视神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组成视交叉的神经纤维是 A. 左右眼鼻侧半视网膜发出的纤维 B. 右眼鼻侧半视网膜与右眼颞侧半视网膜发出的纤维 C. 左眼颞侧半视网膜与右眼鼻侧半视网膜发出的纤维 D. 左右眼颞侧半视网膜发出的纤维",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组成视交叉的神经纤维是 A. 左右眼鼻侧半视网膜发出的纤维 B. 右眼鼻侧半视网膜与右眼颞侧半视网膜发出的纤维 C. 左眼颞侧半视网膜与右眼鼻侧半视网膜发出的纤维 D. 左右眼颞侧半视网膜发出的纤维",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颞横回是 A. 视觉中枢 B. 感觉性语言中枢 C. 运动性语言中枢 D. 听觉中枢",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颞横回是 A. 视觉中枢 B. 感觉性语言中枢 C. 运动性语言中枢 D. 听觉中枢",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不成对的面颅骨有 A. 泪骨 B. 鼻骨 C. 舌骨 D. 腭骨",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不成对的面颅骨有 A. 泪骨 B. 鼻骨 C. 舌骨 D. 腭骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下颌神经从下列何结构出颅腔 A. 破裂孔 B. 圆孔 C. 茎乳孔 D. 卵圆孔",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下颌神经从下列何结构出颅腔 A. 破裂孔 B. 圆孔 C. 茎乳孔 D. 卵圆孔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "只受对侧皮质核束支配的脑神经核团是 A. 副神经核 B. 展神经核 C. 动眼神经核 D. 舌下神经核",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "只受对侧皮质核束支配的脑神经核团是 A. 副神经核 B. 展神经核 C. 动眼神经核 D. 舌下神经核",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从脑干背侧出脑的脑神经是 A. 副神经 B. 三叉神经 C. 舌下神经 D. 滑车神经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从脑干背侧出脑的脑神经是 A. 副神经 B. 三叉神经 C. 舌下神经 D. 滑车神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "具有结肠带、结肠袋和肠脂垂的消化管道是 A. 盲肠和结肠 B. 空肠和回肠 C. 阑尾 D. 直肠和肛管",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "具有结肠带、结肠袋和肠脂垂的消化管道是 A. 盲肠和结肠 B. 空肠和回肠 C. 阑尾 D. 直肠和肛管",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颈椎最主要特点是 A. 横突有肋凹 B. 棘突长，斜向后下 C. 横突有孔 D. 椎体较大",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颈椎最主要特点是 A. 横突有肋凹 B. 棘突长，斜向后下 C. 横突有孔 D. 椎体较大",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "壁胸膜下界在腋中线与下列哪项相交处 A. 第11肋 B. 第10肋 C. 第8肋 D. 第6肋",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "壁胸膜下界在腋中线与下列哪项相交处 A. 第11肋 B. 第10肋 C. 第8肋 D. 第6肋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "穿经内囊膝的纤维束是 A. 脊髓丘脑束 B. 皮质核束 C. 皮质脊髓束 D. 内侧丘系",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "穿经内囊膝的纤维束是 A. 脊髓丘脑束 B. 皮质核束 C. 皮质脊髓束 D. 内侧丘系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "人体最大最复杂的关节是 A. 腕关节 B. 肩关节 C. 髋关节 D. 膝关节",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "人体最大最复杂的关节是 A. 腕关节 B. 肩关节 C. 髋关节 D. 膝关节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于臂后群肌的是 A. 肱三头肌 B. 肱二头肌 C. 喙肱肌 D. 三角肌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于臂后群肌的是 A. 肱三头肌 B. 肱二头肌 C. 喙肱肌 D. 三角肌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下消化道是指 A. 食管至十二指肠 B. 口腔至胃 C. 口腔至十二指肠 D. 空肠以下的部分",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下消化道是指 A. 食管至十二指肠 B. 口腔至胃 C. 口腔至十二指肠 D. 空肠以下的部分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于脑干躯体运动核的是 A. 以上均是 B. 滑车神经核 C. 动眼神经核 D. 展神经核",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于脑干躯体运动核的是 A. 以上均是 B. 滑车神经核 C. 动眼神经核 D. 展神经核",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "脑干内的副交感神经核有 A. 动眼神经副核、孤束核、下泌涎核、迷走神经背核 B. 迷走神经背核、动眼神经核、上泌涎核、下泌涎核 C. 动眼神经副核、上泌涎核、下泌涎核、迷走神经背核 D. 疑核、动眼神经副核、上泌涎核、下泌涎核",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "脑干内的副交感神经核有 A. 动眼神经副核、孤束核、下泌涎核、迷走神经背核 B. 迷走神经背核、动眼神经核、上泌涎核、下泌涎核 C. 动眼神经副核、上泌涎核、下泌涎核、迷走神经背核 D. 疑核、动眼神经副核、上泌涎核、下泌涎核",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "黄韧带连于两个相邻的 A. 椎弓之间 B. 椎弓板之间 C. 棘突之间 D. 椎弓根之间",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "黄韧带连于两个相邻的 A. 椎弓之间 B. 椎弓板之间 C. 棘突之间 D. 椎弓根之间",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "阑尾 A. 由回肠动脉直接营养 B. 三条结肠带均在阑尾根部集中 C. 属于腹膜外位器官 D. 无系膜",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "阑尾 A. 由回肠动脉直接营养 B. 三条结肠带均在阑尾根部集中 C. 属于腹膜外位器官 D. 无系膜",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血液中数量最多的细胞是 A. 红细胞 B. 中性粒细胞 C. 单核细胞 D. 淋巴细胞",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血液中数量最多的细胞是 A. 红细胞 B. 中性粒细胞 C. 单核细胞 D. 淋巴细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上颌窦开口于 A. 上鼻道 B. 蝶筛隐窝 C. 下鼻道 D. 中鼻道",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "上颌窦开口于 A. 上鼻道 B. 蝶筛隐窝 C. 下鼻道 D. 中鼻道",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "主动脉裂孔 A. 迷走神经通过 B. 在十二胸椎水平 C. 位于中心腱内 D. 有胸导管通过",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "主动脉裂孔 A. 迷走神经通过 B. 在十二胸椎水平 C. 位于中心腱内 D. 有胸导管通过",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属脑神经特殊内脏运动核的是 A. 展神经核 B. 舌下神经核 C. 面神经核 D. 动眼神经核",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属脑神经特殊内脏运动核的是 A. 展神经核 B. 舌下神经核 C. 面神经核 D. 动眼神经核",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肱骨内上髁后下方的一个浅沟是 A. 尺神经沟 B. 结节间沟 C. 半月切迹 D. 桡神经沟",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肱骨内上髁后下方的一个浅沟是 A. 尺神经沟 B. 结节间沟 C. 半月切迹 D. 桡神经沟",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "颞横回是 A. 视觉中枢 B. 感觉性语言中枢 C. 运动性语言中枢 D. 听觉中枢",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "颞横回是 A. 视觉中枢 B. 感觉性语言中枢 C. 运动性语言中枢 D. 听觉中枢",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组成视交叉的神经纤维是 A. 左眼题侧半视网膜与右眼鼻侧半视网膜发出的纤维 B. 左右眼鼻侧半视网膜发出的纤维 C. 右眼鼻侧半视网膜与右眼题侧半视网膜发出的纤维 D. 左右眼题侧半视网膜发出的纤维",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组成视交叉的神经纤维是 A. 左眼题侧半视网膜与右眼鼻侧半视网膜发出的纤维 B. 左右眼鼻侧半视网膜发出的纤维 C. 右眼鼻侧半视网膜与右眼题侧半视网膜发出的纤维 D. 左右眼题侧半视网膜发出的纤维",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大隐静脉 A. 为下肢的深静脉 B. 起自足背静脉弓的外侧部 C. 注入股静脉 D. 沿小腿后面上行",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大隐静脉 A. 为下肢的深静脉 B. 起自足背静脉弓的外侧部 C. 注入股静脉 D. 沿小腿后面上行",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "输卵管结扎术于输卵管（ ）进行 A. 峡部 B. 子宫 C. 漏斗部 D. 壶腹部",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "输卵管结扎术于输卵管（ ）进行 A. 峡部 B. 子宫 C. 漏斗部 D. 壶腹部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "维持子宫前倾前屈的韧带是 A. 骶子宫韧带和子宫阔韧带 B. 子宫圆韧带和骶子宫韧带 C. 子宫圆韧带和子宫主韧带 D. 子宫主韧带和骶子宫韧带",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "维持子宫前倾前屈的韧带是 A. 骶子宫韧带和子宫阔韧带 B. 子宫圆韧带和骶子宫韧带 C. 子宫圆韧带和子宫主韧带 D. 子宫主韧带和骶子宫韧带",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "血液中的单核细胞进入结缔组织后成为 A. 巨噬细胞 B. 成纤维细胞 C. 肥大细胞 D. 浆细胞",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "血液中的单核细胞进入结缔组织后成为 A. 巨噬细胞 B. 成纤维细胞 C. 肥大细胞 D. 浆细胞",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鼓室 A. 外侧壁为颈静脉壁 B. 内侧壁为迷路壁 C. 前壁为鼓膜 D. 是与外界不通的小腔",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鼓室 A. 外侧壁为颈静脉壁 B. 内侧壁为迷路壁 C. 前壁为鼓膜 D. 是与外界不通的小腔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "右主支气管的特点是 A. 粗而短 B. 细而长 C. 粗而长 D. 细而短",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "右主支气管的特点是 A. 粗而短 B. 细而长 C. 粗而长 D. 细而短",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于腹膜外位器官的是 A. 升结肠 B. 阑尾 C. 胆囊 D. 肾脏",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于腹膜外位器官的是 A. 升结肠 B. 阑尾 C. 胆囊 D. 肾脏",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与右主支气管相比，左主支气管 A. 细而短 B. 粗而长 C. 粗而短 D. 细而长",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与右主支气管相比，左主支气管 A. 细而短 B. 粗而长 C. 粗而短 D. 细而长",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关胸椎的说法中哪项是错误 A. 棘突伸向后下 B. 横突上有横突孔 C. 椎体侧面和横突尖端的前面有助凹 D. 共12个",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关胸椎的说法中哪项是错误 A. 棘突伸向后下 B. 横突上有横突孔 C. 椎体侧面和横突尖端的前面有助凹 D. 共12个",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胸导管 A. 长1～1.5cm B. 起于乳糜池 C. 收集右颈干 D. 注入右静脉角",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胸导管 A. 长1～1.5cm B. 起于乳糜池 C. 收集右颈干 D. 注入右静脉角",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "穿经内囊膝的纤维束是 A. 内侧丘系 B. 脊髓丘脑束 C. 皮质核束 D. 皮质脊髓束",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "穿经内囊膝的纤维束是 A. 内侧丘系 B. 脊髓丘脑束 C. 皮质核束 D. 皮质脊髓束",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于肾说法正确的是 A. 长轴呈垂直状 B. 位置右侧较左侧高 C. 后面下部有第12肋斜过 D. 位于腹膜后方",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于肾说法正确的是 A. 长轴呈垂直状 B. 位置右侧较左侧高 C. 后面下部有第12肋斜过 D. 位于腹膜后方",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肱三头肌受（ ）支配 A. 桡神经 B. 肌皮神经 C. 尺神经 D. 腋神经",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肱三头肌受（ ）支配 A. 桡神经 B. 肌皮神经 C. 尺神经 D. 腋神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列关于椎间孔的正确叙述是 A. 是相邻椎骨的上、下切迹围成的孔 B. 是椎弓和椎体围成的孔 C. 是相邻的椎弓围成的孔 D. 容纳脊髓",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列关于椎间孔的正确叙述是 A. 是相邻椎骨的上、下切迹围成的孔 B. 是椎弓和椎体围成的孔 C. 是相邻的椎弓围成的孔 D. 容纳脊髓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "嗅神经穿过（ ）入颅腔 A. 筛孔 B. 卵圆孔 C. 颈静脉孔 D. 圆孔",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "嗅神经穿过（ ）入颅腔 A. 筛孔 B. 卵圆孔 C. 颈静脉孔 D. 圆孔",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "接受直线加速或减速运动刺激的是 A. 螺旋器 B. 壶腹峭 C. 球囊斑和椭圆囊斑 D. 球囊斑",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "接受直线加速或减速运动刺激的是 A. 螺旋器 B. 壶腹峭 C. 球囊斑和椭圆囊斑 D. 球囊斑",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "鼓室 A. 下壁为乳突壁 B. 内侧壁为迷路壁 C. 前壁为鼓膜 D. 外侧壁为颈静脉壁",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "鼓室 A. 下壁为乳突壁 B. 内侧壁为迷路壁 C. 前壁为鼓膜 D. 外侧壁为颈静脉壁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胃左动脉 A. 起自脾动脉 B. 分布于胃小弯侧胃壁 C. 来源于肝总动脉 D. 沿胃大弯走行",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胃左动脉 A. 起自脾动脉 B. 分布于胃小弯侧胃壁 C. 来源于肝总动脉 D. 沿胃大弯走行",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "双侧髂嵴最高点的连线平对 A. 第4腰椎棘突 B. 第5腰椎棘突 C. 第3腰椎棘突 D. 第1骶椎棘突",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "双侧髂嵴最高点的连线平对 A. 第4腰椎棘突 B. 第5腰椎棘突 C. 第3腰椎棘突 D. 第1骶椎棘突",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "支配肱二头肌的神经是 A. 尺神经 B. 腋神经 C. 肌皮神经 D. 桡神经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "支配肱二头肌的神经是 A. 尺神经 B. 腋神经 C. 肌皮神经 D. 桡神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "全身最复杂的关节是 A. 膝关节 B. 下颌关节 C. 肩关节 D. 肘关节",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "全身最复杂的关节是 A. 膝关节 B. 下颌关节 C. 肩关节 D. 肘关节",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于肋的组成下列哪项是正确的 A. 真肋：1—5肋，假肋：6—10肋；浮肋：11—12肋 B. 真肋：1—7肋，假肋：8—12肋 C. 真肋：1—8肋，假肋：9—12肋 D. 真肋：1—7肋，假肋：8—10肋；浮肋：11—12肋",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于肋的组成下列哪项是正确的 A. 真肋：1—5肋，假肋：6—10肋；浮肋：11—12肋 B. 真肋：1—7肋，假肋：8—12肋 C. 真肋：1—8肋，假肋：9—12肋 D. 真肋：1—7肋，假肋：8—10肋；浮肋：11—12肋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "男性生殖腺是 A. 前列腺 B. 精囊腺 C. 尿道球腺 D. 睾丸",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "男性生殖腺是 A. 前列腺 B. 精囊腺 C. 尿道球腺 D. 睾丸",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肝门静脉收集的范围包括 A. 腹腔内除肝以外所有脏器的静脉血 B. 腹腔内所有脏器的静脉血 C. 胃、小肠、大肠(齿状线以下肛管除外)、胰、胆囊、脾、食道下段等脏器的静脉血 D. 腹腔内不成对脏器的静脉血",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肝门静脉收集的范围包括 A. 腹腔内除肝以外所有脏器的静脉血 B. 腹腔内所有脏器的静脉血 C. 胃、小肠、大肠(齿状线以下肛管除外)、胰、胆囊、脾、食道下段等脏器的静脉血 D. 腹腔内不成对脏器的静脉血",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "射精管开口于 A. 尿道膜部 B. 尿道前列腺部 C. 尿道球部 D. 精囊腺",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "射精管开口于 A. 尿道膜部 B. 尿道前列腺部 C. 尿道球部 D. 精囊腺",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于骶丛的神经是 A. 臀下神经 B. 股神经 C. 坐骨神经 D. 臀上神经",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于骶丛的神经是 A. 臀下神经 B. 股神经 C. 坐骨神经 D. 臀上神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "支配三角肌的神经是 A. 尺神经 B. 肌皮神经 C. 腋神经 D. 桡神经",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "支配三角肌的神经是 A. 尺神经 B. 肌皮神经 C. 腋神经 D. 桡神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪个神经损伤出现“爪形手” A. 正中神经 B. 桡神经 C. 肌皮神经 D. 尺神经",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪个神经损伤出现“爪形手” A. 正中神经 B. 桡神经 C. 肌皮神经 D. 尺神经",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "胸导管常注入 A. 右静脉角 B. 左静脉角 C. 上腔静脉 D. 左颈内静",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "胸导管常注入 A. 右静脉角 B. 左静脉角 C. 上腔静脉 D. 左颈内静",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "甲状腺上动脉一般来自 A. 甲状颈干 B. 颈内动脉 C. 颈外动脉 D. 颈总动脉",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "甲状腺上动脉一般来自 A. 甲状颈干 B. 颈内动脉 C. 颈外动脉 D. 颈总动脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "使肩关节外展的肌是 A. 三角肌 B. 斜方肌 C. 背阔肌 D. 胸大肌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "使肩关节外展的肌是 A. 三角肌 B. 斜方肌 C. 背阔肌 D. 胸大肌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "关于食管裂孔 A. 有迷走神经通过 B. 平第十胸椎水平 C. 有胸导管通过 D. 位于中心腱上",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "关于食管裂孔 A. 有迷走神经通过 B. 平第十胸椎水平 C. 有胸导管通过 D. 位于中心腱上",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "属于面颅骨的是 A. 蝶骨 B. 枕骨 C. 额骨 D. 下鼻甲",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "属于面颅骨的是 A. 蝶骨 B. 枕骨 C. 额骨 D. 下鼻甲",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列哪块肌参与大腿后伸 A. 臀大肌 B. 大收肌 C. 梨状肌 D. 股四头肌",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列哪块肌参与大腿后伸 A. 臀大肌 B. 大收肌 C. 梨状肌 D. 股四头肌",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肾蒂内的主要结构从前至后依次是 A. 肾静脉、肾盂、肾动脉 B. 肾静脉、肾动脉、肾盂 C. 肾动脉、肾静脉、肾盂 D. 肾动脉、肾盂、肾静脉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肾蒂内的主要结构从前至后依次是 A. 肾静脉、肾盂、肾动脉 B. 肾静脉、肾动脉、肾盂 C. 肾动脉、肾静脉、肾盂 D. 肾动脉、肾盂、肾静脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有关小隐静脉的说法，正确的是 A. 经外踝后方 B. 最后注入股静脉 C. 沿小腿外侧上行 D. 在足背内侧缘起于足背静脉弓",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有关小隐静脉的说法，正确的是 A. 经外踝后方 B. 最后注入股静脉 C. 沿小腿外侧上行 D. 在足背内侧缘起于足背静脉弓",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "输精管壶腹位于 A. 盆部 B. 腹股沟部 C. 精索部 D. 睾丸部",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "输精管壶腹位于 A. 盆部 B. 腹股沟部 C. 精索部 D. 睾丸部",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "成对的脑颅骨有 A. 蝶骨 B. 枕骨 C. 顶骨 D. 颧骨",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "成对的脑颅骨有 A. 蝶骨 B. 枕骨 C. 顶骨 D. 颧骨",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "肺下界的体表投影在腋中线相交于 A. 第8肋 B. 第6肋 C. 第5肋 D. 第7肋",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "肺下界的体表投影在腋中线相交于 A. 第8肋 B. 第6肋 C. 第5肋 D. 第7肋",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "不属于颈外动脉的分支是 A. 面动脉 B. 脑膜中动脉 C. 舌动脉 D. 颞浅动脉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "不属于颈外动脉的分支是 A. 面动脉 B. 脑膜中动脉 C. 舌动脉 D. 颞浅动脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "右主支气管的特点是 A. 粗而短 B. 粗而长 C. 细而短 D. 细而长",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "右主支气管的特点是 A. 粗而短 B. 粗而长 C. 细而短 D. 细而长",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "子宫动脉在距子宫颈外侧约2cm 处行于 A. 输尿管的前上方 B. 输尿管的后下方 C. 输尿管的外侧 D. 输卵管前下方",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "子宫动脉在距子宫颈外侧约2cm 处行于 A. 输尿管的前上方 B. 输尿管的后下方 C. 输尿管的外侧 D. 输卵管前下方",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "下列结构中，哪个不属于屈光装置 A. 虹膜 B. 晶状体 C. 角膜 D. 玻璃体",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "下列结构中，哪个不属于屈光装置 A. 虹膜 B. 晶状体 C. 角膜 D. 玻璃体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "直接注入下腔静脉的有 A. 脾静脉 B. 肾静脉 C. 肠系膜下静脉 D. 左睾丸静脉",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "直接注入下腔静脉的有 A. 脾静脉 B. 肾静脉 C. 肠系膜下静脉 D. 左睾丸静脉",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "听觉中枢位于 A. 角回 B. 颞横回 C. 中央前回 D. 中央后回",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "听觉中枢位于 A. 角回 B. 颞横回 C. 中央前回 D. 中央后回",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "上呼吸道最狭窄处是 A. 鼻后孔 B. 喉口 C. 前庭裂 D. 声门裂",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "上呼吸道最狭窄处是 A. 鼻后孔 B. 喉口 C. 前庭裂 D. 声门裂",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

@@ -1,0 +1,103 @@
+---
+{{ $repository := .Values.image.repository}}
+{{ $tag := .Values.image.tag }}
+{{ $pullPolicy := .Values.env.pullPolicy }}
+{{ $cache := .Values.cache.enabled}}
+{{ $cacheLabels := .Values.cache.labels}}
+{{- range .Values.apps }}
+  {{- with . }}
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .name }}
+  labels:
+    app:  {{ .name }}
+spec:
+  replicas: 1
+  revisionHistoryLimit: 3
+  selector:
+    matchLabels:
+      app:  {{ .name }}
+  template:
+    metadata:
+      labels:
+        app:  {{ .name }}
+#      annotations:
+#        timestamp: {{ now | quote }}
+    spec:
+      {{- if and $cache .cacheAffinity}}
+      affinity:
+        podAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            - topologyKey: kubernetes.io/hostname
+              labelSelector:
+                matchLabels:
+                {{- range $val := $cacheLabels }}
+                  {{  $val.name  }}: {{ $val.value }}
+                {{- end }}
+      {{- end}}
+      containers:
+        - name:  {{ .name }}
+          image: {{ $repository }}cmdb_{{ .name}}:{{ $tag }}
+          {{- if $pullPolicy }}
+          imagePullPolicy: {{ $pullPolicy }}
+          {{- end}}
+          ports:
+          {{- if eq .name  "webserver" }}
+          {{- range .ports }}
+          - containerPort: {{ .port }}
+            protocol: TCP
+          {{- end }}
+          {{- else }}
+          - containerPort: {{ .port }}
+            protocol: TCP
+          {{- end}}
+          resources:
+            requests:
+              cpu: 200m
+              memory: 256Mi
+#            limits:
+#              cpu: 500m
+#              memory: 512m
+
+          livenessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /healthz
+              {{- if eq .name  "webserver" }}
+              {{ with index .ports 0 }}
+              port: {{ .port }}
+              {{- end}}
+              {{- else }}
+              port: {{ .port }}
+              {{- end}}
+            initialDelaySeconds: 10
+            periodSeconds: 10
+          readinessProbe:
+            failureThreshold: 3
+            httpGet:
+              path: /healthz
+              {{- if eq .name  "webserver" }}
+              {{ with index .ports 0 }}
+              port: {{ .port }}
+              {{- end}}
+              {{- else }}
+              port: {{ .port }}
+              {{- end}}
+
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            successThreshold: 1
+            timeoutSeconds: 1
+      initContainers:
+        - name: init-redis
+          image: harbor.dev.21vianet.com/library/redis:bitnami-6.2.6-debian-10-r103
+          command: [ 'sh','-c',"until redis-cli -h redis-master.$(cat /var/run/secrets/kubernetes.io/serviceaccount/namespace).svc.cluster.local -p 6379 -a cc PING;do echo waiting for redis; sleep 10; done" ]
+        - name: init-mongo
+          image: harbor.dev.21vianet.com/cmdb/mongo:4.4.13-debian-10-r52
+          # mongo-mongodb-1 finish,cluster finish
+          command: [ 'sh', '-c', 'until mongo "mongodb://cc:cc@mongo-mongodb-headless.$(cat /var/run/secrets/kubernetes.io/serviceaccount/namespace).svc.cluster.local:27017/?replicaSet=rs0&connectTimeoutMS=10000&authSource=cmdb&authMechanism=SCRAM-SHA-256" --disableImplicitSessions --eval "db.serverStatus().connections"; do echo waiting for mongodb1; sleep 10; done' ]
+#          command: [ 'sh', '-c', 'until  mongo "mongodb://cc:cc@mongo-mongodb-headless.$(cat /var/run/secrets/kubernetes.io/serviceaccount/namespace).svc.cluster.local:27017/cmdb --disableImplicitSessions --eval "db.adminCommand("ping")'; do echo waiting for mongodb1; sleep 10; done' ]
+---
+{{- end}}
+  {{- end }}

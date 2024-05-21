@@ -1,0 +1,86 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ai-flask-backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ai-flask-backend
+  template:
+    metadata:
+      labels:
+        app: ai-flask-backend
+    spec:
+      containers:
+      - name: ai-flask-backend
+        image: ai/test:zhongzi
+        ports:
+          - containerPort: 5016
+        env:
+          - name: TZ
+            value: "Asia/Shanghai"
+          - name: DOWNLOAD_URL
+            value: "http://120.133.83.145:30016/attachment/download/"
+          - name: LANGCHAIN_RAG
+            value: "0"
+          - name: GPUOS_PLATFORM
+            value: "0"
+          - name: VECTOR_OPEN
+            value: "0"
+          - name: FLASK_PORT
+            value: "5016"
+#          - name: GPUOS_PLATFORM_URL
+#            value: "http://120.133.83.136:11017/api/v1/chat/completions"
+          - name: OPENAI_API_BASE
+            value: "http://120.133.63.166:8000/v1"
+          - name: WORD_HOST_WIN
+            value: "59.151.19.81:5000"
+          - name: RUN_TYPE
+            value: "prod"
+          - name: OUTLINE_MODEL_TYPE
+            value: "model_1"
+#          - name: SCORE
+#            value: "0.65"
+          - name: VIEW_URL
+            value: "http://120.133.63.166:8012/onlinePreview?url=@replace@&officePreviewType=pdf"
+        volumeMounts:
+          - name: timezone
+            mountPath: /etc/localtime
+          - name: logs
+            mountPath: /data/ai-reporter/logs
+          - name: attachments
+            mountPath: /data/ai-reporter/webapi/app/attachments
+        livenessProbe:
+          httpGet:
+            path: /api/health
+            port: 5016
+          initialDelaySeconds: 60
+          periodSeconds: 30
+          timeoutSeconds: 10
+          failureThreshold: 3
+      volumes:
+        - name: timezone
+          hostPath:
+            path: /usr/share/zoneinfo/Asia/Shanghai
+        - name: logs
+          hostPath:
+            path: /home/taojun/backend_9001/ai-reporter/logs
+        - name: attachments
+          hostPath:
+            path: /home/taojun/backend_9001/ai-reporter/webapi/app/attachments
+#      hostNetwork: true
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ai-flask-backend-service
+spec:
+  type: NodePort
+  ports:
+    - port: 5016
+      targetPort: 5016
+      protocol: TCP
+      nodePort: 30016  # Optional: Specify a nodePort in range 30000-32767, if not, it will be auto-assigned.
+  selector:
+    app: ai-flask-backend  # Ensure this matches the labels used in your Deployment

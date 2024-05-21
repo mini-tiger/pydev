@@ -1,0 +1,3 @@
+snapshot-phantomjs==0.0.3
+pyecharts==2.0.4
+Pillow==10.0.1

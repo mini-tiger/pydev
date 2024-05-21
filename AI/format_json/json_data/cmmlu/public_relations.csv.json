@@ -1,0 +1,1742 @@
+[
+  {
+    "question_std": "（）是组织形象的客观基础。 A. 个人形象 B. 产品质量 C. 产品形象 D. 组织形象",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）是组织形象的客观基础。 A. 个人形象 B. 产品质量 C. 产品形象 D. 组织形象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "专门性公共关系活动是指在一定（）内，有计划、有系统地运用公共关系技术和方法来达到某种公共关系目的的专门性活动。 A. 时日 B. 时期 C. 时候 D. 时间",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "专门性公共关系活动是指在一定（）内，有计划、有系统地运用公共关系技术和方法来达到某种公共关系目的的专门性活动。 A. 时日 B. 时期 C. 时候 D. 时间",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "已经考虑到将与某一社会组织发生联系与交往，但尚未付诸实际行动的公众，可称为 A. 边缘公众 B. 行动公众 C. 知晓公众 D. 潜在公众",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "已经考虑到将与某一社会组织发生联系与交往，但尚未付诸实际行动的公众，可称为 A. 边缘公众 B. 行动公众 C. 知晓公众 D. 潜在公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "服装给人的第一印象就是款式，可以使用于不同的场合，表达不同的意义。由于服装的样式非常多，我们只能简单地将其分成()、社交装和便装三种。 A. 西装 B. 正装 C. 工作服 D. 套装",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "服装给人的第一印象就是款式，可以使用于不同的场合，表达不同的意义。由于服装的样式非常多，我们只能简单地将其分成()、社交装和便装三种。 A. 西装 B. 正装 C. 工作服 D. 套装",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界上第一个在企业内部设立公关部的是 A. 日本丰田公司 B. 美国电话电报公司 C. 美国福特汽车公司 D. 日本松下电器公司",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界上第一个在企业内部设立公关部的是 A. 日本丰田公司 B. 美国电话电报公司 C. 美国福特汽车公司 D. 日本松下电器公司",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1947年，成立第一所公共关系学院的是 A. 波士顿大学 B. 剑桥大学 C. 耶鲁大学 D. 哈佛大学",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1947年，成立第一所公共关系学院的是 A. 波士顿大学 B. 剑桥大学 C. 耶鲁大学 D. 哈佛大学",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "以下哪种公共关系的归属便于最高领导的直接指挥 A. 归属于办公室 B. 归属于销售部门 C. 归属于联络接待部门 D. 归属于宣传部门",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "以下哪种公共关系的归属便于最高领导的直接指挥 A. 归属于办公室 B. 归属于销售部门 C. 归属于联络接待部门 D. 归属于宣传部门",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系学专门研究 A. 组织的内部运营问题 B. 组织与公众之间关系的稳定问题 C. 组织与社区之间的传播沟通问题 D. 组织与公众传播沟通问题",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系学专门研究 A. 组织的内部运营问题 B. 组织与公众之间关系的稳定问题 C. 组织与社区之间的传播沟通问题 D. 组织与公众传播沟通问题",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "常用的调查方法中的问卷法是指 A. 是由调查人员或利用仪器设备在调查现场从旁边观察并记录被调查对象意见和行为的调查方法 B. 是从调查的总体中抽去一部分样本，并把这部分的样本情况推广到原来总体的一种方法 C. 是用书面提问的形式了解公众意见的调查方法 D. 直接访问调查对象的方法",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "常用的调查方法中的问卷法是指 A. 是由调查人员或利用仪器设备在调查现场从旁边观察并记录被调查对象意见和行为的调查方法 B. 是从调查的总体中抽去一部分样本，并把这部分的样本情况推广到原来总体的一种方法 C. 是用书面提问的形式了解公众意见的调查方法 D. 直接访问调查对象的方法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系通过向社会灌输强烈的（）和高度的责任感，以增进社会交往、促使团体合作等活动来促使社会行为得到协调。 A. 个人意识 B. 集体意识 C. 社会意识 D. 环境意识",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系通过向社会灌输强烈的（）和高度的责任感，以增进社会交往、促使团体合作等活动来促使社会行为得到协调。 A. 个人意识 B. 集体意识 C. 社会意识 D. 环境意识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系人员，在广义上泛指组织内部和外部人事直接的公关工作、公关理论研究和公关教学，以及在公关协会等公关组织机构工作的 A. 人员 B. 目标 C. 对象 D. 职工",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系人员，在广义上泛指组织内部和外部人事直接的公关工作、公关理论研究和公关教学，以及在公关协会等公关组织机构工作的 A. 人员 B. 目标 C. 对象 D. 职工",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当社会发生重大问题时，与有关的公众组织、群体或个人面对面地交流，听取公众的意见，回答公众问题，解释政府立场，争取公众的理解与支持属于政府公共关系中的 A. 发布新闻 B. 协商对话 C. 办事公开 D. 收集信",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当社会发生重大问题时，与有关的公众组织、群体或个人面对面地交流，听取公众的意见，回答公众问题，解释政府立场，争取公众的理解与支持属于政府公共关系中的 A. 发布新闻 B. 协商对话 C. 办事公开 D. 收集信",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（）研究了卓越公共关系和传播管理理论的全球化问题，提出了一种“普遍原则，特殊运用”的公共关系全球化理论。 A. 伯尼斯 B. 艾维·李 C. 卡特利普和森特 D. 格鲁尼格",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）研究了卓越公共关系和传播管理理论的全球化问题，提出了一种“普遍原则，特殊运用”的公共关系全球化理论。 A. 伯尼斯 B. 艾维·李 C. 卡特利普和森特 D. 格鲁尼格",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公关谈判的第三个阶段是 A. 导入阶段 B. 交锋阶段 C. 妥协阶段 D. 概说阶段",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公关谈判的第三个阶段是 A. 导入阶段 B. 交锋阶段 C. 妥协阶段 D. 概说阶段",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "情调、风格、含义是 A. 文化形象的内涵 B. 文化形象的外显 C. 标识形象的内涵 D. 标识形象的外显",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "情调、风格、含义是 A. 文化形象的内涵 B. 文化形象的外显 C. 标识形象的内涵 D. 标识形象的外显",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系人员要面临复杂的公关事务，与不同类型的公众打交道，因此，必须具备良好的心理素质。包括：1、自信的心理。2、热情工作的心理。3、渴望成功的心理。4、（） A. 开放乐观的心态 B. 坚强的信念 C. 热忱的服务 D. 公关专业知识",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系人员要面临复杂的公关事务，与不同类型的公众打交道，因此，必须具备良好的心理素质。包括：1、自信的心理。2、热情工作的心理。3、渴望成功的心理。4、（） A. 开放乐观的心态 B. 坚强的信念 C. 热忱的服务 D. 公关专业知识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（）公共关系是组织公共关系的重要组成部分，是组织开展各类公共关系活动的基础。 A. 实施 B. 内部 C. 外部 D. 传播",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）公共关系是组织公共关系的重要组成部分，是组织开展各类公共关系活动的基础。 A. 实施 B. 内部 C. 外部 D. 传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系意识的核心是 A. 真诚互惠的意识 B. 服务公众的意识 C. 沟通交流的意识 D. 塑造形象的意识",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系意识的核心是 A. 真诚互惠的意识 B. 服务公众的意识 C. 沟通交流的意识 D. 塑造形象的意识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代公共关系理论的精髓是 A. 传播沟通 B. 咨询功能 C. 管理职能 D. 协调作用",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代公共关系理论的精髓是 A. 传播沟通 B. 咨询功能 C. 管理职能 D. 协调作用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织公共关系活动的出发点应当是 A. 从事实出发 B. 从理想出发 C. 从专家意见出发 D. 从利益出发",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织公共关系活动的出发点应当是 A. 从事实出发 B. 从理想出发 C. 从专家意见出发 D. 从利益出发",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "()是所有传播沟通对象中最具社会权威性的对象。 A. 媒介公众 B. 政府公众 C. 名流公众 D. 社区公众",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "()是所有传播沟通对象中最具社会权威性的对象。 A. 媒介公众 B. 政府公众 C. 名流公众 D. 社区公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系的传播推广职责首先在于 A. 控制形象 B. 强化舆论 C. 扩大影响 D. 告知公众",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系的传播推广职责首先在于 A. 控制形象 B. 强化舆论 C. 扩大影响 D. 告知公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "设计一个具有独特风格的组织，名称和商标是处于 A. 形象受损时期 B. 发展顺利时期 C. 发展困难时期 D. 初创时期",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "设计一个具有独特风格的组织，名称和商标是处于 A. 形象受损时期 B. 发展顺利时期 C. 发展困难时期 D. 初创时期",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系也称作 A. 群众关系 B. 人群关系 C. 公众关系 D. 受众关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系也称作 A. 群众关系 B. 人群关系 C. 公众关系 D. 受众关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在“组织形象地位四象限图”中，处于（）形象地位的状态为有待改善的公共关系状态。 A. 高知名度/高美誉度 B. 低知名度/高美誉度 C. 低知名度/低美誉度 D. 高知名度/低美誉度",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在“组织形象地位四象限图”中，处于（）形象地位的状态为有待改善的公共关系状态。 A. 高知名度/高美誉度 B. 低知名度/高美誉度 C. 低知名度/低美誉度 D. 高知名度/低美誉度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "社区是一个社会学概念。从公共关系学来看，是指组织与组织所处的特定地域内的权利机构、地方团体、相关利益团体、居民百姓的相互关系，又称 A. 消费者关系 B. 群众关系 C. 公共关系 D. 区域关系",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "社区是一个社会学概念。从公共关系学来看，是指组织与组织所处的特定地域内的权利机构、地方团体、相关利益团体、居民百姓的相互关系，又称 A. 消费者关系 B. 群众关系 C. 公共关系 D. 区域关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "民主政治取代专制政治，这是公共关系产生的 A. 历史条件 B. 政治条件 C. 经济条件 D. 文化条件",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "民主政治取代专制政治，这是公共关系产生的 A. 历史条件 B. 政治条件 C. 经济条件 D. 文化条件",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在公关调查中，对于了解某些历史性问题的一种常用的行之有效的方法是 A. 资料分析 B. 民意测验 C. 公众代表座谈会 D. 抽样调查",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在公关调查中，对于了解某些历史性问题的一种常用的行之有效的方法是 A. 资料分析 B. 民意测验 C. 公众代表座谈会 D. 抽样调查",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "分析组织的自我期待形象与实际社会形象之间的现实距离时使用 A. 语义差异分析法 B. 组织形象地位图 C. 形象要素差距图 D. 形象要素调查表",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "分析组织的自我期待形象与实际社会形象之间的现实距离时使用 A. 语义差异分析法 B. 组织形象地位图 C. 形象要素差距图 D. 形象要素调查表",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "往往被置于最显著的位置，甚至被称之为对外传播的首要公众的关系是 A. 国际关系 B. 媒介关系 C. 顾客关系 D. 政府关系",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "往往被置于最显著的位置，甚至被称之为对外传播的首要公众的关系是 A. 国际关系 B. 媒介关系 C. 顾客关系 D. 政府关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在国内开展公共关系工作，一般不需要提高知名度的是 A. 事业单位 B. 政府 C. 企业 D. 社会团体",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在国内开展公共关系工作，一般不需要提高知名度的是 A. 事业单位 B. 政府 C. 企业 D. 社会团体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织与公众沟通的比较权威的途径就是运用 A. 大众传播 B. 人际传播 C. 公共关系广告 D. 网络",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织与公众沟通的比较权威的途径就是运用 A. 大众传播 B. 人际传播 C. 公共关系广告 D. 网络",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系的工作进程通常分为调查分析、制定计划、实施传播和评估效果四个步骤，又称 A. 调查分析法 B. 传播沟通法 C. 制定计划法 D. 四步工作法",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系的工作进程通常分为调查分析、制定计划、实施传播和评估效果四个步骤，又称 A. 调查分析法 B. 传播沟通法 C. 制定计划法 D. 四步工作法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某人在组织公关部中主要负责评估组织的形象和公关工作的效果，以寻找出现问题的原因。他属于 A. 公关调查分析人员 B. 公关技术人员 C. 公关计划人员 D. 公关传播人员",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某人在组织公关部中主要负责评估组织的形象和公关工作的效果，以寻找出现问题的原因。他属于 A. 公关调查分析人员 B. 公关技术人员 C. 公关计划人员 D. 公关传播人员",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "()是公共关系工作对象中最敏感、最重要的一个部分。 A. 名流公众 B. 媒介公众 C. 社区公众 D. 消费者公众",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "()是公共关系工作对象中最敏感、最重要的一个部分。 A. 名流公众 B. 媒介公众 C. 社区公众 D. 消费者公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "创新意识是指公共关系活动是一种创新性活动，应根据（）的不同对象、不同目标，策划和设计出与之相适应的公共关系关系活动。 A. 社会 B. 公共关系 C. 面对 D. 组织",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "创新意识是指公共关系活动是一种创新性活动，应根据（）的不同对象、不同目标，策划和设计出与之相适应的公共关系关系活动。 A. 社会 B. 公共关系 C. 面对 D. 组织",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（）是以提高组织知名度，树立组织整体形象为目标的公关广告。 A. 商品广告 B. 广播广告 C. 形象广告 D. 电视广告",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）是以提高组织知名度，树立组织整体形象为目标的公关广告。 A. 商品广告 B. 广播广告 C. 形象广告 D. 电视广告",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "信息的传播沟通在公共关系中具有一种独特的作用，（）利用传播沟通手段去建立和维持与公众之间的交流，去了解和影响公众的意见、态度和行为，这是公共关系工作与其他管理工作的显著区别。 A. 企业 B. 公关 C. 社会组织 D. 组织",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "信息的传播沟通在公共关系中具有一种独特的作用，（）利用传播沟通手段去建立和维持与公众之间的交流，去了解和影响公众的意见、态度和行为，这是公共关系工作与其他管理工作的显著区别。 A. 企业 B. 公关 C. 社会组织 D. 组织",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "从2003年起，正式将每年的（）定为中国公关人自己的节日？ A. 11/11 B. 01/10 C. 元月1日 D. 20/12",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "从2003年起，正式将每年的（）定为中国公关人自己的节日？ A. 11/11 B. 01/10 C. 元月1日 D. 20/12",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（）论述了“双向对称”的公共关系模式，被誉为“公共关系的圣经”。 A. 卡特利普和森特 B. 梅耶 C. 伯尼斯 D. 艾维·李",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）论述了“双向对称”的公共关系模式，被誉为“公共关系的圣经”。 A. 卡特利普和森特 B. 梅耶 C. 伯尼斯 D. 艾维·李",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在营销传播的所有形式中采用同一的颜色、图案及识别符号。这种方法属于整合营销传播的 A. 形象整合法 B. 统一形式法 C. 同一外观法 D. 主题线法",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在营销传播的所有形式中采用同一的颜色、图案及识别符号。这种方法属于整合营销传播的 A. 形象整合法 B. 统一形式法 C. 同一外观法 D. 主题线法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1997年，美国博雅公共关系公司对公共关系做了最新的诠释：“公共关系即是认知管理”。而所谓认知管理，是指通过管理（）对事物、企业或者个人的看法，来使他们改变行为方式及决策，最终获取他们的认同。 A. 大众 B. 公众 C. 公关 D. 群众",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1997年，美国博雅公共关系公司对公共关系做了最新的诠释：“公共关系即是认知管理”。而所谓认知管理，是指通过管理（）对事物、企业或者个人的看法，来使他们改变行为方式及决策，最终获取他们的认同。 A. 大众 B. 公众 C. 公关 D. 群众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织形象分析的三个环节是 A. 历史形象分析 B. 自我期待形象分析 C. 公众评议分析 D. 形象差距分析",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织形象分析的三个环节是 A. 历史形象分析 B. 自我期待形象分析 C. 公众评议分析 D. 形象差距分析",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公关工作中最常用、最普遍的一种口语传播方式是 A. 报告 B. 会议 C. 演讲 D. 谈判",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公关工作中最常用、最普遍的一种口语传播方式是 A. 报告 B. 会议 C. 演讲 D. 谈判",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "适用于组织开创阶段的公关活动方式是 A. 防御型公关 B. 维系型公关 C. 进攻型公关 D. 建设型公关",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "适用于组织开创阶段的公关活动方式是 A. 防御型公关 B. 维系型公关 C. 进攻型公关 D. 建设型公关",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系可直接称为 A. 公众关系 B. 人际关系 C. 社区关系 D. 人群关系",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系可直接称为 A. 公众关系 B. 人际关系 C. 社区关系 D. 人群关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "读者选择的余地比较大是 A. 报纸的优点 B. 电视的优点 C. 报纸的缺点 D. 广播的优点",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "读者选择的余地比较大是 A. 报纸的优点 B. 电视的优点 C. 报纸的缺点 D. 广播的优点",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系实质上是社会组织与公众的一种（）关系。 A. 互助 B. 利益 C. 互惠 D. 平等",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系实质上是社会组织与公众的一种（）关系。 A. 互助 B. 利益 C. 互惠 D. 平等",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织与公众联结的方式是 A. 人际沟通 B. 传播 C. 大众传播 D. 與论宣传",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织与公众联结的方式是 A. 人际沟通 B. 传播 C. 大众传播 D. 與论宣传",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在公共关系学中，公众特指 A. 外部公众 B. 消极受众 C. 内部公众 D. 积极受众",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在公共关系学中，公众特指 A. 外部公众 B. 消极受众 C. 内部公众 D. 积极受众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“公共关系人员运用文字、语言和形体等方式，将组织的理念和意见明确、有效地传播给公众的能力。”请问这是属于能力素质的那一种？ A. 自控应变能力 B. 特殊能力 C. 观察思维能力 D. 宣传表达能力",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“公共关系人员运用文字、语言和形体等方式，将组织的理念和意见明确、有效地传播给公众的能力。”请问这是属于能力素质的那一种？ A. 自控应变能力 B. 特殊能力 C. 观察思维能力 D. 宣传表达能力",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织开展公共关系活动的基础是 A. 公共关系状态 B. 公共关系意识 C. 公共关系观念 D. 公共关系策划",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织开展公共关系活动的基础是 A. 公共关系状态 B. 公共关系意识 C. 公共关系观念 D. 公共关系策划",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公关礼仪作为一种()的技巧，是公关人员在社会交往中必须遵循的礼节和仪式。 A. 传播和沟通 B. 形态与手势 C. 语言艺术 D. 体态与非自然语言",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公关礼仪作为一种()的技巧，是公关人员在社会交往中必须遵循的礼节和仪式。 A. 传播和沟通 B. 形态与手势 C. 语言艺术 D. 体态与非自然语言",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "争取公众选择和支持的最好方式就是以（）作为组织公关活动的基本信条，而这就要求公共关系人员实事求是地向公众提供真实信息，以取得公众的信任和理解。 A. 诚实 B. 真诚 C. 沟通 D. 信用",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "争取公众选择和支持的最好方式就是以（）作为组织公关活动的基本信条，而这就要求公共关系人员实事求是地向公众提供真实信息，以取得公众的信任和理解。 A. 诚实 B. 真诚 C. 沟通 D. 信用",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在公共关系中，将追求平等和双赢作为处理各种关系的行为准则而形成的公关观念，一般称为 A. 协调观念 B. 传播观念 C. 服务观念 D. 互惠观念",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在公共关系中，将追求平等和双赢作为处理各种关系的行为准则而形成的公关观念，一般称为 A. 协调观念 B. 传播观念 C. 服务观念 D. 互惠观念",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "新闻发布会是一种 A. 直接传播 B. 多级传播 C. 两级传播 D. 三级传播",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "新闻发布会是一种 A. 直接传播 B. 多级传播 C. 两级传播 D. 三级传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代公共关系传播的本质是组织与公众之间信息的 A. 单向交流 B. 双向管理 C. 单向管理 D. 双向交流",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代公共关系传播的本质是组织与公众之间信息的 A. 单向交流 B. 双向管理 C. 单向管理 D. 双向交流",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个组织的形象蓝图最终来源于 A. 操作层面 B. 决策阶层 C. 管理层面 D. 员工层面",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个组织的形象蓝图最终来源于 A. 操作层面 B. 决策阶层 C. 管理层面 D. 员工层面",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "面访调查的一个主要缺点是 A. 时间短，难以深入 B. 答案简单，难以深入 C. 调查对象易受访问者的主观影响 D. 调查对象不理解问卷",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "面访调查的一个主要缺点是 A. 时间短，难以深入 B. 答案简单，难以深入 C. 调查对象易受访问者的主观影响 D. 调查对象不理解问卷",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有人又把艺术性地在组织内部开展员工管理工作，从而使员工关系达到一种崇高境界的公关活动称为 A. 企业关系 B. 公共关系活动 C. 公共关系 D. 柔性公关",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有人又把艺术性地在组织内部开展员工管理工作，从而使员工关系达到一种崇高境界的公关活动称为 A. 企业关系 B. 公共关系活动 C. 公共关系 D. 柔性公关",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "固定的僵化印象对人的知觉的影响，在知觉的偏见的产生原因中称 A. 近因效应 B. 首因效应 C. 定型作用 D. 晕轮效应",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "固定的僵化印象对人的知觉的影响，在知觉的偏见的产生原因中称 A. 近因效应 B. 首因效应 C. 定型作用 D. 晕轮效应",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在VIS中，应用最广泛、出现频率最高的要素是 A. 企业造型 B. 标准色 C. 标准字 D. 标志",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在VIS中，应用最广泛、出现频率最高的要素是 A. 企业造型 B. 标准色 C. 标准字 D. 标志",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "()直接影响着组织其他各方面的关系，如员工家属关系、本地顾客关系等。 A. 消费者关系 B. 媒介关系 C. 社区关 D. 政府关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "()直接影响着组织其他各方面的关系，如员工家属关系、本地顾客关系等。 A. 消费者关系 B. 媒介关系 C. 社区关 D. 政府关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "顺意公众与逆意公众是根据公众对组织的（）来划分的。 A. 相关性 B. 利害关系 C. 态度 D. 重要程度",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "顺意公众与逆意公众是根据公众对组织的（）来划分的。 A. 相关性 B. 利害关系 C. 态度 D. 重要程度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传播沟通不仅包括信息（）、（）、（）分享一系列过程，还包括信息的收集与处理，并且综合地运用各种传播方式和传播媒介。 A. 交流、传输、传达 B. 传递、传播、接受 C. 传达、接受、交流 D. 传递、接受、交流",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传播沟通不仅包括信息（）、（）、（）分享一系列过程，还包括信息的收集与处理，并且综合地运用各种传播方式和传播媒介。 A. 交流、传输、传达 B. 传递、传播、接受 C. 传达、接受、交流 D. 传递、接受、交流",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "与组织自身相关性最强的一类公众对象是 A. 内部公众 B. 顾客公众 C. 政府公众 D. 媒介公众",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "与组织自身相关性最强的一类公众对象是 A. 内部公众 B. 顾客公众 C. 政府公众 D. 媒介公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了加强形象宣传的视觉冲击力，企业可以实施（），以加强企业整体形象的个性和统一性。 A. 发展战略 B. 人才战略 C. CI战略 D. CS战略",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了加强形象宣传的视觉冲击力，企业可以实施（），以加强企业整体形象的个性和统一性。 A. 发展战略 B. 人才战略 C. CI战略 D. CS战略",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "交际型公共关系的特点是 A. 灵活而富有人性，效果直达情感层次 B. 能有效地使人际沟通达到\"行动\"层次 C. 是一项日常的工作，能造成一种宣传攻势 D. 主导性强、时效性强，范围广",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "交际型公共关系的特点是 A. 灵活而富有人性，效果直达情感层次 B. 能有效地使人际沟通达到\"行动\"层次 C. 是一项日常的工作，能造成一种宣传攻势 D. 主导性强、时效性强，范围广",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "态度一致性改变是 A. 改变原有态度的对象 B. 改变原有态度的强度 C. 改变原有态度的方向 D. 改变原有态度的主体",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "态度一致性改变是 A. 改变原有态度的对象 B. 改变原有态度的强度 C. 改变原有态度的方向 D. 改变原有态度的主体",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电视和广播媒介的共同弱点是 A. 功能单一 B. 传播效果较弱 C. 感染力较差 D. 传播效果稍纵即逝",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电视和广播媒介的共同弱点是 A. 功能单一 B. 传播效果较弱 C. 感染力较差 D. 传播效果稍纵即逝",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织形象的基础是 A. 员工形象 B. 产品形象 C. 管理形象 D. 机构形象",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织形象的基础是 A. 员工形象 B. 产品形象 C. 管理形象 D. 机构形象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "广告定位的目的在于 A. 确定广告商品的位置 B. 明确广告的特点 C. 突出广告商品的个性 D. 提高广告针对性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "广告定位的目的在于 A. 确定广告商品的位置 B. 明确广告的特点 C. 突出广告商品的个性 D. 提高广告针对性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "相互见面和离别时最常见的礼节是 A. 微笑 B. 目视 C. 拥抱 D. 握手",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "相互见面和离别时最常见的礼节是 A. 微笑 B. 目视 C. 拥抱 D. 握手",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "互惠意识是指在组织与公众的交往和合作中，将平等互利、追求（）作为组织处理各种情况的行为准则，将组织自身的发展与公众的发展联系起来，争取既有利于自已又有利于对方，使组织和公众共同协调发展。 A. 社会 B. 目标 C. 公众 D. 双赢",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "互惠意识是指在组织与公众的交往和合作中，将平等互利、追求（）作为组织处理各种情况的行为准则，将组织自身的发展与公众的发展联系起来，争取既有利于自已又有利于对方，使组织和公众共同协调发展。 A. 社会 B. 目标 C. 公众 D. 双赢",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被誉为“公共关系之父”的是 A. 卡特里普 B. 巴纳姆 C. 艾维·李 D. 伯尼斯",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被誉为“公共关系之父”的是 A. 卡特里普 B. 巴纳姆 C. 艾维·李 D. 伯尼斯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系为市场销售服务的功能，首先集中体现在()上，它不是直接去推销产品或服务，而是配合运用各种传播沟通的方法，疏通渠道，理顺关系，为产品或服务的销售营造一个良好的环境。 A. 媒介关系 B. 政府关系 C. 社区关系 D. 消费者关系",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系为市场销售服务的功能，首先集中体现在()上，它不是直接去推销产品或服务，而是配合运用各种传播沟通的方法，疏通渠道，理顺关系，为产品或服务的销售营造一个良好的环境。 A. 媒介关系 B. 政府关系 C. 社区关系 D. 消费者关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "为了防止公众产生厌倦和反感情绪，公共关系人员必须保持信息的 A. 新鲜程度 B. 对比度 C. 重复率 D. 刺激强度",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "为了防止公众产生厌倦和反感情绪，公共关系人员必须保持信息的 A. 新鲜程度 B. 对比度 C. 重复率 D. 刺激强度",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "被周围的人所信赖而起着舆论指导作用的人是 A. 早期采用者 B. 前期追随者 C. 后期追随者 D. 先驱者",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "被周围的人所信赖而起着舆论指导作用的人是 A. 早期采用者 B. 前期追随者 C. 后期追随者 D. 先驱者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系作为一种职业和一门学科，最早产生于 A. 英国 B. 美国 C. 法国 D. 奥地利",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系作为一种职业和一门学科，最早产生于 A. 英国 B. 美国 C. 法国 D. 奥地利",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "对提出的问题事先拟好若干答案，要求调查对象选择一个或数个答案，属于封闭式问卷中的哪种形式 A. 两项选择 B. 多项选择 C. 排序选择 D. 对比选择",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "对提出的问题事先拟好若干答案，要求调查对象选择一个或数个答案，属于封闭式问卷中的哪种形式 A. 两项选择 B. 多项选择 C. 排序选择 D. 对比选择",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在知觉过程中，由于某些客观事物在相互对比中有的呈现出较明显的相对特点，致使我们去知觉它。这便是 A. 知觉的主动选择性 B. 知觉的偏见 C. 知觉的被动选择性 D. 知觉的主观性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在知觉过程中，由于某些客观事物在相互对比中有的呈现出较明显的相对特点，致使我们去知觉它。这便是 A. 知觉的主动选择性 B. 知觉的偏见 C. 知觉的被动选择性 D. 知觉的主观性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“公关太深奥，有时让人搞不懂。”请问这是属于 A. 公共关系艺术 B. 公共关系职业 C. 公共关系状态 D. 公共关系意识",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“公关太深奥，有时让人搞不懂。”请问这是属于 A. 公共关系艺术 B. 公共关系职业 C. 公共关系状态 D. 公共关系意识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "态度是人们在认识和行为上相对固定的倾向，包括人对事物和社会认知的倾向、（）和意图的倾向。 A. 情感的倾向 B. 热爱的倾向 C. 偏离的倾向 D. 支持的倾向",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "态度是人们在认识和行为上相对固定的倾向，包括人对事物和社会认知的倾向、（）和意图的倾向。 A. 情感的倾向 B. 热爱的倾向 C. 偏离的倾向 D. 支持的倾向",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "提出5W模式的是 A. 拉斯韦尔 B. 库尔特·卢因 C. 拉扎斯菲尔 D. 麦库姆斯",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "提出5W模式的是 A. 拉斯韦尔 B. 库尔特·卢因 C. 拉扎斯菲尔 D. 麦库姆斯",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "有效开展政府公共关系，对于密切政府与人民群众的关系，塑造政府的良好形象；对于发展（），加强廉政建设及各方面，都具有重大作用并产生深远影响。 A. 核心政治 B. 民主政治 C. 传统政治 D. 独裁政治",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "有效开展政府公共关系，对于密切政府与人民群众的关系，塑造政府的良好形象；对于发展（），加强廉政建设及各方面，都具有重大作用并产生深远影响。 A. 核心政治 B. 民主政治 C. 传统政治 D. 独裁政治",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "民主参与法是用来协调 A. 外部公众关系 B. 内部公众民主参与法是用来协调关系 C. 媒介公众关系 D. 顾客公众关系",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "民主参与法是用来协调 A. 外部公众关系 B. 内部公众民主参与法是用来协调关系 C. 媒介公众关系 D. 顾客公众关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "形成公众关系和影响公众舆论的前提是 A. 传播沟通 B. 社会交往 C. 大众传播 D. 组织形象",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "形成公众关系和影响公众舆论的前提是 A. 传播沟通 B. 社会交往 C. 大众传播 D. 组织形象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系的四层涵义、 A. 公关意识、公关理论、公关行为、公关状态 B. 公关意识、公关观念、公关活动、公关状态 C. 公关状态、公关活动、公关观念、公关学科 D. 公关意识、公关活动、公关传播、公关状态",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系的四层涵义、 A. 公关意识、公关理论、公关行为、公关状态 B. 公关意识、公关观念、公关活动、公关状态 C. 公关状态、公关活动、公关观念、公关学科 D. 公关意识、公关活动、公关传播、公关状态",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "传播学界认为，在两次世界大战之间的几十年间，关于大众传播威力研究中最流行的观点是 A. 最低效果法则 B. 魔弹论 C. 适度效果论 D. 有限效果论",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "传播学界认为，在两次世界大战之间的几十年间，关于大众传播威力研究中最流行的观点是 A. 最低效果法则 B. 魔弹论 C. 适度效果论 D. 有限效果论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在部门隶属型公共关系机构中较好的一种形式是 A. 归属于广告宣传部门 B. 归属于办公室 C. 归属于接待部门 D. 归属于销售部门",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在部门隶属型公共关系机构中较好的一种形式是 A. 归属于广告宣传部门 B. 归属于办公室 C. 归属于接待部门 D. 归属于销售部门",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "自我与他人、个人对个人的传播活动，属于 A. 组织传播 B. 人际传播 C. 自我传播 D. 大众传播",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "自我与他人、个人对个人的传播活动，属于 A. 组织传播 B. 人际传播 C. 自我传播 D. 大众传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "根据现代公共关系传播的研究表明，在公共关系传播中必须注意七个“C”。请问“传播计划必须与组织的环境要求相一致。”属于哪一个“C”？ A. 一致性（Context） B. 持续性与连贯性（ContinuityandConsistency） C. 明确性（Clarity） D. 内容（Content）",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "根据现代公共关系传播的研究表明，在公共关系传播中必须注意七个“C”。请问“传播计划必须与组织的环境要求相一致。”属于哪一个“C”？ A. 一致性（Context） B. 持续性与连贯性（ContinuityandConsistency） C. 明确性（Clarity） D. 内容（Content）",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "一个社会组织的领导者必须对本组织的声誉和形象承担 A. 技术责任 B. 直接责任 C. 综合责任 D. 间接责任",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "一个社会组织的领导者必须对本组织的声誉和形象承担 A. 技术责任 B. 直接责任 C. 综合责任 D. 间接责任",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“把关人”这个概念出自 A. 《群体生活渠道》 B. 《社会传播的结构与功能》 C. 《原则宣言》 D. 《舆论》",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“把关人”这个概念出自 A. 《群体生活渠道》 B. 《社会传播的结构与功能》 C. 《原则宣言》 D. 《舆论》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "双向不平衡模式认为，当组织与公众发生冲突时，解决的办法是要求 A. 组织改变公关行为 B. 组织与公众共同改变行为 C. 公众改变行为 D. 媒介改变行为方式",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "双向不平衡模式认为，当组织与公众发生冲突时，解决的办法是要求 A. 组织改变公关行为 B. 组织与公众共同改变行为 C. 公众改变行为 D. 媒介改变行为方式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系部是一种具有服务性质的、较高层次的间接 A. 领导者 B. 管理部门 C. 管理者 D. 生产者",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系部是一种具有服务性质的、较高层次的间接 A. 领导者 B. 管理部门 C. 管理者 D. 生产者",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "往往被置于最显著的位置，甚至被称之为对外传播的首要公众的关系是()。 A. 媒介关系 B. 国际关系 C. 顾客关系 D. 政府关系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "往往被置于最显著的位置，甚至被称之为对外传播的首要公众的关系是()。 A. 媒介关系 B. 国际关系 C. 顾客关系 D. 政府关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "高美誉度、低知名度属于公共关系的()状态。 A. 恶劣 B. 最佳 C. 较为稳定、安全 D. 不良",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "高美誉度、低知名度属于公共关系的()状态。 A. 恶劣 B. 最佳 C. 较为稳定、安全 D. 不良",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "电话调查的一个优点是 A. 调查对象有充裕的时间认真考虑，从容作答 B. 可以深入探讨，加深印象 C. 速度快，范围广，费用低 D. 不使用问卷，不受给定问题的限制",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "电话调查的一个优点是 A. 调查对象有充裕的时间认真考虑，从容作答 B. 可以深入探讨，加深印象 C. 速度快，范围广，费用低 D. 不使用问卷，不受给定问题的限制",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在使用“公共关系”这一概念的时候，它表示一些不同层次的涵义，在表示一种客观的实在，即 A. 公共关系活动 B. 公共关系观念 C. 公共关系状态 D. 公共关系传播",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在使用“公共关系”这一概念的时候，它表示一些不同层次的涵义，在表示一种客观的实在，即 A. 公共关系活动 B. 公共关系观念 C. 公共关系状态 D. 公共关系传播",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在部门所属型的公共关系部中，把公共关系职能定位于传播功能，主要是因为将公共关系部归属于 A. 办公室 B. 接待部门 C. 广告宣传部门 D. 销售部门",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在部门所属型的公共关系部中，把公共关系职能定位于传播功能，主要是因为将公共关系部归属于 A. 办公室 B. 接待部门 C. 广告宣传部门 D. 销售部门",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "全心全意为人民服务是政府公共关系的 A. 宗旨 B. 目标 C. 追求 D. 方向",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "全心全意为人民服务是政府公共关系的 A. 宗旨 B. 目标 C. 追求 D. 方向",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "大众传播的特点是（）、现代化和公众化，因此它成为了现代公共关系活动中最常用的一种传播方式。 A. 信息化 B. 专业化 C. 职业化 D. 理想化",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "大众传播的特点是（）、现代化和公众化，因此它成为了现代公共关系活动中最常用的一种传播方式。 A. 信息化 B. 专业化 C. 职业化 D. 理想化",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "1906年，艾维·李发表的著名文件是 A. \"有效的公共关系\" B. \"公共关系学\" C. \"公众與论之形成\" D. \"原则宣言\"",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "1906年，艾维·李发表的著名文件是 A. \"有效的公共关系\" B. \"公共关系学\" C. \"公众與论之形成\" D. \"原则宣言\"",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "当组织与环境发生某种冲突时，为了摆脱被动局面，应采取的公关活动方式是 A. 防御型公关 B. 建设型公关 C. 进攻型公关 D. 矫正型公关",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "当组织与环境发生某种冲突时，为了摆脱被动局面，应采取的公关活动方式是 A. 防御型公关 B. 建设型公关 C. 进攻型公关 D. 矫正型公关",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "学校利用校庆进行广泛的社会宣传，这一活动本身表明它重视塑造自己的 A. 文化形象 B. 环境形象 C. 社区形象 D. 产品形象",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "学校利用校庆进行广泛的社会宣传，这一活动本身表明它重视塑造自己的 A. 文化形象 B. 环境形象 C. 社区形象 D. 产品形象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系一词源于英文PublicRelations的中文译名。Public意为“公共的”、“公开的”、“公众的”，Relations即“关系”之意，英文缩写为PR，也可译为“公众关系”、群众关系”，或被简称为 A. 公关 B. 群众 C. 关系 D. 公众",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系一词源于英文PublicRelations的中文译名。Public意为“公共的”、“公开的”、“公众的”，Relations即“关系”之意，英文缩写为PR，也可译为“公众关系”、群众关系”，或被简称为 A. 公关 B. 群众 C. 关系 D. 公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "媒介关系又称（）关系，是社会组织与报纸、电台、电视台等大众传播媒介机构以及与编辑、记者、节目主持人等之间的关系。 A. 广播关系 B. 社会关系 C. 新闻界关系 D. 公共关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "媒介关系又称（）关系，是社会组织与报纸、电台、电视台等大众传播媒介机构以及与编辑、记者、节目主持人等之间的关系。 A. 广播关系 B. 社会关系 C. 新闻界关系 D. 公共关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织的社会关系状态是指（）与其相关的社会公众之间相互交往和共处的情形和状态。 A. 公众 B. 社会 C. 组织 D. 企业",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织的社会关系状态是指（）与其相关的社会公众之间相互交往和共处的情形和状态。 A. 公众 B. 社会 C. 组织 D. 企业",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "政府减少因办事程序错误而造成低效率现象和扯皮现象而采取的办法是 A. 办事公开 B. 班子协商 C. 领导决定 D. 新闻发布",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "政府减少因办事程序错误而造成低效率现象和扯皮现象而采取的办法是 A. 办事公开 B. 班子协商 C. 领导决定 D. 新闻发布",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "消费者、协作者、竞争者、记者、名流、政府官员、社区居民等属于组织的 A. 内部公众 B. 个体公众 C. 外部公众 D. 组织公众",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "消费者、协作者、竞争者、记者、名流、政府官员、社区居民等属于组织的 A. 内部公众 B. 个体公众 C. 外部公众 D. 组织公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "最具宏观意义的公共关系发展趋势是 A. 金融公共关系的发展 B. 全球性沟通与合作 C. 市场公共关系的热潮 D. 政府公共关系",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "最具宏观意义的公共关系发展趋势是 A. 金融公共关系的发展 B. 全球性沟通与合作 C. 市场公共关系的热潮 D. 政府公共关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系本质上是组织机构与相关公众之间的 A. 利益平衡 B. 双向传播与沟通 C. 人际交流 D. 形象定位",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系本质上是组织机构与相关公众之间的 A. 利益平衡 B. 双向传播与沟通 C. 人际交流 D. 形象定位",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "某企业向广大公众表示祝福的贺辞属于 A. 形象广告 B. 公益广告 C. 观念广告 D. 响应广告",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "某企业向广大公众表示祝福的贺辞属于 A. 形象广告 B. 公益广告 C. 观念广告 D. 响应广告",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代公共关系在中国经历了四个发展时期，请问“引进酝酿期”是从什么时候到什么时候？ A. 20世纪90年代中期至今 B. 20世纪90年代初至90年中 C. 20世纪80年代中至80年代末 D. 20世纪70年代末80年代初",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代公共关系在中国经历了四个发展时期，请问“引进酝酿期”是从什么时候到什么时候？ A. 20世纪90年代中期至今 B. 20世纪90年代初至90年中 C. 20世纪80年代中至80年代末 D. 20世纪70年代末80年代初",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "（）指人们身体部位作出表现某种具体含义的动作符号。 A. 情态语言 B. 动态语言 C. 静态语言 D. 身势语言",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "（）指人们身体部位作出表现某种具体含义的动作符号。 A. 情态语言 B. 动态语言 C. 静态语言 D. 身势语言",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系的组织机构是专门执行公关任务、实现公关功能的行为（），是公共关系工作的专业职能机构。 A. 主体 B. 手段 C. 客体 D. 过程",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系的组织机构是专门执行公关任务、实现公关功能的行为（），是公共关系工作的专业职能机构。 A. 主体 B. 手段 C. 客体 D. 过程",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在倒金字塔结构的新闻稿中，（）是整篇新闻稿的灵魂。 A. 新闻背景部分 B. 新闻导语部分 C. 新闻事实部分 D. 人物描写部分",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在倒金字塔结构的新闻稿中，（）是整篇新闻稿的灵魂。 A. 新闻背景部分 B. 新闻导语部分 C. 新闻事实部分 D. 人物描写部分",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "针对性强的大众传播媒介是 A. 杂志 B. 报纸 C. 广播 D. 电视",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "针对性强的大众传播媒介是 A. 杂志 B. 报纸 C. 广播 D. 电视",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系双向传播与沟通的对象是 A. 公众 B. 群众 C. 个人 D. 社会组织",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系双向传播与沟通的对象是 A. 公众 B. 群众 C. 个人 D. 社会组织",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "政府公关的首要目标是 A. 提高社会效益 B. 提高政府的知名度 C. 提高政府的美誉度 D. 促进公众的认知",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "政府公关的首要目标是 A. 提高社会效益 B. 提高政府的知名度 C. 提高政府的美誉度 D. 促进公众的认知",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "Internet不仅仅是一个国际性的计算机网络，更重要的是，它是一个面向全世界、全社会的巨大的（）。 A. 知识资源 B. 人力资源 C. 物质资源 D. 信息资源",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "Internet不仅仅是一个国际性的计算机网络，更重要的是，它是一个面向全世界、全社会的巨大的（）。 A. 知识资源 B. 人力资源 C. 物质资源 D. 信息资源",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "美国著名公关学者雷克斯·哈罗博士认为公共关系是 A. 一种传播管理行为 B. 一门艺术和科学 C. 一种公众性的关系 D. 一种管理职能",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "美国著名公关学者雷克斯·哈罗博士认为公共关系是 A. 一种传播管理行为 B. 一门艺术和科学 C. 一种公众性的关系 D. 一种管理职能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系的服务观念表现为对他人、对社会的一种奉献精神，使自己的存在和行为给对方带来满意和方便，用（）去赢得好感和信誉。 A. 服务 B. 活动 C. 联系 D. 交流",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系的服务观念表现为对他人、对社会的一种奉献精神，使自己的存在和行为给对方带来满意和方便，用（）去赢得好感和信誉。 A. 服务 B. 活动 C. 联系 D. 交流",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "既是内部公关工作的对象，又是外部公关工作的主体是 A. 顾客公众 B. 政府公众 C. 媒体公众 D. 内部公众",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "既是内部公关工作的对象，又是外部公关工作的主体是 A. 顾客公众 B. 政府公众 C. 媒体公众 D. 内部公众",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "“两级传播论”认为：信息的传递是按照（）的模式进行的。 A. “意见领袖——媒介——受众” B. “受众——媒介——意见领袖” C. “意见领袖——受众——媒介” D. “媒介——意见领袖——受众”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "“两级传播论”认为：信息的传递是按照（）的模式进行的。 A. “意见领袖——媒介——受众” B. “受众——媒介——意见领袖” C. “意见领袖——受众——媒介” D. “媒介——意见领袖——受众”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "价值观念、职业道德是 A. 文化形象的内涵 B. 人员形象的外显 C. 文体形象的外显 D. 人员形象的内涵",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "价值观念、职业道德是 A. 文化形象的内涵 B. 人员形象的外显 C. 文体形象的外显 D. 人员形象的内涵",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "良好的()是一切公关活动的起点，是一切社交场合所必备的“通行证”。 A. 组织形象 B. 文化素养 C. 个人礼仪 D. 体态与表情",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "良好的()是一切公关活动的起点，是一切社交场合所必备的“通行证”。 A. 组织形象 B. 文化素养 C. 个人礼仪 D. 体态与表情",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "把公众当成组织的服务对象，真心实意地为公众服务，替公众着想，让公众满意，把公众需求当作组织公共关系工作的出发点和归宿，靠良好、细致、周到的服务去赢得公众的信赖和支持。请问，这是属于公共关系的哪一种意识 A. 服务意识 B. 公众意识 C. 沟通意识 D. 形象意识",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "把公众当成组织的服务对象，真心实意地为公众服务，替公众着想，让公众满意，把公众需求当作组织公共关系工作的出发点和归宿，靠良好、细致、周到的服务去赢得公众的信赖和支持。请问，这是属于公共关系的哪一种意识 A. 服务意识 B. 公众意识 C. 沟通意识 D. 形象意识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "编制公共关系预算的具体方法包括 A. 领导决策法 B. 会议讨论法 C. 销售额提成法 D. 实报实销法",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "编制公共关系预算的具体方法包括 A. 领导决策法 B. 会议讨论法 C. 销售额提成法 D. 实报实销法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在一定条件下，多种需要中会有一种最为迫切、起主要支配作用的需要，即 A. 优势需要 B. 胜任需要 C. 成就需要 D. 自尊需要",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在一定条件下，多种需要中会有一种最为迫切、起主要支配作用的需要，即 A. 优势需要 B. 胜任需要 C. 成就需要 D. 自尊需要",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织的自我形象是其 A. 实际的社会形象 B. 期望建立的社会形象 C. 过去已建立的社会形象 D. 公众形象",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织的自我形象是其 A. 实际的社会形象 B. 期望建立的社会形象 C. 过去已建立的社会形象 D. 公众形象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "决定广告策划成败的关键是 A. 广告创意 B. 广告定位 C. 广告调查 D. 广告诉求",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "决定广告策划成败的关键是 A. 广告创意 B. 广告定位 C. 广告调查 D. 广告诉求",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "世界上第一个在企业内部设立公关部的是 A. 美国福特汽车公司 B. 日本松下电器公司 C. 美国电话电报公司 D. 日本本田公司",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "世界上第一个在企业内部设立公关部的是 A. 美国福特汽车公司 B. 日本松下电器公司 C. 美国电话电报公司 D. 日本本田公司",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系状态是指 A. 组织公关部组成情况 B. 组织开展公关活动成功与否 C. 组织赖以生存、发展的公众环境情况 D. 领导与成员间的关系",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系状态是指 A. 组织公关部组成情况 B. 组织开展公关活动成功与否 C. 组织赖以生存、发展的公众环境情况 D. 领导与成员间的关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "完整的CI应该是一个不可分割的系统，即CIS（CorporateIdentitySystem），通常译之为 A. “企业识别系统” B. “企业身份系统” C. “企业形象系统” D. “企业个性系统”",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "完整的CI应该是一个不可分割的系统，即CIS（CorporateIdentitySystem），通常译之为 A. “企业识别系统” B. “企业身份系统” C. “企业形象系统” D. “企业个性系统”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "利用新闻媒介揭露垄断企业“愚弄公众”的现象，形成了美国近代史上著名的 A. 揭丑运动 B. 民主政治运动 C. 便士报 D. 报刊宣传运动",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "利用新闻媒介揭露垄断企业“愚弄公众”的现象，形成了美国近代史上著名的 A. 揭丑运动 B. 民主政治运动 C. 便士报 D. 报刊宣传运动",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "中国最高的公共关系组织——中国公关协会，成立的时间地点是 A. 1987年在北京 B. 1986年在上海 C. 1987年在天津 D. 1985年在广州",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "中国最高的公共关系组织——中国公关协会，成立的时间地点是 A. 1987年在北京 B. 1986年在上海 C. 1987年在天津 D. 1985年在广州",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "进行民意测验的主要工具是 A. 资料分析 B. 抽样 C. 问卷法 D. 实施调查",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "进行民意测验的主要工具是 A. 资料分析 B. 抽样 C. 问卷法 D. 实施调查",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系学是指（）公共关系工作经验，（）公共关系工作，（）组织为达到公共关系目的而系统地进行公共关系活动的一门综合性、应用性学科。 A. 指导、总结、研究 B. 总结、指导、研究 C. 总结、研究、指导 D. 研究、指导、总结",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系学是指（）公共关系工作经验，（）公共关系工作，（）组织为达到公共关系目的而系统地进行公共关系活动的一门综合性、应用性学科。 A. 指导、总结、研究 B. 总结、指导、研究 C. 总结、研究、指导 D. 研究、指导、总结",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "宣传型公共关系的具体形式有 A. 演讲和表演 B. 印刷内部刊物和资料 C. 举行会议 D. 公共关系广告",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "宣传型公共关系的具体形式有 A. 演讲和表演 B. 印刷内部刊物和资料 C. 举行会议 D. 公共关系广告",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "这类组织是为全社会服务，为整个社会公众谋求利益的组织，它包括科教、文艺、卫生、环境保护、新闻出版、体育发展等行业和部门。请问这是属于 A. 服务性组织 B. 公益性组织 C. 政治性组织 D. 盈利性组织",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "这类组织是为全社会服务，为整个社会公众谋求利益的组织，它包括科教、文艺、卫生、环境保护、新闻出版、体育发展等行业和部门。请问这是属于 A. 服务性组织 B. 公益性组织 C. 政治性组织 D. 盈利性组织",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "所谓公共关系就是（）为了协调自身利益和社会利益，以良好的组织形象为核心目标，围绕着一系列科学的计划，通过各种传播手段来建立和维系组织与社会公众之间的相互了解、相互信任、相互合作的关系，协调组织内外的各种矛盾，进而创造组织活动的最佳环境的过程。 A. 群众组织 B. 社会组织 C. 公众组织 D. 企业组织",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "所谓公共关系就是（）为了协调自身利益和社会利益，以良好的组织形象为核心目标，围绕着一系列科学的计划，通过各种传播手段来建立和维系组织与社会公众之间的相互了解、相互信任、相互合作的关系，协调组织内外的各种矛盾，进而创造组织活动的最佳环境的过程。 A. 群众组织 B. 社会组织 C. 公众组织 D. 企业组织",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "标志着社会大多数社会公众对组织的基本态度和行为是 A. 形象 B. 传播 C. 舆论 D. 关系",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "标志着社会大多数社会公众对组织的基本态度和行为是 A. 形象 B. 传播 C. 舆论 D. 关系",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "让谈判者通过介绍相互认识的阶段是谈判的 A. 明示阶段 B. 概说阶段 C. 导人阶段 D. 协议阶段",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "让谈判者通过介绍相互认识的阶段是谈判的 A. 明示阶段 B. 概说阶段 C. 导人阶段 D. 协议阶段",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "政府公共关系的宗旨是 A. 全心全意为人民服务 B. 联络感情 C. 沟通信息 D. 政务廉洁",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "政府公共关系的宗旨是 A. 全心全意为人民服务 B. 联络感情 C. 沟通信息 D. 政务廉洁",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "所谓礼仪，是指礼节和（）两个方面。 A. 修养 B. 程序 C. 礼貌 D. 秩序",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "所谓礼仪，是指礼节和（）两个方面。 A. 修养 B. 程序 C. 礼貌 D. 秩序",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "美国卡特利普和森特在其专著《有效的公共关系》一书中 A. 提出了\"凡宣传皆好事\"的命题 B. 提出了\"公众必须被告知\"的命题 C. 提出了\"投公众所好\"的主张 D. 提出了\"双向对称\"的公共关系模式",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "美国卡特利普和森特在其专著《有效的公共关系》一书中 A. 提出了\"凡宣传皆好事\"的命题 B. 提出了\"公众必须被告知\"的命题 C. 提出了\"投公众所好\"的主张 D. 提出了\"双向对称\"的公共关系模式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "在公关人员心理素质中，其最基本的要求是 A. 热情心理 B. 自信心理 C. 创新心理 D. 开放心理",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "在公关人员心理素质中，其最基本的要求是 A. 热情心理 B. 自信心理 C. 创新心理 D. 开放心理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "企业标志在视觉传达中的基本功能是 A. 延伸性 B. 同一性 C. 领导性 D. 识别性",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "企业标志在视觉传达中的基本功能是 A. 延伸性 B. 同一性 C. 领导性 D. 识别性",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "问卷的设计分为两种，它们是 A. 简单式和复杂式 B. 对比式和排序式 C. 两项选择和多项选择 D. 封闭式和开放式",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "问卷的设计分为两种，它们是 A. 简单式和复杂式 B. 对比式和排序式 C. 两项选择和多项选择 D. 封闭式和开放式",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织的公关形象策划要对公众进行研究，其首先要做的工作是 A. 研究目标公众的类型 B. 研究目标公众对组织的特殊视角 C. 建立有效的公众形象 D. 鉴别目标公众的权利要求",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织的公关形象策划要对公众进行研究，其首先要做的工作是 A. 研究目标公众的类型 B. 研究目标公众对组织的特殊视角 C. 建立有效的公众形象 D. 鉴别目标公众的权利要求",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公关调查中使用最为广泛的方法是 A. 资料分析法 B. 民意测验法 C. 群体讨论法 D. 公众代表座谈会法",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公关调查中使用最为广泛的方法是 A. 资料分析法 B. 民意测验法 C. 群体讨论法 D. 公众代表座谈会法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "\"一窝蜂\"现象指的是 A. 时髦 B. 流言 C. 时狂 D. 流行",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "\"一窝蜂\"现象指的是 A. 时髦 B. 流言 C. 时狂 D. 流行",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "划分临时公众、周期公众和（）公众，是制定公共关系临时对策、周期性政策和稳定策略的依据。 A. 稳定 B. 边缘 C. 逆意 D. 顺意",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "划分临时公众、周期公众和（）公众，是制定公共关系临时对策、周期性政策和稳定策略的依据。 A. 稳定 B. 边缘 C. 逆意 D. 顺意",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "优秀的公共关系人员在性格上应具备的特征是 A. 公正无私 B. 创新能力 C. 实事求是 D. 开朗、有耐心、能宽容",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "优秀的公共关系人员在性格上应具备的特征是 A. 公正无私 B. 创新能力 C. 实事求是 D. 开朗、有耐心、能宽容",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "组织的全员公关培训即指对全员进行公关教育，其重点是 A. 公关思想及意识教育 B. 公关能力教育 C. 政治思想教育 D. 公关知识普及教育",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "组织的全员公关培训即指对全员进行公关教育，其重点是 A. 公关思想及意识教育 B. 公关能力教育 C. 政治思想教育 D. 公关知识普及教育",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "()是公共关系的专职高级工作者，为专业的公共关系咨询公司工作。 A. 公共关系教育家 B. 公共关系顾问 C. 公共关系学者 D. 公共关系经理",
+    "answers_std": "B",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "()是公共关系的专职高级工作者，为专业的公共关系咨询公司工作。 A. 公共关系教育家 B. 公共关系顾问 C. 公共关系学者 D. 公共关系经理",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "适用于规模不大的人口总体的抽样方法是 A. 分层随机抽样 B. 整群抽样 C. 分区多级随机抽样 D. 间隔随机抽样",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "适用于规模不大的人口总体的抽样方法是 A. 分层随机抽样 B. 整群抽样 C. 分区多级随机抽样 D. 间隔随机抽样",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系状态是指一个组织所处的社会关系状态和（）状态。 A. 企业管理 B. 社会组织 C. 公共关系传播 D. 社会舆论",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系状态是指一个组织所处的社会关系状态和（）状态。 A. 企业管理 B. 社会组织 C. 公共关系传播 D. 社会舆论",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系意识是指一个组织在以（）利益和社会责任为前提的基础上产生的，主动为公众服务的意识、沟通的意识、协调的意识、信誉的意识、形象的意识、环保的意识、未来的意识和改善关系的各种可持续发展的意识。 A. 社会 B. 群众 C. 公众 D. 企业",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系意识是指一个组织在以（）利益和社会责任为前提的基础上产生的，主动为公众服务的意识、沟通的意识、协调的意识、信誉的意识、形象的意识、环保的意识、未来的意识和改善关系的各种可持续发展的意识。 A. 社会 B. 群众 C. 公众 D. 企业",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "能够较为直观的显示组织的自我形象和实际形象之间现实差距的是 A. 组织形象地位四象限图 B. 组织形象知名度调查表 C. 组织形象要素差距图 D. 组织形象要素调查表",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "能够较为直观的显示组织的自我形象和实际形象之间现实差距的是 A. 组织形象地位四象限图 B. 组织形象知名度调查表 C. 组织形象要素差距图 D. 组织形象要素调查表",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "现代公共关系发展史上的第一本公共关系专著是 A. 《有效公共关系》 B. 《公共关系学》 C. 《舆论》 D. 《公众舆论的形成》",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "现代公共关系发展史上的第一本公共关系专著是 A. 《有效公共关系》 B. 《公共关系学》 C. 《舆论》 D. 《公众舆论的形成》",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "马斯洛认为，在同一时间、地点、条件下，人存在多种需要，其中有一种占（）地位的需要决定着人们的行为。 A. 主要 B. 特别 C. 优势 D. 旺盛",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "马斯洛认为，在同一时间、地点、条件下，人存在多种需要，其中有一种占（）地位的需要决定着人们的行为。 A. 主要 B. 特别 C. 优势 D. 旺盛",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系塑造的是组织的 A. 人员形象 B. 产品形象 C. 服务形象 D. 整体形象",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系塑造的是组织的 A. 人员形象 B. 产品形象 C. 服务形象 D. 整体形象",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "发展有中国特色的公共关系学的前提是 A. 研究国情 B. 积极应用 C. 扩大组织 D. 加强宣传",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "发展有中国特色的公共关系学的前提是 A. 研究国情 B. 积极应用 C. 扩大组织 D. 加强宣传",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "树立交往合作的观念，提高社交能力属于公共关系的 A. 优化环境功能 B. 塑造形象功能 C. 协调关系功能 D. 提高素质功能",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "树立交往合作的观念，提高社交能力属于公共关系的 A. 优化环境功能 B. 塑造形象功能 C. 协调关系功能 D. 提高素质功能",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "我国第一家专业公共关系公司成立于 A. 1988年 B. 1978年 C. 1986年 D. 1982年",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "我国第一家专业公共关系公司成立于 A. 1988年 B. 1978年 C. 1986年 D. 1982年",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系意识的核心是 A. 塑造形象的意识 B. 服务公众的意识 C. 立足长远的意识 D. 真诚互惠的意识",
+    "answers_std": "A",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系意识的核心是 A. 塑造形象的意识 B. 服务公众的意识 C. 立足长远的意识 D. 真诚互惠的意识",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "公共关系在企业中的应用突出表现在两个方面：一是内求团结，二是（）。 A. 外拓市场 B. 外求形象 C. 外求发展 D. 外讲贡献",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "公共关系在企业中的应用突出表现在两个方面：一是内求团结，二是（）。 A. 外拓市场 B. 外求形象 C. 外求发展 D. 外讲贡献",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "调查者直接走访被调查者，当面听取被调查者的意见属于 A. 面访调查 B. 电话调查 C. 通讯调查 D. 深度调查",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "调查者直接走访被调查者，当面听取被调查者的意见属于 A. 面访调查 B. 电话调查 C. 通讯调查 D. 深度调查",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "知名度指一个组织被公众知晓、了解的程度，是评价组织名气大小的客观尺度，侧重于（）的评价，即组织对社会公众影响的广度和深度。 A. “度” B. “质” C. “信” D. “量”",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "知名度指一个组织被公众知晓、了解的程度，是评价组织名气大小的客观尺度，侧重于（）的评价，即组织对社会公众影响的广度和深度。 A. “度” B. “质” C. “信” D. “量”",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "首次阐明人们的逆反心理形成的主观原因的美国心理学家是 A. 阿什 B. 霍夫兰 C. 布林 D. 纳普",
+    "answers_std": "C",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "首次阐明人们的逆反心理形成的主观原因的美国心理学家是 A. 阿什 B. 霍夫兰 C. 布林 D. 纳普",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  },
+  {
+    "question_std": "评估公共关系效果的方法有 A. 直接观察法 B. 传播统计法 C. 领导检查法 D. 公众行为检测法",
+    "answers_std": "D",
+    "answers_real": "",
+    "valid": false,
+    "prompt": "评估公共关系效果的方法有 A. 直接观察法 B. 传播统计法 C. 领导检查法 D. 公众行为检测法",
+    "score": 0,
+    "err": "not run",
+    "type": ""
+  }
+]

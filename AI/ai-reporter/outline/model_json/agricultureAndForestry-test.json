@@ -1,0 +1,23 @@
+{
+    "title": "{title}",
+    "Sections": [
+        {
+            "index": 1,
+            "Section": "第一章 {keyword}行业发展概述",
+            "child": [
+                {
+                    "index": 1,
+                    "Section": "第一节 {keyword}定义及分类"
+                },
+                {
+                    "index": 2,
+                    "Section": "第二节 {keyword}产业链分析"
+                },
+                {
+                    "index": 3,
+                    "Section": "第三节 {keyword}行业地位分析"
+                }
+            ]
+        }
+    ]
+}

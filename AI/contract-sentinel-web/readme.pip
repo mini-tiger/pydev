@@ -1,0 +1,19 @@
+pip3 download -d d:\codes\neolink-dataset\contract-sentinel-web\whl_pack -i https://pypi.tuna.tsinghua.edu.cn/simple virtualenv
+
+pip3 download -d d:\codes\neolink-dataset\contract-sentinel-web\whl_pack \
+-i https://pypi.tuna.tsinghua.edu.cn/simple -r d:\codes\neolink-dataset\contract-sentinel-web\pip_win32.txt \
+--proxy http://172.22.220.21:1081 \
+--no-cache
+
+
+c:\Python\python3.10
+
+pip3 install --no-index --find-link d:\codes\neolink-dataset\contract-sentinel-web\whl_pack virtualenv
+virtualenv d:\venv_py3.10
+cd d:\venv_py3.10\Scripts
+activate
+
+pip3 install --no-index --find-link d:\codes\neolink-dataset\contract-sentinel-web\whl_pack -r d:\codes\neolink-dataset\contract-sentinel-web\pip_win32.txt
+
+set PYTHONUNBUFFERED=1
+d:\codes\neolink-dataset\contract-sentinel-web>d:\venv_py3.10\Scripts\python.exe run_demo_win32.py

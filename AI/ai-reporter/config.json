@@ -1,0 +1,25 @@
+[
+  {
+    "project": {
+      "id": 1,
+      "name": "中咨办公助手",
+      "page": {
+        "pageLogo": "",
+        "pageTitle": "中咨办公助手",
+        "metaName": "我的智能助手"
+      },
+      "application": {
+        "title": "中咨办公助手",
+        "alias": "办公助手",
+        "welcomeMessage": "您好,我是小微同学，我在呢，有什么可以帮您的吗？",
+        "assistantName": "小微同学",
+        "prompt": [
+          "你是谁？",
+          "密码如何更改",
+          "如何申请报销？"
+        ],
+        "manualPrompt": "转人工功能正在对接中，请联系管理员"
+      }
+    }
+  }
+]
