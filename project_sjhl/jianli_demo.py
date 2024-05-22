@@ -1,11 +1,6 @@
-import tkinter as tk
-from tkinter import ttk
-from tkinter import filedialog
 from pathlib import Path
 from openai import OpenAI
 import re
-import PyQt5
-from markdown_strings import header, table, code_block,table_from_rows
 
 class ProjectWindow:
     def __init__(self):
@@ -61,11 +56,11 @@ class ProjectWindow:
         messages = [
             {
                 "role": "system",
-                "content": file_content2,
+                "content": file_content,
             },
             {
                 "role": "system",
-                "content": file_content,
+                "content": file_content2,
             },
 
             {"role": "user", "content": default_text},
