@@ -227,19 +227,19 @@ class ProjectWindow:
         #            print(f"#{idx}: {''.join(collected_messages)}")
 
         # 查找所有匹配项并插入到表格中
-        full_conversation = ''.join(collected_messages) + "\n"
-        pattern = r'(\d+)、(.*?：评分：\d+分)\n分析：(.*?)\n'
-        for match in re.finditer(pattern, full_conversation):
-            serial = match.group(1)  # 序号，作为第一列
-            skill_and_score = match.group(2)  # 技能和评分，需要进一步分割
-            analysis = match.group(3)  # 分析，作为第四列
-
-            # 进一步分割技能和评分
-            skill, score = skill_and_score.split("：评分：")
-
-            # 插入到表格中
-            self.tree.insert("", tk.END, values=(serial, skill, score, analysis))
-            self.master.update_idletasks()  # 强制更新界面
+        # full_conversation = ''.join(collected_messages) + "\n"
+        # pattern = r'(\d+)、(.*?：评分：\d+分)\n分析：(.*?)\n'
+        # for match in re.finditer(pattern, full_conversation):
+        #     serial = match.group(1)  # 序号，作为第一列
+        #     skill_and_score = match.group(2)  # 技能和评分，需要进一步分割
+        #     analysis = match.group(3)  # 分析，作为第四列
+        #
+        #     # 进一步分割技能和评分
+        #     skill, score = skill_and_score.split("：评分：")
+        #
+        #     # 插入到表格中
+        #     self.tree.insert("", tk.END, values=(serial, skill, score, analysis))
+        #     self.master.update_idletasks()  # 强制更新界面
 
     def custom_style(self):
         style = ttk.Style()

@@ -96,7 +96,6 @@ class ProjectWindow:
                 pattern = r'(\d+)、(.*?：评分：\d+分)\n分析：(.*?)\n'
                 for match in re.finditer(pattern, full_conversation):
                     serial = match.group(1)  # 序号，作为第一列
-                    # serial = i
                     skill_and_score = match.group(2)  # 技能和评分，需要进一步分割
                     analysis = match.group(3)  # 分析，作为第四列
 
@@ -104,7 +103,7 @@ class ProjectWindow:
                     skill, score = skill_and_score.split("：评分：")
                     print(f"serial:{serial},analysis:{analysis},skill:{skill},score:{score}")
                     self.markdown_table_row.append([serial,skill,score,analysis])
-
+                collected_messages = []
                     # self.markdown_table_row.append([serial,skill,score,analysis])
         #
         #             # 插入到表格中
