@@ -103,8 +103,8 @@ class minio_process():
 
 if __name__ == "__main__":
     # 1. create minio conn
-    m = minio_process(access_key="6slMTVw1pbhMnwwK", secret_key="RRTDj8UfVcIG1NyIEdFgP9Bg4Y0JgD2e",
-                      minio_server="172.22.220.90:31088", bucket_name="neodata")
+    m = minio_process(access_key="dcSUnb8eHqlatvmN", secret_key="FnG7BAwoyGqqni0LDcWczIgRqLPx5BL3",
+                      minio_server="120.133.63.166:9110", bucket_name="files")
     # 2. upload file
     upload_result = m.upload_file(file_path="/data/work/pydev/README.md")
     print(f"upload result: {upload_result}")
@@ -117,7 +117,7 @@ if __name__ == "__main__":
         m.download_file(prefix=upload_result['minio_put_path'],local_dir='/data/work/pydev/面试/')
 
     # 4. delete file
-    m.delete_file(prefix=upload_result['minio_put_path'])
+    # m.delete_file(prefix=upload_result['minio_put_path'])
 
     # 5. get list dir
     list_files= m.list_files_in_directory(os.path.dirname(upload_result['minio_put_path']))

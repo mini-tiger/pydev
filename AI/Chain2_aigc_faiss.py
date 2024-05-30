@@ -24,6 +24,7 @@ from langchain.document_loaders import Docx2txtLoader
 from langchain.document_loaders import TextLoader
 from langchain.vectorstores import FAISS
 from langchain.embeddings import OpenAIEmbeddings,HuggingFaceEmbeddings
+
 hm=HuggingFaceEmbeddings(model_name='moka-ai/m3e-base')
 
 save_file="faiss_index"

@@ -1,9 +1,26 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, Response
 from starlette.responses import StreamingResponse
 import asyncio
-import uvicorn
+import uvicorn,json
 
 app = FastAPI()
+async def generate_events111():
+    for i in range(10):
+        # 直接生成数据，这里用 f-string 模拟数据
+        data1 = f"Data from source 111, event {i}"
+
+        # 生成 SSE 格式的数据
+        yield f"data: {data1}\n\n"
+
+        await asyncio.sleep(1)  # 模拟间隔时间
+
+def event_stream111():
+    return generate_events111()
+
+@app.get("/event111", response_class=StreamingResponse)
+async def event111(request: Request):
+    response = StreamingResponse(event_stream111(), media_type="text/event-stream")
+    return response
 
 async def get_data_from_source1():
     # 模拟从数据源1异步获取数据
