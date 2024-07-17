@@ -14,7 +14,7 @@ from langchain_core.messages import AIMessage
 
 os.environ["OPENAI_API_KEY"] = 'EMPTY'
 llm = ChatOpenAI(temperature=0,openai_api_base="http://120.133.83.145:8000/v1")
-
+print(dir(llm))
 # Define a prompt template
 template = """You are a helpful AI assistant. You give specialized advice on travel.
 """

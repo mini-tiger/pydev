@@ -62,7 +62,7 @@ async def generator(items: dict, request: Request = None):
     set_font(line, '黑体', 18, True)
 
     # 标记目录的位置
-    catalog_p = doc.add_paragraph('')
+    # catalog_p = doc.add_paragraph('')
     # 添加节
     doc.add_section()
     for item in sections:
@@ -431,24 +431,24 @@ def insert_page_number(doc):
     sectPr.append(pgNumType)
 
 
-def covert_md_to_word(md_str):
-    pattern = re.compile(r'[\n]+[1-9]\d*.[ ][\*]*[\u4e00-\u9fa5]')
-    r_list = pattern.findall(md_str)
-    for r in r_list:
-        md_str = md_str.replace(r, r.replace(' ', ''))
-
-    import pypandoc
-    import uuid
-    file_dirs = os.path.abspath("./attachments/tmp")
-    file_name = f'{file_dirs}//h2w-%s.docx' % str(uuid.uuid1()).replace('-', '')
-    html_str = pypandoc.convert_text(md_str, 'html', format='md')
-    pypandoc.convert_text(html_str, 'docx', format='html', outputfile=file_name)
-    doc = Document(file_name)
-    os.remove(file_name)
-    for para in doc.paragraphs:
-        para.paragraph_format.line_spacing = 1.5  # 行间距，1.5倍行距
-        para.paragraph_format.first_line_indent = Pt(22)  # 首行缩进10磅
-    return doc
+# def covert_md_to_word(md_str):
+#     pattern = re.compile(r'[\n]+[1-9]\d*.[ ][\*]*[\u4e00-\u9fa5]')
+#     r_list = pattern.findall(md_str)
+#     for r in r_list:
+#         md_str = md_str.replace(r, r.replace(' ', ''))
+#
+#     import pypandoc
+#     import uuid
+#     file_dirs = os.path.abspath("./attachments/tmp")
+#     file_name = f'{file_dirs}//h2w-%s.docx' % str(uuid.uuid1()).replace('-', '')
+#     html_str = pypandoc.convert_text(md_str, 'html', format='md')
+#     pypandoc.convert_text(html_str, 'docx', format='html', outputfile=file_name)
+#     doc = Document(file_name)
+#     os.remove(file_name)
+#     for para in doc.paragraphs:
+#         para.paragraph_format.line_spacing = 1.5  # 行间距，1.5倍行距
+#         para.paragraph_format.first_line_indent = Pt(22)  # 首行缩进10磅
+#     return doc
 
 
 def get_config(config_file):

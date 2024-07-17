@@ -1,0 +1,19 @@
+环境下载
+https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/pip/linux-pip.html
+
+高精度模型
+https://github.com/PaddlePaddle/PaddleOCR/blob/main/doc/doc_ch/models_list.md
+
+https://paddleocr.bj.bcebos.com/PP-OCRv4/chinese/ch_PP-OCRv4_det_server_infer.tar
+https://paddleocr.bj.bcebos.com/PP-OCRv4/chinese/ch_PP-OCRv4_rec_server_infer.tar
+
+
+ocr = PaddleOCR(
+    use_angle_cls=True,
+    lang="ch",
+    use_gpu=config.BaseConfig.use_gpu,
+    show_log=False,
+    ocr_version="PP-OCRv4",
+    rec_model_dir=config.BaseConfig.rec_model_dir if config.BaseConfig.use_gpu else None,
+    det_model_dir=config.BaseConfig.det_model_dir if config.BaseConfig.use_gpu else None
+)

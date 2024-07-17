@@ -1,12 +1,12 @@
 import requests
-
+from urllib import parse
 # Keycloak 服务器 URL 和管理员账户信息
 KEYCLOAK_SERVER_URL = "http://120.133.63.166:8080/"
 ADMIN_USERNAME = "admin"
 ADMIN_PASSWORD = "password"
 REALM_NAME = "demo2"
 USER_USERNAME = "newuser"
-TARGET_ROLE_NAME = "query"
+CLIENT_ID = "my-client"
 
 def get_admin_token():
     data = {
@@ -15,11 +15,12 @@ def get_admin_token():
         "password": ADMIN_PASSWORD,
         "grant_type": "password"
     }
-    response = requests.post(f"{KEYCLOAK_SERVER_URL}realms/master/protocol/openid-connect/token", data=data)
+    response = requests.post(parse.urljoin(KEYCLOAK_SERVER_URL,"realms/master/protocol/openid-connect/token"), data=data)
     response.raise_for_status()
     return response.json()["access_token"]
 
 admin_token = get_admin_token()
+print(admin_token)
 
 def get_user_id(token, realm_name, username):
     headers = {"Authorization": f"Bearer {token}"}
@@ -32,11 +33,16 @@ def get_user_id(token, realm_name, username):
 
 user_id = get_user_id(admin_token, REALM_NAME, USER_USERNAME)
 
-def get_all_clients(token, realm_name):
+def get_client_id(token, realm_name, client_id):
     headers = {"Authorization": f"Bearer {token}"}
-    response = requests.get(f"{KEYCLOAK_SERVER_URL}admin/realms/{realm_name}/clients", headers=headers)
+    response = requests.get(f"{KEYCLOAK_SERVER_URL}admin/realms/{realm_name}/clients", headers=headers, params={"clientId": client_id})
     response.raise_for_status()
-    return response.json()
+    clients = response.json()
+    if clients:
+        return clients[0]["id"]
+    raise Exception(f"Client '{client_id}' not found")
+
+client_id = get_client_id(admin_token, REALM_NAME, CLIENT_ID)
 
 def get_user_client_roles(token, realm_name, user_id, client_id):
     headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
@@ -44,18 +50,12 @@ def get_user_client_roles(token, realm_name, user_id, client_id):
     response.raise_for_status()
     return response.json()
 
-def find_clients_with_role(token, realm_name, user_id, target_role_name):
-    clients_with_role = []
-    all_clients = get_all_clients(token, realm_name)
-    for client in all_clients:
-        client_id = client["id"]
-        client_roles = get_user_client_roles(token, realm_name, user_id, client_id)
-        for role in client_roles:
-            if role["name"] == target_role_name:
-                clients_with_role.append(client["clientId"])
-                break
-    return clients_with_role
+def print_user_client_roles(token, realm_name, user_id, client_id):
+    client_roles = get_user_client_roles(token, realm_name, user_id, client_id)
+    if not client_roles:
+        print(f"User '{USER_USERNAME}' has no client roles on client '{CLIENT_ID}'.")
+    else:
+        role_names = [role['name'] for role in client_roles]
+        print(f"User '{USER_USERNAME}' has roles {role_names} on client '{CLIENT_ID}'")
 
-clients_with_query_role = find_clients_with_role(admin_token, REALM_NAME, user_id, TARGET_ROLE_NAME)
-
-print(f"User '{USER_USERNAME}' has the role '{TARGET_ROLE_NAME}' on the following clients: {clients_with_query_role}")
+print_user_client_roles(admin_token, REALM_NAME, user_id, client_id)
