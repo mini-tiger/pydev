@@ -76,7 +76,6 @@ orjson==3.10.5
 packaging==24.1
 pandas==2.2.2
 paddleocr==2.7.3
-paddlepaddle==2.6.1
 pdf2docx==0.5.8
 pillow==10.3.0
 premailer==3.10.0

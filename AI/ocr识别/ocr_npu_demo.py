@@ -21,8 +21,8 @@ ocr = PaddleOCR(
     use_angle_cls=True,
     lang="ch",
     use_gpu=False,
-    use_npu=True,
-    show_log=False,
+    use_npu=False,
+    show_log=True,
     ocr_version="PP-OCRv4",
 
     rec_model_dir=config.BaseConfig.rec_model_dir if config.BaseConfig.use_gpu else None,
