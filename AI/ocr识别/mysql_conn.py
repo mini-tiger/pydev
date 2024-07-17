@@ -10,8 +10,13 @@ from sqlalchemy import create_engine, Column, Integer, String, DateTime, func, F
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import relationship, sessionmaker
-
+import pytz
+from datetime import datetime
 import config
+def get_current_time_in_cst():
+    utc_now = datetime.utcnow()
+    cst_now = utc_now.replace(tzinfo=pytz.utc).astimezone(pytz.timezone('Asia/Shanghai'))
+    return cst_now
 
 engine = create_engine(
     url=config.BaseConfig.db_uri,
@@ -37,7 +42,7 @@ class Report(Base):
     investment_amount_unit = Column(String(25), comment='投资额单位')
     filename = Column(String(100), comment='文件名')
     report_time = Column(Date, comment='报告印发时间')
-    insert_time = Column(DateTime, default=func.now(), comment='插入时间')
+    insert_time = Column(DateTime, default=get_current_time_in_cst, comment='插入时间')
 
 
 class Personnel(Base):
@@ -49,7 +54,7 @@ class Personnel(Base):
     job_titles = Column(String(255), comment='工作职称')
     project_role = Column(String(50), comment='项目职位')
     filename = Column(String(100), comment='文件名')
-    insert_time = Column(DateTime, default=func.now(), comment='插入时间')
+    insert_time = Column(DateTime, default=get_current_time_in_cst, comment='插入时间')
 
 def is_filename_exist(obj,filename):
     # 查询数据库中是否存在指定filename的记录

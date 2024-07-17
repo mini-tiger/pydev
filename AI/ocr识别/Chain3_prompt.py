@@ -153,7 +153,7 @@ def process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, pre
 def process_xml_data(filename, output_directory, total_pages,retry=0,err_detail=None):
     if retry > 1:
         logger.error(f"retry:{retry},err_detail:{err_detail},move {filename} to {config.BaseConfig.err_pdf_files_dir}")
-        return retry,err_detail
+        return retry, err_detail
 
     # clear data
     mysql_conn.delete_records_by_filename(filename=filename)
