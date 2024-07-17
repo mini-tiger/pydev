@@ -19,7 +19,7 @@ def pdf_to_txt(pdf_file, txt_file):
     ocr = PaddleOCR(use_angle_cls=True,
                     lang="ch",
                     use_gpu=True,
-                    show_log=False,
+                    show_log=True,
                     ocr_version="PP-OCRv4",
                     rec_model_dir=config.BaseConfig.rec_model_dir if config.BaseConfig.use_gpu else None,
                     det_model_dir=config.BaseConfig.det_model_dir if config.BaseConfig.use_gpu else None
