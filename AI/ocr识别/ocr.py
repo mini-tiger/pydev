@@ -15,6 +15,7 @@ output_dir = config.BaseConfig.current_directory
 import config
 import utils
 
+cpu_count_os = os.cpu_count()
 # Initialize PaddleOCR
 ocr = PaddleOCR(
     use_angle_cls=True,
@@ -22,7 +23,8 @@ ocr = PaddleOCR(
     use_gpu=config.BaseConfig.use_gpu,
     show_log=False,
     ocr_version="PP-OCRv4",
-    enable_mkldnn=True, cpu_threads=8,
+    enable_mkldnn=True,
+    cpu_threads=cpu_count_os,
     rec_model_dir=config.BaseConfig.rec_model_dir if config.BaseConfig.use_gpu else None,
     det_model_dir=config.BaseConfig.det_model_dir if config.BaseConfig.use_gpu else None
 )

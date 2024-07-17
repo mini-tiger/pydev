@@ -37,6 +37,7 @@ class Report(Base):
     investment_amount_unit = Column(String(25), comment='投资额单位')
     filename = Column(String(100), comment='文件名')
     report_time = Column(Date, comment='报告印发时间')
+    insert_time = Column(DateTime, default=func.now(), comment='插入时间')
 
 
 class Personnel(Base):
@@ -48,6 +49,7 @@ class Personnel(Base):
     job_titles = Column(String(255), comment='工作职称')
     project_role = Column(String(50), comment='项目职位')
     filename = Column(String(100), comment='文件名')
+    insert_time = Column(DateTime, default=func.now(), comment='插入时间')
 
 def is_filename_exist(obj,filename):
     # 查询数据库中是否存在指定filename的记录

@@ -152,7 +152,7 @@ def process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, pre
 
 def process_xml_data(filename, output_directory, total_pages,retry=0,err_detail=None):
     if retry > 1:
-        logger.error(f"retry:{retry},move {filename} to {config.BaseConfig.err_pdf_files_dir}")
+        logger.error(f"retry:{retry},err_detail:{err_detail},move {filename} to {config.BaseConfig.err_pdf_files_dir}")
         return retry,err_detail
 
     # clear data
@@ -172,7 +172,7 @@ def process_xml_data(filename, output_directory, total_pages,retry=0,err_detail=
         else:
             #retry
             logger.error(f"err:{err_detail},filename:{filename}")
-            return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,retry=retry+1)
+            return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,retry=retry+1,err_detail=err_detail)
     else:
         logger.debug(f"filename: {filename} Personnel record exist")
 
@@ -205,7 +205,7 @@ def process_xml_data(filename, output_directory, total_pages,retry=0,err_detail=
         else:
             #retry
             logger.error(f"err:{err_detail},filename:{filename}")
-            return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,retry=retry+1)
+            return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,retry=retry+1,err_detail=err_detail)
 
     mysql_conn.session.close()
     return retry, err_detail
