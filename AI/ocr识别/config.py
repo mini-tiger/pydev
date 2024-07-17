@@ -23,11 +23,13 @@ class BaseConfig(object):
     neo4j_password = "0123456789"
 
     openai_base = "http://120.133.63.166:9099/v1"
+    cls_model_dir = os.path.join(current_directory,"whl/cls/ch_ppocr_server_v2.0_rec_infer")
     rec_model_dir = os.path.join(current_directory, "whl/rec/ch_PP-OCRv4_rec_server_infer")
     det_model_dir = os.path.join(current_directory, "whl/det/ch/ch_PP-OCRv4_det_server_infer")
     # on A800
     if use_gpu:
         openai_base = "http://127.0.0.1:9099/v1"
+        cls_model_dir = os.path.join(current_directory, "whl/cls/ch_ppocr_server_v2.0_rec_infer")
         rec_model_dir = os.path.join(current_directory, "whl/rec/ch_PP-OCRv4_rec_server_infer")
         det_model_dir = os.path.join(current_directory, "whl/det/ch/ch_PP-OCRv4_det_server_infer")
 

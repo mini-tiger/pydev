@@ -21,10 +21,10 @@ ocr = PaddleOCR(
     use_angle_cls=True,
     lang="ch",
     use_gpu=False,
-    use_npu=True,
+    # use_npu=True,
     show_log=True,
     ocr_version="PP-OCRv4",
-
+    # cls_model_dir=config.BaseConfig.cls_model_dir,
     rec_model_dir=config.BaseConfig.rec_model_dir,
     det_model_dir=config.BaseConfig.det_model_dir
 )
