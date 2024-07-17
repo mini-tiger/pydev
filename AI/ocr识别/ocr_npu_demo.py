@@ -12,12 +12,19 @@ from paddleocr import PaddleOCR, draw_ocr
 # 例如`ch`, `en`, `fr`, `german`, `korean`, `japan`
 
 import time
-
-
+import config
+config.BaseConfig.use_gpu=True
 def pdf_to_txt(pdf_file, txt_file):
     start = time.time()
-    ocr = PaddleOCR(use_angle_cls=True, lang="ch", use_gpu=True, show_log=True,
-                    strategy="fast")  # need to run only once to download and load model into memory
+    ocr = PaddleOCR(use_angle_cls=True,
+                    lang="ch",
+                    use_gpu=True,
+                    show_log=False,
+                    ocr_version="PP-OCRv4",
+                    enable_mkldnn=True,
+                    rec_model_dir=config.BaseConfig.rec_model_dir if config.BaseConfig.use_gpu else None,
+                    det_model_dir=config.BaseConfig.det_model_dir if config.BaseConfig.use_gpu else None
+                    )  # need to run only once to download and load model into memory
     img_path = pdf_file
 
     f = open(txt_file, 'w', encoding='utf-8')
