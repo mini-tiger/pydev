@@ -21,7 +21,6 @@ def pdf_to_txt(pdf_file, txt_file):
                     use_gpu=True,
                     show_log=False,
                     ocr_version="PP-OCRv4",
-                    enable_mkldnn=True,
                     rec_model_dir=config.BaseConfig.rec_model_dir if config.BaseConfig.use_gpu else None,
                     det_model_dir=config.BaseConfig.det_model_dir if config.BaseConfig.use_gpu else None
                     )  # need to run only once to download and load model into memory
