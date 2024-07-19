@@ -24,7 +24,7 @@ os.environ["OPENAI_API_KEY"] = 'EMPTY'
 # 创建聊天模型
 from langchain_openai import ChatOpenAI
 
-llm = ChatOpenAI(temperature=0, openai_api_base=config.BaseConfig.openai_base, model="Qwen1.5-72B-Chat",max_tokens=4096)
+llm = ChatOpenAI(temperature=0.1, openai_api_base=config.BaseConfig.openai_base, model="Qwen1.5-72B-Chat",max_tokens=4096)
 
 
 def invoke_llm(pdf_txt, cot, human_tpl):
@@ -45,9 +45,10 @@ def invoke_llm(pdf_txt, cot, human_tpl):
         chat_prompt = ChatPromptTemplate.from_messages([system_prompt_cot, human_prompt])
         human_input = human_tpl.format(pdf_txt=pdf_txt)
         prompt = chat_prompt.format_prompt(human_input=human_input).to_messages()
-
+        logger.debug(prompt)
         # 接收用户的询问，返回回答结果
         response = llm(prompt, stream=False)
+        logger.debug(response)
     except Exception as e:
         logger.error(e)
         return None

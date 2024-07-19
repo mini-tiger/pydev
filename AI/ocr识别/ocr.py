@@ -25,8 +25,8 @@ ocr = PaddleOCR(
     ocr_version="PP-OCRv4",
     enable_mkldnn=True,
     cpu_threads=cpu_count_os,
-    rec_model_dir=config.BaseConfig.rec_model_dir if config.BaseConfig.use_gpu else None,
-    det_model_dir=config.BaseConfig.det_model_dir if config.BaseConfig.use_gpu else None
+    rec_model_dir=config.BaseConfig.rec_model_dir ,
+    det_model_dir=config.BaseConfig.det_model_dir
 )
 
 
