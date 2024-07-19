@@ -28,7 +28,26 @@ def fetch_filepaths_from_db():
 
     return file_info
 
+def download_file_exec(ftp,root_dir,local_file_name,remote_file_path):
+    try:
+        # Determine local file path
+        local_file_path = os.path.join(local_base_dir, local_file_name)
+        # Create local directory if it doesn't exist
+        os.makedirs(local_base_dir, exist_ok=True)
 
+        # Change to the directory containing the file on FTP server
+        remote_dir = os.path.dirname(remote_file_path)
+        remote_file = os.path.basename(remote_file_path)
+        ftp.cwd(root_dir)
+        if remote_dir:
+            ftp.cwd(remote_dir)
+
+        # Download the file
+        with open(local_file_path, 'wb') as local_file:
+            ftp.retrbinary(f"RETR {remote_file}", local_file.write)
+        print(f"File downloaded successfully: {local_file_path}")
+    except Exception as e:
+        print(f"File downloaded error:{str(e)}: {local_file_path}")
 def download_files(ftp_server, username, password, file_info, local_base_dir):
     try:
         # Connect to the FTP server
@@ -38,24 +57,7 @@ def download_files(ftp_server, username, password, file_info, local_base_dir):
         # Save the root directory
         root_dir = ftp.pwd()
         for remote_file_path, local_file_name in file_info.items():
-
-            # Determine local file path
-            local_file_path = os.path.join(local_base_dir, local_file_name)
-            # Create local directory if it doesn't exist
-            os.makedirs(local_base_dir, exist_ok=True)
-
-            # Change to the directory containing the file on FTP server
-            remote_dir = os.path.dirname(remote_file_path)
-            remote_file = os.path.basename(remote_file_path)
-            ftp.cwd(root_dir)
-            if remote_dir:
-                ftp.cwd(remote_dir)
-
-            # Download the file
-            with open(local_file_path, 'wb') as local_file:
-                ftp.retrbinary(f"RETR {remote_file}", local_file.write)
-            print(f"File downloaded successfully: {local_file_path}")
-
+            download_file_exec(ftp,root_dir,local_file_name,remote_file_path)
         # Close the FTP connection
         ftp.quit()
     except ftplib.all_errors as e:
