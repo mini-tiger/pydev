@@ -37,7 +37,8 @@ class BaseConfig(object):
 
         db_uri = f"mysql+pymysql://root:{password_encoded}@172.17.0.7:3306/testdb?charset=utf8"
     if int(zz) == 1:
-        openai_base = "http://172.21.10.143:33390/v1"
+        # openai_base = "http://172.21.10.143:33390/v1"
+        openai_base = "http://120.133.63.166:9099/v1"
         passwd = "vchat@QAZ"
         password_encoded = urllib.parse.quote_plus(passwd)
         # db_uri = f"mysql+pymysql://root:{password_encoded}@120.133.63.166:9171/testdb?charset=utf8"

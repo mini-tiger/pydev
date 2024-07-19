@@ -5,6 +5,8 @@ venv/
 *.jpg
 
 *.xml
-
+*.pdf
+*.tar
+*.tar.gz
 *.iml
 

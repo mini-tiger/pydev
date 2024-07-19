@@ -1,5 +1,5 @@
 #!/bin/bash
-export zz=1
+export ZZ=1
 #export RECREATE_TABLE=True
 SHELL_FOLDER=$(dirname $(readlink -f "$0"))
 echo $SHELL_FOLDER
