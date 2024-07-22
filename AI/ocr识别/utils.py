@@ -1,7 +1,20 @@
 import time,os,shutil
+from datetime import datetime
 def contains_any(string, substrings):
     return any(substring in string for substring in substrings)
+import os
 
+def get_file_size(file_path):
+    """
+    Get the size of the specified file.
+
+    :param file_path: Path to the file
+    :return: Size of the file in bytes
+    """
+    if os.path.isfile(file_path):
+        return os.path.getsize(file_path)
+    else:
+        return 0
 def list_of_dicts_to_string(data):
     result = []
     for item in data:
@@ -73,6 +86,13 @@ def read_xml_to_dict(file_path):
         xml_content = file.read()
         data_dict = xmltodict.parse(xml_content)
     return data_dict
+
+def get_current_time():
+    # 获取当前时间
+    current_time = datetime.now()
+
+    # 格式化时间为 yyyy-mm-dd HH:MM:ss 格式
+    return  current_time.strftime('%Y-%m-%d %H:%M:%S')
 
 
 def move_file_to_directory(filename, output_directory):

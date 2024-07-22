@@ -48,7 +48,7 @@ def invoke_llm(pdf_txt, cot, human_tpl):
         logger.debug(prompt)
         # 接收用户的询问，返回回答结果
         response = llm(prompt, stream=False)
-        logger.debug(response)
+        logger.debug(response.content)
     except Exception as e:
         logger.error(e)
         return None
@@ -102,6 +102,15 @@ def xml_to_json(xml_file, json_file):
         raise e
 
 
+def clean_xml(input_text):
+    # 检查是否包含 'AI: '
+    if 'AI: ' in input_text:
+        # 去掉所有的 'AI: '
+        cleaned_text = input_text.replace('AI: ', '')
+    else:
+        cleaned_text = input_text
+
+    return cleaned_text
 def validate_xml(file_path):
     try:
         tree = ET.parse(file_path)
@@ -113,9 +122,9 @@ def validate_xml(file_path):
         return False
 
 
-def process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, prefix, retry=0):
+def process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, prefix, retry=0,error=None):
     if retry > 1:
-        return None,None,None
+        return None,None,None,error
     try:
         cot = pdf_rule["cot"]
         human_tpl = pdf_rule["human_tpl"]
@@ -134,24 +143,31 @@ def process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, pre
         # pdf_txt = ocr.process_pdf_file(pdf_path, output_directory, output_text_file, ocr.save_images, pdf_rule)
         pdf_txt = ocr.process_pdf_file(pdf_path=pdf_path, output_directory=output_directory, total_pages=total_pages,
                                        pdf_rule=pdf_rule)
-
+        if len(pdf_txt) <= 2:
+            raise Exception(f"{pdf_rule['pdf_page']}.txt,content len lte 2")
         resp_context = invoke_llm(pdf_txt=pdf_txt, cot=cot, human_tpl=human_tpl)
         if resp_context is None:
-            raise "llm error"
+            raise Exception("llm error")
+
+        # llm 14B split
+        resp_context = clean_xml(resp_context)
+        logger.debug(resp_context)
+
         wr_xml_file(output_xml_file, xml_str=resp_context)
         xml_to_json(xml_file=output_xml_file, json_file=output_json_file)
 
         if validate_xml(output_xml_file):
             parsed_xml = xmltodict.parse(resp_context)
-            return parsed_xml,output_xml_file,output_json_file
+            return parsed_xml,output_xml_file,output_json_file,error
         else:
-            raise "XML validation failed."
-    except Exception as e:
+            raise Exception("XML validation failed.")
+    except BaseException as e:
         logger.error(f"{e},retry: {retry}")
-        return process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, prefix, retry=retry + 1)
+        error=str(e)
+        return process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, prefix, retry=retry + 1,error=error)
 
 
-def process_xml_data(filename, output_directory, total_pages,retry=0,err_detail=None):
+def process_xml_data(filename, output_directory, xmbh,total_pages,retry=0,err_detail=None):
     if retry > 1:
         logger.error(f"retry:{retry},err_detail:{err_detail},move {filename} to {config.BaseConfig.err_pdf_files_dir}")
         return retry, err_detail
@@ -163,24 +179,35 @@ def process_xml_data(filename, output_directory, total_pages,retry=0,err_detail=
 
     if mysql_conn.is_filename_exist(mysql_conn.Personnel,filename) is not None:
         # Personnel
-        parsed_xml_personnel,personnel_output_xml_file,personnel_output_json_file = process_xml_insert_db(filename=filename, output_directory=output_directory,
+        parsed_xml_personnel,personnel_output_xml_file,personnel_output_json_file,error = process_xml_insert_db(filename=filename,
+                                                                                                          output_directory=output_directory,
                                                      total_pages=total_pages, pdf_rule=prompt_ex.Personnel_rule,
                                                      prefix="personnel", retry=0)
+        # xml fail 直接返回
+        if error is not None:
+            err_detail = error
+            retry = 2
+            logger.error(f"err:{err_detail},filename:{filename}")
+            return retry,err_detail
 
-        err_detail = mysql_conn.insert_personnel(mysql_conn.session, filename=filename, parsed_xml=parsed_xml_personnel)
+        err_detail = mysql_conn.insert_personnel(mysql_conn.session, filename=filename,
+                                                 parsed_xml=parsed_xml_personnel,xmbh=xmbh)
         if err_detail is None:
             logger.info(f"Successfully inserted Personnel DB with {filename}")
         else:
             #retry
             logger.error(f"err:{err_detail},filename:{filename}")
-            return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,retry=retry+1,err_detail=err_detail)
+            return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,
+                                    retry=retry+1,err_detail=err_detail,xmbh=xmbh)
     else:
         logger.debug(f"filename: {filename} Personnel record exist")
 
     # Project
     if mysql_conn.is_filename_exist(mysql_conn.Report,filename) is not None:
-        _,project_output_xml_file,project_output_json_file = process_xml_insert_db(filename, output_directory=output_directory, total_pages=total_pages,
+        #有专家  在项目信息中 不考虑 error
+        _,project_output_xml_file,project_output_json_file,_ = process_xml_insert_db(filename, output_directory=output_directory, total_pages=total_pages,
                                                    pdf_rule=prompt_ex.Project_rule, prefix="project", retry=0)
+
 
         #xxx 总投资额 merge to project
         investment, unit = ocr.extraction_investment_amount_with_textfile(os.path.join(output_directory, "all.txt"))
@@ -199,14 +226,15 @@ def process_xml_data(filename, output_directory, total_pages,retry=0,err_detail=
 
         xml_to_json(xml_file=project_output_xml_file, json_file=project_output_json_file)
 
-        err_detail = mysql_conn.insert_project(mysql_conn.session, filename=filename, parsed_xml=parsed_xml_project)
+        err_detail = mysql_conn.insert_project(mysql_conn.session, filename=filename, parsed_xml=parsed_xml_project,xmbh=xmbh)
 
         if err_detail is None:
             logger.info(f"Successfully inserted Project DB with {filename}")
         else:
             #retry
             logger.error(f"err:{err_detail},filename:{filename}")
-            return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,retry=retry+1,err_detail=err_detail)
+            return process_xml_data(filename=filename, output_directory=output_directory,
+                                    total_pages=total_pages,retry=retry+1,err_detail=err_detail,xmbh=xmbh)
 
     mysql_conn.session.close()
     return retry, err_detail
@@ -290,6 +318,26 @@ def query_neo4j():
     print(res["intermediate_steps"][-1])
 
 
+
+def success_record(pdf_path,log_file_path,filename, content):
+    utils.move_file_to_directory(pdf_path, config.BaseConfig.success_pdf_files_dir)
+    append_to_file(log_file_path,filename,content)
+
+def error_record(pdf_path,log_file_path,filename, content):
+    utils.move_file_to_directory(pdf_path, config.BaseConfig.err_pdf_files_dir)
+    append_to_file(log_file_path,filename,content)
+
+def append_to_file(file_path,filename, content):
+    """
+    Append content to the specified file using UTF-8 encoding. If the file does not exist, it will be created.
+
+    :param file_path: Path to the file
+    :param content: Content to append
+    """
+    content=f"time:{utils.get_current_time()}   filename: {filename} -> content: {content}"
+    with open(file_path, 'a', encoding='utf-8') as file:
+        file.write(content + '\n')
+
 if __name__ == '__main__':
 
     output_directory = config.BaseConfig.output_dir_base
@@ -302,14 +350,38 @@ if __name__ == '__main__':
     for filename in os.listdir(ocr.input_directory):
         if filename.lower().endswith('.pdf'):
             pdf_path = os.path.join(ocr.input_directory, filename)
+            file_size=utils.get_file_size(pdf_path)
+            if file_size < 1024 *2: # 2kB
+                logger.error(f"{filename},file size let 2k,Skip,Record ")
+                error_record(pdf_path=pdf_path,
+                             log_file_path=config.BaseConfig.download_fail_record_file,
+                             filename=filename,content="file size let 2k")
+                continue
+            # xmbh
+            xmbh = mysql_conn.get_xmbh_by_filename(filename)
+            if xmbh is not None:
+                logger.info(f"The xmbh :{xmbh} for {filename} ")
+            else:
+                logger.error(f"No xmbh found for {filename},Skip,Record ")
+                error_record(pdf_path=pdf_path,
+                             log_file_path=config.BaseConfig.download_fail_record_file,
+                             filename=filename,content="mysql no exist xmbh")
+                continue
+
             # all pages
             output_directory_new, total_pages = ocr.process_pdf_all_pages(pdf_path, output_directory)
 
-            retry,err_detail= process_xml_data(filename=filename,output_directory=output_directory_new,total_pages=total_pages)
+            retry,err_detail= process_xml_data(filename=filename,output_directory=output_directory_new,
+                                               total_pages=total_pages,err_detail=None,xmbh=xmbh)
+
             if retry > 1 and err_detail is not None:
-                utils.move_file_to_directory(pdf_path,config.BaseConfig.err_pdf_files_dir)
+                error_record(pdf_path=pdf_path,
+                             log_file_path=config.BaseConfig.download_fail_record_file,
+                             filename=filename,content=err_detail)
             else:
-                utils.move_file_to_directory(pdf_path,config.BaseConfig.success_pdf_files_dir)
+                success_record(pdf_path=pdf_path,
+                             log_file_path=config.BaseConfig.download_success_record_file,
+                             filename=filename,content='ok')
 
 
 
