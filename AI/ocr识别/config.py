@@ -29,16 +29,16 @@ class BaseConfig(object):
     cls_model_dir = os.path.join(current_directory,"whl/cls/ch_ppocr_server_v2.0_rec_infer")
     rec_model_dir = os.path.join(current_directory, "whl/rec/ch_PP-OCRv4_rec_server_infer")
     det_model_dir = os.path.join(current_directory, "whl/det/ch/ch_PP-OCRv4_det_server_infer")
+
     # on A800
     if int(use_gpu) == 1:
         openai_base = "http://127.0.0.1:9099/v1"
         cls_model_dir = os.path.join(current_directory, "whl/cls/ch_ppocr_server_v2.0_rec_infer")
         rec_model_dir = os.path.join(current_directory, "whl/rec/ch_PP-OCRv4_rec_server_infer")
         det_model_dir = os.path.join(current_directory, "whl/det/ch/ch_PP-OCRv4_det_server_infer")
-
         neo4j_uri = "bolt://127.0.0.1:7687"
-
         db_uri = f"mysql+pymysql://root:{password_encoded}@172.17.0.7:3306/testdb?charset=utf8"
+
     if int(zz) == 1:
         openai_base = "http://172.21.10.143:33390/v1"
         # openai_base = "http://120.133.63.166:9099/v1"

@@ -203,38 +203,38 @@ def process_xml_data(filename, output_directory, xmbh,total_pages,retry=0,err_de
         logger.debug(f"filename: {filename} Personnel record exist")
 
     # Project
-    if mysql_conn.is_filename_exist(mysql_conn.Report,filename) is not None:
-        #有专家  在项目信息中 不考虑 error
-        _,project_output_xml_file,project_output_json_file,_ = process_xml_insert_db(filename, output_directory=output_directory, total_pages=total_pages,
-                                                   pdf_rule=prompt_ex.Project_rule, prefix="project", retry=0)
-
-
-        #xxx 总投资额 merge to project
-        investment, unit = ocr.extraction_investment_amount_with_textfile(os.path.join(output_directory, "all.txt"))
-
-        utils.add_dict_to_xml(project_output_xml_file,data_dict={"investment_amount":investment,"investment_amount_unit":"万元"})
-        parsed_xml_project = utils.read_xml_to_dict(project_output_xml_file)
-
-
-        # 印发时间
-        report_time=ocr.extraction_report_time(os.path.join(output_directory, "all.txt"))
-        if report_time is not None:
-            utils.add_dict_to_xml(project_output_xml_file,
-                                  data_dict={"report_time": report_time})
-            parsed_xml_project = utils.read_xml_to_dict(project_output_xml_file)
-            logger.info(parsed_xml_project)
-
-        xml_to_json(xml_file=project_output_xml_file, json_file=project_output_json_file)
-
-        err_detail = mysql_conn.insert_project(mysql_conn.session, filename=filename, parsed_xml=parsed_xml_project,xmbh=xmbh)
-
-        if err_detail is None:
-            logger.info(f"Successfully inserted Project DB with {filename}")
-        else:
-            #retry
-            logger.error(f"err:{err_detail},filename:{filename}")
-            return process_xml_data(filename=filename, output_directory=output_directory,
-                                    total_pages=total_pages,retry=retry+1,err_detail=err_detail,xmbh=xmbh)
+    # if mysql_conn.is_filename_exist(mysql_conn.Report,filename) is not None:
+    #     #有专家  在项目信息中 不考虑 error
+    #     _,project_output_xml_file,project_output_json_file,_ = process_xml_insert_db(filename, output_directory=output_directory, total_pages=total_pages,
+    #                                                pdf_rule=prompt_ex.Project_rule, prefix="project", retry=0)
+    #
+    #
+    #     #xxx 总投资额 merge to project
+    #     investment, unit = ocr.extraction_investment_amount_with_textfile(os.path.join(output_directory, "all.txt"))
+    #
+    #     utils.add_dict_to_xml(project_output_xml_file,data_dict={"investment_amount":investment,"investment_amount_unit":"万元"})
+    #     parsed_xml_project = utils.read_xml_to_dict(project_output_xml_file)
+    #
+    #
+    #     # 印发时间
+    #     report_time=ocr.extraction_report_time(os.path.join(output_directory, "all.txt"))
+    #     if report_time is not None:
+    #         utils.add_dict_to_xml(project_output_xml_file,
+    #                               data_dict={"report_time": report_time})
+    #         parsed_xml_project = utils.read_xml_to_dict(project_output_xml_file)
+    #         logger.info(parsed_xml_project)
+    #
+    #     xml_to_json(xml_file=project_output_xml_file, json_file=project_output_json_file)
+    #
+    #     err_detail = mysql_conn.insert_project(mysql_conn.session, filename=filename, parsed_xml=parsed_xml_project,xmbh=xmbh)
+    #
+    #     if err_detail is None:
+    #         logger.info(f"Successfully inserted Project DB with {filename}")
+    #     else:
+    #         #retry
+    #         logger.error(f"err:{err_detail},filename:{filename}")
+    #         return process_xml_data(filename=filename, output_directory=output_directory,
+    #                                 total_pages=total_pages,retry=retry+1,err_detail=err_detail,xmbh=xmbh)
 
     mysql_conn.session.close()
     return retry, err_detail
