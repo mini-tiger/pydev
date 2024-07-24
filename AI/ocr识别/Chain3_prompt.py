@@ -102,13 +102,16 @@ def xml_to_json(xml_file, json_file):
         raise e
 
 
-def clean_xml(input_text):
-    # 检查是否包含 'AI: '
-    if 'AI: ' in input_text:
-        # 去掉所有的 'AI: '
-        cleaned_text = input_text.replace('AI: ', '')
+def clean_xml(text):
+ # 检查并提取匹配字符后的内容
+    if '：' in text:
+        result = text.split('：', 1)[1]  # 按 '：' 分割并取第二部分
+    elif ':' in text:
+        result = text.split(':', 1)[1]  # 按 ':' 分割并取第二部分
     else:
-        cleaned_text = input_text
+        result = text  # 如果不包含指定字符，则返回空字符串
+    
+    return result
 
     return cleaned_text
 def validate_xml(file_path):
@@ -149,7 +152,7 @@ def process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, pre
         if resp_context is None:
             raise Exception("llm error")
 
-        # llm 14B split
+        # llm GLM3 split
         resp_context = clean_xml(resp_context)
         logger.debug(resp_context)
 

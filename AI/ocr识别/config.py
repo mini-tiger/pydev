@@ -15,7 +15,8 @@ class BaseConfig(object):
     pdf_files_dir = os.environ.get("PDFS_DIR", os.path.join(current_directory, "pdf_files"))
     err_pdf_files_dir = os.environ.get("ERR_PDFS_DIR", os.path.join(current_directory, "err_pdf_files"))
     success_pdf_files_dir = os.environ.get("SUCCESS_PDFS_DIR", os.path.join(current_directory, "success_pdf_files"))
-
+    os.makedirs(err_pdf_files_dir, exist_ok=True)
+    os.makedirs(success_pdf_files_dir,exist_ok=True)
     ocr_kw = {}
     passwd = "passwordtest"
     password_encoded = urllib.parse.quote_plus(passwd)
@@ -40,7 +41,7 @@ class BaseConfig(object):
         db_uri = f"mysql+pymysql://root:{password_encoded}@172.17.0.7:3306/testdb?charset=utf8"
 
     if int(zz) == 1:
-        openai_base = "http://172.21.10.143:33390/v1"
+        openai_base = "http://172.21.10.143:33340/v1"
         # openai_base = "http://120.133.63.166:9099/v1"
         passwd = "vchat@QAZ"
         password_encoded = urllib.parse.quote_plus(passwd)
