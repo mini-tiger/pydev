@@ -10,7 +10,18 @@ import mysql_conn
 import ocr as ocr
 from loguru import logger
 from neo4j_conn import New_conn_neo4j, uri, username, password
+# 创建日志目录（如果不存在）
+log_dir = "logs"
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
 
+# 日志文件路径
+log_file_path = os.path.join(log_dir, "app.log")
+
+# 配置 logger
+logger.remove()  # 移除默认配置
+logger.add(sys.stdout, level="DEBUG", format="{time} {level} {file}:{line} - {message}")
+logger.add(log_file_path, level="DEBUG", format="{time} {level} {file}:{line} - {message}", rotation="10 MB")
 # sys.stdout.reconfigure(encoding='utf-8')
 '''欢迎来到LangChain实战课
 https://time.geekbang.org/column/intro/100617601
@@ -42,8 +53,11 @@ def invoke_llm(pdf_txt, cot, human_tpl):
         human_prompt = HumanMessagePromptTemplate.from_template(human_template)
 
         # 将以上所有信息结合为一个聊天提示
-        chat_prompt = ChatPromptTemplate.from_messages([system_prompt_cot, human_prompt])
+        # chat_prompt = ChatPromptTemplate.from_messages([system_prompt_cot, human_prompt])
+        chat_prompt = ChatPromptTemplate.from_messages([human_prompt])
         human_input = human_tpl.format(pdf_txt=pdf_txt)
+        human_input = cot + human_input
+        print(human_input)
         prompt = chat_prompt.format_prompt(human_input=human_input).to_messages()
         logger.debug(prompt)
         # 接收用户的询问，返回回答结果
@@ -148,6 +162,8 @@ def process_xml_insert_db(filename, output_directory, total_pages, pdf_rule, pre
                                        pdf_rule=pdf_rule)
         if len(pdf_txt) <= 2:
             raise Exception(f"{pdf_rule['pdf_page']}.txt,content len lte 2")
+        
+        pdf_txt = pdf_txt.lstrip('\n ')
         resp_context = invoke_llm(pdf_txt=pdf_txt, cot=cot, human_tpl=human_tpl)
         if resp_context is None:
             raise Exception("llm error")
@@ -190,7 +206,7 @@ def process_xml_data(filename, output_directory, xmbh,total_pages,retry=0,err_de
         if error is not None:
             err_detail = error
             retry = 2
-            logger.error(f"err:{err_detail},filename:{filename}")
+            logger.error(f"err:{err_detail},filename:{filename},current retry num:{retry}")
             return retry,err_detail
 
         err_detail = mysql_conn.insert_personnel(mysql_conn.session, filename=filename,
@@ -199,7 +215,7 @@ def process_xml_data(filename, output_directory, xmbh,total_pages,retry=0,err_de
             logger.info(f"Successfully inserted Personnel DB with {filename}")
         else:
             #retry
-            logger.error(f"err:{err_detail},filename:{filename}")
+            logger.error(f"err:{err_detail},filename:{filename},current retry num:{retry}")
             return process_xml_data(filename=filename, output_directory=output_directory, total_pages=total_pages,
                                     retry=retry+1,err_detail=err_detail,xmbh=xmbh)
     else:

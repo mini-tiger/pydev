@@ -188,7 +188,7 @@ Project_rule = {"keywords":["中国国际工程咨询有限公司文件"],
 
 
 
-Personnel_rule  = {"keywords":["评估人员名单", "咨询人员名单", "评审人员名单"],
+Personnel_rule  = {"keywords":["评估人员名单", "咨询人员名单", "评审人员名单","审查人员名单","项目人员名单"],
                    "pdf_page":"last_5",
                    "cot":personnel_cot,
                    "human_tpl":"""

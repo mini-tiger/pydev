@@ -2,7 +2,7 @@ import os, json
 from openai import OpenAI
 import urllib.parse
 class BaseConfig(object):
-    RECREATE_TABLE = os.environ.get("RECREATE_TABLE", True)
+    RECREATE_TABLE = os.environ.get("RECREATE_TABLE", False)
     NEO4J_USE = os.environ.get("NEO4J_USE",False)
 
     # RUN_TYPE = os.environ.get("RUN_TYPE", default="dev")
@@ -41,7 +41,7 @@ class BaseConfig(object):
         db_uri = f"mysql+pymysql://root:{password_encoded}@172.17.0.7:3306/testdb?charset=utf8"
 
     if int(zz) == 1:
-        openai_base = "http://172.21.10.143:33340/v1"
+        openai_base = "http://172.21.10.143:33385/v1"
         # openai_base = "http://120.133.63.166:9099/v1"
         passwd = "vchat@QAZ"
         password_encoded = urllib.parse.quote_plus(passwd)

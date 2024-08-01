@@ -10,6 +10,7 @@ from sqlalchemy import create_engine, Column, Integer, String, DateTime, func, F
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import relationship, sessionmaker
+from loguru import logger
 import pytz
 from datetime import datetime
 import config
@@ -158,7 +159,7 @@ def insert_project(session, filename, parsed_xml,xmbh):
 def role_rule_replace(role):
     if "Company Leader" in role:
         role = "公司领导"
-    if "Department Head" in role:
+    if "Department Head" in role or "Company Head" in role or "Project Head" in role:
         role = "部门负责人"
     if "Project Manager" in role:
         role = "项目经理"
@@ -175,14 +176,18 @@ def insert_personnel(session, filename, parsed_xml,xmbh):
         for section, members in parsed_xml["root"].items():
             role = section.replace("_", " ")
             role = role_rule_replace(role)
-            if isinstance(members["member"], list):
-                for member in members["member"]:
-                    new_personnel = generate_instance_with_personnel(member, role, filename,xmbh)
+            # 增加判断，确保存在'member'键
+            if "member" in members:
+                if isinstance(members["member"], list):
+                    for member in members["member"]:
+                        new_personnel = generate_instance_with_personnel(member, role, filename, xmbh)
+                        session.add(new_personnel)
+                else:
+                    member = members["member"]
+                    new_personnel = generate_instance_with_personnel(member, role, filename, xmbh)
                     session.add(new_personnel)
             else:
-                member = members["member"]
-                new_personnel = generate_instance_with_personnel(member, role, filename,xmbh)
-                session.add(new_personnel)
+                logger.warning(f"role:{role},no exist member")
         session.commit()
         return None
     except Exception as e:
@@ -206,3 +211,13 @@ session = Session()
 # session.query(Personnel).delete()
 # session.query(Report).delete()
 session.commit()
+
+if __name__ == "__main__":
+    import xmltodict
+    filename="output/研648 咨研〔_1722171396/personnel研648 咨研〔2022〕0648 中国国际工程咨询有限公司关于深圳市人才安居集团保障性租赁住房项目基础设施领域不动产投资信托基金（REITs）试点的评估报告.xml"
+    # 读取 XML 文件
+    with open(filename, 'r', encoding="utf-8") as file:
+        xml_data = file.read()
+
+    parsed_xml = xmltodict.parse(xml_data)
+    print(f"err:{insert_personnel(session, os.path.basename(filename), parsed_xml,'test_123')}")
